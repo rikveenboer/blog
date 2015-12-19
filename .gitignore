@@ -3,3 +3,6 @@
 /_site
 /asset
 /private
+/.jekyll-metadata
+/_python
+/Gemfile.lock
