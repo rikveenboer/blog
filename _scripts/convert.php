@@ -9,29 +9,14 @@ use Symfony\Component\Console\Input\InputOption;
 use Symfony\Component\Console\Output\OutputInterface;
 use Symfony\Component\Yaml\Yaml;
 
-function writeMetaYaml($sDir) {
-    $aMeta['dir'] = rtrim($sDir, '"\'/\\');
-    $aMeta['files'] = array();
-    if (file_exists($aMeta['dir'])) {
-        $aFiles = glob($aMeta['dir'] . '/*.jpg');
-        foreach ($aFiles as $sFile) {
-            $aMeta['files'][basename($sFile)] = ['title' => '', 'comment' => ''];
-        }
-    }
-    $sYaml = str_replace("''", null, Yaml::dump($aMeta, 4, 2));
-    file_put_contents($sDir . '/meta.yaml', $sYaml);
-}
-// writeMetaYaml('C:\Users\Rik\Downloads\Blog\jekyll-gallery\in');
-
 $oConsole = new Application();
- 
 $oConsole
     ->register('run')
     ->setDefinition([        
         new InputOption('export', null, InputOption::VALUE_REQUIRED | InputOption::VALUE_IS_ARRAY, 'Target image export sizes'),
         new InputOption('layout', null, InputOption::VALUE_REQUIRED, 'Rendering layout for individual images', 'gallery-photo'),
-        new InputOption('importdir', null, InputOption::VALUE_REQUIRED, 'Directory to scan for images'),
-        new InputArgument('name', null, InputArgument::REQUIRED, 'Gallery name'),
+        new InputArgument('name', InputArgument::REQUIRED, 'Gallery name'),
+        new InputArgument('dir', InputArgument::REQUIRED, 'Directory to scan for images'),
         new InputArgument('assetdir', InputArgument::OPTIONAL, 'Asset directory for exported images', 'asset/gallery'),
         new InputArgument('mdowndir', InputArgument::OPTIONAL, 'Markdown directory for dumping individual photo details', 'gallery'),
     ])
@@ -45,9 +30,9 @@ $oConsole
         function (InputInterface $oInput, OutputInterface $oOutput) {
             // Get input arguments and options
             $sGallery = $oInput->getArgument('name');
+            $sDir = realpath(rtrim($oInput->getArgument('dir'), '/\\'));
             $sAssetPath = $oInput->getArgument('assetdir') . '/' . $sGallery;
-            $sRenderPath = $oInput->getArgument('mdowndir') . '/' . $sGallery;
-            $sImportDir = $oInput->getOption('importdir');
+            $sRenderPath = $oInput->getArgument('mdowndir') . '/' . $sGallery;    
             $sLayout = $oInput->getOption('layout');
             $sExports = $oInput->getOption('export');
 
@@ -60,37 +45,35 @@ $oConsole
             if (!is_dir($sRenderPath)) {
                 mkdir($sRenderPath, 0700, true);
             }
-
-            if (isset($sImportDir)) {
-                // Use provided directory
-                $sImportDir = rtrim($oInput->getOption('importdir'), '/\\');
-            } else {
-                // Get directory and metadata from yaml
-                $sStdin = stream_get_contents(STDIN);
-                $aYaml = Yaml::parse($sStdin);
-                $sImportDir = rtrim($aYaml['dir'], '"\'/\\');
-                $aMeta = $aYaml['files'];
-                if (!isset($aYaml['all'])) {
-                    $aFiles = array_keys($aYaml['files']);
-                }
-            }
-            $sImportDir = realpath($sImportDir);
-            if (!is_dir($sImportDir)) {                
+            
+            // Check directory and presence of YAML file
+            if (!is_dir($sDir)) {                
                 $oOutput->writeln('<error>Import directory does not exist</error>');
                 exit;
             }
-
-            // Scan import directory for images
-            if (!isset($aFiles)) {
-                $aFiles = array_map('basename', glob($sImportDir . '/*.jpg'));
+            $sYamlFile = sprintf('%s/meta.yaml', $sDir);
+            if (!file_exists($sYamlFile)) {                
+                $oOutput->writeln('<error>No meta.yaml in directory</error>');
+                exit;
             }
 
+            // Parse YAML file
+            $aYaml = Yaml::parse(file_get_contents($sYamlFile));
+            if (!isset($aYaml['gallery']) || !isset($aYaml['files'])) {
+                $oOutput->writeln('<error>Invalid YAML file</error>');
+                exit;
+            }
+            $aGallery = $aYaml['gallery'];
+            $aMeta = $aYaml['files'];
+            $aFiles = array_keys($aYaml['files']);
+
             // Loop over files
+            $sHighlight = null;
             $aPhotos = [];
             foreach ($aFiles as $i => $sFile) {
                 // Build photo information
                 $aPhoto = [
-                    'path' => $sImportDir . '/' . $sFile,
+                    'path' => $sDir . '/' . $sFile,
                     'ordering' => $i,
                     'name' => isset($aMeta[$sFile]['name']) ? $aMeta[$sFile]['name'] : null,
                     'comment' => isset($aMeta[$sFile]['comment']) ? $aMeta[$sFile]['comment'] : null
@@ -102,6 +85,11 @@ $oConsole
                     $aPhoto['id'] .= '-' . preg_replace('/(-| )+/', '-', preg_replace('/[^a-z0-9 ]/i', '-', preg_replace('/\'/', '', strtolower(preg_replace('/\p{Mn}/u', '', Normalizer::normalize($aPhoto['title'], Normalizer::FORM_KD))))));
                 }
 
+                // Check if photo is highlighted
+                if (empty($sHighlight) && isset($aMeta[$sFile]['highlight'])) {
+                    $sHighlight = $aPhoto['id'];
+                }
+
                 // Parse selected EXIF data
                 $aPhoto['exif'] = exif_read_data($aPhoto['path']);
                 if (isset($aPhoto['exif']['GPSLongitude'])) {
@@ -110,6 +98,8 @@ $oConsole
                         'latitude' => coordinateToDegrees($aPhoto['exif']['GPSLatitude'], $aPhoto['exif']['GPSLatitudeRef']),
                         'altitude' => fractionToFloat($aPhoto['exif']['GPSAltitude']),
                         'direction' => fractionToFloat($aPhoto['exif']['GPSImgDirection'])]);
+                    $aLongitude[] = $aPhoto['longitude'];
+                    $aLatitude[] = $aPhoto['latitude'];
                 }
                 $aPhoto['date'] = new DateTime($aPhoto['exif']['DateTimeOriginal']);
                 $aPhotos[] = $aPhoto;
@@ -121,7 +111,7 @@ $oConsole
                 $aPhoto['sizes'] = [];
 
                 // Image exports
-                if (0 < count($sExports)) {
+                if (false || 0 < count($sExports)) {
                     $oSourceJpg = $oImagine->open($aPhoto['path']);
                     if (isset($aPhoto['exif']['Orientation'])) {
                         switch ($aPhoto['exif']['Orientation']) {
@@ -182,7 +172,6 @@ $oConsole
                         }
 
                         $sExportsize = $sExportImage->getSize();
-
                         $aPhoto['sizes'][$sExport] = [
                             'width' => $sExportsize->getWidth(),
                             'height' => $sExportsize->getHeight(),
@@ -210,6 +199,10 @@ $oConsole
                     'date' => $aPhoto['date']->format('Y-m-d H:i:s'),
                     'ordering' => $aPhoto['ordering']
                 ];
+                
+                // Keep track of album dates
+                $oDate = $i > 0 ? min($oDate, $aPhoto['date']) : $aPhoto['date'];
+                $oEndDate = $i > 0 ? max($oEndDate, $aPhoto['date']) : $aPhoto['date'];
 
                 if (isset($aPhoto['exif']['Make'])) {
                     $aMatter['exif'] = [
@@ -247,18 +240,87 @@ $oConsole
                         $iSurfaceB = $aB['width'] * $aB['height'];
                         return $iSurfaceA == $iSurfaceB
                             ? 0
-                            : (($iSurfaceA > $iSurfaceB)? -1 : 1);
+                            : (($iSurfaceA > $iSurfaceB) ? -1 : 1);
                     }
                 );
 
-            // Write Markdown file
+            // Write photo Markdown file
             file_put_contents(
                 $sRenderPath . '/' . $aPhoto['id'] . '.md',
-                '---' . "\n" . Yaml::dump($aMatter, 4, 2) . '---' . "\n" . ((!empty($aPhoto['comment'])) ? ($aPhoto['comment'] . "\n") : '')
+                '---' . "\n" . yamlDump($aMatter) . '---' . "\n" . (empty($aPhoto['comment']) ? '' : $aPhoto['comment'] . "\n")
             );
-
-            $oOutput->writeln('    done');
+            $oOutput->writeln(' done');
         }
+        
+        // Write slideshow
+        $bSlideshow = isset($aGallery['slideshow']) ? $aGallery['slideshow'] : true;
+        if ($bSlideshow) {
+            $oOutput->write('<comment>slideshow</comment>');
+            $aMatter = [
+                'layout' => 'gallery-slideshow',
+                'title' => empty($aGallery['title']) ? '' : $aGallery['title']
+            ];
+            file_put_contents(
+                $sRenderPath . '/slideshow.html',
+                '---' . "\n" . yamlDump($aMatter) . '---' . "\n"
+            );
+            $oOutput->writeln(' done');
+        }
+
+        // Write map
+        $bMap = count($aLongitude) > 0 && (isset($aGallery['map']) ? $aGallery['map'] : true);
+        if ($bMap) {
+            $oOutput->write('<comment>map</comment>');
+            $aMatter = [
+                'layout' => 'gallery-map',
+                'title' => empty($aGallery['title']) ? '' : $aGallery['title'],
+                'gallery_map' => [
+                    'latitude' => array_sum($aLatitude) / count($aLatitude),
+                    'longitude' => array_sum($aLongitude) / count($aLongitude),
+                    'zoom' => 8
+                ]
+            ];
+            file_put_contents(
+                $sRenderPath . '/map.html',
+                '---' . "\n" . yamlDump($aMatter) . '---' . "\n"
+            );
+            $oOutput->writeln(' done');
+        }
+        
+        // Write gallery index
+        $oOutput->write('<comment>index</comment>');
+        $aLinks = [];
+        if ($bSlideshow) {
+            $aLinks[] = '<a href="slideshow.html">[ slideshow ]</a>';
+        }
+        if ($bMap) {
+            $aLinks[] = '<a href="map.html">[ map ]</a>';
+        }
+        $aMatter = [
+            'layout' => 'gallery-list',
+            'title' => empty($aGallery['title']) ? '' : $aGallery['title'],
+            'highlight_photo' => empty($sHighlight) ? $aPhotos[0]['id'] : $sHighlight,
+            'date' => $oDate->format('Y-m-d')
+        ];
+        if ($oDate->diff($oEndDate)->d > 0) {
+            $aMatter['end_date'] = $oEndDate->format('Y-m-d');
+        }
+
+        $sContents = sprintf(
+<<<EOF
+<div itemprop="description">
+    <p>%s</p>
+    %s
+</div>
+{%% include gallery_list.html gallery='%s' %%}
+EOF
+        , (empty($aGallery['description']) ? '' : $aGallery['description']), implode('&middot;', $aLinks), $sGallery);
+        file_put_contents(
+            $sRenderPath . '/index.html',
+            '---' . "\n" . yamlDump($aMatter) . '---' . "\n" . $sContents
+        );
+        $oOutput->writeln(' done');
+        
     }
 );
 
@@ -292,4 +354,8 @@ function fractionToFloat($sFraction) {
             ? floatval($aParts[0]) / floatval($aParts[1])
             : $aParts[0])
         : 0;
+}
+
+function yamlDump($aData) {
+    return str_replace("'", null, Yaml::dump($aData, 4, 2));
 }
