@@ -23,21 +23,6 @@ function writeMetaYaml($sDir) {
 }
 // writeMetaYaml('C:\Users\Rik\Downloads\Blog\jekyll-gallery\in');
 
-
-// $sTest = <<<TEST
-// dir: C:\Users\Rik\Downloads\Blog\jekyll-gallery\in\*
-// files:
-    // IMG_20151211_152349.jpg:
-        // comment:
-    // IMG_20151211_15234329.jpg:
-        // name: A Classic View
-        // title: Anders
-        // comment: |
-            // bla
-            // da
-// TEST;
-// print_r(Yaml::parse($sTest));
-// exit;
 $oConsole = new Application();
  
 $oConsole
