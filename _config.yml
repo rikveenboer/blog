@@ -1,7 +1,9 @@
-absolute: http://localhost:4000
+absolute: http://localhost
+baseurl: jekyll
 title: Rik @ St Andrews
 author: Rik Veenboer
 email: rik.veenboer@gmail.com
+github: https://github.com/boukefalos
 disqus: boukefalos
 analytics: UA-46375339-1
 gems: [jekyll-paginate]
@@ -12,8 +14,8 @@ safe: false
 environment: dev
 artifact_commit: dev
 artifact_branch: master
-asset_prefix: /asset
-static_prefix: /static/dev
+asset_prefix: /jekyll/asset
+static_prefix: /jekyll/static/dev
 exclude:
 - LICENSE
 - README

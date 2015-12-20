@@ -9,7 +9,7 @@
         <link href="{{ site.static_prefix }}/style/default-common.css" rel="stylesheet" type="text/css" />
         <link href="{{ site.static_prefix }}/style/default-print.css" media="print" rel="stylesheet" type="text/css" />
         <link href="{{ site.static_prefix }}/style/pygments.css" rel="stylesheet" type="text/css" />
-        <link href="{{ site.absolute }}/blog/atom.xml" type="application/atom+xml" rel="alternate" title="{{ site.title }}" />
+        <link href="/{{ site.baseurl }}/blog/atom.xml" type="application/atom+xml" rel="alternate" title="{{ site.title }}" />
 
         {% if page.description %}
             <meta name="description" content="{{ page.description }}" />
@@ -21,7 +21,7 @@
 
         <meta name="viewport" content="width=756" />
 
-        <link href="{{ site.absolute }}{{ page.url|replace:'/index.html','/' }}" rel="canonical" />
+        <link href="{{ site.absolute }}/{{ site.baseurl }}{{ page.url|replace:'/index.html','/' }}" rel="canonical" />
 
         <meta property="og:title" content="{% if page.title == 'Home' %}{{ site.title }}{% else %}{{ page.title }}{% endif %}" />
         <meta property="og:url" content="{{ site.baseurl }}{% if page.url != '/index.html' %}{{ page.url }}{% endif %}?utm_campaign=ref&amp;utm_medium=def&amp;utm_source=opengraph" />
@@ -42,11 +42,11 @@
             </div-->
             <ul class="screen-only">
                 {% if 'dev' == site.environment %}
-                    <li><a href="{{ site.baseurl }}/private/">private</a></li>
+                    <li><a href="/{{ site.baseurl }}/private/">private</a></li>
                 {% endif %}
-                <li><a href="{{ site.baseurl }}/blog/">blog</a></li>
-                <li><a href="{{ site.baseurl }}/gallery/">gallery</a></li>
-                <li><a href="{{ site.baseurl }}/about.html">about</a></li>
+                <li><a href="/{{ site.baseurl }}/blog/">blog</a></li>
+                <li><a href="/{{ site.baseurl }}/gallery/">gallery</a></li>
+                <li><a href="/{{ site.baseurl }}/about.html">about</a></li>
             </ul>
             {% if page.print_blurb %}
                 <ul class="print-only">
@@ -54,15 +54,12 @@
                 </ul>
             {% endif %}
             <div class="site-title">
-                <strong><a href="/">{{ site.title }}</a></strong>
+                <strong><a href="/{{ site.baseurl }}/">{{ site.title }}</a></strong>
             </div>
             <div class="meta screen-only">
-                <a href="https://github.com/boukefalos">github</a>
+                <a href="{{ site.github }}">github</a>
                 &middot;
                 <a href="mailto:{{ site.email }}">email</a>
-            </div>
-            <div class="meta print-only">
-                <a href="{{ site.baseurl }}/" style="color:inherit;">{{ site.baseurl }}</a>
             </div>
         </header>
         <article>

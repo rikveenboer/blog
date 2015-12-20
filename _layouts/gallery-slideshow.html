@@ -3,7 +3,7 @@
   <head>
     <title>{{ page.title }}</title>
     
-    <script src="//ajax.googleapis.com/ajax/libs/mootools/1.5.1/mootools-yui-compressed.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/mootools/1.5.1/mootools-yui-compressed.js"></script>
     
     <!-- Core CSS file -->
     <link rel="stylesheet" href="{{ site.static_prefix }}/photo-swipe/photoswipe.css"> 
@@ -139,34 +139,33 @@
                 PhotoSwipeUI_Default,
                 slides,
                 {
-                  index : index,
-    		        	mainClass : 'pswp--minimal--dark',
-    			        barsSize : {
-                    top: 0,
-                    bottom: 0
-                  },
-    							captionEl : false,
-    							shareEl : false,
-    							bgOpacity : 0.85,
-    							tapToClose : true,
-    							tapToToggleControls : false,
-                  history : false,
-                  getThumbBoundsFn : function (index) {
-                    var imgsize = slides[index].mdom.getAttribute('data-size').split('x');
-                    var coord = slides[index].mdom.getCoordinates(true);
-                
-                    return {
-                      x : coord.left,
-                      y : coord.top,
-                      w : coord.width
-                    };
-                  },
-                  showHideOpacity: true
+                    index : index,
+                    mainClass : 'pswp--minimal--dark',
+                    barsSize : {
+                        top: 0,
+                        bottom: 0
+                    },
+                    captionEl : false,
+                    shareEl : false,
+                    bgOpacity : 0.85,
+                    tapToClose : true,
+                    tapToToggleControls : false,
+                    history : false,
+                    getThumbBoundsFn : function (index) {
+                        var imgsize = slides[index].mdom.getAttribute('data-size').split('x');
+                        var coord = slides[index].mdom.getCoordinates(true);
+                        return {
+                            x : coord.left,
+                            y : coord.top,
+                            w : coord.width
+                        };
+                    },
+                    showHideOpacity: true
                 }
               );
-              pswp.init();
+                pswp.init();
             } else {
-              pswp.goTo(index);
+                pswp.goTo(index);
             }
           }
 
