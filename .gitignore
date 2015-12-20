@@ -1,9 +1,12 @@
 /_build/target
-/_layouts/private-*
 /_site
 /asset
 /private
 /.jekyll-metadata
 /_python
 /Gemfile.lock
-/.sass-cache
+/vendor
+/composer.lock
+/composer.phar
+/asset
+/gallery
