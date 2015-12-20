@@ -1,4 +1,6 @@
-{% include header.html %}
+---
+layout: "post"
+---
 <section itemscope itemtype="http://schema.org/Photograph">
     <header>
         <div class="timeline">
@@ -8,28 +10,22 @@
             {% if page.location %}
                 <a href="https://maps.google.com/maps?hl=en&amp;ll={{ page.location.latitude }},{{ page.location.longitude }}&amp;t=w&amp;z=12"><img alt="map" height="49" src="https://maps.googleapis.com/maps/api/staticmap?center={{ page.location.latitude }},{{ page.location.longitude }}&amp;zoom=9&amp;size=98x98&amp;sensor=false" title="{{ page.location.title }}" width="49" /></a>
             {% endif %}
-            {% if page.code %}
-                <a href="{{ page.code }}"><img alt="code" height="49" src="/include/icons/code.png" width="49" /></a>
-            {% endif %}
         </div>
         <ul style="margin-top:0;">
             {% if page.previous %}
-                <li><a href="{{ page.previous }}.html" rel="prev">&nbsp;&larr;&nbsp;</a></li>
+                <li><a href="/{{ site.baseurl }}{{ page.previous }}.html" rel="prev">&nbsp;&larr;&nbsp;</a></li>
             {% else %}
                 <li><span class="noanchor">&nbsp;&larr;&nbsp;</span></li>
             {% endif %}
 
             {% if page.next %}
-                <li><a href="{{ page.next }}.html" rel="next">&nbsp;&rarr;&nbsp;</a></li>
+                <li><a href="/{{ site.baseurl }}{{ page.next }}.html" rel="next">&nbsp;&rarr;&nbsp;</a></li>
             {% else %}
                 <li><span class="noanchor">&nbsp;&rarr;&nbsp;</span></li>
             {% endif %}
         </ul>
         <h1>
             <span itemprop="name">{{ page.title }}</span>
-            {% if page.date %}
-                <small class="print-only">{{ page.date|date:'%A, %B %d, %Y' }}</small>
-            {% endif %}
         </h1>
     </header>
     <section class="post-content">
@@ -98,13 +94,13 @@
         <div class="meta-navigate screen-only">
             {% if page.next %}
                 <div style="float:right;">
-                    <a href="{{ page.next }}.html" rel="next">Next Photo &raquo;</a>
+                    <a href="/{{ site.baseurl }}{{ page.next }}.html" rel="next">Next Photo &raquo;</a>
                 </div>
             {% endif %}
 
             {% if page.previous %}
                 <div style="float:left;">
-                    <a href="{{ page.previous }}.html" rel="prev">&laquo; Previous</a>
+                    <a href="/{{ site.baseurl }}{{ page.previous }}.html" rel="prev">&laquo; Previous</a>
                 </div>
             {% endif %}
 
@@ -119,6 +115,4 @@
             <div class="g-plusone" data-size="medium" data-width="300"></div>
         </div>
     </div>
-    {% include disqus.html %}
 </section>
-{% include footer.html %}

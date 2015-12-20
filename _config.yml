@@ -15,7 +15,7 @@ environment: dev
 artifact_commit: dev
 artifact_branch: master
 asset_prefix: /jekyll/asset
-static_prefix: /jekyll/static/dev
+static_prefix: /jekyll/static
 exclude:
 - LICENSE
 - README

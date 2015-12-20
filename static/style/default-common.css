@@ -52,10 +52,10 @@ body > header {
     width: 654px;
 }
 
-body > header .meta {
-    margin-bottom: 0;
-    margin-top: 0;
-}
+    body > header .meta {
+        margin-bottom: 0;
+        margin-top: 0;
+    }
 
 header ul {
     float: right;
@@ -63,30 +63,30 @@ header ul {
     margin: 7px 0 0;
 }
 
-header ul li {
-    display: inline-block;
-}
+    header ul li {
+        display: inline-block;
+    }
 
-header ul li a {
-    border-radius: 2px;
-    color: #CF5406;
-    display: block;
-    margin-left: 6px;
-    padding: 1px 5px 2px 5px;
-    text-decoration: none;
-}
+        header ul li a {
+            border-radius: 2px;
+            color: #CF5406;
+            display: block;
+            margin-left: 6px;
+            padding: 1px 5px 2px 5px;
+            text-decoration: none;
+        }
 
-header ul li a:hover {
-    background-color: #CF5406;
-    color: #FFFFFF;
-}
+        header ul li a:hover {
+            background-color: #CF5406;
+            color: #FFFFFF;
+        }
 
-header ul li .noanchor {
-    color: #CCCCCC;
-    display: block;
-    margin-left: 6px;
-    padding: 1px 5px 2px 5px;
-}
+        header ul li .noanchor {
+            color: #CCCCCC;
+            display: block;
+            margin-left: 6px;
+            padding: 1px 5px 2px 5px;
+        }
 
 .meta {
     color: #333333;
@@ -140,11 +140,11 @@ h1 {
     padding: 1px 0;
 }
 
-h1 small {
-    display: block;
-    font-size: 12px;
-    font-weight: normal;
-}
+    h1 small {
+        display: block;
+        font-size: 12px;
+        font-weight: normal;
+    }
 
 h2 {
     border-bottom: #DEDEDE solid 1px;
@@ -176,11 +176,11 @@ section .timeline > * {
     margin-bottom: 4px;
 }
 
-    body.layout-post section .timeline > *,
-    body.layout-gallery-photo section .timeline > *,
-    section:hover .timeline > * {
-        opacity: 1;
-    }
+body.layout-post section .timeline > *,
+body.layout-gallery-photo section .timeline > *,
+section:hover .timeline > * {
+    opacity: 1;
+}
 
 article.layout-post section {
     padding-bottom: 12px;
@@ -349,3 +349,25 @@ blockquote {
     .list-gallery img:hover {
         border: #999999 solid 1px !important;
     }
+
+.caption {
+    border: 1px solid #ddd;
+    text-align: center;
+    background-color: #f3f3f3;
+    padding-top: 4px;
+    margin: 10px;
+    -moz-border-radius: 3px;
+    -khtml-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+}
+
+.caption img {
+    border: 0;
+}
+
+.aligncenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

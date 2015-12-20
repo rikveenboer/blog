@@ -1,0 +1,4 @@
+{% capture path %}gallery/{{ include.gallery }}{% endcapture %}
+<div style="line-height:0; padding:4px 0 0 1px;">
+  {% loopdir path:path match:"*.md" sort:"ordering" %}<a href="/{{ site.baseurl }}/{{ item.fullname }}.html" style="display: inline-block; margin: 3px; text-decoration: none;"><img alt="Photo: {{ item.title }}" height="48" src="{{ site.asset_prefix }}/{{ item.fullname }}~96x96.jpg" title="{{ item.title }}" width="48" style="padding: 1px;" /></a>{% endloopdir %}
+</div>
