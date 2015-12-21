@@ -7,7 +7,8 @@ guid: http://csbnw.no-ip.org:38/?p=2102
 categories:
   - Uncategorized
 ---
-Na een onverwacht maar toch aangenaam bezoek aan <a href="http://csbnw.no-ip.org:38/?p=2103" title="Genève">Genève</a> kwam ik weer terug in Nederland voor kerst, oud/nieuw jaar en Nederlandse gezelligheid. Dat begon gelijk al toen ik werd opgehaald vanuit Rotterdam en direct werd getrakteerd op een diner bij een bekend restaurant langs de weg.
+-
+Na een onverwacht maar toch aangenaam bezoek aan [Genève](http://csbnw.no-ip.org:38/?p=2103 "Genève") kwam ik weer terug in Nederland voor kerst, oud/nieuw jaar en Nederlandse gezelligheid. Dat begon gelijk al toen ik werd opgehaald vanuit Rotterdam en direct werd getrakteerd op een diner bij een bekend restaurant langs de weg.
 
 Gedurende de vakantie hebben we talloze activiteiten ondernomen waarvan ik er een aantal zal uitlichten.
 

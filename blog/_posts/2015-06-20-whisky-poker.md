@@ -6,16 +6,17 @@ layout: post
 guid: http://csbnw.no-ip.org:38/?post_type=ai1ec_event&#038;p=2347
 ai1ec_banner_image: null
 ---
-Nu het semester is afgelopen, zijn ook de georganiseerde whisky tastings afgelopen. Omdat ik en enkele anderen whisky nog steeds erg lekker vinden, vonden we het tijd om zelf weer een tasting te organiseren. We waren deze keer met z'n vieren bij mij thuis, met Nederlanders Frank en Michiel en Engelsman Stefan. Net als <a href="/?ai1ec_event=special-whisky-tasting">vorige keer</a> verzorgden we allen een (of meerdere) whiskies. Het resultaat was een fraaie diversiteit, waaronder een aantal oude bekenden zoals de gesherriede Blair Athol en de GlenDronach:
+-
+Nu het semester is afgelopen, zijn ook de georganiseerde whisky tastings afgelopen. Omdat ik en enkele anderen whisky nog steeds erg lekker vinden, vonden we het tijd om zelf weer een tasting te organiseren. We waren deze keer met z'n vieren bij mij thuis, met Nederlanders Frank en Michiel en Engelsman Stefan. Net als [vorige keer](/?ai1ec_event=special-whisky-tasting) verzorgden we allen een (of meerdere) whiskies. Het resultaat was een fraaie diversiteit, waaronder een aantal oude bekenden zoals de gesherriede Blair Athol en de GlenDronach:
 
 <ul>
-    <li><a href="https://www.masterofmalt.com/whiskies/balvenie/balvenie-12-year-old-doublewood-whisky/">Balvenie (12 year, 40%)</a></li>
-    <li><a href="https://www.masterofmalt.com/whiskies/glenburgie/glenburgie-18-year-old-19995-casks-6477-6448-signatory-whisky/">Glenburgie (18 year, 43%)</a></li>
-    <li><a href="https://www.masterofmalt.com/whiskies/benriach-16-year-old-sauternes-finish-whisky/">BenRiach Sauternes Finish (16 year, 46%)</a></li>
-    <li><a href="https://www.masterofmalt.com/whiskies/blair-athol/blair-athol-15-year-old-1998-cask-10342-old-particular-douglas-laing-whisky/">Blair Athol (15 year, 48%)</a></li>
-    <li><a href="https://www.masterofmalt.com/whiskies/ardmore-traditional-whisky/">Ardmore Traditional (46%)</a></li>
-    <li><a href="https://www.masterofmalt.com/whiskies/glendronach-21-year-old-parliament-whisky/">GlenDronach (21 year, 48%)</a></li>
-    <li><a href="https://www.masterofmalt.com/whiskies/springbank/springbank-12-year-old-calvados-wood-finish-whisky/">Springbank Calvados Wood Finish (12 year, 53%)</a></li>
+    <li>[Balvenie (12 year, 40%)](https://www.masterofmalt.com/whiskies/balvenie/balvenie-12-year-old-doublewood-whisky/)</li>
+    <li>[Glenburgie (18 year, 43%)](https://www.masterofmalt.com/whiskies/glenburgie/glenburgie-18-year-old-19995-casks-6477-6448-signatory-whisky/)</li>
+    <li>[BenRiach Sauternes Finish (16 year, 46%)](https://www.masterofmalt.com/whiskies/benriach-16-year-old-sauternes-finish-whisky/)</li>
+    <li>[Blair Athol (15 year, 48%)](https://www.masterofmalt.com/whiskies/blair-athol/blair-athol-15-year-old-1998-cask-10342-old-particular-douglas-laing-whisky/)</li>
+    <li>[Ardmore Traditional (46%)](https://www.masterofmalt.com/whiskies/ardmore-traditional-whisky/)</li>
+    <li>[GlenDronach (21 year, 48%)](https://www.masterofmalt.com/whiskies/glendronach-21-year-old-parliament-whisky/)</li>
+    <li>[Springbank Calvados Wood Finish (12 year, 53%)](https://www.masterofmalt.com/whiskies/springbank/springbank-12-year-old-calvados-wood-finish-whisky/)</li>
 </ul>
 
 [caption align="aligncenter" width="420"]<img src="/wp-content/gallery/whisky-poker/11401566_10155724426675597_6932590850520958164_n.jpg" width="400" /> De whisky line-up[/caption]

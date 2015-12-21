@@ -5,7 +5,8 @@ author: Rik
 layout: post
 guid: /?post_type=ai1ec_event&#038;p=566&#038;instance_id=
 ---
-De meest uitgebreide tasting dtot nu toe, met maar liefst zeven whiskies van drie verschillende distilleerderijen. Allen behorend tot de <a href="http://www.morrisonbowmore.co.uk/">Morrison Bowmore Distillers</a>:
+-
+De meest uitgebreide tasting dtot nu toe, met maar liefst zeven whiskies van drie verschillende distilleerderijen. Allen behorend tot de [Morrison Bowmore Distillers](http://www.morrisonbowmore.co.uk/):
 <ul>
 	<li>Auchentoshan (12 year)</li>
 	<li>Auchentoshan: Three Wood</li>
@@ -20,7 +21,7 @@ De presentatie werd verzorgt door een echte liefhebber die verhalen over de acht
 
 [nggallery id=42]
 
-Het is nog maar een maand geleden dat we in <a href="/?ai1ec_event=whisky-tasting-2&instance_id=" title="Whisky tasting">de vorige whisky tasting</a> Auchentoshan Virgin Oak te proeven kregen. Door nu ook de "standaard" versie te proberen konden we goed vergelijken. Deze whisky was niet erg bijzonder, maar zeer drinkbaar. Meer de moeite waard is de Three Wood, die ik zeker als dessertwhisky zou aanprijzen. De Valinch is een variant gerijpt in nieuwe vaten zodat zich een intense smaak opbouwt. Dit type whisky is niet helemaal aan mij besteed en het was bijna een verademing om over te stappen op de producten van Glen Garioch. Hoewel niet heel erg opvallend zijn dit toch zeer aangename whiskies.
+Het is nog maar een maand geleden dat we in [de vorige whisky tasting](/?ai1ec_event=whisky-tasting-2&instance_id= "Whisky tasting") Auchentoshan Virgin Oak te proeven kregen. Door nu ook de "standaard" versie te proberen konden we goed vergelijken. Deze whisky was niet erg bijzonder, maar zeer drinkbaar. Meer de moeite waard is de Three Wood, die ik zeker als dessertwhisky zou aanprijzen. De Valinch is een variant gerijpt in nieuwe vaten zodat zich een intense smaak opbouwt. Dit type whisky is niet helemaal aan mij besteed en het was bijna een verademing om over te stappen op de producten van Glen Garioch. Hoewel niet heel erg opvallend zijn dit toch zeer aangename whiskies.
 
 Vanwege de sterke smaak is het een gewoonte om de rokerige whiskies als laatste te proeven. Deze twee varianten wisten mij zeer te plezieren: de Darkest vanwege de smaak en de Tempest Batch 4 vanwege de geur. Ik zou eens noeten proberen om een (goedkopere geblende) whiskie als geurkaars te gebruiken! Ik besef me dat ik nog niet heb uitgeweid over het mondgevoel van verschillende whiskies. Daarin zijn er behoorlijke verschillen en daar zal ik me een volgende keer meer op concentreren.
 

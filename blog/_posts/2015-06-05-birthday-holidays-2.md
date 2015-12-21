@@ -7,7 +7,8 @@ guid: http://csbnw.no-ip.org:38/?p=2326
 categories:
   - Uncategorized
 ---
-Net als <a href="/?p=1019" title="Birthday holidays">vorig jaar</a> ben ik eind mei weer naar Nederland geweest om daar mijn (en Brams) verjaardag te vieren. Op de valreep besloten we dat ik niet van donderdagavond to zondagavond zou blijven, maar zelfs tot woensdagavond: zes hele dagen joy!
+-
+Net als [vorig jaar](/?p=1019 "Birthday holidays") ben ik eind mei weer naar Nederland geweest om daar mijn (en Brams) verjaardag te vieren. Op de valreep besloten we dat ik niet van donderdagavond to zondagavond zou blijven, maar zelfs tot woensdagavond: zes hele dagen joy!
 
 Donderdagavond op Schiphol aangekomen werd ik door Bram opgehaald voor de gezinsreunie in Uitgeest. We hebben natuurlijk wel steeds contact gehouden, maar het was toch al bijna een half jaar dat ik daar niet meer was geweest! Uiteraard stond dit garant voor een vreugdevol welkomst-tafereel met heerlijk gebak.
 

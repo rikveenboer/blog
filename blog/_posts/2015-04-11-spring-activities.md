@@ -7,13 +7,14 @@ guid: http://csbnw.no-ip.org:38/?p=2194
 categories:
   - Uncategorized
 ---
+-
 Het voorjaar is al behoorlijk op dreef in mijn Schotse verblijfplaats. Met het recente verzetten van de klok is er gedurende de hele dag volop daglicht en ook het weer gedraagt zich toepasselijk. Niet alle bloemen en planten zijn er even vroeg bij, maar het is duidelijk dat deze boom er zin in heeft:
 
 [caption align="aligncenter" width="420"]<img src="/wp-content/gallery/St%20Andrews/IMG_20150411_142931.jpg" width="400" /> Bomen in de knop[/caption]
 
 Hoewel het nu wel lichtelijk jammer is om binnen in een laboratorium te werken, is er voldoende gelegenheid om buiten te vertoeven. De afgelopen week hebben we voor de eerste keer dit jaar buiten (aan een picknicktafel) geluncht. Ook heb ik op twee avonden na het werk rondes van zo'n 10 kilometer hardgelopen. Dit zijn fijne verademingen na de hele winter in relatief donkere kou te hebben doorgebracht.
 
-Op de <a href="https://www.facebook.com/standrewsbotanicgarden?fref=ts">facebook-pagina</a> van de botanische tuin in St Andrews verschijnen deze dagen steeds foto's van fraaie groeisels. Recentelijk is het toegangstarief voor (PhD) studenten afgeschaft, dus niets stond mij vandaag in de weg om ook zelfs eens een kijkje te nemen. Vooral de rhododendrons vierden hoogtijdagen, maar ook de rest van de tuinen (diverse thema's) en de zeer diverse planten in de kassen (met klimaatbeheersing) mogen er zijn. Een aanrader is ook het volgen van het nieuwe Gruffalo-pad. Ik had geluk en ben Gruffalo ook zelf tegen gekomen. Bekijk een impressie van mijn bezoek:
+Op de [facebook-pagina](https://www.facebook.com/standrewsbotanicgarden?fref=ts) van de botanische tuin in St Andrews verschijnen deze dagen steeds foto's van fraaie groeisels. Recentelijk is het toegangstarief voor (PhD) studenten afgeschaft, dus niets stond mij vandaag in de weg om ook zelfs eens een kijkje te nemen. Vooral de rhododendrons vierden hoogtijdagen, maar ook de rest van de tuinen (diverse thema's) en de zeer diverse planten in de kassen (met klimaatbeheersing) mogen er zijn. Een aanrader is ook het volgen van het nieuwe Gruffalo-pad. Ik had geluk en ben Gruffalo ook zelf tegen gekomen. Bekijk een impressie van mijn bezoek:
 
 [nggallery id=72]
 
