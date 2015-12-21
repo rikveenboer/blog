@@ -4,11 +4,8 @@ title: Lazy Friday
 author: Rik
 layout: post
 guid: http://csbnw.no-ip.org:38/?p=2181
-categories:
   - Uncategorized
 ---
--
--
 De astronomische lente begint eigenlijk pas laat op de vrijdagavond, maar omdat het deze vrijdag kennelijk ook de [internationale dag van de blijheid](http://www.dayofhappiness.net/) is, zijn we daar op het werk vast op vooruitgelopen. Want van werken kwam vandaag weinig terecht! Gelukkig was de professor er vandaag niet...
 
 De eerste twee uur van de dag (8.30-10.30) besteden we aan het bewonderen van de zonsverduistering. Daartoe gingen we naar het naburige Natuurkunde gebouw, waar veel mensen zich verdrongen voor diverse telescopen, camera's en reflectieopstellingen. De mensen waren vriendelijk en we mochten uiteraard zelf ook een kijkje nemen. Helaas had ik geen speciale filterende bril gekocht, maar een kijkje door een geleend exemplaar bood toch een spectaculaire indruk. Ook hebben we inventief een "gaatjescamera" gemaakt van een stuk karton, dus we hebben de verduiserting op allerlei manier ervaren. Een paar foto's:

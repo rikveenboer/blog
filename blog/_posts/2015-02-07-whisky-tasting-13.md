@@ -5,10 +5,6 @@ author: Rik
 layout: post
 guid: http://csbnw.no-ip.org:38/?post_type=ai1ec_event&#038;p=2137&#038;instance_id=
 ---
--
--
--
--
 Nu het tweede semester van het collegejaar 2014/2015 op de universiteit is begonnen, gaan de normale dingen weer van start. Zo ook de langverwachte tweewekelijkse whisky tastings.
 
 Zeer toepasselijk na ons bezoek van vorige week aan de [Aberfeldy distilleerderij][1] werd deze tasting gepresenteerd door de overkoepelende Dewar's group. Als ik het goed heb begrepen zwaait deze organisatie de scepter over diverse distilleerderijen, maar is deze op zijn beurt in handen van Bacardi. Dit maakt het geheel op het oog een verwarrende constructie. Zeker als er ook nog een soort consortium van vijf distilleerderijen is: [last great malts][2]. Het loont zeker de moeite om de video op de website te bekijken.

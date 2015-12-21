@@ -5,8 +5,6 @@ author: Rik
 layout: post
 guid: http://csbnw.no-ip.org:38/?post_type=ai1ec_event&#038;p=2287&#038;instance_id=
 ---
--
--
 Sinds ik afgelopen september [lid ben geworden van het universitair sportcentrum](?p=1249) ben ik aanzienlijk meer gaan sporten:  sportschool, atletiek (sprint) en hardlopen. Dat laatste gaat prima op eigen houtje, maar ook de rondes met de Cross Country Club zijn leuk en uitdagend.
 
 Vandaag heb ik met deze club meegedaan aan een groots georganiseerde 10 kilometer: Round the Houses in het dorpje Grangemouth (gelegen tussen Stirling en Edinburgh). Ik had Italiaanse collega Danila ook overgehaald om mee te doen, dit alles in het kader van de halve marathon die we in Juli zullen lopen. Deze officiële wedstrijd liepen we met een tijdsregistratie-chip, dus nu zou onomstotelijk vast komen te liggen of ik al op voldoende niveau was.

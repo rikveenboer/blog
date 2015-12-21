@@ -5,8 +5,6 @@ author: Rik
 layout: post
 guid: http://csbnw.no-ip.org:38/?post_type=ai1ec_event&#038;p=2159&#038;instance_id=
 ---
--
--
 Vanavond werd de whisky tasting gepresenteerd door Glenmorangie. We werden getrakteerd op de standaard editie, drie edities uit wijn/sherry/port vaten en een nieuwe editie:
 
   * [Original][1] (10 year, 40%, Â£31

@@ -4,12 +4,8 @@ title: Bezoek Angela
 author: Rik
 layout: post
 guid: http://csbnw.no-ip.org:38/?p=2131
-categories:
   - Uncategorized
 ---
--
--
--
 Angela en Peeter doen in Stockholm aan korfbal, maar helaas is de sport daar niet zo populair als in Nederland. Het was een erg goed idee om aan een toernooi in Edinburgh mee te doen, want zo hadden ze gelijk gelegenheid om bij mij op bezoek te komen.
 
 Maandagavond kwamen ze aan in St Andrews, maar helaas had overleg met m'n professor het schema in de war gegooid. Nadat ik m'n werk had afgerond had ik op deze manier wel direct gelegenheid om een kleine rondleiding door het lab en de School of Chemistry te geven. Hierna zijn we naar mijn huis gegaan om gezellig te dineren en bij te praten.

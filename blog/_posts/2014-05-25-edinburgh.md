@@ -5,9 +5,6 @@ author: Rik
 layout: post
 guid: /?post_type=ai1ec_event&#038;p=981&#038;instance_id=
 ---
--
--
--
 Vandaag ben ik met Franse collega's Alan en Hubert naar Edinburgh geweest. Mijn [vorige]({% post_link 2013-12-08-visit-school-of-chemistry %} "Visit School of Chemistry") bezoek aan Edinburgh beviel me goed en het was leuk om er opnieuw te zijn. Het weer was niet fantastisch, behoorlijk koud met af en toe een beetje motregen. Gelukkig geeft me dat wel gelegenheid om het Schotse woord voor dergelijke weersomstandigheden te introduceren: Dreich.
 
 Na een redelijk lange busreis van zo'n twee uur, hebben we allereerst het kasteel bovenaan de Royal Mile bezocht. Zonder toegang te betalen of een tour te boeken is er maar een klein stukje toegangeklijk, maar dat is genoeg om een fatsoenlijke indruk van deze imposante vesting te krijgen. Vlakbij is de [Scotch Whisky Experience](http://www.scotchwhiskyexperience.co.uk/) gevestigd. Hoewel het nog vroeg was (10:30) vonden we het prima om onszelf hier te trakteren op een [dram whisky](http://www.whiskyintelligence.com/2012/09/why-is-a-dram-of-whisky-called-a-dram-scotch-whisky-conundrum/) bij de bar in het bijbehorende [Amber Restaurant](http://www.amber-restaurant.co.uk/amber_whisky_bar.php). Het was nog best lastig kiezen uit het enorme aanbod, maar de rokerige Tomatin (12 jaar) en Bowmore (12 jaar) bevielen ons goed. De oplettende lezer weet dat we tijdens een [whisky tasting](?ai1ec_event=whisky-tasting-4&instance_id= "Whisky tasting") al eens speciale edities van de Bowmore hebben geproefd en dit was een uitgelezen kans om de basiseditie te proberen. Geïnspireerd door deze alcoholische versnapering hebben we iets verderop het prachtige Middeleeuwse gebouw van de [School of Divinity](http://www.ed.ac.uk/schools-departments/divinity/) (Theologie) bekeken.

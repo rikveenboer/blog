@@ -5,7 +5,6 @@ author: Rik
 layout: post
 guid: http://csbnw.no-ip.org:38/?post_type=ai1ec_event&#038;p=2110&#038;instance_id=
 ---
--
 Om de laatste zondag voor de kerstvakantie in stijl door te brengen ben ik met twee Italiaanse en een Duitse collega naar de kerstmarkt in Edinburgh gegaan. Het is altijd leuk om door het fraaie Edinburgh te lopen, maar de kerstsfeer doet daar nog een schepje bovenop.
 
 Op het St Andrews Square was een markt waar voornamelijk eten werd verkocht. Interessanter was de erg grote markt tussen Princess Street en het park dat de oude en nieuwe delen van Edinburgh scheidt. Hier was voor ieder wel iets leuks en iets lekkers te vinden. Met het dalen van de temperatuur leek de prijs te zijn gestegen en een leuk kerstcadeau was helaas vrijwel onbetaalbaar.

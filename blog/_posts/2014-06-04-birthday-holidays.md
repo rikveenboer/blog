@@ -4,12 +4,8 @@ title: Birthday Holidays
 author: Rik
 layout: post
 guid: /?p=1019
-categories:
   - Uncategorized
 ---
--
--
--
 Na de [kerstvakantie][1] ben ik al vijf maanden niet in Nederland geweest! Ook voor Pasen bleef ik binnen het Verenigd Koninkrijk en (de week ervoor) heb ik met Bram en Sanne Londen [bezocht][2]. Voor onze verjaardag was het extra feestelijk om naar Uitgeest te gaan en van die gelegenheid heb ik een soort mini-vakantie gemaakt: van donderdagavond tot maandagmiddag. Het is nog wel een vreemd idee (binnestebuiten) dat naar Nederland gaan nu vakantie is.
 
 Bram was al eerder (Hemelvaart is in Nederland wel een vrije dag) naar Uitgeest gekomen en mijn aankomst op Schiphol maakte ons vijftal weer compleet. Met de nieuwe auto waren we spoedig bij de Herderin en daar wachten nog meer verniewingen: de garagedeur en een aangepaste slaapkamerindeling. Naar fijn gebruik werden Bram en ik al op de vooravond van onze verjaardag verrast met fantastische cadeau's en enjoyspullen (originele Nederlandse waren). Al helemaal een beetje moe van al deze feestelijkheden was het prima slapen in mijn oude bed.

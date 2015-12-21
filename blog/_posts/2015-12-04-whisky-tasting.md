@@ -4,13 +4,8 @@ title: Whisky Tasting
 author: Rik
 layout: post
 guid: http://csbnw.no-ip.org:38/?p=3221
-categories:
   - Uncategorized
 ---
--
--
--
--
 Nu de Spaanse lessen zijn afgelopen zijn de donderdagavonden weer vrij voor andere activiteiten. In princiepe is er elke donderdag training (hardlopen, intervallen) en tijdens een groot deel van het jaar om de week een whisky tasting. Deze avond was de laatste tasting van het seizoen, dus daar moest ik heen!
 
 Met een aantal collega's hebben we eerst een avondmaal Indisch gegeten, deze keer van [Tulsi](http://www.tripadvisor.co.uk/Restaurant_Review-g186533-d7933367-Reviews-Tulsi-St_Andrews_Fife_Scotland.html), lekker hoor.

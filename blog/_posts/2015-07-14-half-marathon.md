@@ -7,9 +7,6 @@ guid: http://csbnw.no-ip.org:38/?post_type=ai1ec_event&#038;p=2582
 ai1ec_banner_image: null
 dsq_thread_id: null
 ---
--
--
--
 Na maanden van training en investering in geavanceerde hardlooprusting (trail schoenen, polar horloge, nieuw shirt) was het vandaag de grootse dag van de Half DRAM: de halve marathon in Dundee!
 
 We waren vanaf het begin voornemens om met een team van vijf mee te doen. Tijdens de voorbereidingen hadden nog enkele fanatiekelingen zich aangesloten, maar op de valreep besloten die toch dat 21.1 kilometer een stapje te ver was. Vanwege een blessure moest een origineel teamlid helaas al weken voor de wedstrijd afhaken, en helaas zegde ook zijn plaatsvervanger op het laatste moment af. Zo kon het gebeuren dat we met een team van vier overbleven: twee Italianen, een Fransman en mijzelf.

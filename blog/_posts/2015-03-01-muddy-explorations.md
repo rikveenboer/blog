@@ -4,12 +4,8 @@ title: Muddy Explorations
 author: Rik
 layout: post
 guid: http://csbnw.no-ip.org:38/?p=2153
-categories:
   - Uncategorized
 ---
--
--
--
 Na mijn avontuurlijke hardloopavontuur van [vorige week][1], had ik ook vandaag zin om al hardlopend op verkenning te gaan. Terwijl het weer vorige week behoorlijk slecht was, was het nu overwegend zonnig met harde wind. Ik had dan ook niet verwacht onderweg zoveel modder tegen te komen!
 
 Mijn bedoeling was om nu de gemiste afslag van vorige week in te slaan, maar ook nu liep het anders. In plaats van met exact hetzelfde stuk te beginnen, besloot ik een pad langs de Cairnsmill Burn te volgen. Het is me een raadsel waarom, maar het was flink aanmodderen. Gelukkig was het laatste stuk richting Mount Melville beter begaanbaar en het was opnieuw een leuk stuk door het bos de heuvel op.

@@ -4,10 +4,8 @@ title: Summer Holidays
 author: Rik
 layout: post
 guid: /?p=1197
-categories:
   - Uncategorized
 ---
--
 Deze zomer heb ik een lange week (11 dagen) vakantie genomen om terug te gaan naar Nederland. Dit gaf genoeg tijd om talloze leuke dingen te doen en zo houd ik nog vakantiedagen over om door Schotland te reizen.
 
 De donderdag van vertrek was bijna op het uur gepland. Professor Nolan wilde graag een concept van mijn onderzoeksartikel zien alvorens ik vertrok, maar op het laatste moment moest ik daar nog wijzigingen in maken. Toen dat gelukt was kon mijn drieluiksreis beginnen: auto, bus en vliegtuig. Onderweg regende het enorm, dus ik hoopte vast dat het weer in Nederland lekker zonnig zou zijn. Volgens onze fantastische planning kwam Bram vannuit Lhee langs Schiphol om mij op te halen.

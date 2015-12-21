@@ -4,11 +4,8 @@ title: Half Marathon
 author: Rik
 layout: post
 guid: http://csbnw.no-ip.org:38/?p=2147
-categories:
   - Uncategorized
 ---
--
--
 Met diverse collega's hebben we ons al doel gesteld om op 12 juli de [Dundee Half Marathon][1] te lopen. Diverse trainingsschema's raden me aan om zo'n vier maanden van tevoren te beginnen met trainen, maar om niet al te lui te worden probeer ik continu sportief bezig te blijven.
 
 Na een drukke week en een vullend [international dinner][2] was het deze zondag tijd om erop uit te gaan. Helaas was het behoorlijk grauw weer, in tegenstelling tot de zon van zaterdag. In plaats van met de cross country club mee te lopen, besloot ik zelf een route uit te stippelen. Ik had op de kaart een iets langere ronde gezien die me langs diverse plekken zou voeren waar ik nog niet eerder was geweest.

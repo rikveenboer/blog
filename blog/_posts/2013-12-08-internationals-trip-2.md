@@ -5,7 +5,6 @@ author: Rik
 layout: post
 guid: http://csbnw.no-ip.org:38/?post_type=ai1ec_event&#038;p=342&#038;instance_id=
 ---
--
 Naast CafÃ© 360 organiseren een aantal afgevaardigen van de verschillende kerken in St Andrews ook trips voor internationale studenten. Ik ben meegegaan met de trip naar Striling die bestond uit:
 <ul>
 	<li>een bezoek aan het National Wallace Monument</li>

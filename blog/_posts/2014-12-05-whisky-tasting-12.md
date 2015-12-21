@@ -5,8 +5,6 @@ author: Rik
 layout: post
 guid: http://csbnw.no-ip.org:38/?post_type=ai1ec_event&#038;p=2113&#038;instance_id=
 ---
--
--
 Deze merkwaardige tasting werd verzorgd door [Compass Box][1], compleet met opmerkelijke presentator. Allereerst de geproefde whiskies, allen voorzien van opvallende namen:
 
   * [Hedonism][2]

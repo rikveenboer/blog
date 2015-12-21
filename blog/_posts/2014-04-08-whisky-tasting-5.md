@@ -5,8 +5,6 @@ author: Rik
 layout: post
 guid: /?post_type=ai1ec_event&#038;p=713&#038;instance_id=
 ---
--
--
 Deze tasting stond in het teken van een recent geopende distileerderij op Islay: [Kilchoman](http://kilchomandistillery.com/).
 
 <ul>

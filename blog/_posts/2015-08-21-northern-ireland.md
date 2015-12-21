@@ -4,11 +4,8 @@ title: Northern Ireland
 author: Rik
 layout: post
 guid: http://csbnw.no-ip.org:38/?p=2854
-categories:
   - Uncategorized
 ---
--
--
 Omdat ik geen vakantiedagen wilde opnemen had ik een strakke planning gemaakt: op zaterdagochtend heen vliegen om 7 uur en op maandagochtend terug vliegen om 8 uur. Op die manier zou ik zaterdag voor 10 uur in Belfast zijn en maandag om 11 uur weer op mijn werk, een knap staaltje tijd optimalisatie? Het nadeel was natuurlijk erg vroeg opstaan!
 
 Belfast is een redelijk compacte en moderne stad die ook een behoorlijk aantal meer klassieke gebouwen huisvest. Gedurende de dag hebben we vrijwel alle toeristische attracties bezocht, te beginnen met de gezellige St George's Market. Daarna zijn we voor het overzicht naar het centraal gelegen panorama uitzicht platform bij Victoria Square gegaan. Vanaf hier waren vele andere bestemmingen zichtbaar.

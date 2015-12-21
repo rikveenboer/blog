@@ -5,7 +5,6 @@ author: Rik
 layout: post
 guid: http://csbnw.no-ip.org:38/?post_type=ai1ec_event&#038;p=344&#038;instance_id=
 ---
--
 Toen ik werd uitgenoedigd om de School of Chemistry te bezoeken, was het hoofddoel natuurlijk het ontmoeten van verschillende professoren en hun onderzoeksgroepen en het bekijken van de beschikbare faciliteiten. Maar dit serieuze doel weerhield mij er niet van om er een heuse trip van te maken.
 
 De reis per trein van Edinburgh Airport naar St Andrews maakte onmiddelijk duidelijk hoe mooi het Schotse landschap is:

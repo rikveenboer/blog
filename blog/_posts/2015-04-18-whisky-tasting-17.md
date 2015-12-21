@@ -5,9 +5,6 @@ author: Rik
 layout: post
 guid: http://csbnw.no-ip.org:38/?post_type=ai1ec_event&#038;p=2312&#038;instance_id=
 ---
--
--
--
 Vanavond was de laatste whisky tasting van het seizoen en het mag gerust een fantastische finale genoemd worden! Op het programma stonden maar liefst zeven whiskies van drie distilleerderijen:
 
   * BenRiach (Speyside) 

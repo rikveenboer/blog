@@ -5,8 +5,6 @@ author: Rik
 layout: post
 guid: /?post_type=ai1ec_event&#038;p=715&#038;instance_id=
 ---
--
--
 Na een dag op jacht naar een auto (daarover later meer) en wat kleren kopen bij de [TKmax](http://www.tkmaxx.com/) in Dundee is het goed neerploffen in de bioscoop! Deze keer hebben we een nieuwe actiefilm bekeken:
 
 {% include caption.html

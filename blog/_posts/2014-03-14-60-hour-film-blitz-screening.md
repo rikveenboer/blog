@@ -5,7 +5,6 @@ author: Rik
 layout: post
 guid: /?post_type=ai1ec_event&#038;p=649&#038;instance_id=
 ---
--
 
 De titel vraagt om uitleg: de [Film Blitz][1] is een zestig uur durende competitie waarin deelnemers een film van drie minuten produceren. Deze zestig uur was gepland van donderdag tot zaterdagnacht in de [afgelopen week][2]. De screening is de grootste vertoning waarin de winnaar bekend wordt gemaakt.
 

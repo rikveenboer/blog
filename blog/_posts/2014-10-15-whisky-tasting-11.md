@@ -5,8 +5,6 @@ author: Rik
 layout: post
 guid: /?post_type=ai1ec_event&#038;p=1928&#038;instance_id=
 ---
--
--
 Deze whisky tasting werd gepresenteerd door de overkopelende "Inver House Distillers". Op het programma stonden diverse whiskies van anCnoc:
 
   * anCnoc (12yo)
