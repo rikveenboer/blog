@@ -8,6 +8,7 @@ ai1ec_banner_image: null
 ---
 -
 -
+-
 Het was weer tijd voor een vervolg op de [vorige zelfgeorganiseerde whisky tasting][1]!
 
 We beginnen een soort routine te ontwikkelen bestaande uit dineren, whisky drinken en poker spelen. Zoals eerder aangekondigd ben ik voornemens om niet langer uit te wijden over alle gedronken whiskies. In plaats daarvan ben ik van plan om mijn whisky-ervaringen op een andere manier in detail te etaleren. Zodra dat meer vaste vormen aanneemt zal ik het uiteraard laten weten.
@@ -18,4 +19,4 @@ Hierna hebben we het poker aangevangen en zijn we weer overgestapt op whisky. Va
 
 Het duurt nog zo'n maand tot de officiele whisky tastings worden hervat, misschien moesten we daarvoor nog maar eens zo'n gezellig avondje organiseren.
 
- [1]: http://csbnw.no-ip.org:38/?ai1ec_event=whisky-poker "Whisky & Poker"
+ [1]: http://csbnw.no-ip.org:38{% post_link 2015-06-20-whisky-poker %} "Whisky & Poker"

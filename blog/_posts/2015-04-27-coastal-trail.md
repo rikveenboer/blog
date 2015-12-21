@@ -8,6 +8,7 @@ ai1ec_banner_image: null
 ---
 -
 -
+-
 Nu het weer steeds beter is, is het telkens aantrekkelijker om er hardlopend op uit te gaan. Om gerichter te kunnen trainen heb ik mijzelf een [Polar M400][1] GPS/hartslag sporthorloge cadeau gedaan. Natuurlijk is het daarnaast ook nog eens erg leuk speelgoed.
 
 Het is duidelijk dan ik me al bijna jarig voel, want ik heb ook nieuwe hardloopschoenen aangeschaft. Geen normale schoenen voor op de verharde weg, maar speciale stevige trail schoenen, met extra grip: [Saucony Excursion TR8][2]. Let op dat Saucony word gespeld als whisky, zonder ey, top!
@@ -22,5 +23,4 @@ Al met al was het een ware onderneming, die gelukkig zonder problemen is vastgel
 
  [1]: http://www.polar.com/uk-en/products/improve_fitness/running_multisport/m400
  [2]: http://www.wiggle.co.uk/saucony-excursion-tr-8-shoes-ss15
- [3]: /?ai1ec_event=coastal-path
- [4]: https://flow.polar.com/training/analysis/80640811
+ [3]: {% post_link 2015-12-06-coastal-path %} [4]: https://flow.polar.com/training/analysis/80640811

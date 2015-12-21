@@ -9,6 +9,7 @@ categories:
 ---
 -
 -
+-
 Na alweer twee maanden in Schotland was het tijd voor kerstvakantie! Wat was het leuk om op [Schiphol][1] door Bram en Sanne opgehaald te worden in Brams eigen auto. Tijdens de twee weken in Nederland gevuld met feestelijkheden hebben we diverse activiteiten ondernomen. Tijdens een rit langs Uitgeestse weilanden met laagstaande zon was de gelijkenis met het begrasde Schotse heuvelland onmiskenbaar, beiden erg fraai! Een trip naar de pier in Wijk aan Zee met storm leek een hachelijke onderneming, maar was zeker de moeite waard. Hoewel de pier in St Andrews een touristische attractie is, valt zijn formaat toch in het niet vergeleken bij deze aan de andere kant van de Noordzee. Tijdens een sportieve ronde hardlopen door het duin kon ik nog even genieten van dat soort landschap. Hogere duinen en meer bos dan in de buurt van St Andrews, maar de heuvels (kruisberg lijkt een overdreven naam) vallen dan toch wat tegen.
 
 Wat zeker niet onvermeld mag blijven is dat we nu cadeau's onder (naast) de kerstboom deden in plaats van met Sinterklaas. Om het niet op zijn beloop te laten hebben we al voor kerstavond uitgepakt. Dat bleek een verstandige keuze, want zo konden we een paar dagen extra genieten van de deunen van Black Slate. Hoewel alle geschenken zeer geslaagd zijn, is mijn nieuwe stormparaplu duidelijk het hoogtepunt. Samen met nieuwe schoenen ben ik voorbereid op al het Schotse weer!
@@ -23,5 +24,5 @@ Een vakantie vol gevarieerde bezigheden dus! Naar goed gebruik hebben we erg vee
 
 Nu terug in [Schotland][2] begint het op het werk ook al weer een beetje te wennen. Ik houd jullie op de hoogte!
 
- [1]: /?ai1ec_event=flight-edinburgh-amsterdam&instance_id= "Flight Edinburgh â Amsterdam"
- [2]: /?ai1ec_event=flight-amsterdam-edinburgh&instance_id= "Flight Amsterdam â Edinburgh"
+ [1]: {% post_link 2013-12-07-flight-edinburgh-amsterdam %} "Flight Edinburgh â Amsterdam"
+ [2]: {% post_link 2013-12-08-flight-amsterdam-edinburgh %} "Flight Amsterdam â Edinburgh"

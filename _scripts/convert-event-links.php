@@ -11,15 +11,7 @@ if (!is_dir($sNewDir)) {
 $aPosts = [];
 foreach (glob('blog/_posts/*.md') as $sFile) {
     $sBasename = basename($sFile, '.md');
-
-    $sContents = file_get_contents($sFile);
-    $aContents = explode("\n", $sContents);
-    $aParts = explode('--', implode("\n", array_slice($aContents, 1)));
-    $aYaml = Yaml::parse(trim(str_replace("  - \n", null, current($aParts))));
-
-    if (isset($aYaml['id'])) {
-        $aPosts[$aYaml['id']] = $sBasename;
-    }
+    $aPosts[implode('-', array_slice(explode('-', $sBasename), 3))] = $sBasename;
 }
 
 foreach (glob('blog/_posts/*.md') as $sFile) {
@@ -33,19 +25,19 @@ foreach (glob('blog/_posts/*.md') as $sFile) {
     $aYaml = Yaml::parse(trim(str_replace("  - \n", null, current($aParts))));
     
     $sContents = end($aParts);
-    if (!preg_match_all('~/\?p=([\d]+)~', $sContents, $aMatches, PREG_SET_ORDER)) {
+    if (!preg_match_all('~/\?ai1ec_event=([\w\d-]+)(?:[^ ")]*)~', $sContents, $aMatches, PREG_SET_ORDER)) {
         echo "    no local urls found\n";
         continue;
     }
 
     foreach ($aMatches as $aMatch) {
-        $iId = $aMatch[1];
-        if (isset($aPosts[$iId])) {
-            $sPost = $aPosts[$iId];
-            printf("    substituting id (%d) with: %s\n", $iId, $sPost);
+        $sName = $aMatch[1];
+        if (isset($aPosts[$sName])) {
+            $sPost = $aPosts[$sName];
+            printf("    substituting name (%s) with: %s\n", $sName, $sPost);
             $sContents = str_replace($aMatch[0], sprintf('{%% post_link %s %%}', $sPost), $sContents);
         } else {
-            printf("    unknown id: %d\n", $iId);
+            printf("    unknown name: %s\n", $sName);
         }
     }
 

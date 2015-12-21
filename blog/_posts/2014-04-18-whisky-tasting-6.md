@@ -7,6 +7,7 @@ guid: /?post_type=ai1ec_event&#038;p=721&#038;instance_id=
 ---
 -
 -
+-
 Voor deze tasting hebben we een burger gegeten bij [Rascals Bar][1], een prima plaats om een bodem te leggen!
 
 De tasting werd verzorgd door Gordon & MacPhail. Deze onafhankelijke bottelaar is gehuisvest vlakbij Elgin in Speyside, de "whiskyhoofdstreek" van Schotland. Dit bedrijf runt ook de [Benromach][2] distilleerderij en daarvan kregen we zes whiskies te proeven:
@@ -28,4 +29,4 @@ Zoals gebruikelijk wordt de meest rokerige whisky als laatste geproefd omdat die
 
  [1]: http://www.tripadvisor.co.uk/Restaurant_Review-g186533-d2637486-Reviews-Rascals_Bar_St_Andrews-St_Andrews_Fife_Scotland.html
  [2]: http://www.benromach.com/
- [3]: /?ai1ec_event=whisky-tasting-5&instance_id= "Whisky tasting"
+ [3]: {% post_link 2014-04-08-whisky-tasting-5 %} "Whisky tasting"

@@ -9,6 +9,7 @@ categories:
 ---
 -
 -
+-
 Angela en Peeter doen in Stockholm aan korfbal, maar helaas is de sport daar niet zo populair als in Nederland. Het was een erg goed idee om aan een toernooi in Edinburgh mee te doen, want zo hadden ze gelijk gelegenheid om bij mij op bezoek te komen.
 
 Maandagavond kwamen ze aan in St Andrews, maar helaas had overleg met m'n professor het schema in de war gegooid. Nadat ik m'n werk had afgerond had ik op deze manier wel direct gelegenheid om een kleine rondleiding door het lab en de School of Chemistry te geven. Hierna zijn we naar mijn huis gegaan om gezellig te dineren en bij te praten.
@@ -28,5 +29,5 @@ Donderdag zijn Angela en Peeter met de bus gaan touren bij de aan zee gelegen do
 
 Op vrijdagochtend zat het er al weer op en hebben Angela en Peeter hun lange reis Stockholm-waarts ingezet. Het was erg gezellig!
 
- [1]: http://csbnw.no-ip.org:38/?ai1ec_event=internationals-trip&instance_id= "Internationals trip"
+ [1]: http://csbnw.no-ip.org:38{% post_link 2014-02-08-internationals-trip %} "Internationals trip"
  [2]: http://www.imdb.com/title/tt2788710/

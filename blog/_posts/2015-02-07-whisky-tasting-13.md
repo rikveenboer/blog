@@ -8,6 +8,7 @@ guid: http://csbnw.no-ip.org:38/?post_type=ai1ec_event&#038;p=2137&#038;instance
 -
 -
 -
+-
 Nu het tweede semester van het collegejaar 2014/2015 op de universiteit is begonnen, gaan de normale dingen weer van start. Zo ook de langverwachte tweewekelijkse whisky tastings.
 
 Zeer toepasselijk na ons bezoek van vorige week aan de [Aberfeldy distilleerderij][1] werd deze tasting gepresenteerd door de overkoepelende Dewar's group. Als ik het goed heb begrepen zwaait deze organisatie de scepter over diverse distilleerderijen, maar is deze op zijn beurt in handen van Bacardi. Dit maakt het geheel op het oog een verwarrende constructie. Zeker als er ook nog een soort consortium van vijf distilleerderijen is: [last great malts][2]. Het loont zeker de moeite om de video op de website te bekijken.
@@ -46,5 +47,4 @@ Na de hoofd-tasting kregen we nog de kans om de twee Dewar's blends te proeven: 
  [7]: https://www.masterofmalt.com/whiskies/craigellachie/craigellachie-13-year-old-whisky/
  [8]: https://www.thewhiskyexchange.com/P-26056.aspx
  [9]: http://www.whiskybase.com/whisky/58005/23-year-old
- [10]: http://csbnw.no-ip.org:38/?ai1ec_event=whisky-tasting-11
- [11]: https://www.masterofmalt.com/whiskies/dewars-blended-scotch-whisky/
+ [10]: http://csbnw.no-ip.org:38{% post_link 2014-10-15-whisky-tasting-11 %} [11]: https://www.masterofmalt.com/whiskies/dewars-blended-scotch-whisky/

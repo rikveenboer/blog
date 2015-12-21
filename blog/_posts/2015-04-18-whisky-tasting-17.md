@@ -7,6 +7,7 @@ guid: http://csbnw.no-ip.org:38/?post_type=ai1ec_event&#038;p=2312&#038;instance
 ---
 -
 -
+-
 Vanavond was de laatste whisky tasting van het seizoen en het mag gerust een fantastische finale genoemd worden! Op het programma stonden maar liefst zeven whiskies van drie distilleerderijen:
 
   * BenRiach (Speyside) 
@@ -51,8 +52,6 @@ Om af te sluiten, ik heb besloten te stoppen met het telkens zo uitgebreid rappo
  [7]: https://www.thewhiskyexchange.com/P-23948.aspx
  [8]: http://www.whiskyshopusa.com/benriach-21-year-old-authenticus-peated/
  [9]: https://www.masterofmalt.com/whiskies/benriach-12-year-old-whisky/
- [10]: /?ai1ec_event=whisky-tasting-13
- [11]: /?ai1ec_event=whisky-tasting-16
- [12]: https://www.masterofmalt.com/whiskies/glendronach-21-year-old-parliament-whisky/
+ [10]: {% post_link 2015-02-07-whisky-tasting-13 %} [11]: {% post_link 2015-04-03-whisky-tasting-16 %} [12]: https://www.masterofmalt.com/whiskies/glendronach-21-year-old-parliament-whisky/
  [13]: http://www.kingsbarnsdistillery.com/
- [14]: /?ai1ec_event=special-whisky-tasting&instance_id=338
+ [14]: {% post_link 2015-03-28-special-whisky-tasting %}

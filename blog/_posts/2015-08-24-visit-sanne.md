@@ -10,6 +10,7 @@ categories:
 -
 -
 -
+-
 Sanne heeft deze zomer een prachtig lang weekend (donderdag tot en met maandag) uitgezocht om mij in Schotland te bezoeken. Het was erg gezellig om samen op pad te gaan. We hebben eigenlijk zo veel leuke dingen gedaan en bezocht dat ik mezelf ook op vakantie waande! Lees het verslag van dag tot dag:
 
 <strong>Donderdag</strong> Nadat ze woensdagavond in Edinburgh aan kwam is Sanne het grootste deel van donderdag op verkenning in deze Schotse hoofdstad geweest. Aan het einde van de middag vertrok ze met de trein richting Leuchars, het station nabij St Andrews. Door onze perfecte timing kon ik haar precies na het werk afhalen om thuis aangekomen een simpel doch vertrouwd lekker maal pannekoeken te koken. We hadden nog wat daglicht over, dus we hebben een rondje door het dorp gereden om Sanne vast wat aanknopingspunten voor de volgende dag te geven. Geloof het of niet, maar we durfden het zelfs aan om Sanne een stukje te laten rijden! Eenmaal terug onthulde Sanne haar koffer vol gulle gaven uit Nederland. De topstukken zijn onbetwist het verduisterende gordijn voor mijn kamer en een heerlijke zelfgebakken gevulde boterkoek.
@@ -34,7 +35,7 @@ Na het laatste stuk terug naar St Andrews waren we wel aan een lui hapje eten to
 
 [nggallery id=93]
 
-De volgende stop was bij het naburige Anstruther. Het concept van dit vissersdorp is hetzelfde: coastal path, haven en grappige huizen. Ook hier hebben we lekker rondgelopen en van het weer genoten op de pier. Het was wel oppassen geblazen, want de redelijke harde wind stuwde de opkomende vloed bijna over ondergetekende heen. Helemaal in de zee/vissers stemming (ook getuige mijn T-shirt) hebben we gelunchd met fish&chips van de beroemde [Fish Bar](http://www.anstrutherfishbar.co.uk/). Zo leek dit bezoek wel op dat van [vorig jaar](http://csbnw.no-ip.org:38/?ai1ec_event=anstruther "Anstruther"), maar van mij betreft mag dit op het standaard programma van ieder Schotland bezoek!
+De volgende stop was bij het naburige Anstruther. Het concept van dit vissersdorp is hetzelfde: coastal path, haven en grappige huizen. Ook hier hebben we lekker rondgelopen en van het weer genoten op de pier. Het was wel oppassen geblazen, want de redelijke harde wind stuwde de opkomende vloed bijna over ondergetekende heen. Helemaal in de zee/vissers stemming (ook getuige mijn T-shirt) hebben we gelunchd met fish&chips van de beroemde [Fish Bar](http://www.anstrutherfishbar.co.uk/). Zo leek dit bezoek wel op dat van [vorig jaar](http://csbnw.no-ip.org:38{% post_link 2014-05-23-anstruther %} "Anstruther"), maar van mij betreft mag dit op het standaard programma van ieder Schotland bezoek!
 
 [nggallery id=94]
 
