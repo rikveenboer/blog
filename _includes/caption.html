@@ -1,4 +1,4 @@
 <div style="width: {{ include.width }}px;" class="caption">
     <img src="{{ include.image }}" {% if include.image-width %}width="{{ include.image-width }}" {% endif %}/>
-    <p>{{ include.text }}</p>
+    <p>{{ include.text|markdownify }}</p>
 </div>

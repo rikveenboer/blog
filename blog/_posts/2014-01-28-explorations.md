@@ -23,6 +23,10 @@ Na verschillende pogingen is het gelukt om een oude fiets van mijn huisbaas te r
 
 Met een kast vol lekkernijen leek niets mij meer in de weg te staan van een verkenningstocht op de fiets. Alleen het weer zit soms tegen: Schotse winter is net Nederlandse herfst. Tijdens een paar uur goed weer ben ik op advies van een collega naar [Strathkinness](/?ai1ec_event=strathkinness&instance_id= "Strathkinness") gefietst.
 
-[caption align="aligncenter" width="300"]<a href="wp-content/gallery/Strathkinness/IMG_20140125_144611.jpg"><img src="wp-content/gallery/Strathkinness/IMG_20140125_144611.jpg" /></a> Hollandse joy in een Schots lansschap (goed kijken!).[/caption]
+{% include caption.html
+    width='300'
+    image='wp-content/gallery/Strathkinness/IMG_20140125_144611.jpg' 
+    text='Hollandse joy in een Schots lansschap (goed kijken!)'
+%}
 
 Het succes van deze verkenning smaakt naar meer en ik hoop binnekort nog vele andere bestemmingen aan te doen. Wellicht neem ik volgende keer wel een bus naar één van de wat verder gelegen dorpen in [Fife](/?page_id=348 "Map"). Maar allereerst zullen we met collega's [Glasgow](/?ai1ec_event=glasgow&instance_id= "Glasgow") gaan verkennen.

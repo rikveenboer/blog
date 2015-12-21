@@ -30,6 +30,10 @@ Nog een feitje: het maakt voor het rijpen van whisky niet uit of het vat horizon
 
 Na de verschillende smakelijk whiskies en de goede uitleg was er zoals gebruikelijk de loterij aan het einde van de avond. Geloof het of niet, maar ik ben er met de hoofprijs van door gegaan! Ik heb een fantastische fles 19 jaar oude [Glen Keith](http://www.maltmadness.com/whisky/glen-keith.html) "cask strengh" whisky gewonnen.
 
-[caption align="aligncenter" width="300"]<img src="https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xap1/v/t1.0-9/10411025_1547389645497486_6179201900580587165_n.jpg?oh=b98721350e473fe7137b79bef9e466b2&oe=54AAAB68&__gda__=1421845329_63f4b786ff1abdc903cd072d8da2db3c" /> [Glen Keith (19 year)](http://www.whiskybase.com/whisky/58528/1995)[/caption]
+{% include caption.html
+    width='300'
+    image='https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xap1/v/t1.0-9/10411025_1547389645497486_6179201900580587165_n.jpg?oh=b98721350e473fe7137b79bef9e466b2&oe=54AAAB68&__gda__=1421845329_63f4b786ff1abdc903cd072d8da2db3c' 
+    text='[Glen Keith (19 year)](http://www.whiskybase.com/whisky/58528/1995)'
+%}
 
 Deze bijzondere editie is slechts in beperkte oplage verkrijgbaar bij de distilleerderij zelf en enkele andere verkooppunten. Nog specialer is dat de distilleerderij van 1999 tot 2013 buiten bedrijf is geweest, maar nu weer op volle touren produceerd, tijd om er een trip heen te plannen. Een goed advies van de presentator tot slot: denk bij het drinken van whisky eens terug aan wat er in het jaar van distillatie gebeurd is. Deze nostalgische bezigheid zou een grootste aanvulling zijn op wat anders een meer alledaags whisky moment is.
