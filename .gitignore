@@ -4,8 +4,8 @@
 /private
 /.jekyll-metadata
 /_python
+/_php
 /Gemfile.lock
-/vendor
 /composer.lock
 /composer.phar
 /asset
