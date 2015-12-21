@@ -3,21 +3,21 @@ id: 2185
 title: Special Whisky Tasting
 author: Rik
 layout: post
-guid: 'http://csbnw.no-ip.org:38/?post_type=ai1ec_event&#038;p=2185&#038;instance_id='
-ai1ec_banner_image:
-  - 
+guid: http://csbnw.no-ip.org:38/?post_type=ai1ec_event&#038;p=2185&#038;instance_id=
+ai1ec_banner_image: null
 ---
+-
 De oplettende lezer zal weten dat het nu voorjaarsvakantie bij de University of St Andrews is. Omdat veel studenten dan huiswaarts keren, organiseren de verschillende verenigingen gedurende deze twee weken (!) geen activiteiten. Zo kon het ook gebeuren dat wij als hardwerkende promovendi extra lang op de volgende whisky tasting (volgende week) moesten wachten.
 
-Daar hebben wij ons niet bij neergelegd en samen met Nederlandse collega Frank (Kamer groep) besloten we dan zelf maar een tasting te organiseren. Die planden we op de gebruikelijke donderdagavond, alleen dan op kleinere schaal in Franks huis. Uiteindelijke hebben we met z&#8217;n vieren de glazen geheven: Alberto (Spaans, Cazin groep) en Michiel (Nederlands, voorheen Kamer groep) deden ook mee.
+Daar hebben wij ons niet bij neergelegd en samen met Nederlandse collega Frank (Kamer groep) besloten we dan zelf maar een tasting te organiseren. Die planden we op de gebruikelijke donderdagavond, alleen dan op kleinere schaal in Franks huis. Uiteindelijke hebben we met z'n vieren de glazen geheven: Alberto (Spaans, Cazin groep) en Michiel (Nederlands, voorheen Kamer groep) deden ook mee.
 
 Voor dit verslag zal ik alleen de belangrijkste zaken vermelden, met alle details en proefnotities zou het al snel een opstel worden. We begonnen met de drie whiskies die Michiel, Alberto en ik hadden meegenomen, op die volgorde:
 
   * [Glenfiddich Rich Oak (40%, >14 yo)][1]
-  * [Compass Box Great King Street &#8211; Glasgow Blend (43%)][2]
+  * [Compass Box Great King Street - Glasgow Blend (43%)][2]
   * [Glen Keith (56%, 19yo)][3]
 
-De Glenfiddich is na &#8220;normale rijping&#8221; nog &#8220;nagerijpt&#8221; in nieuwe Amerikaanse en Spaanse eikenvaten, vandaar de naam. De Compass Box had Alberto bij een [vorige whisky tasting][4] gewonnen. Deze premium blend smaakte nog steeds behoorlijk goed. De whisky waar ik het meest naar uit had gekeken was mijn Glen Keith. Deze fles had ik zelf gewonnen op misschien wel de meest [memorabele tasting][5] to nu toe. Ik vond vanavond een goede gelegenheid om deze fles eindelijk (na vijf maanden) te ontkurken. We hebben ervan genoten en gelukkig is er nog meer dan genoeg over om ook jullie op een dram te trakteren.
+De Glenfiddich is na "normale rijping" nog "nagerijpt" in nieuwe Amerikaanse en Spaanse eikenvaten, vandaar de naam. De Compass Box had Alberto bij een [vorige whisky tasting][4] gewonnen. Deze premium blend smaakte nog steeds behoorlijk goed. De whisky waar ik het meest naar uit had gekeken was mijn Glen Keith. Deze fles had ik zelf gewonnen op misschien wel de meest [memorabele tasting][5] to nu toe. Ik vond vanavond een goede gelegenheid om deze fles eindelijk (na vijf maanden) te ontkurken. We hebben ervan genoten en gelukkig is er nog meer dan genoeg over om ook jullie op een dram te trakteren.
 
 Frank zelf heeft een collectie van maar liefst vijftien whiskies en zijn taak was om een complementerend exemplaar te selecteren om de tasting mee te vervolgen. Zijn keuze viel op een rokerige [Bunnahabhain (46%, 15yo)][6], erg fijn!
 
@@ -32,9 +32,9 @@ Na nu al een geslaagde avond mochten we allemaal nog zelf een whisky uitkiezen. 
   * [Laphroaig Quarter Cask (48%)][13]
   * [Nikka (40%, 12 yo)][14]
 
-Opnieuw zal ik me beperken tot een paar interessante details. De Springbank heeft eerst zes jaar gerijpt in bourbon casks en vervolgens nog zes jaar in calvados vaten. Calvados is een soort gefermenteerde appelsap / brandy, niet te verwarren met cider. Het gebruik van dit hout heeft de whisky een aangemane fruitigheid gegeven die goed &#8220;uit de verf komt&#8221; door het hoge alcoholpercentage. De Yellow Spot is een (eveneens fruitige) Ierse whiskey (let op de spelling!), gedistilleerd in een single pot still. Zonder overdrijven zou ik kunnen zeggen dat het mondgevoel en de drinkervaring van deze drank fundamenteel lijkt te verschillen van Schotse whiskies. De Laphroig is gerijpt in kleinere vaten dan normaal. Hierdoor is het contactoppervlak van het hout groter, &#8220;ademt&#8221; het vat beter en ontwikkelt het een meer &#8220;lokaal&#8221; product dan bij het gebruik van vaten van normaal formaat. De Nikka is Japanse whisky en laat duidelijk zien dat ook de mensen van de rijzende zon het productieproces voortreffelijk beheersen.
+Opnieuw zal ik me beperken tot een paar interessante details. De Springbank heeft eerst zes jaar gerijpt in bourbon casks en vervolgens nog zes jaar in calvados vaten. Calvados is een soort gefermenteerde appelsap / brandy, niet te verwarren met cider. Het gebruik van dit hout heeft de whisky een aangemane fruitigheid gegeven die goed "uit de verf komt" door het hoge alcoholpercentage. De Yellow Spot is een (eveneens fruitige) Ierse whiskey (let op de spelling!), gedistilleerd in een single pot still. Zonder overdrijven zou ik kunnen zeggen dat het mondgevoel en de drinkervaring van deze drank fundamenteel lijkt te verschillen van Schotse whiskies. De Laphroig is gerijpt in kleinere vaten dan normaal. Hierdoor is het contactoppervlak van het hout groter, "ademt" het vat beter en ontwikkelt het een meer "lokaal" product dan bij het gebruik van vaten van normaal formaat. De Nikka is Japanse whisky en laat duidelijk zien dat ook de mensen van de rijzende zon het productieproces voortreffelijk beheersen.
 
-Het is duidelijk dat Frank een voortreffelijke collectie whiskies heeft opgebouwd. Het was dan ook zeer vriendelijk om ons daar zo gul op te trakteren. Heel anders dan &#8220;normaal&#8221; (normaal wordt hier steeds opnieuw gedefineerd), maar opnieuw een geslaagde avond!
+Het is duidelijk dat Frank een voortreffelijke collectie whiskies heeft opgebouwd. Het was dan ook zeer vriendelijk om ons daar zo gul op te trakteren. Heel anders dan "normaal" (normaal wordt hier steeds opnieuw gedefineerd), maar opnieuw een geslaagde avond!
 
  [1]: https://www.masterofmalt.com/whiskies/scotch-whisky/single-malt-whisky/glenfiddich/rich-oak-whisky/
  [2]: https://www.masterofmalt.com/whiskies/compass-box/compass-box-great-king-street-glasgow-blend-whisky/

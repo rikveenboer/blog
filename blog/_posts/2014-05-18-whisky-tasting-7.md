@@ -3,8 +3,9 @@ id: 834
 title: Whisky tasting
 author: Rik
 layout: post
-guid: '/?ai1ec_event=whisky-tasting-7&#038;instance_id='
+guid: /?ai1ec_event=whisky-tasting-7&#038;instance_id=
 ---
+-
 Deze avond werd gepresenteerd door een fanatiek lid van de Quaich Society (zoals de whisky club officieel heet). Gehuld in kilt vertelde hij over zijn werk aan het opzetten van een nieuwe distilleerderij in het nabijgelegen Kingsbarns. Deze distilleerderij opent pas aan het einde van het jaar en de whisky die dan geproduceerd wordt moet nog jaren rijpen. Er stonden dus vijf whiskies van andere distileerderijen en een speciale gin op het drank menu:
 
   * Morlach Vanilla Oak
@@ -12,7 +13,7 @@ Deze avond werd gepresenteerd door een fanatiek lid van de Quaich Society (zoals
   * Lord Elcho
   * Spice King (12 year)
   * Clynelish Apple Basket
-  * Darnley&#8217;s View Spiced Gin
+  * Darnley's View Spiced Gin
 
 Zoals gebruikelijk is de proefvolgorde nauwkeurig bepaald, de eerste whisky is een zeer zachte. Het bijzondere is dat deze is gerijpt in sherryvaten die al vier keer eerder zijn gebruikt. Hierdoor bevat de drank wel de toegevoegde complexiteit van een dergelijk rijping, maar niet de karakteristieke donkerdere kleur.
 

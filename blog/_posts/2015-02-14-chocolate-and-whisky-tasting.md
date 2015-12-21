@@ -3,8 +3,9 @@ id: 2142
 title: Whisky and chocolate tasting
 author: Rik
 layout: post
-guid: 'http://csbnw.no-ip.org:38/?post_type=ai1ec_event&#038;p=2142&#038;instance_id='
+guid: http://csbnw.no-ip.org:38/?post_type=ai1ec_event&#038;p=2142&#038;instance_id=
 ---
+-
 Een samenwerking tussen de Fine Chocolate Society en de Whisky Society heeft vanavond een (extra) gecombineerde tasting opgeleverd. Er waren vier whiskies uitgezocht met telkens een passende truffel:
 
   * Dalwhinnie (15 year) + Dark Velvet
@@ -12,7 +13,7 @@ Een samenwerking tussen de Fine Chocolate Society en de Whisky Society heeft van
   * Arran (10 year) + Chai Tea
   * Talisker Storm (10 year) + Raspberry & Black pepper
 
-De chocolade was afkomstig van het luxe merk Iain Burnett, dat zich aanprijst als &#8220;The Highland Chocolatier&#8221;.
+De chocolade was afkomstig van het luxe merk Iain Burnett, dat zich aanprijst als "The Highland Chocolatier".
 
 Tijdens de tasting werd er behoorlijk vakkundige uitleg over de whiskies gegeven door een Amerikaan uit het bestuur van de Whisky Society. De uitgebreide uitleg over de chocolade werd verzorgd door een snerpende mevrouw van de chocolatier. Het was grappig dat ze elkaar leken te willen overtreffen met hun informatieve betogen over de diverse producten.
 

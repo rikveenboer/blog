@@ -10,7 +10,6 @@ if (!is_dir($sNewDir)) {
    mkdir($sNewDir); 
 }
 
-$i = 0;
 foreach (glob('blog/_posts/*.md') as $sFile) {
     $sBasename = basename($sFile);
     

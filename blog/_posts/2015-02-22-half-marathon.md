@@ -4,17 +4,17 @@ title: Half Marathon
 author: Rik
 layout: post
 guid: http://csbnw.no-ip.org:38/?p=2147
-
 categories:
   - Uncategorized
 ---
-Met diverse collega&#8217;s hebben we ons al doel gesteld om op 12 juli de [Dundee Half Marathon][1] te lopen. Diverse trainingsschema&#8217;s raden me aan om zo&#8217;n vier maanden van tevoren te beginnen met trainen, maar om niet al te lui te worden probeer ik continu sportief bezig te blijven.
+-
+Met diverse collega's hebben we ons al doel gesteld om op 12 juli de [Dundee Half Marathon][1] te lopen. Diverse trainingsschema's raden me aan om zo'n vier maanden van tevoren te beginnen met trainen, maar om niet al te lui te worden probeer ik continu sportief bezig te blijven.
 
 Na een drukke week en een vullend [international dinner][2] was het deze zondag tijd om erop uit te gaan. Helaas was het behoorlijk grauw weer, in tegenstelling tot de zon van zaterdag. In plaats van met de cross country club mee te lopen, besloot ik zelf een route uit te stippelen. Ik had op de kaart een iets langere ronde gezien die me langs diverse plekken zou voeren waar ik nog niet eerder was geweest.
 
 Eenmaal op de weg ziet het er allemaal wat anders uit, en uiteindelijk is het (letterlijk) een beetje anders gelopen. Ik heb diverse verkeerde afslagen genomen. Door de eerste afwijking kwam ik te vroeg op een grotere weg uit, helaas! Toch was het kortere stukje over een heuvel met fraai uitzicht het zeker waard. Vervolgens dacht ik een doorgaand pad gevonden te hebben, maar kwam ik bij een vers ingezaaid weiland uit, baggeren maar!
 
-Na zo&#8217;n uur rennen had ik de smaak te pakken en besloot ik een nieuwe weg te volgen die &#8220;maar iets langer&#8221; zou zijn. Voor ik het wist kwam ik opnieuw bij een grote weg uit, die ik diverse kilometers moest volgen om weer in St Andrews uit te komen. Gelukkig liep er een beschut fietspad langs, dus dat was fatsoenlijk te doen.
+Na zo'n uur rennen had ik de smaak te pakken en besloot ik een nieuwe weg te volgen die "maar iets langer" zou zijn. Voor ik het wist kwam ik opnieuw bij een grote weg uit, die ik diverse kilometers moest volgen om weer in St Andrews uit te komen. Gelukkig liep er een beschut fietspad langs, dus dat was fatsoenlijk te doen.
 
 Terwijl het bij vertrek redelijk grijs maar geen onverkeerd weer was, werd het er steeds slechter op. Op open stukken stond er behoorlijk wat wind, maar die had ik op andere momenten lekker mee. Tot overmaat van ramp begon het af en toe te regenen en er was af en toe zelfs wat natte sneeuw. De afwatering op de Schotse wegen is niet volledig op orde en met verloop van tijd waren natte voeten onvermijdelijk.
 

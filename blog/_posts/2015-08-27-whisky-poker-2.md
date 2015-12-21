@@ -1,12 +1,12 @@
 ---
 id: 3006
-title: 'Whisky &#038; Poker'
+title: Whisky &#038; Poker
 author: Rik
 layout: post
-guid: 'http://csbnw.no-ip.org:38/?post_type=ai1ec_event&#038;p=3006'
-ai1ec_banner_image:
-  - 
+guid: http://csbnw.no-ip.org:38/?post_type=ai1ec_event&#038;p=3006
+ai1ec_banner_image: null
 ---
+-
 Het was weer tijd voor een vervolg op de [vorige zelfgeorganiseerde whisky tasting][1]!
 
 We beginnen een soort routine te ontwikkelen bestaande uit dineren, whisky drinken en poker spelen. Zoals eerder aangekondigd ben ik voornemens om niet langer uit te wijden over alle gedronken whiskies. In plaats daarvan ben ik van plan om mijn whisky-ervaringen op een andere manier in detail te etaleren. Zodra dat meer vaste vormen aanneemt zal ik het uiteraard laten weten.
@@ -15,6 +15,6 @@ Toen we klaar waren met werken hebben we Indisch eten besteld, maar omdat dat no
 
 Hierna hebben we het poker aangevangen en zijn we weer overgestapt op whisky. Van zacht naar zeer rokerig en van sterk gesherried naar whisky op vatsterkte: een uitmuntend lekkere variatie.
 
-Het duurt nog zo&#8217;n maand tot de officiele whisky tastings worden hervat, misschien moesten we daarvoor nog maar eens zo&#8217;n gezellig avondje organiseren.
+Het duurt nog zo'n maand tot de officiele whisky tastings worden hervat, misschien moesten we daarvoor nog maar eens zo'n gezellig avondje organiseren.
 
  [1]: http://csbnw.no-ip.org:38/?ai1ec_event=whisky-poker "Whisky & Poker"
