@@ -6,6 +6,7 @@ layout: post
 guid: /?post_type=ai1ec_event&#038;p=713&#038;instance_id=
 ---
 -
+-
 Deze tasting stond in het teken van een recent geopende distileerderij op Islay: [Kilchoman](http://kilchomandistillery.com/).
 
 <ul>
@@ -17,7 +18,7 @@ Deze tasting stond in het teken van een recent geopende distileerderij op Islay:
 	<li>Kilchoman Club Small Batch Release</li>
 </ul>
 
-Bij deze "farmer distillery" worden een aantal whiskies geproduceerd waarbij alle ingrediënten lokaal worden verbouwd en alle stappen zelf worden uitgevoerd. Dit klinkt minder bijzonder dan het is, want zeker het mouten van het gerst is een arbeidsintensief werk dat experise vereist. Omdat er op geringe schaal gewerkt wordt, is het eindproduct behoorlijk uniek te noemen en de 100% Islay whiskies (2nd edition en Single Cask Bourbon) zijn zeer geslaagd.
+Bij deze "farmer distillery" worden een aantal whiskies geproduceerd waarbij alle ingrediÃ«nten lokaal worden verbouwd en alle stappen zelf worden uitgevoerd. Dit klinkt minder bijzonder dan het is, want zeker het mouten van het gerst is een arbeidsintensief werk dat experise vereist. Omdat er op geringe schaal gewerkt wordt, is het eindproduct behoorlijk uniek te noemen en de 100% Islay whiskies (2nd edition en Single Cask Bourbon) zijn zeer geslaagd.
 
 [nggallery id=45]
 

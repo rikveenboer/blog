@@ -6,6 +6,7 @@ layout: post
 guid: /?post_type=ai1ec_event&#038;p=1087&#038;instance_id=
 ---
 -
+-
 Het was al een tijdje geleden, maar zijn weer naar de bioscoop geweest voor een tweetal films.
 
 [caption align="aligncenter" width="300"]<img src="wp-content/uploads/2014/06/How-to-Train-Your-Dragon-2.jpg" /> [How to Train Your Dragon 2](http://www.imdb.com/title/tt1646971/)[/caption]

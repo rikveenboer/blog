@@ -8,6 +8,7 @@ categories:
   - Uncategorized
 ---
 -
+-
 Wie dit blog leest zou de indruk kunnen krijgen dat ik een groot deel van mijn tijd in Schotland vul met [whisky tastings][1] en andere alcohol-gerelateerde activiteiten. Behalve regelmatige [bioscoopbezoeken][2] (ik ben gestopt met rapporteren op dit blog, ik houd nu lijsten bij op IMDb) en sportieve inspanningen is dat inderdaad niet ver van de waarheid. Vele sociale activiteiten vinden nou eenmaal in de avond plaats en daarbij zijn versnaperingen verre van misplaatst.
 
 Op de heugelijke dag van Sanne's verjaardag was het weer zover. Omdat Zambiaanse collega Byron deze week opnieuw vertrekt (na zijn promotie is hij nog een tijdje aan de slag geweest als onderzoeker), besloten we feestelijk naar de pub te gaan. Het idee was om bij de [Criterion][3] een "steak pie" te gaan eten. Dezen schijnen hier erg goed te zijn, dus met knorrende magen arriveerden we. Door merkwaardige omstandigheden (onwil of miscommunicatie, wie zal het zeggen?) werd ons de mogelijkheid tot bestellen ontzegd.

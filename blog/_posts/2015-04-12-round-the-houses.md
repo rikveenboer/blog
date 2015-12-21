@@ -6,9 +6,10 @@ layout: post
 guid: http://csbnw.no-ip.org:38/?post_type=ai1ec_event&#038;p=2287&#038;instance_id=
 ---
 -
+-
 Sinds ik afgelopen september [lid ben geworden van het universitair sportcentrum](?p=1249) ben ik aanzienlijk meer gaan sporten:  sportschool, atletiek (sprint) en hardlopen. Dat laatste gaat prima op eigen houtje, maar ook de rondes met de Cross Country Club zijn leuk en uitdagend.
 
-Vandaag heb ik met deze club meegedaan aan een groots georganiseerde 10 kilometer: Round the Houses in het dorpje Grangemouth (gelegen tussen Stirling en Edinburgh). Ik had Italiaanse collega Danila ook overgehaald om mee te doen, dit alles in het kader van de halve marathon die we in Juli zullen lopen. Deze officiële wedstrijd liepen we met een tijdsregistratie-chip, dus nu zou onomstotelijk vast komen te liggen of ik al op voldoende niveau was.
+Vandaag heb ik met deze club meegedaan aan een groots georganiseerde 10 kilometer: Round the Houses in het dorpje Grangemouth (gelegen tussen Stirling en Edinburgh). Ik had Italiaanse collega Danila ook overgehaald om mee te doen, dit alles in het kader van de halve marathon die we in Juli zullen lopen. Deze officiÃ«le wedstrijd liepen we met een tijdsregistratie-chip, dus nu zou onomstotelijk vast komen te liggen of ik al op voldoende niveau was.
 
 Omdat het de afgelopen week mooi weer was had ik al twee keer zo'n tien kilometer hardgelopen (zie ronde [1](http://www.mapmyrun.com/routes/view/671479502) en [2](http://www.mapmyrun.com/routes/view/674313550)), maar eigenlijk zijn die routes niet te vergelijken met [het parcours](http://www.mapmyrun.com/sc/victoria-english-river/round-the-houses-10k-route-15102514) van de wedstrijd. Deze laatste lijkt zo een behoorlijk saai vierkant over grote wegen en langs woonwijken, terwijl de routes door St Andrews langs diverse stranden (meervoud!) en over behoorlijk steile heuvels voerden. Samen met de motivatie om er tijdens een wedstrijd een schepje bovenop te doen lag een tijd onder mijn trainingstijden van rond de 50-55 minuten zeker in de lijn der verwachting.
 

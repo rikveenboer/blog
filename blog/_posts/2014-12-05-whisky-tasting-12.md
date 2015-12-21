@@ -6,6 +6,7 @@ layout: post
 guid: http://csbnw.no-ip.org:38/?post_type=ai1ec_event&#038;p=2113&#038;instance_id=
 ---
 -
+-
 Deze merkwaardige tasting werd verzorgd door [Compass Box][1], compleet met opmerkelijke presentator. Allereerst de geproefde whiskies, allen voorzien van opvallende namen:
 
   * [Hedonism][2]
@@ -23,7 +24,7 @@ Toen de presentatie begon, vielen er al een aantal stukjes op hun plaats. Zo zij
 
 We werden attent gemaakt op de grote verschillen tussen normale (bulk) blends blends zoals Famous Grouse, Johnnie Walker, Bells en die van Compass Box. In tegenstelling tot het gebruikte graan wordt het grootste verschil veroorzaakt door de vaten. Hoewel de drank vers na het distilleren in alle gevallen kwalitatief prima is, ontwikkelt het zelfs na jaren weinig bijzonder karakter als de vaten al talloze keren eerder zijn gebruikt.
 
-Tijdens het proeven werden we getrakteerd op diverse achtergrondinformatie en zo ook over de verschillen tussen verschillende soorten blends. Zo reikt het spectrum van blends van blended grains, blends van grain en malt tot blends van malts. We begonnen met een whisky van de eerste groep, de Hedonism. Volledig onverwacht vond ik deze whisky behoorlijk lekker en moet ik terugkomen voor mijn initiële afkeer van graanwhsiky. Ik heb me inderdaad laten bedriegen door het minder interessante imago van goedkope geblende whiskies, veroorzaakt door het hout in plaats van het graan.
+Tijdens het proeven werden we getrakteerd op diverse achtergrondinformatie en zo ook over de verschillen tussen verschillende soorten blends. Zo reikt het spectrum van blends van blended grains, blends van grain en malt tot blends van malts. We begonnen met een whisky van de eerste groep, de Hedonism. Volledig onverwacht vond ik deze whisky behoorlijk lekker en moet ik terugkomen voor mijn initiÃ«le afkeer van graanwhsiky. Ik heb me inderdaad laten bedriegen door het minder interessante imago van goedkope geblende whiskies, veroorzaakt door het hout in plaats van het graan.
 
 Interessant genoeg gebruikt Compass Box diverse technieken om verouderde vaten nieuw leven in te blazen, zoals het erin plaatsen van verse stukken hout. De Spice Tree is een product van deze techniek en wist ons goed te smaken. Hoewel het merk behoorlijk populair is geworden, worden met dergelijke foefjes de grenzen van het traditioneel toelaatbare opgezocht. Om een juridisch debacle te omzeilen wordt er tegenwoordig alleen nog maar nieuw hout op het deksel van een vat geplaatst, in plaats van langs de zijkanten van het vat.
 

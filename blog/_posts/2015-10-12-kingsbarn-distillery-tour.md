@@ -7,11 +7,12 @@ guid: http://csbnw.no-ip.org:38/?post_type=ai1ec_event&#038;p=3040
 ai1ec_banner_image: null
 ---
 -
+-
 Na een aantal zelfgeorganiseerde whisky proeverijen beschouw ik mijzelf en een aantal collega's als een redelijk serieus whisky-genootschap. We hadden het er al vaker over gehad, maar vandaag zijn we daadwerkelijk bij de nieuwe[ Kingsbarns distilleerderij](http://www.kingsbarnsdistillery.com/distillery/) nabij St Andrews langsgegaan voor een tour.
 
 De oplettende lezer zal zich herinneren dat we stiekem al een kijkje hadden genomen toen [Sanne kortgeleden op bezoek was](/?p=2856 "Visit Sanne").
 
-Eerlijk gezegd wilden we nu vooral de distilleerderij van binnen zien en wat whisky proeven en waren we niet echt geïnteresseerd in het verhaal dat de gids vertelde. Dat bleek uiteindelijk wel prima, maar na bij zo'n vijf verschillende tours dezelfde grap over koeien die niet dronken worden van een restproduct van het distillatieproces te hebben gehoord, is het leuke er wel een beetje af.
+Eerlijk gezegd wilden we nu vooral de distilleerderij van binnen zien en wat whisky proeven en waren we niet echt geÃ¯nteresseerd in het verhaal dat de gids vertelde. Dat bleek uiteindelijk wel prima, maar na bij zo'n vijf verschillende tours dezelfde grap over koeien die niet dronken worden van een restproduct van het distillatieproces te hebben gehoord, is het leuke er wel een beetje af.
 
 Maar voordat ik op de zaken vooruitloop, de rondleiding begon met een "self-guided" kijkje in een tentoonstellingsruimte. Hier konden we leren over de geschiedenis van de streek, de oprichting van de distilleerderij (Dream to Dram) en over whisky en aroma's zelf. Behalve dat de video niet werkte was het best leuk, maar wel een beetje beperkt vergeleken met wat ik met [Angela bij Aberfeldy had gezien](?p=2131 "Bezoek Angela"). Het meest memorabele is het feit dat de distilleerderij gevestigd is in een volledig verbouwde oude boerderij en dat de behouden [docoot](https://en.wikipedia.org/wiki/Dovecote) (soort duiventil) nu het vat met de allereerst gedistilleerde drank (uit maart 2015) tentoonstelt.
 

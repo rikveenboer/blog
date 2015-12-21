@@ -19,22 +19,11 @@ foreach (glob('blog/_posts/*.md') as $sFile) {
     $aYaml = Yaml::parse(trim(str_replace("  - \n", null, current($aParts))));
     
     $sContents = end($aParts);
-    if (!preg_match_all('~<a href="([^"]+)"(?: title="([^"]+)")?>([^>]+)</a>~', $sContents, $aMatches, PREG_SET_ORDER)) {
-        echo "    no url found\n";
-        continue;
-    }
-    foreach ($aMatches as $aMatch) {
-        $sMarkdown = sprintf('[%s](%s%s)', $aMatch[3], $aMatch[1], empty($aMatch[2]) ? null : sprintf(' "%s"', $aMatch[2]));
-        printf("    replacing: %s\n", $sMarkdown);
-        $sContents = str_replace($aMatch[0], $sMarkdown, $sContents);
-    }
-
     $sNewFile = sprintf('%s/%s', $sNewDir, $sBasename);
-    $sNewContents = '---' . "\n" . yamlDump($aYaml) . '---' . "\n" . trim($sContents);
+    $sNewContents = '---' . "\n" . yamlDump($aYaml) . '---' . "\n" . trim(utf8_encode($sContents));
     file_put_contents($sNewFile, $sNewContents);
     echo "    new file saved!\n";
 }
-// echo implode("\n", array_unique($aCharacters));
 
 function yamlDump($aData) {
     return str_replace("'", null, Yaml::dump($aData, 4, 2));

@@ -8,7 +8,8 @@ categories:
   - Uncategorized
 ---
 -
-Na een onverwacht maar toch aangenaam bezoek aan [Genève](http://csbnw.no-ip.org:38/?p=2103 "Genève") kwam ik weer terug in Nederland voor kerst, oud/nieuw jaar en Nederlandse gezelligheid. Dat begon gelijk al toen ik werd opgehaald vanuit Rotterdam en direct werd getrakteerd op een diner bij een bekend restaurant langs de weg.
+-
+Na een onverwacht maar toch aangenaam bezoek aan [GenÃ¨ve](http://csbnw.no-ip.org:38/?p=2103 "GenÃ¨ve") kwam ik weer terug in Nederland voor kerst, oud/nieuw jaar en Nederlandse gezelligheid. Dat begon gelijk al toen ik werd opgehaald vanuit Rotterdam en direct werd getrakteerd op een diner bij een bekend restaurant langs de weg.
 
 Gedurende de vakantie hebben we talloze activiteiten ondernomen waarvan ik er een aantal zal uitlichten.
 
@@ -17,7 +18,7 @@ Omdat Bram onlangs is verhuisd heeft hij zijn nieuwe woning gevuld met allerlei 
 
 Dit jaar stond het glazen huis van 3FM voor Serious Request in Haarlem, dus ook daar zijn we langsgegaan. Wat een drukte! Ongelooflijk hoeveel mensen deze actie op de been brengt. Het was ook leuk om het gezellige centrum van de stad nog even te bekijken.
 
-Ook hebben we met de andere VU chemici afgesproken in Zaandam. Het was een nostalgische aangelegenheid om weer met de trein te gaan en onderweg iedereen op te pikken. Hoewel, iedereen... helaas kon niet iedereen erbij zijn. Uiteindelijk hebben we met z'n drieën bijgepraat, al vertoevend in een Zaans groen restaurant.
+Ook hebben we met de andere VU chemici afgesproken in Zaandam. Het was een nostalgische aangelegenheid om weer met de trein te gaan en onderweg iedereen op te pikken. Hoewel, iedereen... helaas kon niet iedereen erbij zijn. Uiteindelijk hebben we met z'n drieÃ«n bijgepraat, al vertoevend in een Zaans groen restaurant.
 
 Wat zeker niet ongenoemd mag blijven zijn de diners gedurende de vakantie. Eigenlijk was er telkens sprake van een feestelijk maal, maar met kerst hebben we zeker heerlijk gegeten:
 [nggallery id=67]

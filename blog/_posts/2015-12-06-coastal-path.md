@@ -7,7 +7,8 @@ guid: http://csbnw.no-ip.org:38/?p=3227
 categories:
   - Uncategorized
 ---
-De Schotse winter is vreemd, het ene weekend sneeuwt het en liggen de temperaturen rond het vriespunt, het volgende waait het alsof we nog wat herfst tegoed hebben en is het bijna 10 °C.
+-
+De Schotse winter is vreemd, het ene weekend sneeuwt het en liggen de temperaturen rond het vriespunt, het volgende waait het alsof we nog wat herfst tegoed hebben en is het bijna 10 Â°C.
 
 Wat is op een zonnige winterzondag een beter uitje dan een hike over het coastal path? Een hike over het coastal path met halverwege lunch op een enorm rotsblok!
 

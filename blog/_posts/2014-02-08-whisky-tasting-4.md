@@ -6,6 +6,7 @@ layout: post
 guid: /?post_type=ai1ec_event&#038;p=566&#038;instance_id=
 ---
 -
+-
 De meest uitgebreide tasting dtot nu toe, met maar liefst zeven whiskies van drie verschillende distilleerderijen. Allen behorend tot de [Morrison Bowmore Distillers](http://www.morrisonbowmore.co.uk/):
 <ul>
 	<li>Auchentoshan (12 year)</li>
@@ -17,7 +18,7 @@ De meest uitgebreide tasting dtot nu toe, met maar liefst zeven whiskies van dri
 	<li>Bowmore: Tempest Batch 4</li>
 </ul>
 
-De presentatie werd verzorgt door een echte liefhebber die verhalen over de achtergronden bij de whiskies afwisselde met video's over de distileerderijen. Op deze manier wist hij een prima sfeer te creëren om ons echt te verplaatsten in het Schotse vocht.
+De presentatie werd verzorgt door een echte liefhebber die verhalen over de achtergronden bij de whiskies afwisselde met video's over de distileerderijen. Op deze manier wist hij een prima sfeer te creÃ«ren om ons echt te verplaatsten in het Schotse vocht.
 
 [nggallery id=42]
 

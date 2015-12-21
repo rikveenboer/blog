@@ -8,6 +8,7 @@ categories:
   - Uncategorized
 ---
 -
+-
 Het voorjaar is al behoorlijk op dreef in mijn Schotse verblijfplaats. Met het recente verzetten van de klok is er gedurende de hele dag volop daglicht en ook het weer gedraagt zich toepasselijk. Niet alle bloemen en planten zijn er even vroeg bij, maar het is duidelijk dat deze boom er zin in heeft:
 
 [caption align="aligncenter" width="420"]<img src="/wp-content/gallery/St%20Andrews/IMG_20150411_142931.jpg" width="400" /> Bomen in de knop[/caption]

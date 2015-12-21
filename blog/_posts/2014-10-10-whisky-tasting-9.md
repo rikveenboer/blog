@@ -7,21 +7,22 @@ guid: /?post_type=ai1ec_event&#038;p=1881&#038;instance_id=
 ai1ec_banner_image: null
 ---
 -
+-
 Deze whisky tasting werden we getrakteerd op diverse "cask strength" whiskies uit de Speyside regio en een van de Orkney-eilanden. De presentatie werd verzorgd door een vriendelijke dikkige Schot die er duidelijk enorm veel plezier in heeft om betaald te worden voor zijn hobby: bezig zijn met alle aspecten van whisky. In de proeflijst van deze avond valt gelijk de hoge leeftijd van deze whiskies op. Ook heb ik een prijsindicatie (per fles) toegevoegd:
 
 <ul>
-    <li>Glenburgie (20 year, £ 60.95)</li>
-    <li>Scapa (14 year, £ 66.00 )</li>
-    <li>Strathisla (19 year, £ 49.95)</li>
-    <li>Tormore (15 year, £ 31.64)</li>
-    <li>The Glenlivet (17 year, £ 46.00)</li>
+    <li>Glenburgie (20 year, Â£ 60.95)</li>
+    <li>Scapa (14 year, Â£ 66.00 )</li>
+    <li>Strathisla (19 year, Â£ 49.95)</li>
+    <li>Tormore (15 year, Â£ 31.64)</li>
+    <li>The Glenlivet (17 year, Â£ 46.00)</li>
 </ul>
 
 Online is een [fraaie kaart](http://www.maltmadness.com/whisky/map/Scotland/index.html) met alle distilleerderijen in Schotland te vinden, maar voor het gemak heb ik de betreffende distilleerderijen zelf ook vastgelegd:
 
 [mapsmarker layer="5"]
 
-Het bijzondere van de whiskies deze avond is dat allen op "cask strength" gebotteld zijn: direct uit het vat tegen de 60% alcohol. Meestal wordt whisky verdund tot een gangbare 40% procent. Het hogere alcoholgehalte bied de drinker een keuze: verdunnen of niet? Bij het nippen aan een "cask strength" word je tong eigenlijk een beetje verdoofd door de alcohol en dat is zonde van het fijne palet dat hierdoor verloren gaat. Met een beetje water (het liefst gedemineraliseerd, om de smaak niet te beïnvloeden) kan het echte proeven beginnen. De presentator bediende zich ook van wat chemische feitjes: het toevoegen van water aan whisky geeft een exotherme reactie waardoor het aroma beter vrijkomt. Dat klinkt leuk, maar in werkelijkheid zal dit effect nauwelijks meetbaar zijn.
+Het bijzondere van de whiskies deze avond is dat allen op "cask strength" gebotteld zijn: direct uit het vat tegen de 60% alcohol. Meestal wordt whisky verdund tot een gangbare 40% procent. Het hogere alcoholgehalte bied de drinker een keuze: verdunnen of niet? Bij het nippen aan een "cask strength" word je tong eigenlijk een beetje verdoofd door de alcohol en dat is zonde van het fijne palet dat hierdoor verloren gaat. Met een beetje water (het liefst gedemineraliseerd, om de smaak niet te beÃ¯nvloeden) kan het echte proeven beginnen. De presentator bediende zich ook van wat chemische feitjes: het toevoegen van water aan whisky geeft een exotherme reactie waardoor het aroma beter vrijkomt. Dat klinkt leuk, maar in werkelijkheid zal dit effect nauwelijks meetbaar zijn.
 
 Het leuke is dat er letterlijk tientallen whiskies afkomstig zijn uit de Speyside regio, maar dat ze toch enorm van elkaar verschillen. De kleinste verschillen in het productieproces kunnen een enorme invloed op het eindresultaat hebben. Ons werd verteld dat des te langer het moutproces duurt (tot 160 uur in plaats van de gebruikelijke 40), hoe meer tonen van vruchten zich ontwikkelen. Ook interesseert is het om te horen dat de eerste distillatie (in de wash still) de smaak definieert, terwijl de tweede distillatie (in de spirit still) de smaak verfijnd. In het Engels klinkt dat beter: define, then refine!
 

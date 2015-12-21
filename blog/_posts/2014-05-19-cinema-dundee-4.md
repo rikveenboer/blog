@@ -6,6 +6,7 @@ layout: post
 guid: /?post_type=ai1ec_event&#038;p=911&#038;instance_id=
 ---
 -
+-
 Hoewel het de afgelopen week behoorlijk goed weer was, is het toch leuk om lekker binnen in de bioscoop te zitten en nieuwe films te bekijken. Vanavond was ik met de Schotse collega en drie Italianen op pad. Als eerste hebben we een "thriller" gezien:
 
 [caption align="aligncenter" width="300"]<img src="wp-content/uploads/2014/05/The-Two-Faces-of-January.jpg" /> [The Two Faces of January](http://www.imdb.com/title/tt1976000/)[/caption]

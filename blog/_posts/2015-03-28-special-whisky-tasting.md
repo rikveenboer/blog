@@ -7,6 +7,7 @@ guid: http://csbnw.no-ip.org:38/?post_type=ai1ec_event&#038;p=2185&#038;instance
 ai1ec_banner_image: null
 ---
 -
+-
 De oplettende lezer zal weten dat het nu voorjaarsvakantie bij de University of St Andrews is. Omdat veel studenten dan huiswaarts keren, organiseren de verschillende verenigingen gedurende deze twee weken (!) geen activiteiten. Zo kon het ook gebeuren dat wij als hardwerkende promovendi extra lang op de volgende whisky tasting (volgende week) moesten wachten.
 
 Daar hebben wij ons niet bij neergelegd en samen met Nederlandse collega Frank (Kamer groep) besloten we dan zelf maar een tasting te organiseren. Die planden we op de gebruikelijke donderdagavond, alleen dan op kleinere schaal in Franks huis. Uiteindelijke hebben we met z'n vieren de glazen geheven: Alberto (Spaans, Cazin groep) en Michiel (Nederlands, voorheen Kamer groep) deden ook mee.

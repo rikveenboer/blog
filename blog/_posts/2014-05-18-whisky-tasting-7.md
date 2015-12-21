@@ -6,6 +6,7 @@ layout: post
 guid: /?ai1ec_event=whisky-tasting-7&#038;instance_id=
 ---
 -
+-
 Deze avond werd gepresenteerd door een fanatiek lid van de Quaich Society (zoals de whisky club officieel heet). Gehuld in kilt vertelde hij over zijn werk aan het opzetten van een nieuwe distilleerderij in het nabijgelegen Kingsbarns. Deze distilleerderij opent pas aan het einde van het jaar en de whisky die dan geproduceerd wordt moet nog jaren rijpen. Er stonden dus vijf whiskies van andere distileerderijen en een speciale gin op het drank menu:
 
   * Morlach Vanilla Oak
@@ -21,6 +22,6 @@ Twee van de whiskies (de Peat Chimney en de Spice King) zijn afkomstig van de di
 
 Lord Elcho is een fraaie premium blended whisky. Het verschil met een blended malt is dat een blend (zonder voorvoegsel) ook grain whisky bevat, terwijl malts uitsluitend van gerst gemaakt worden. Als ik een Schotse whisky Nederlands zou moeten noemen is dat de Clynelish Apple Basket. Deze smaakt namelijk naar oer-Hollandse appeltaart met kaneel! Een erg bijzonder exemplaar.
 
-Het is niet helemaal duidelijk waarom we ook een Gin te proeven kregen, maar een aangemane verrassing was het zeker. Deze gekruide variant is op smaak gebracht met ingrediënten van over de hele wereld. Kennelijk is het dan niet zonde om deze prijzige drank te mengen met de eveneens geserveerde verse sinasappel en ginger ale.
+Het is niet helemaal duidelijk waarom we ook een Gin te proeven kregen, maar een aangemane verrassing was het zeker. Deze gekruide variant is op smaak gebracht met ingrediÃ«nten van over de hele wereld. Kennelijk is het dan niet zonde om deze prijzige drank te mengen met de eveneens geserveerde verse sinasappel en ginger ale.
 
 Helaas was dit de laatste tasting van het seizoen, wordt vervolgd!

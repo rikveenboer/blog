@@ -6,15 +6,16 @@ layout: post
 guid: /?post_type=ai1ec_event&#038;p=1884&#038;instance_id=
 ---
 -
+-
 Twee weken geleden was de whisky tasting in St Andrews verruild voor een evenement in Dundee en daar konden we helaas niet bij zijn. Na een maand wachten waren we dan ook extra verheugd om een zestal whiskies van onafhankelijke bottelaar Douglas Laing te proeven:
 
 <ul>
-    <li>Timorous Beastie (blend, £36)</li>
-    <li><em>Provenance</em> Dailuaine (12yo, £38)</li>
-    <li><em>Old Particular</em> Blair Athol (15yo, £70)</li>
-    <li><em>Director's Cut</em> Glen Ord (21yo, £122)</li>
-    <li><em>Clan Denny</em> Invergordon (26yo, £84)</li>
-    <li><em>Big Peat</em> (blend, £34)</li>
+    <li>Timorous Beastie (blend, Â£36)</li>
+    <li><em>Provenance</em> Dailuaine (12yo, Â£38)</li>
+    <li><em>Old Particular</em> Blair Athol (15yo, Â£70)</li>
+    <li><em>Director's Cut</em> Glen Ord (21yo, Â£122)</li>
+    <li><em>Clan Denny</em> Invergordon (26yo, Â£84)</li>
+    <li><em>Big Peat</em> (blend, Â£34)</li>
 </ul>
 
 Voor deze keer heb ik extra metadata toegevoegd: de serie in cursief, tussen haakjes de leeftijd en prijs en zelfs afbeeldingen van de flessen:
@@ -30,6 +31,6 @@ De Invergordon is een interessante verrassing. Het is duidelijk te proeven dat d
 
 De zeer rokerige whiskies worden altijd als laatst geproefd en zo ook de Big Peat, een blend waarin onder andere Ardberg verwerkt is. Het resultaat is een zeer drinkbare roker, erg geslaagd. Tijdens de tasting werd duidelijk dat de presentator nog maar kort voor deze bottelaar werkt en daardoor meer algemene toelichten kon geven (en voorlezen) dan de bijzondere verhalen die mensen die bij een distilleerderij zelf werken oprakelen. Erg was dat niet, want we hebben ook vanavond flink wat opgestoken. Wist je bijvoorbeeld dat de typische pagodedaken van distilleerderijen in de Speyside regio de luchtstroming van de moutende granen optimaliseren? Interessant!
 
-Deze avond was niet maximaal bezet en dat bood een flinke hoeveelheid whisky voor de loterij. Daarnaast waren er flessen van de Timorous Beastie en de Blair Athol whiskies te winnen. Na mijn winst [vorige tasting](/?ai1ec_event=whisky-tasting-8&instance_id= "Whisky tasting") heb ik zes in plaats van vier lootjes gekocht (£3 totaal). Ongeloofelijk maar waar, ik ben er opnieuw met de eerste prijs vandoor gegaan! Met de keus tussen de bovengenoemde flessen heb ik uiteraard voor de Blair Athol gekozen. Daarnaast heb ik met twee andere lootjes nog drams gewonnen. Geen slechte return-on-investment: ik schat dat ik in totaal zo'n £20 aan lootjes heb uitgegeven en ik heb ter waarde van £120 aan whisky gewonnen. Daarbij ga ik nog voorbij aan het feit dat de tasting zelf onwijs veel waar voor het geld is. Tenslotte zijn er nog de overgebleven glazen: in de pub betaal je daar minstens £3 voor, nu krijg je ze bijna gratis.
+Deze avond was niet maximaal bezet en dat bood een flinke hoeveelheid whisky voor de loterij. Daarnaast waren er flessen van de Timorous Beastie en de Blair Athol whiskies te winnen. Na mijn winst [vorige tasting](/?ai1ec_event=whisky-tasting-8&instance_id= "Whisky tasting") heb ik zes in plaats van vier lootjes gekocht (Â£3 totaal). Ongeloofelijk maar waar, ik ben er opnieuw met de eerste prijs vandoor gegaan! Met de keus tussen de bovengenoemde flessen heb ik uiteraard voor de Blair Athol gekozen. Daarnaast heb ik met twee andere lootjes nog drams gewonnen. Geen slechte return-on-investment: ik schat dat ik in totaal zo'n Â£20 aan lootjes heb uitgegeven en ik heb ter waarde van Â£120 aan whisky gewonnen. Daarbij ga ik nog voorbij aan het feit dat de tasting zelf onwijs veel waar voor het geld is. Tenslotte zijn er nog de overgebleven glazen: in de pub betaal je daar minstens Â£3 voor, nu krijg je ze bijna gratis.
 
 Het is duidelijk, dat was weer een top-tasting!

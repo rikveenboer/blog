@@ -6,6 +6,7 @@ layout: post
 guid: http://csbnw.no-ip.org:38/?post_type=ai1ec_event&#038;p=2137&#038;instance_id=
 ---
 -
+-
 Nu het tweede semester van het collegejaar 2014/2015 op de universiteit is begonnen, gaan de normale dingen weer van start. Zo ook de langverwachte tweewekelijkse whisky tastings.
 
 Zeer toepasselijk na ons bezoek van vorige week aan de [Aberfeldy distilleerderij][1] werd deze tasting gepresenteerd door de overkoepelende Dewar's group. Als ik het goed heb begrepen zwaait deze organisatie de scepter over diverse distilleerderijen, maar is deze op zijn beurt in handen van Bacardi. Dit maakt het geheel op het oog een verwarrende constructie. Zeker als er ook nog een soort consortium van vijf distilleerderijen is: [last great malts][2]. Het loont zeker de moeite om de video op de website te bekijken.
@@ -13,15 +14,15 @@ Zeer toepasselijk na ons bezoek van vorige week aan de [Aberfeldy distilleerderi
 We zijn getrakteerd op maar liefst zeven malts van drie van de vijf verschillende distilleerderijen:
 
   * Aberfeldy 
-      * [12 year, 40%, £33][3]
-      * [21 year, 40%, £94][4]
+      * [12 year, 40%, Â£33][3]
+      * [21 year, 40%, Â£94][4]
   * Aultmore 
-      * [12 year, 46%, £50][5]
-      * [25 year, 46%, £296][6]
+      * [12 year, 46%, Â£50][5]
+      * [25 year, 46%, Â£296][6]
   * Craigellachie 
-      * [13 year, 46%, £45][7]
-      * [17 year, 46%, £81][8]
-      * [23 year, 46%, £134][9]
+      * [13 year, 46%, Â£45][7]
+      * [17 year, 46%, Â£81][8]
+      * [23 year, 46%, Â£134][9]
 
 Zoals gebruikelijk waren er whisky placemats, waarop de verschillende distilleerderijen stonden aangegeven. De marketing afdeling had hier duidelijk zijn best opgedaan, want de proefnotities lieten aan fantastische beschrijvingen niets te wensen over. Er stonden echter geen aanduidingen van de diverse expressies (zoals verschillende bottelingen genoemd worden). Dit maakt het een uitdaging om uit het hoofd exact de geproefde exemplaren te reproduceren, maar op de tweede Aberfeldy na ben ik behoorlijk zeker.
 
