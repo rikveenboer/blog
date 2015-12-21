@@ -9,9 +9,15 @@ categories:
 ---
 -
 -
+-
 Het voorjaar is al behoorlijk op dreef in mijn Schotse verblijfplaats. Met het recente verzetten van de klok is er gedurende de hele dag volop daglicht en ook het weer gedraagt zich toepasselijk. Niet alle bloemen en planten zijn er even vroeg bij, maar het is duidelijk dat deze boom er zin in heeft:
 
-[caption align="aligncenter" width="420"]<img src="/wp-content/gallery/St%20Andrews/IMG_20150411_142931.jpg" width="400" /> Bomen in de knop[/caption]
+{% include caption.html
+    width='420'
+    image-width='420'
+    image='/wp-content/gallery/St%20Andrews/IMG_20150411_142931.jpg'
+    text='Bomen in de knop'
+%}
 
 Hoewel het nu wel lichtelijk jammer is om binnen in een laboratorium te werken, is er voldoende gelegenheid om buiten te vertoeven. De afgelopen week hebben we voor de eerste keer dit jaar buiten (aan een picknicktafel) geluncht. Ook heb ik op twee avonden na het werk rondes van zo'n 10 kilometer hardgelopen. Dit zijn fijne verademingen na de hele winter in relatief donkere kou te hebben doorgebracht.
 

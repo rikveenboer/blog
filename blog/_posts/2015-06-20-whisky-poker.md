@@ -8,6 +8,7 @@ ai1ec_banner_image: null
 ---
 -
 -
+-
 Nu het semester is afgelopen, zijn ook de georganiseerde whisky tastings afgelopen. Omdat ik en enkele anderen whisky nog steeds erg lekker vinden, vonden we het tijd om zelf weer een tasting te organiseren. We waren deze keer met z'n vieren bij mij thuis, met Nederlanders Frank en Michiel en Engelsman Stefan. Net als [vorige keer](/?ai1ec_event=special-whisky-tasting) verzorgden we allen een (of meerdere) whiskies. Het resultaat was een fraaie diversiteit, waaronder een aantal oude bekenden zoals de gesherriede Blair Athol en de GlenDronach:
 
 <ul>
@@ -20,7 +21,12 @@ Nu het semester is afgelopen, zijn ook de georganiseerde whisky tastings afgelop
     <li>[Springbank Calvados Wood Finish (12 year, 53%)](https://www.masterofmalt.com/whiskies/springbank/springbank-12-year-old-calvados-wood-finish-whisky/)</li>
 </ul>
 
-[caption align="aligncenter" width="420"]<img src="/wp-content/gallery/whisky-poker/11401566_10155724426675597_6932590850520958164_n.jpg" width="400" /> De whisky line-up[/caption]
+{% include caption.html
+    width='420'
+    image-width='420'
+    image='/wp-content/gallery/whisky-poker/11401566_10155724426675597_6932590850520958164_n.jpg'
+    text='De whisky line-up'
+%}
 
 Uit het werk hebben we eerst een lekkere avondmaaltijd Indiaase curry afgehaald om een goede bodem te leggen. Hierna konnen het proeven en genieten beginnen.
 
@@ -28,6 +34,11 @@ Eigenlijk is er over elke whisky wel iets bijzonders te vertellen. Zo is bijvoor
 
 Onder het genot van deze whiskies hebben we poker gespeeld. Het was daarbij leuk om echt kleingeld te gebruiken. Gelukkig bleef de inzet met blinds van 1 en 2 cent beperkt. De hoogste inzet van de avond liep tegen de 20 cent, maar op deze manier bleef het leuk. Al met al schat ik dat ik op een inleg van 2 pond zo'n 60 cent winst heb gemaakt.
 
-[caption align="aligncenter" width="420"]<img src="/wp-content/gallery/whisky-poker/11407136_10155724426700597_7323413856952583575_n.jpg" width="400" /> Poker met echte munten[/caption]
+{% include caption.html
+    width='420'
+    image-width='420'
+    image='/wp-content/gallery/whisky-poker/11407136_10155724426700597_7323413856952583575_n.jpg'
+    text='Poker met echte munten'
+%}
 
 Het is duidelijk dat dit een gezellige avond was waar het Dunglish (Dutch English) op hoog niveau werd gesproken. Zeker voor herhaling vatbaar!

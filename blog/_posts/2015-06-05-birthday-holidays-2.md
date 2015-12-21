@@ -9,6 +9,7 @@ categories:
 ---
 -
 -
+-
 Net als [vorig jaar](/?p=1019 "Birthday holidays") ben ik eind mei weer naar Nederland geweest om daar mijn (en Brams) verjaardag te vieren. Op de valreep besloten we dat ik niet van donderdagavond to zondagavond zou blijven, maar zelfs tot woensdagavond: zes hele dagen joy!
 
 Donderdagavond op Schiphol aangekomen werd ik door Bram opgehaald voor de gezinsreunie in Uitgeest. We hebben natuurlijk wel steeds contact gehouden, maar het was toch al bijna een half jaar dat ik daar niet meer was geweest! Uiteraard stond dit garant voor een vreugdevol welkomst-tafereel met heerlijk gebak.
@@ -19,7 +20,12 @@ Dat de toon hiermee goed was gezet, was duidelijk want ook ik werd later op mijn
 
 De rest van onze verjaardag hebben we heerlijk op het strand doorgebracht. Het cadeau van het weer was een lekkere temperatuur, scherp zonnetje en genoeg wind om te kitesurfen! Nu ik een met GPS uitgerust horloge had, kon ik leuke statistieken vergaren: maximaal 39 km/h! Na deze sportiviteit hebben we geborreld en heerlijk gegeten in het paviljoen.
 
-[caption align="aligncenter" width="420"]<img src="/wp-content/gallery/birthday-holidays-2015/SAM_7122.JPG" width="400" /> Een sportieve verjaardagsbesteding[/caption]
+{% include caption.html
+    width='420'
+    image-width='420'
+    image='/wp-content/gallery/birthday-holidays-2015/SAM_7122.JPG'
+    text='Een sportieve verjaardagsbesteding'
+%}
 
 De volgende dagen waren afwisselend gevuld met tegenvallend weer en uitstekend weer. Hierdoor was het goed mogelijk om in de zon aan te bakken, door te bruinen en te herhalen. Na enkele van deze cycli heb ik het ergste Schotse wit nu grotendeels verruild voor een vers laagje brons.
 
