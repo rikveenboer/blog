@@ -9,6 +9,7 @@ categories:
 ---
 -
 -
+-
 Sanne heeft deze zomer een prachtig lang weekend (donderdag tot en met maandag) uitgezocht om mij in Schotland te bezoeken. Het was erg gezellig om samen op pad te gaan. We hebben eigenlijk zo veel leuke dingen gedaan en bezocht dat ik mezelf ook op vakantie waande! Lees het verslag van dag tot dag:
 
 <strong>Donderdag</strong> Nadat ze woensdagavond in Edinburgh aan kwam is Sanne het grootste deel van donderdag op verkenning in deze Schotse hoofdstad geweest. Aan het einde van de middag vertrok ze met de trein richting Leuchars, het station nabij St Andrews. Door onze perfecte timing kon ik haar precies na het werk afhalen om thuis aangekomen een simpel doch vertrouwd lekker maal pannekoeken te koken. We hadden nog wat daglicht over, dus we hebben een rondje door het dorp gereden om Sanne vast wat aanknopingspunten voor de volgende dag te geven. Geloof het of niet, maar we durfden het zelfs aan om Sanne een stukje te laten rijden! Eenmaal terug onthulde Sanne haar koffer vol gulle gaven uit Nederland. De topstukken zijn onbetwist het verduisterende gordijn voor mijn kamer en een heerlijke zelfgebakken gevulde boterkoek.
@@ -27,7 +28,7 @@ Qua architectuur hadden we op de terugweg twee stops in Perth gepland, respectie
 
 [nggallery id=92]
 
-Na het laatste stuk terug naar St Andrews waren we wel aan een lui hapje eten toe. Tot onze teleurstelling werd er in [The Central](http://www.taylor-walker.co.uk/pub/central-st-andrews/s1874/) geen eten geserveerd, dus het geplande pubmaal ging aan onze neuzen voorbij. Als alternatief zijn we net als [vorig jaar](http://csbnw.no-ip.org:38/?p=1253 "Autumn Holidays") bij het Italiaanse Zizzi's gaan eten. Helaas was ik een beetje vergeten dat dit een ietwat prijzige en jupperige tent is geworden, maar gelukkig smaakten onze Calzone pizza's goed. Al met al konden we reflecteren op een zeer welbestede dag.
+Na het laatste stuk terug naar St Andrews waren we wel aan een lui hapje eten toe. Tot onze teleurstelling werd er in [The Central](http://www.taylor-walker.co.uk/pub/central-st-andrews/s1874/) geen eten geserveerd, dus het geplande pubmaal ging aan onze neuzen voorbij. Als alternatief zijn we net als [vorig jaar](http://csbnw.no-ip.org:38{% post_link 2014-09-27-autumn-holidays %} "Autumn Holidays") bij het Italiaanse Zizzi's gaan eten. Helaas was ik een beetje vergeten dat dit een ietwat prijzige en jupperige tent is geworden, maar gelukkig smaakten onze Calzone pizza's goed. Al met al konden we reflecteren op een zeer welbestede dag.
 
 <strong>Zondag</strong> Na een goede nacht slapen hadden we met opnieuw schitterende weer een dag met activiteiten dichter bij huis op het programma staan: een tour langs de zuidkust van Fife (de provincie waarin St Andrews ligt). Na een kijkje in de haven en het coastal path van Pittenweem hebben we ons getrakteerd op een kopje ijskoffie bij [Cocoa Tree](http://www.pittenweemchocolate.co.uk/). Uiteraard hebben we deze vergezeld laten gaan van heerlijke huisgemaakte Scone en worteltaart: smullen!
 

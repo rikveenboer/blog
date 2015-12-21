@@ -7,6 +7,7 @@ guid: http://csbnw.no-ip.org:38/?post_type=ai1ec_event&#038;p=2137&#038;instance
 ---
 -
 -
+-
 Nu het tweede semester van het collegejaar 2014/2015 op de universiteit is begonnen, gaan de normale dingen weer van start. Zo ook de langverwachte tweewekelijkse whisky tastings.
 
 Zeer toepasselijk na ons bezoek van vorige week aan de [Aberfeldy distilleerderij][1] werd deze tasting gepresenteerd door de overkoepelende Dewar's group. Als ik het goed heb begrepen zwaait deze organisatie de scepter over diverse distilleerderijen, maar is deze op zijn beurt in handen van Bacardi. Dit maakt het geheel op het oog een verwarrende constructie. Zeker als er ook nog een soort consortium van vijf distilleerderijen is: [last great malts][2]. Het loont zeker de moeite om de video op de website te bekijken.
@@ -36,7 +37,7 @@ Het is duidelijk dat oudere whisky niet altijd beter (lees: bijzonderder, lekker
 
 Na de hoofd-tasting kregen we nog de kans om de twee Dewar's blends te proeven: [White Label][11] en [12 Year Old][11]. Zoals we bij ons bezoek al hadden geconstateert zijn dit prima blends! Helaas was de standaard vanavond talloze malen hoger gezet. Waar ik een aanwezige Wale (uit Wales) eerder had horen zeggen dat de Aberfeldy "gewoon naar whisky smaakt" (uiteraard vertaald), zei een aanwezige Nederland dat de blends "nergens naar smaken" en "niet de moeite van het opdrinken waren", zo!
 
- [1]: http://csbnw.no-ip.org:38/?p=2131
+ [1]: http://csbnw.no-ip.org:38{% post_link 2015-02-01-bezoek-angela %}
  [2]: https://www.lastgreatmalts.com/
  [3]: https://www.masterofmalt.com/whiskies/aberfeldy-12-year-old-whisky/
  [4]: https://www.masterofmalt.com/whiskies/aberfeldy-21-year-old-whisky/

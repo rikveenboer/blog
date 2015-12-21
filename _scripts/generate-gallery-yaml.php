@@ -1,5 +1,5 @@
 <?php
-require __DIR__ . '/../vendor/autoload.php';
+require __DIR__ . '/../_php/autoload.php';
 
 use Symfony\Component\Yaml\Yaml;
 
