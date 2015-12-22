@@ -3,47 +3,6 @@
 
 module Jekyll
   module Tags
-    class PostComparer
-      MATCHER = /^(.+\/)*(\d+-\d+-\d+)-(.*)$/
-
-      attr_reader :path, :date, :slug, :name
-
-      def initialize(name)
-        @name = name
-        all, @path, @date, @slug = *name.sub(/^\//, "").match(MATCHER)
-        raise ArgumentError.new("'#{name}' does not contain valid date and/or title.") unless all
-
-        @name_regex = /^#{path}#{date}-#{slug}\.[^.]+/
-      end
-
-      def ==(other)
-        other.basename.match(@name_regex)
-      end
-
-      def deprecated_equality(other)
-        date = Utils.parse_date(name, "'#{name}' does not contain valid date and/or title.")
-        slug == post_slug(other) &&
-          date.year  == other.date.year &&
-          date.month == other.date.month &&
-          date.day   == other.date.day
-      end
-
-      private
-      # Construct the directory-aware post slug for a Jekyll::Post
-      #
-      # other - the Jekyll::Post
-      #
-      # Returns the post slug with the subdirectory (relative to _posts)
-      def post_slug(other)
-        path = other.basename.split("/")[0...-1].join("/")
-        if path.nil? || path == ""
-          other.data['slug']
-        else
-          path + '/' + other.data['slug']
-        end
-      end
-    end
-
     class PostBastUrl < Liquid::Tag
       def initialize(tag_name, post, tokens)
         super

@@ -3,7 +3,7 @@ layout: post
 ---
 {% capture gallery %}{{ page.url|replace:'/map.html',''|remove_first:'/' }}{% endcapture %}
 <div id="googlemap" style="height:400px;margin-top:8px;"></div>
-<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBDIwEZirrDvuvDkhTtON8OqpmH7jP7DW4&amp;sensor=false"></script>
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key={{ site.maps }}&amp;sensor=false"></script>
 <script type="text/javascript">
     google.maps.event.addDomListener(
         window,

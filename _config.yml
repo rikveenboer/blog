@@ -1,11 +1,18 @@
+# location
 absolute: http://localhost
 baseurl: jekyll
+
+# variables
 title: Rik @ St Andrews
 author: Rik Veenboer
 email: rik.veenboer@gmail.com
 github: https://github.com/boukefalos
 disqus: boukefalos
 analytics: UA-46375339-1
+maps: AIzaSyCyIwGR-F48dFjAbwNr9JdOsfUYaUQxz1s
+
+# other
+gems: [jekyll-paginate]
 markdown: redcarpet
 paginate: 7
 highlighter: pygments
