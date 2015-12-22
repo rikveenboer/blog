@@ -6,15 +6,13 @@ layout: post
 ---
 Nu het semester is afgelopen, zijn ook de georganiseerde whisky tastings afgelopen. Omdat ik en enkele anderen whisky nog steeds erg lekker vinden, vonden we het tijd om zelf weer een tasting te organiseren. We waren deze keer met z'n vieren bij mij thuis, met Nederlanders Frank en Michiel en Engelsman Stefan. Net als [vorige keer]({% post_baseurl 2015-03-28-special-whisky-tasting %}) verzorgden we allen een (of meerdere) whiskies. Het resultaat was een fraaie diversiteit, waaronder een aantal oude bekenden zoals de gesherriede Blair Athol en de GlenDronach:
 
-<ul>
-    <li>[Balvenie (12 year, 40%)](https://www.masterofmalt.com/whiskies/balvenie/balvenie-12-year-old-doublewood-whisky/)</li>
-    <li>[Glenburgie (18 year, 43%)](https://www.masterofmalt.com/whiskies/glenburgie/glenburgie-18-year-old-19995-casks-6477-6448-signatory-whisky/)</li>
-    <li>[BenRiach Sauternes Finish (16 year, 46%)](https://www.masterofmalt.com/whiskies/benriach-16-year-old-sauternes-finish-whisky/)</li>
-    <li>[Blair Athol (15 year, 48%)](https://www.masterofmalt.com/whiskies/blair-athol/blair-athol-15-year-old-1998-cask-10342-old-particular-douglas-laing-whisky/)</li>
-    <li>[Ardmore Traditional (46%)](https://www.masterofmalt.com/whiskies/ardmore-traditional-whisky/)</li>
-    <li>[GlenDronach (21 year, 48%)](https://www.masterofmalt.com/whiskies/glendronach-21-year-old-parliament-whisky/)</li>
-    <li>[Springbank Calvados Wood Finish (12 year, 53%)](https://www.masterofmalt.com/whiskies/springbank/springbank-12-year-old-calvados-wood-finish-whisky/)</li>
-</ul>
+- [Balvenie (12 year, 40%)](https://www.masterofmalt.com/whiskies/balvenie/balvenie-12-year-old-doublewood-whisky/)
+- [Glenburgie (18 year, 43%)](https://www.masterofmalt.com/whiskies/glenburgie/glenburgie-18-year-old-19995-casks-6477-6448-signatory-whisky/)
+- [BenRiach Sauternes Finish (16 year, 46%)](https://www.masterofmalt.com/whiskies/benriach-16-year-old-sauternes-finish-whisky/)
+- [Blair Athol (15 year, 48%)](https://www.masterofmalt.com/whiskies/blair-athol/blair-athol-15-year-old-1998-cask-10342-old-particular-douglas-laing-whisky/)
+- [Ardmore Traditional (46%)](https://www.masterofmalt.com/whiskies/ardmore-traditional-whisky/)
+- [GlenDronach (21 year, 48%)](https://www.masterofmalt.com/whiskies/glendronach-21-year-old-parliament-whisky/)
+- [Springbank Calvados Wood Finish (12 year, 53%)](https://www.masterofmalt.com/whiskies/springbank/springbank-12-year-old-calvados-wood-finish-whisky/)
 
 {% include caption.html
     width='420'
