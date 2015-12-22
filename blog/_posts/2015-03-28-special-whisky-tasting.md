@@ -3,8 +3,6 @@ id: 2185
 title: Special Whisky Tasting
 author: Rik
 layout: post
-guid: http://csbnw.no-ip.org:38/?post_type=ai1ec_event&#038;p=2185&#038;instance_id=
-ai1ec_banner_image: null
 ---
 De oplettende lezer zal weten dat het nu voorjaarsvakantie bij de University of St Andrews is. Omdat veel studenten dan huiswaarts keren, organiseren de verschillende verenigingen gedurende deze twee weken (!) geen activiteiten. Zo kon het ook gebeuren dat wij als hardwerkende promovendi extra lang op de volgende whisky tasting (volgende week) moesten wachten.
 

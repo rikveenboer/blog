@@ -3,8 +3,6 @@ id: 3040
 title: Kingsbarn Distillery Tour
 author: Rik
 layout: post
-guid: http://csbnw.no-ip.org:38/?post_type=ai1ec_event&#038;p=3040
-ai1ec_banner_image: null
 ---
 Na een aantal zelfgeorganiseerde whisky proeverijen beschouw ik mijzelf en een aantal collega's als een redelijk serieus whisky-genootschap. We hadden het er al vaker over gehad, maar vandaag zijn we daadwerkelijk bij de nieuwe[ Kingsbarns distilleerderij](http://www.kingsbarnsdistillery.com/distillery/) nabij St Andrews langsgegaan voor een tour.
 

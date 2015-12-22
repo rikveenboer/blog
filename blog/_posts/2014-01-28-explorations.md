@@ -3,7 +3,6 @@ id: 429
 title: Explorations (1)
 author: Rik
 layout: post
-guid: /?p=429
 ---
 Hoewel St Andrews helemaal niet zo heel groot is, blijkt het een aanzienlijke klus om het volledig te verkennen. Dit kan op verschillende manieren en het is nog te vroeg om een voorkeur uit te spreken. Te voet zijn er verschillende routes van mijn kamer naar het centrum. Hoewel het leeuwendeel van dit tochtje langs woonwijken voert, valt er genoeg te zien. Er zit behoorlijk wat verschil in de architectuur van de verschillende huizen. In het centrum ontdek ik ook telkens nieuwe winkels, steegjes en sluiproutes. Hardlopend is het eenvoudiger om ook wat verder weg te bekijken, maar gezien mijn tempo kan ik onmogelijke alle details in me opnemen.
 

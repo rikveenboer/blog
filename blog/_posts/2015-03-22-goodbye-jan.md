@@ -3,7 +3,6 @@ id: 2180
 title: Goodbye Jan
 author: Rik
 layout: post
-guid: http://csbnw.no-ip.org:38/?post_type=ai1ec_event&#038;p=2180&#038;instance_id=
 ---
 De stage van Duitse masterstudent Jan is inmiddels op zijn einde gelopen en we hebben zijn vertrek vanavond gevierd. Na het werk zijn we een burger gaan eten bij [Rascals][1] om daarna te borrelen bij de [Vic][2]. Het is natuurlijk altijd jammer als een vriendelijke collega (ook al Duits?) vertrekt, maar dergelijke festiviteiten maken veel goed.
 

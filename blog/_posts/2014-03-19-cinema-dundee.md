@@ -3,7 +3,6 @@ id: 658
 title: Cinema Dundee
 author: Rik
 layout: post
-guid: /?post_type=ai1ec_event&#038;p=658&#038;instance_id=
 ---
 Italiaanse collega Lorenzo en Schotse collega Scott hebben een onbeperkt abbonement voor de bioscoop, dus zij zijn gespecialiseerd in efficiënte filmbezoeken. Hoewel het record staat op vier films op een dag, hebben we met er vandaag met z'n vieren (ook Japanse collega Yusuke was mee) twee gekeken:
 

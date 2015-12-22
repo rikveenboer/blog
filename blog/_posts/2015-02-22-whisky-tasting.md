@@ -3,7 +3,6 @@ id: 2144
 title: Whisky  tasting
 author: Rik
 layout: post
-guid: http://csbnw.no-ip.org:38/?post_type=ai1ec_event&#038;p=2144&#038;instance_id=
 ---
 Vandaag stond er bij de whisky tasting Glenfarclas uit de Speyside regio op het programma! We werden getrakteerd op een hele serie:
 

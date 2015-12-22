@@ -3,7 +3,6 @@ id: 721
 title: Whisky tasting
 author: Rik
 layout: post
-guid: /?post_type=ai1ec_event&#038;p=721&#038;instance_id=
 ---
 Voor deze tasting hebben we een burger gegeten bij [Rascals Bar][1], een prima plaats om een bodem te leggen!
 

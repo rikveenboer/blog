@@ -3,7 +3,6 @@ id: 1138
 title: Housewarming BBQ
 author: Rik
 layout: post
-guid: /?post_type=ai1ec_event&#038;p=1138&#038;instance_id=
 ---
 Italiaanse collega's Danilla en Leonardo hebben een nieuw huis betrokken en dat moest gevierd worden. Ik schrijf vaak "collega", maar daarmee bedoel ik eigenlijk iedereen in het "Deparment of Chemistry". Danilla werkt in dezelfde onderzoeksgroep ook aan goud, Leonardo elders aan een heel ander onderwerp.
 

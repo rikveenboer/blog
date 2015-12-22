@@ -3,7 +3,6 @@ id: 3221
 title: Whisky Tasting
 author: Rik
 layout: post
-guid: http://csbnw.no-ip.org:38/?p=3221
 ---
 Nu de Spaanse lessen zijn afgelopen zijn de donderdagavonden weer vrij voor andere activiteiten. In princiepe is er elke donderdag training (hardlopen, intervallen) en tijdens een groot deel van het jaar om de week een whisky tasting. Deze avond was de laatste tasting van het seizoen, dus daar moest ik heen!
 

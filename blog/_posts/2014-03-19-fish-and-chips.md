@@ -3,7 +3,6 @@ id: 659
 title: Fish and chips
 author: Rik
 layout: post
-guid: /?post_type=ai1ec_event&#038;p=659&#038;instance_id=
 ---
 Huisbaas David had al eerder opgeschept dat [The Tailend][1] een van de beste Fish and Chips restaurants in Schotland is en nu heb ik er ook daadwerkelijk gegeten. Het verbaast een beetje me dat ik nu pas kennis maak met deze echte Engelse maaltijd. Hoewel ik altijd argwanend ben voor vis durfde ik het hier toch aan.
 

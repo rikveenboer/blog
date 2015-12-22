@@ -3,7 +3,6 @@ id: 2110
 title: Edinburgh Christmas market
 author: Rik
 layout: post
-guid: http://csbnw.no-ip.org:38/?post_type=ai1ec_event&#038;p=2110&#038;instance_id=
 ---
 Om de laatste zondag voor de kerstvakantie in stijl door te brengen ben ik met twee Italiaanse en een Duitse collega naar de kerstmarkt in Edinburgh gegaan. Het is altijd leuk om door het fraaie Edinburgh te lopen, maar de kerstsfeer doet daar nog een schepje bovenop.
 

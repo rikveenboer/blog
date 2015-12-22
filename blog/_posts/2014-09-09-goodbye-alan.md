@@ -3,7 +3,6 @@ id: 1206
 title: Goodbye Alan
 author: Rik
 layout: post
-guid: /?post_type=ai1ec_event&#038;p=1206&#038;instance_id=
 ---
 Vandaag was de laatste dag voor Franse collega (masterstudent) Alan. Om zijn verblijf goed af te sluiten zijn we feestelijk gaan lunchen met Schotse, Italiaanse, Griekse en Franse collega's. Omdat we elke vrijdag van 13:00 tot 14:00 group meeting hebben, werd het een late lunch, dus met flinke honger gingen we naar de [Balgove Steak Barn][1]. In deze gezellige naar hout en grill ruikende schuur hebben we een heerlijke steak gegeten. De portie vormde een volwaardige avondmaaltijd en toen we tegen 16:00 weer in het lab terugkwamen was een siÃ«sta eigenlijk veel aantrekkelijer dan nog even werken.
 

@@ -3,8 +3,6 @@ id: 3006
 title: Whisky &#038; Poker
 author: Rik
 layout: post
-guid: http://csbnw.no-ip.org:38/?post_type=ai1ec_event&#038;p=3006
-ai1ec_banner_image: null
 ---
 Het was weer tijd voor een vervolg op de [vorige zelfgeorganiseerde whisky tasting][1]!
 

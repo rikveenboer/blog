@@ -3,8 +3,6 @@ id: 2582
 title: Half Marathon
 author: Rik
 layout: post
-guid: http://csbnw.no-ip.org:38/?post_type=ai1ec_event&#038;p=2582
-ai1ec_banner_image: null
 dsq_thread_id: null
 ---
 Na maanden van training en investering in geavanceerde hardlooprusting (trail schoenen, polar horloge, nieuw shirt) was het vandaag de grootse dag van de Half DRAM: de halve marathon in Dundee!

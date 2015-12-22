@@ -3,7 +3,6 @@ id: 1253
 title: Autumn Holidays
 author: Rik
 layout: post
-guid: /?p=1253
 ---
 Aan het begin van deze herfst zijn vader en moeder bij mij op bezoek geweest in Schotland! En niet alleen in St Andrews, we hebben gelijk van de gelegenheid gebruik gemaakt om een fantastische tour door misschien wel het mooiste deel van het land te maken. Om het nog beter te maken hebben we tijdens deze vakantie steeds (bijna de hele tijd) voortreffelijk weer gehad!
 

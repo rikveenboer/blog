@@ -3,7 +3,6 @@ id: 1214
 title: Conference Glasgow
 author: Rik
 layout: post
-guid: /?post_type=ai1ec_event&#038;p=1214&#038;instance_id=
 ---
 Professor Nolan heeft mij en vier collega's (allen Italianen) naar een congres in Glasgow gestuurd, het [Universities of Scotland Inorganic Chemistry Conference](http://www2.chem.gla.ac.uk/usic2014/index.php?page=information) (USIC). Twee collega's presenteerden hun werk mondeling, twee anderen en ik presenteerden onze resultaten middels een poster. Het was nog best een opgave om een overzichtelijke poster in elkaar te klussen en op tijd te printen, maar dat is gelukt. Ik stuur de liefhebber graag een kopie per mail.
 

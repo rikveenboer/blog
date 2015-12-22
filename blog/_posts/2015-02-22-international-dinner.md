@@ -3,7 +3,6 @@ id: 2145
 title: International dinner
 author: Rik
 layout: post
-guid: http://csbnw.no-ip.org:38/?post_type=ai1ec_event&#038;p=2145&#038;instance_id=
 ---
 Het vergt een goed geheugen, maar het is op de dag af een jaar geleden dat we een [international dinner][1] hebben gedaan met collega's!
 

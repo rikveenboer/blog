@@ -3,8 +3,6 @@ id: 2356
 title: BBQ &#038; Bonfire
 author: Rik
 layout: post
-guid: http://csbnw.no-ip.org:38/?post_type=ai1ec_event&#038;p=2356
-ai1ec_banner_image: null
 ---
 Hoewel het weer minder goed was dan [vorige week][1], is de meteorologische zomer officieel begonnen en dat moest gevierd worden.
 

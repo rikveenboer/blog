@@ -3,7 +3,6 @@ id: 2854
 title: Northern Ireland
 author: Rik
 layout: post
-guid: http://csbnw.no-ip.org:38/?p=2854
 ---
 Omdat ik geen vakantiedagen wilde opnemen had ik een strakke planning gemaakt: op zaterdagochtend heen vliegen om 7 uur en op maandagochtend terug vliegen om 8 uur. Op die manier zou ik zaterdag voor 10 uur in Belfast zijn en maandag om 11 uur weer op mijn werk, een knap staaltje tijd optimalisatie? Het nadeel was natuurlijk erg vroeg opstaan!
 

@@ -3,7 +3,6 @@ id: 3038
 title: Hike Glen Clova
 author: Rik
 layout: post
-guid: http://csbnw.no-ip.org:38/?p=3038
 ---
 Onze [recente rondreis]({% post_baseurl 2015-09-20-autumn-holidays %} "Autumn Holidays") door Schotland heeft mijn exploratiedrang slechts tijdelijk vervuld dus toen de "hiking society" weer eens een trip organiseerde was ik maar wat graag van de partij. Dat mocht ook wel, want het was al meer dan een jaar geleden dat ik voor het laatst met ze [op pad]({% post_baseurl 2014-06-24-hike-blair-athol %} "Hike Blair Atholl") ben geweest.
 

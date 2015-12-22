@@ -3,7 +3,6 @@ id: 2191
 title: Whisky Tasting
 author: Rik
 layout: post
-guid: http://csbnw.no-ip.org:38/?post_type=ai1ec_event&#038;p=2191&#038;instance_id=
 ---
 De tasting vanavond werd georganiseerd door onafhankelijke bottelaar Hunter Laing, de wederhelft van Douglas Laing (zie een [vorige tasting][1]). We werden getrakteerd op een zestal bijzonder fraaie whiskies uit de [Old Malt Cask][2] serie:
 

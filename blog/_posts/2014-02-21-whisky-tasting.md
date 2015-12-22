@@ -3,7 +3,6 @@ id: 563
 title: Whisky tasting
 author: Rik
 layout: post
-guid: /?post_type=ai1ec_event&#038;p=563&#038;instance_id=
 ---
 De tasting werd deze avond verzorgd door Diageo, een grote multinational in alcoholische dranken. Onder meer bekend van Johnnie Walker (blend), Lagavulin en Talisker waren de verwachtingen hoog gespannen. Zoals gebruikelijk worden alleen malts aangeboden en er was gekozen om een greep uit het assortiment van Talisker varianten te serveren:
 

@@ -3,7 +3,6 @@ id: 566
 title: Whisky tasting
 author: Rik
 layout: post
-guid: /?post_type=ai1ec_event&#038;p=566&#038;instance_id=
 ---
 De meest uitgebreide tasting dtot nu toe, met maar liefst zeven whiskies van drie verschillende distilleerderijen. Allen behorend tot de [Morrison Bowmore Distillers](http://www.morrisonbowmore.co.uk/):
 <ul>

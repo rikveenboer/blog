@@ -3,7 +3,6 @@ id: 2137
 title: Whisky tasting
 author: Rik
 layout: post
-guid: http://csbnw.no-ip.org:38/?post_type=ai1ec_event&#038;p=2137&#038;instance_id=
 ---
 Nu het tweede semester van het collegejaar 2014/2015 op de universiteit is begonnen, gaan de normale dingen weer van start. Zo ook de langverwachte tweewekelijkse whisky tastings.
 
