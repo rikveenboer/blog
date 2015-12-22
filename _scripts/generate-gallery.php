@@ -1,5 +1,5 @@
 <?php
-require __DIR__ . '/../vendor/autoload.php';
+require __DIR__ . '/../_php/autoload.php';
 
 use Symfony\Component\Console\Application;
 use Symfony\Component\Console\Input\ArgvInput;
@@ -195,7 +195,9 @@ $oConsole
                 $oOutput->write('    <comment>markdown</comment>');
                 $aMatter = [
                     'layout' => $sLayout,
-                    'title' => isset($aPhoto['title']) ? $aPhoto['title'] : null,
+                    'gallery' => $sGallery,
+                    'file' => basename($aPhoto['path'], '.jpg'),
+                    'title' => isset($aPhoto['title']) ? $aPhoto['title'] : '',
                     'date' => $aPhoto['date']->format('Y-m-d H:i:s'),
                     'ordering' => $aPhoto['ordering']
                 ];
@@ -214,11 +216,11 @@ $oConsole
                 }
 
                 if (isset($aPhotos[$i - 1])) {
-                    $aMatter['previous'] = '/gallery/' . $sGallery . '/' . $aPhotos[$i - 1]['id'];
+                    $aMatter['previous'] = $aPhotos[$i - 1]['id'];
                 }
 
                 if (isset($aPhotos[$i + 1])) {
-                    $aMatter['next'] = '/gallery/' . $sGallery . '/' . $aPhotos[$i + 1]['id'];
+                    $aMatter['next'] = $aPhotos[$i + 1]['id'];
                 }
 
                 if (isset($aPhoto['latitude'])) {
@@ -314,7 +316,7 @@ $oConsole
 </div>
 {%% include gallery_list.html gallery='%s' %%}
 EOF
-        , (empty($aGallery['description']) ? '' : $aGallery['description']), implode('&middot;', $aLinks), $sGallery);
+        , (empty($aGallery['description']) ? '' : $aGallery['description']), implode(' &middot; ', $aLinks), $sGallery);
         file_put_contents(
             $sRenderPath . '/index.html',
             '---' . "\n" . yamlDump($aMatter) . '---' . "\n" . $sContents

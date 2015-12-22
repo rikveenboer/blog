@@ -13,13 +13,13 @@ layout: post
         </div>
         <ul style="margin-top:0;">
             {% if page.previous %}
-                <li><a href="/{{ site.baseurl }}{{ page.previous }}.html" rel="prev">&nbsp;&larr;&nbsp;</a></li>
+                <li><a href="/{{ site.baseurl }}/gallery/{{ page.gallery }}/{{ page.previous }}.html" rel="prev">&nbsp;&larr;&nbsp;</a></li>
             {% else %}
                 <li><span class="noanchor">&nbsp;&larr;&nbsp;</span></li>
             {% endif %}
 
             {% if page.next %}
-                <li><a href="/{{ site.baseurl }}{{ page.next }}.html" rel="next">&nbsp;&rarr;&nbsp;</a></li>
+                <li><a href="/{{ site.baseurl }}/gallery/{{ page.gallery }}/{{ page.next }}.html" rel="next">&nbsp;&rarr;&nbsp;</a></li>
             {% else %}
                 <li><span class="noanchor">&nbsp;&rarr;&nbsp;</span></li>
             {% endif %}
@@ -94,13 +94,13 @@ layout: post
         <div class="meta-navigate screen-only">
             {% if page.next %}
                 <div style="float:right;">
-                    <a href="/{{ site.baseurl }}{{ page.next }}.html" rel="next">Next Photo &raquo;</a>
+                    <a href="/{{ site.baseurl }}/gallery/{{ page.gallery }}/{{ page.next }}.html" rel="next">Next Photo &raquo;</a>
                 </div>
             {% endif %}
 
             {% if page.previous %}
                 <div style="float:left;">
-                    <a href="/{{ site.baseurl }}{{ page.previous }}.html" rel="prev">&laquo; Previous</a>
+                    <a href="/{{ site.baseurl }}/gallery/{{ page.gallery }}/{{ page.previous }}.html" rel="prev">&laquo; Previous</a>
                 </div>
             {% endif %}
 

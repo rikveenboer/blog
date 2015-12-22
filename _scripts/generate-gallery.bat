@@ -1,5 +1,5 @@
 set root=%~dp0..
-php -dmemory_limit=1G %root%/_scripts/convert.php ^
+php -dmemory_limit=1G %root%/_scripts/generate-gallery.php ^
     %1 ^
     %2 ^
     %root%/asset/gallery ^
