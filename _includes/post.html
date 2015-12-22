@@ -1,0 +1,22 @@
+<section itemscope itemtype="http://schema.org/BlogPosting">
+    <header>
+        <div class="timeline">
+            {% if post.date %}
+                <time datetime="{{ post.date|date_to_xmlschema }}" title="{{ post.date|date_to_xmlschema }}"><strong>{{ post.date|date:"%b %d"|upcase }}</strong><br />{{ post.date|date:"%Y" }}</time>
+            {% endif %}
+            {% if post.location %}
+                <a href="https://maps.google.com/maps?hl=en&amp;ll={{ post.location.latitude }},{{ post.location.longitude }}&amp;t=w&amp;z=12"><img alt="map" height="49" src="https://maps.googleapis.com/maps/api/staticmap?center={{ post.location.latitude }},{{ post.location.longitude }}&amp;zoom=9&amp;size=98x98&amp;sensor=false" title="{{ post.location.title }}" width="49" /></a>
+            {% endif %}
+            {% if post.code %}
+                <a href="{{ post.code }}"><img alt="code" height="49" src="{{ site.static_prefix }}/icon/code.png" width="49" /></a>
+            {% endif %}
+        </div>
+        <h1>
+            <span itemprop="name">{{ post.title }}</span>
+            <small class="print-only" itemprop="datePublished" content="{{ post.date|date:'%F') }}">{{ post.date|date:'%A, %B %d, %Y' }}</small>
+        </h1>
+    </header>
+    <section class="post-content" itemprop="articleBody">
+        {{ post.content }}
+    </section>
+</section>

@@ -13,24 +13,28 @@ tags: blog scotland chemistry phd
 </section>
 
 {% for post in paginator.posts %}
-    <section>
-        <header>
-            <div class="timeline">
-                <time datetime="{{ post.date|date_to_xmlschema }}"><strong>{{ post.date|date:"%b %d"|upcase }}</strong><br />{{ post.date|date:"%Y" }}</time>
-            </div>
-            <h1><a href="/{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-            {% if post.description %}
-                <div class="meta" style="margin-bottom:0;margin-top:0;">{{ post.description }}</div>
-            {% endif %}
-        </header>
-    </section>
+    {% include post_detail.html %}
 {% endfor %}
+
+{% if paginator.total_pages > 1 %}
+<ul class="pager">
+    {% if paginator.previous_page %}
+    <a href="/{{ site.baseurl }}{{ paginator.previous_page_path }}">{{ site.previous_page }}</a>
+    {% endif %}
+    {% if paginator.previous_page and paginator.next_page %}
+    &nbsp;|&nbsp;
+    {% endif %}
+    {% if paginator.next_page %}
+    <a href="/{{ site.baseurl }}{{ paginator.next_page_path }}">{{ site.next_page }}</a>
+    {% endif %}
+</ul>
+{% endif %}
 
 {% if paginator.next_page %}
     <section>
         <header>
-            <h1><a href="/blog/">more posts &rarr;</a></h1>
-            <div class="meta" style="margin-bottom:0;margin-top:0;">See the full list of {{ site.posts.size }} posts.</div>
+            <h1><a href="/{{ site.baseurl }}/blog/">{{ site.all_posts }}</a></h1>
+            <div class="meta">{{ site.all_posts_description | replace:'#',site.posts.size }}</div>
         </header>
     </section>
 {% endif %}

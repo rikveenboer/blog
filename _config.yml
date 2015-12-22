@@ -11,10 +11,17 @@ disqus: boukefalos
 analytics: UA-46375339-1
 maps: AIzaSyCyIwGR-F48dFjAbwNr9JdOsfUYaUQxz1s
 
+# pagination
+paginate: 3
+all_posts: 'Alle posts &rarr;'
+all_posts_description: 'Bekijk alle # posts.'
+read_more: '&raquo; Verder lezen...'
+previous_page: '&larr; Vorige pagina'
+next_page: 'Volgende pagina &rarr;'
+
 # other
 gems: [jekyll-paginate]
 markdown: redcarpet
-paginate: 7
 highlighter: pygments
 safe: false
 environment: dev

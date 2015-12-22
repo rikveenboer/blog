@@ -20,12 +20,6 @@
     <section class="post-content" itemprop="articleBody">
         {{ content }}
     </section>
-    <div class="meta">
-        <div class="meta-social screen-only">
-            <a href="https://twitter.com/share" class="twitter-share-button" data-via="dpb587">Tweet</a>
-            <div class="g-plusone" data-size="medium" data-width="300"></div>
-        </div>
-    </div>
     {% if false != page.comments %}
         {% include disqus.html %}
     {% endif %}

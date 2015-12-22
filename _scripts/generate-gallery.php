@@ -316,7 +316,7 @@ $oConsole
 </div>
 {%% include gallery_list.html gallery='%s' %%}
 EOF
-        , (empty($aGallery['description']) ? '' : $aGallery['description']), implode(' &middot; ', $aLinks), $sGallery);
+        , (empty($aGallery['description']) ? '' : $aGallery['description']), implode('&nbsp;|&nbsp;', $aLinks), $sGallery);
         file_put_contents(
             $sRenderPath . '/index.html',
             '---' . "\n" . yamlDump($aMatter) . '---' . "\n" . $sContents
