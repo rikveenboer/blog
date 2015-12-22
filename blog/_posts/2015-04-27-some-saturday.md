@@ -4,7 +4,6 @@ title: Some Saturday
 author: Rik
 layout: post
 guid: http://csbnw.no-ip.org:38/?p=2318
-  - Uncategorized
 ---
 Hier in St Andrews gebeurd eigenlijk altijd wel wat, maar toch zijn sommige dagen noemenswaardiger dan anderen. Wat als een normale zaterdag begon (NRC next op tablet lezen), ontvouwde zich in een actief drieluik: hardlopen, bbq'en en borrelen! Deze activiteiten vonden verspreid over de ochtend, middag en avond plaats.
 

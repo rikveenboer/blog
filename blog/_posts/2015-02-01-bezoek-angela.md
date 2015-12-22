@@ -4,7 +4,6 @@ title: Bezoek Angela
 author: Rik
 layout: post
 guid: http://csbnw.no-ip.org:38/?p=2131
-  - Uncategorized
 ---
 Angela en Peeter doen in Stockholm aan korfbal, maar helaas is de sport daar niet zo populair als in Nederland. Het was een erg goed idee om aan een toernooi in Edinburgh mee te doen, want zo hadden ze gelijk gelegenheid om bij mij op bezoek te komen.
 
@@ -25,5 +24,5 @@ Donderdag zijn Angela en Peeter met de bus gaan touren bij de aan zee gelegen do
 
 Op vrijdagochtend zat het er al weer op en hebben Angela en Peeter hun lange reis Stockholm-waarts ingezet. Het was erg gezellig!
 
- [1]: http://csbnw.no-ip.org:38{% post_link 2014-02-08-internationals-trip %} "Internationals trip"
+ [1]: http://csbnw.no-ip.org:38{% post_baseurl 2014-02-08-internationals-trip %} "Internationals trip"
  [2]: http://www.imdb.com/title/tt2788710/

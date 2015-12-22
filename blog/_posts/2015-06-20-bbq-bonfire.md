@@ -16,4 +16,4 @@ Geloof het of niet, maar behoorlijk toevalligerwijs kwam ik Fenna (een vriendin 
 
 Ik besef dat ik deze berichten vaak met een soort conclusie afsluit en zo ook nu: het is duidelijk dat er in St Andrews altijd leuke dingen gebeuren en het is klein genoeg om altijd wel bekenden tegen te komen.
 
- [1]: {% post_link 2015-06-20-beach-bbq-2 %} "Beach BBQ"
+ [1]: {% post_baseurl 2015-06-20-beach-bbq %} "Beach BBQ"

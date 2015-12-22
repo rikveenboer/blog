@@ -26,4 +26,4 @@ Zoals gebruikelijk wordt de meest rokerige whisky als laatste geproefd omdat die
 
  [1]: http://www.tripadvisor.co.uk/Restaurant_Review-g186533-d2637486-Reviews-Rascals_Bar_St_Andrews-St_Andrews_Fife_Scotland.html
  [2]: http://www.benromach.com/
- [3]: {% post_link 2014-04-08-whisky-tasting-5 %} "Whisky tasting"
+ [3]: {% post_baseurl 2014-04-08-whisky-tasting %} "Whisky tasting"

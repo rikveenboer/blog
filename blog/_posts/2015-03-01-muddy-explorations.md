@@ -4,7 +4,6 @@ title: Muddy Explorations
 author: Rik
 layout: post
 guid: http://csbnw.no-ip.org:38/?p=2153
-  - Uncategorized
 ---
 Na mijn avontuurlijke hardloopavontuur van [vorige week][1], had ik ook vandaag zin om al hardlopend op verkenning te gaan. Terwijl het weer vorige week behoorlijk slecht was, was het nu overwegend zonnig met harde wind. Ik had dan ook niet verwacht onderweg zoveel modder tegen te komen!
 
@@ -18,5 +17,5 @@ Op deze manier is zo'n ronde hardlopen gelijke delen rennen, exploreren en modde
 
 Het is duidelijk dat ik me verkennend niet snel verveel en ook langere afstanden met plezier loop. Ik was zo'n 1 uur en 40 minuten onderweg en heb daarnaast nog zo'n 10 minuten gestopt om van het uitzicht te genieten. Laat ik me binnenkort op wat serieuzere trainingen richten!
 
- [1]: http://csbnw.no-ip.org:38{% post_link 2015-02-22-half-marathon %}
+ [1]: http://csbnw.no-ip.org:38{% post_baseurl 2015-02-22-half-marathon %}
  [2]: http://www.mapmyrun.com/routes/view/641755644

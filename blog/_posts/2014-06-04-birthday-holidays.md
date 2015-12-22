@@ -4,7 +4,6 @@ title: Birthday Holidays
 author: Rik
 layout: post
 guid: /?p=1019
-  - Uncategorized
 ---
 Na de [kerstvakantie][1] ben ik al vijf maanden niet in Nederland geweest! Ook voor Pasen bleef ik binnen het Verenigd Koninkrijk en (de week ervoor) heb ik met Bram en Sanne Londen [bezocht][2]. Voor onze verjaardag was het extra feestelijk om naar Uitgeest te gaan en van die gelegenheid heb ik een soort mini-vakantie gemaakt: van donderdagavond tot maandagmiddag. Het is nog wel een vreemd idee (binnestebuiten) dat naar Nederland gaan nu vakantie is.
 
@@ -18,5 +17,5 @@ Zondagochtend was het tijd voor nog meer sport en hebben we in het duin hardgelo
 
 Na vier nachten in Uitgeest was het tijd om rond het middaguur weer naar Edinburgh te vliegen. Het was een topweekend!
 
- [1]: {% post_link 2014-01-12-christmas-holidays %} "Christmas holidays"
- [2]: {% post_link 2014-04-14-london %} "London"
+ [1]: {% post_baseurl 2014-01-12-christmas-holidays %} "Christmas holidays"
+ [2]: {% post_baseurl 2014-04-14-london %} "London"

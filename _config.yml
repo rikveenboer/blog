@@ -6,8 +6,7 @@ email: rik.veenboer@gmail.com
 github: https://github.com/boukefalos
 disqus: boukefalos
 analytics: UA-46375339-1
-gems: [jekyll-paginate]
-markdown: kramdown
+markdown: redcarpet
 paginate: 7
 highlighter: pygments
 safe: false

@@ -4,7 +4,6 @@ title: Coastal path
 author: Rik
 layout: post
 guid: http://csbnw.no-ip.org:38/?p=3227
-  - Uncategorized
 ---
 De Schotse winter is vreemd, het ene weekend sneeuwt het en liggen de temperaturen rond het vriespunt, het volgende waait het alsof we nog wat herfst tegoed hebben en is het bijna 10 °C.
 

@@ -4,7 +4,6 @@ title: Summer Holidays
 author: Rik
 layout: post
 guid: /?p=1197
-  - Uncategorized
 ---
 Deze zomer heb ik een lange week (11 dagen) vakantie genomen om terug te gaan naar Nederland. Dit gaf genoeg tijd om talloze leuke dingen te doen en zo houd ik nog vakantiedagen over om door Schotland te reizen.
 

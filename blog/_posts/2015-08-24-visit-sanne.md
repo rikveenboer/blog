@@ -4,7 +4,6 @@ title: Visit Sanne
 author: Rik
 layout: post
 guid: http://csbnw.no-ip.org:38/?p=2856
-  - Uncategorized
 ---
 Sanne heeft deze zomer een prachtig lang weekend (donderdag tot en met maandag) uitgezocht om mij in Schotland te bezoeken. Het was erg gezellig om samen op pad te gaan. We hebben eigenlijk zo veel leuke dingen gedaan en bezocht dat ik mezelf ook op vakantie waande! Lees het verslag van dag tot dag:
 
@@ -24,13 +23,13 @@ Qua architectuur hadden we op de terugweg twee stops in Perth gepland, respectie
 
 [nggallery id=92]
 
-Na het laatste stuk terug naar St Andrews waren we wel aan een lui hapje eten toe. Tot onze teleurstelling werd er in [The Central](http://www.taylor-walker.co.uk/pub/central-st-andrews/s1874/) geen eten geserveerd, dus het geplande pubmaal ging aan onze neuzen voorbij. Als alternatief zijn we net als [vorig jaar](http://csbnw.no-ip.org:38{% post_link 2014-09-27-autumn-holidays %} "Autumn Holidays") bij het Italiaanse Zizzi's gaan eten. Helaas was ik een beetje vergeten dat dit een ietwat prijzige en jupperige tent is geworden, maar gelukkig smaakten onze Calzone pizza's goed. Al met al konden we reflecteren op een zeer welbestede dag.
+Na het laatste stuk terug naar St Andrews waren we wel aan een lui hapje eten toe. Tot onze teleurstelling werd er in [The Central](http://www.taylor-walker.co.uk/pub/central-st-andrews/s1874/) geen eten geserveerd, dus het geplande pubmaal ging aan onze neuzen voorbij. Als alternatief zijn we net als [vorig jaar](http://csbnw.no-ip.org:38{% post_baseurl 2014-09-27-autumn-holidays %} "Autumn Holidays") bij het Italiaanse Zizzi's gaan eten. Helaas was ik een beetje vergeten dat dit een ietwat prijzige en jupperige tent is geworden, maar gelukkig smaakten onze Calzone pizza's goed. Al met al konden we reflecteren op een zeer welbestede dag.
 
 <strong>Zondag</strong> Na een goede nacht slapen hadden we met opnieuw schitterende weer een dag met activiteiten dichter bij huis op het programma staan: een tour langs de zuidkust van Fife (de provincie waarin St Andrews ligt). Na een kijkje in de haven en het coastal path van Pittenweem hebben we ons getrakteerd op een kopje ijskoffie bij [Cocoa Tree](http://www.pittenweemchocolate.co.uk/). Uiteraard hebben we deze vergezeld laten gaan van heerlijke huisgemaakte Scone en worteltaart: smullen!
 
 [nggallery id=93]
 
-De volgende stop was bij het naburige Anstruther. Het concept van dit vissersdorp is hetzelfde: coastal path, haven en grappige huizen. Ook hier hebben we lekker rondgelopen en van het weer genoten op de pier. Het was wel oppassen geblazen, want de redelijke harde wind stuwde de opkomende vloed bijna over ondergetekende heen. Helemaal in de zee/vissers stemming (ook getuige mijn T-shirt) hebben we gelunchd met fish&chips van de beroemde [Fish Bar](http://www.anstrutherfishbar.co.uk/). Zo leek dit bezoek wel op dat van [vorig jaar](http://csbnw.no-ip.org:38{% post_link 2014-05-23-anstruther %} "Anstruther"), maar van mij betreft mag dit op het standaard programma van ieder Schotland bezoek!
+De volgende stop was bij het naburige Anstruther. Het concept van dit vissersdorp is hetzelfde: coastal path, haven en grappige huizen. Ook hier hebben we lekker rondgelopen en van het weer genoten op de pier. Het was wel oppassen geblazen, want de redelijke harde wind stuwde de opkomende vloed bijna over ondergetekende heen. Helemaal in de zee/vissers stemming (ook getuige mijn T-shirt) hebben we gelunchd met fish&chips van de beroemde [Fish Bar](http://www.anstrutherfishbar.co.uk/). Zo leek dit bezoek wel op dat van [vorig jaar](http://csbnw.no-ip.org:38{% post_baseurl 2014-05-23-anstruther %} "Anstruther"), maar van mij betreft mag dit op het standaard programma van ieder Schotland bezoek!
 
 [nggallery id=94]
 

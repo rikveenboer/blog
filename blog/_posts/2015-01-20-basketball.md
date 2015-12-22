@@ -9,4 +9,4 @@ Vanavond hebben we een goede traditie voorgezet: met collega's basketballen in h
 
 Het lijkt (en is ook) best vermoeiend om te sporten na een hele dag werken, maar ook wel erg leuk. Het is natuurlijk extra bijzonder omdat er vele nationaliteiten vertegenwoordigd zijn: Nederlands, Duits, Frans, Italiaans, Spaans en Libanees. Met mijn team van vijf spelers hebben we het andere team van zes spelers alle hoeken van het veld laten zien. Laten we hopen dat we volgende week weer een veld in de sporthal kunnen reserveren om de tegenstander een revenche te geven.
 
- [1]: http://csbnw.no-ip.org:38{% post_link 2014-10-05-sports-2 %} "Sports (2)"
+ [1]: http://csbnw.no-ip.org:38{% post_baseurl 2014-10-05-sports %} "Sports (2)"

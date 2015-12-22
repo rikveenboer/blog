@@ -4,7 +4,6 @@ title: Autumn Holidays
 author: Rik
 layout: post
 guid: /?p=1253
-  - Uncategorized
 ---
 Aan het begin van deze herfst zijn vader en moeder bij mij op bezoek geweest in Schotland! En niet alleen in St Andrews, we hebben gelijk van de gelegenheid gebruik gemaakt om een fantastische tour door misschien wel het mooiste deel van het land te maken. Om het nog beter te maken hebben we tijdens deze vakantie steeds (bijna de hele tijd) voortreffelijk weer gehad!
 
@@ -65,7 +64,7 @@ Aangekomen bij het [Gartmore House](http://www.gartmorehouse.com/) nabij Loch Lo
 Gartmore House
 [/caption]
 
-De laatste dag van onze tour had nog vele leuke bestemmingen in petto. We hebben een bezoek gebracht aan de [Deanston distillery](http://deanstonmalt.com/), gevestigd in een prachtig oud gebouw en gelegen aan de rivier Teith. Hier waren we net te laat voor een tour, maar gelukkig troffen we een enorm vriendelijke mevrouw in de bijbehorende winkel. Zij gaf ons een korte privé rondleiding langs de distillatieruimte en een rijpingskelder. Daarbij legde ze ons het hele proces van het maken van whisky nog eens uit. Deze goede ervaring rijker hebben we het [Doune castle](http://www.historic-scotland.gov.uk/propertyresults/propertyoverview.htm?PropID=PL_092) en het [Stirling castle](http://www.stirlingcastle.gov.uk/) bekeken. In Stirling hebben we het centrum bekeken en het ([eerder bezochte]({% post_link 2014-02-08-internationals-trip %} "Internationals trip")) [Wallace Monument](http://www.nationalwallacemonument.com/) van een afstandje aanschouwd. Hierna hebben we de terugweg ingezet naar St Andrews. Na een zelfgekookt maal tortilla's waren we mooi op tijd voor de [whisky tasting]({% post_link 2014-09-26-whisky-tasting-8 %} "Whisky tasting"), wat een planning!
+De laatste dag van onze tour had nog vele leuke bestemmingen in petto. We hebben een bezoek gebracht aan de [Deanston distillery](http://deanstonmalt.com/), gevestigd in een prachtig oud gebouw en gelegen aan de rivier Teith. Hier waren we net te laat voor een tour, maar gelukkig troffen we een enorm vriendelijke mevrouw in de bijbehorende winkel. Zij gaf ons een korte privé rondleiding langs de distillatieruimte en een rijpingskelder. Daarbij legde ze ons het hele proces van het maken van whisky nog eens uit. Deze goede ervaring rijker hebben we het [Doune castle](http://www.historic-scotland.gov.uk/propertyresults/propertyoverview.htm?PropID=PL_092) en het [Stirling castle](http://www.stirlingcastle.gov.uk/) bekeken. In Stirling hebben we het centrum bekeken en het ([eerder bezochte]({% post_baseurl 2014-02-08-internationals-trip %} "Internationals trip")) [Wallace Monument](http://www.nationalwallacemonument.com/) van een afstandje aanschouwd. Hierna hebben we de terugweg ingezet naar St Andrews. Na een zelfgekookt maal tortilla's waren we mooi op tijd voor de [whisky tasting]({% post_baseurl 2014-09-26-whisky-tasting %} "Whisky tasting"), wat een planning!
 
 Het was een geslaagde avond, maar helaas had ik voor de volgende dag geen vrij gevraagd, dus moest ik gewoon werken. Deze dag hebben we allen op ons eigen manier ingevuld om 's avonds weer te treffen voor een laatste avondmaal bij [The Rule](http://www.the-rule.co.uk/the-rule/home/the-rule-pub-diner.html) en een pint bij de [Central](http://www.taylor-walker.co.uk/pub/central-st-andrews/s1874/).
 

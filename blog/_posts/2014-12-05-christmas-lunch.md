@@ -15,4 +15,4 @@ Het moge duidelijk zijn, we hebben ons nog erg vermaakt en toen we tegen vijf uu
 
  [1]: http://dollshousestandrews.co.uk/
  [2]: http://www.forgansstandrews.co.uk/
- [3]: http://csbnw.no-ip.org:38{% post_link 2014-12-05-whisky-tasting-12 %} "Whisky tasting"
+ [3]: http://csbnw.no-ip.org:38{% post_baseurl 2014-12-05-whisky-tasting %} "Whisky tasting"

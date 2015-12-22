@@ -4,7 +4,6 @@ title: Christmas Holidays
 author: Rik
 layout: post
 guid: /?p=418
-  - Uncategorized
 ---
 Na alweer twee maanden in Schotland was het tijd voor kerstvakantie! Wat was het leuk om op [Schiphol][1] door Bram en Sanne opgehaald te worden in Brams eigen auto. Tijdens de twee weken in Nederland gevuld met feestelijkheden hebben we diverse activiteiten ondernomen. Tijdens een rit langs Uitgeestse weilanden met laagstaande zon was de gelijkenis met het begrasde Schotse heuvelland onmiskenbaar, beiden erg fraai! Een trip naar de pier in Wijk aan Zee met storm leek een hachelijke onderneming, maar was zeker de moeite waard. Hoewel de pier in St Andrews een touristische attractie is, valt zijn formaat toch in het niet vergeleken bij deze aan de andere kant van de Noordzee. Tijdens een sportieve ronde hardlopen door het duin kon ik nog even genieten van dat soort landschap. Hogere duinen en meer bos dan in de buurt van St Andrews, maar de heuvels (kruisberg lijkt een overdreven naam) vallen dan toch wat tegen.
 
@@ -20,5 +19,5 @@ Een vakantie vol gevarieerde bezigheden dus! Naar goed gebruik hebben we erg vee
 
 Nu terug in [Schotland][2] begint het op het werk ook al weer een beetje te wennen. Ik houd jullie op de hoogte!
 
- [1]: {% post_link 2013-12-07-flight-edinburgh-amsterdam %} "Flight Edinburgh â Amsterdam"
- [2]: {% post_link 2013-12-08-flight-amsterdam-edinburgh %} "Flight Amsterdam â Edinburgh"
+ [1]: {% post_baseurl 2013-12-07-flight-edinburgh-amsterdam %} "Flight Edinburgh â Amsterdam"
+ [2]: {% post_baseurl 2013-12-08-flight-amsterdam-edinburgh %} "Flight Amsterdam â Edinburgh"

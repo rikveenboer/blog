@@ -20,4 +20,4 @@ De Aberfeldy zou ik omschrijven als een allround whisky, erg lekker, maar niet b
 Bij de Balvenie whisky kregen we een goed verhaal, al kon dat de hoge verwachtingen bij de veelbelovende naam niet helemaal waarmaken. Hoewel deze whisky is gerijpt in gebruikte rumvaten, was daar niet bijzonder veel van terug te proeven. Nu ik dit schrijf kan ik me weinig herinneren van de Glenlossie, hoewel de hoge leeftijd in princiepe hoge verwachtingen zou scheppen. Of mijn geheugen is aangetast door de voorafgaande whiskies, of dat hij mij niet zo aansprak blijft onduidelijk.
 
  [1]: https://www.facebook.com/groups/124805450890618/
- [2]: {% post_link 2014-04-08-whisky-tasting-5 %}
+ [2]: {% post_baseurl 2014-04-08-whisky-tasting %}

@@ -17,4 +17,4 @@ Behalve alle voedingswaren was het bovenal een hele gezellige avond. Als we een 
 
 Het is duidelijk dat hele "internationale" hier welig tiert, en dat is maar wat leuk!
 
- [1]: http://csbnw.no-ip.org:38{% post_link 2014-02-21-internationals-dinner %}
+ [1]: http://csbnw.no-ip.org:38{% post_baseurl 2014-02-21-internationals-dinner %}

@@ -8,4 +8,4 @@ ai1ec_banner_image: null
 ---
 Opnieuw een gezellig vervolg op de vorige [zelfgeorganiseerde whisky tasting][1]!
 
- [1]: http://csbnw.no-ip.org:38{% post_link 2015-08-27-whisky-poker-2 %} "Whisky & Poker"
+ [1]: http://csbnw.no-ip.org:38{% post_baseurl 2015-08-27-whisky-poker %} "Whisky & Poker"

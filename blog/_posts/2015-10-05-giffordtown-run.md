@@ -10,4 +10,4 @@ Ik heb met een delegatie van de Cross Country hardloopclub meegedaan aan een off
 
  [1]: http://www.fifeac.org/events/fife-ac-events/giffordtown-5k/908-giffordtown-5k-2015.html
  [2]: https://www.facebook.com/groups/255893397761702/
- [3]: {% post_link 2015-10-06-running %} "Running"
+ [3]: {% post_baseurl 2015-10-06-running %} "Running"

@@ -16,7 +16,7 @@ Na verschillende pogingen is het gelukt om een oude fiets van mijn huisbaas te r
     text='De Lade zwelt aan tot een kolkende rivier.'
 %}
 
-Met een kast vol lekkernijen leek niets mij meer in de weg te staan van een verkenningstocht op de fiets. Alleen het weer zit soms tegen: Schotse winter is net Nederlandse herfst. Tijdens een paar uur goed weer ben ik op advies van een collega naar [Strathkinness]({% post_link 2014-01-27-strathkinness %} "Strathkinness") gefietst.
+Met een kast vol lekkernijen leek niets mij meer in de weg te staan van een verkenningstocht op de fiets. Alleen het weer zit soms tegen: Schotse winter is net Nederlandse herfst. Tijdens een paar uur goed weer ben ik op advies van een collega naar [Strathkinness]({% post_baseurl 2014-01-27-strathkinness %} "Strathkinness") gefietst.
 
 {% include caption.html
     width='300'
@@ -24,4 +24,4 @@ Met een kast vol lekkernijen leek niets mij meer in de weg te staan van een verk
     text='Hollandse joy in een Schots lansschap (goed kijken!)'
 %}
 
-Het succes van deze verkenning smaakt naar meer en ik hoop binnekort nog vele andere bestemmingen aan te doen. Wellicht neem ik volgende keer wel een bus naar één van de wat verder gelegen dorpen in [Fife](/?page_id=348 "Map"). Maar allereerst zullen we met collega's [Glasgow]({% post_link 2014-01-27-glasgow %} "Glasgow") gaan verkennen.
+Het succes van deze verkenning smaakt naar meer en ik hoop binnekort nog vele andere bestemmingen aan te doen. Wellicht neem ik volgende keer wel een bus naar één van de wat verder gelegen dorpen in [Fife](/?page_id=348 "Map"). Maar allereerst zullen we met collega's [Glasgow]({% post_baseurl 2014-01-27-glasgow %} "Glasgow") gaan verkennen.

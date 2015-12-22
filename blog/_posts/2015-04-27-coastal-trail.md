@@ -20,4 +20,4 @@ Al met al was het een ware onderneming, die gelukkig zonder problemen is vastgel
 
  [1]: http://www.polar.com/uk-en/products/improve_fitness/running_multisport/m400
  [2]: http://www.wiggle.co.uk/saucony-excursion-tr-8-shoes-ss15
- [3]: {% post_link 2015-12-06-coastal-path %} [4]: https://flow.polar.com/training/analysis/80640811
+ [3]: {% post_baseurl 2015-12-06-coastal-path %} [4]: https://flow.polar.com/training/analysis/80640811

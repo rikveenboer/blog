@@ -17,7 +17,7 @@ Ook Scotts ouders waren erg trots op dit fantastische resultaat en trakteerden o
 Lees ook [het nieuwsartikel][5]!
 
  [1]: http://www.60hourfilmblitz.com/
- [2]: {% post_link 2014-03-15-week-10 %} "Week 10"
+ [2]: {% post_baseurl 2014-03-15-week-10 %} "Week 10"
  [3]: https://www.youtube.com/watch?v=9bAkC8noyeU
  [4]: http://www.krispykreme.co.uk/
  [5]: http://www.thesaint-online.com/2014/03/2014-60-hour-film-blitz-showcases-the-best-in-st-andrews-student-filmmaking/

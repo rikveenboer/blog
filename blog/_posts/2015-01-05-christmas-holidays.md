@@ -7,4 +7,4 @@ guid: http://csbnw.no-ip.org:38/?post_type=ai1ec_event&#038;p=2116&#038;instance
 ---
 De kerst en oud en nieuw vakantie heb ik dit jaar in Nederland gevierd, [lees][1] er alles over!
 
- [1]: http://csbnw.no-ip.org:38{% post_link 2015-01-05-christmas-holidays-2 %} "Christmas Holidays"
+ [1]: http://csbnw.no-ip.org:38{% post_baseurl 2015-01-05-christmas-holidays %} "Christmas Holidays"

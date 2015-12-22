@@ -8,4 +8,4 @@ ai1ec_banner_image: null
 ---
 Ik ben [weer in Nederland geweest][1] voor mijn verjaardag!
 
- [1]: {% post_link 2015-06-05-birthday-holidays-2 %} "Birthday holidays"
+ [1]: {% post_baseurl 2015-06-05-birthday-holidays %} "Birthday holidays"
