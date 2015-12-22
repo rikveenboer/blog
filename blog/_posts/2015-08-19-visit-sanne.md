@@ -30,7 +30,7 @@ Na het laatste stuk terug naar St Andrews waren we wel aan een lui hapje eten to
 
 [nggallery id=93]
 
-De volgende stop was bij het naburige Anstruther. Het concept van dit vissersdorp is hetzelfde: coastal path, haven en grappige huizen. Ook hier hebben we lekker rondgelopen en van het weer genoten op de pier. Het was wel oppassen geblazen, want de redelijke harde wind stuwde de opkomende vloed bijna over ondergetekende heen. Helemaal in de zee/vissers stemming (ook getuige mijn T-shirt) hebben we gelunchd met fish&chips van de beroemde [Fish Bar](http://www.anstrutherfishbar.co.uk/). Zo leek dit bezoek wel op dat van [vorig jaar](http://csbnw.no-ip.org:38{% post_baseurl 2014-05-23-anstruther %} "Anstruther"), maar van mij betreft mag dit op het standaard programma van ieder Schotland bezoek!
+De volgende stop was bij het naburige Anstruther. Het concept van dit vissersdorp is hetzelfde: coastal path, haven en grappige huizen. Ook hier hebben we lekker rondgelopen en van het weer genoten op de pier. Het was wel oppassen geblazen, want de redelijke harde wind stuwde de opkomende vloed bijna over ondergetekende heen. Helemaal in de zee/vissers stemming (ook getuige mijn T-shirt) hebben we gelunchd met fish&chips van de beroemde [Fish Bar](http://www.anstrutherfishbar.co.uk/). Zo leek dit bezoek wel op dat van [vorig jaar](http://csbnw.no-ip.org:38{% post_baseurl 2014-05-18-edinburgh %} "Anstruther"), maar van mij betreft mag dit op het standaard programma van ieder Schotland bezoek!
 
 [nggallery id=94]
 

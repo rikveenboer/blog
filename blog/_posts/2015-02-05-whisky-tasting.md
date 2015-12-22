@@ -33,7 +33,7 @@ Het is duidelijk dat oudere whisky niet altijd beter (lees: bijzonderder, lekker
 
 Na de hoofd-tasting kregen we nog de kans om de twee Dewar's blends te proeven: [White Label][11] en [12 Year Old][11]. Zoals we bij ons bezoek al hadden geconstateert zijn dit prima blends! Helaas was de standaard vanavond talloze malen hoger gezet. Waar ik een aanwezige Wale (uit Wales) eerder had horen zeggen dat de Aberfeldy "gewoon naar whisky smaakt" (uiteraard vertaald), zei een aanwezige Nederland dat de blends "nergens naar smaken" en "niet de moeite van het opdrinken waren", zo!
 
- [1]: http://csbnw.no-ip.org:38{% post_baseurl 2015-02-01-bezoek-angela %}
+ [1]: http://csbnw.no-ip.org:38{% post_baseurl 2015-01-26-bezoek-angela %}
  [2]: https://www.lastgreatmalts.com/
  [3]: https://www.masterofmalt.com/whiskies/aberfeldy-12-year-old-whisky/
  [4]: https://www.masterofmalt.com/whiskies/aberfeldy-21-year-old-whisky/
@@ -42,4 +42,4 @@ Na de hoofd-tasting kregen we nog de kans om de twee Dewar's blends te proeven: 
  [7]: https://www.masterofmalt.com/whiskies/craigellachie/craigellachie-13-year-old-whisky/
  [8]: https://www.thewhiskyexchange.com/P-26056.aspx
  [9]: http://www.whiskybase.com/whisky/58005/23-year-old
- [10]: http://csbnw.no-ip.org:38{% post_baseurl 2014-10-15-whisky-tasting %} [11]: https://www.masterofmalt.com/whiskies/dewars-blended-scotch-whisky/
+ [10]: http://csbnw.no-ip.org:38{% post_baseurl 2014-11-13-whisky-tasting %} [11]: https://www.masterofmalt.com/whiskies/dewars-blended-scotch-whisky/

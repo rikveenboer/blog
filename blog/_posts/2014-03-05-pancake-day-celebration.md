@@ -11,4 +11,4 @@ Voordat we deze avond konden smikkelen moesten de "ponkes" eerst gebakken worden
 Omdat het allemaal nogal langzaam ging, hadden we uitgebreid de tijd om praatjes te maken. Het blijft een uitdaging om de vele nieuwe namen te onthouden, zeker met de op elkaar gelijkende aziaten. Gelukkig is dat een algemeen probleem en wordt niemand boos als je hem/haar voor de tweede (of derde) keer vraagt waar die vandaan komt en wat die in St Andrews doet. Het was goed om te horen dat ook anderen zich hadden vermaakt op de afgelopen [Internationals trip][2]. Een geslaagde avond!
 
  [1]: https://www.facebook.com/events/553355691438417
- [2]: {% post_baseurl 2013-12-08-internationals-trip %} "Internationals trip"
+ [2]: {% post_baseurl 2013-11-23-internationals-trip %} "Internationals trip"

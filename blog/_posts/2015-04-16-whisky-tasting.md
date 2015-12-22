@@ -48,6 +48,6 @@ Om af te sluiten, ik heb besloten te stoppen met het telkens zo uitgebreid rappo
  [7]: https://www.thewhiskyexchange.com/P-23948.aspx
  [8]: http://www.whiskyshopusa.com/benriach-21-year-old-authenticus-peated/
  [9]: https://www.masterofmalt.com/whiskies/benriach-12-year-old-whisky/
- [10]: {% post_baseurl 2015-02-07-whisky-tasting %} [11]: {% post_baseurl 2015-04-03-whisky-tasting %} [12]: https://www.masterofmalt.com/whiskies/glendronach-21-year-old-parliament-whisky/
+ [10]: {% post_baseurl 2015-02-05-whisky-tasting %} [11]: {% post_baseurl 2015-04-02-whisky-tasting %} [12]: https://www.masterofmalt.com/whiskies/glendronach-21-year-old-parliament-whisky/
  [13]: http://www.kingsbarnsdistillery.com/
- [14]: {% post_baseurl 2015-03-28-special-whisky-tasting %}
+ [14]: {% post_baseurl 2015-03-26-special-whisky-tasting %}

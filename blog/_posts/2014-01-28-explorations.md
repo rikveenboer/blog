@@ -15,7 +15,7 @@ Na verschillende pogingen is het gelukt om een oude fiets van mijn huisbaas te r
     text='De Lade zwelt aan tot een kolkende rivier.'
 %}
 
-Met een kast vol lekkernijen leek niets mij meer in de weg te staan van een verkenningstocht op de fiets. Alleen het weer zit soms tegen: Schotse winter is net Nederlandse herfst. Tijdens een paar uur goed weer ben ik op advies van een collega naar [Strathkinness]({% post_baseurl 2014-01-27-strathkinness %} "Strathkinness") gefietst.
+Met een kast vol lekkernijen leek niets mij meer in de weg te staan van een verkenningstocht op de fiets. Alleen het weer zit soms tegen: Schotse winter is net Nederlandse herfst. Tijdens een paar uur goed weer ben ik op advies van een collega naar [Strathkinness]({% post_baseurl 2014-01-25-strathkinness %} "Strathkinness") gefietst.
 
 {% include caption.html
     width='300'

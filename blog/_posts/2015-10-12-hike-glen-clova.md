@@ -4,7 +4,7 @@ title: Hike Glen Clova
 author: Rik
 layout: post
 ---
-Onze [recente rondreis]({% post_baseurl 2015-09-20-autumn-holidays %} "Autumn Holidays") door Schotland heeft mijn exploratiedrang slechts tijdelijk vervuld dus toen de "hiking society" weer eens een trip organiseerde was ik maar wat graag van de partij. Dat mocht ook wel, want het was al meer dan een jaar geleden dat ik voor het laatst met ze [op pad]({% post_baseurl 2014-06-24-hike-blair-athol %} "Hike Blair Atholl") ben geweest.
+Onze [recente rondreis]({% post_baseurl 2015-09-12-autumn-holidays %} "Autumn Holidays") door Schotland heeft mijn exploratiedrang slechts tijdelijk vervuld dus toen de "hiking society" weer eens een trip organiseerde was ik maar wat graag van de partij. Dat mocht ook wel, want het was al meer dan een jaar geleden dat ik voor het laatst met ze [op pad]({% post_baseurl 2014-06-22-hike-blair-athol %} "Hike Blair Atholl") ben geweest.
 
 Vandaag zijn we in de buurt van Glen Clova gaan hiken, om precies te zijn: een [route](http://www.walkhighlands.co.uk/angus/mayar-driesh.shtml) door Glen Doll, langs Corrie Fee en overtwee munro's, Driesh en Mayar (beiden hoger dan 900 meter). Na een aantal afzeggers bleven we uiteindelijk met een groepje van vijf over: mijzelf, een Franse promovendus, een Mexicaanse promovenda, een Duitse masterstudent en een mannetje dat op de universiteit de projectors onderhoudt. Een redelijk gemeleerd gezelschap dus!
 

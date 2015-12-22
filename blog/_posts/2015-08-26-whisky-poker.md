@@ -14,4 +14,4 @@ Hierna hebben we het poker aangevangen en zijn we weer overgestapt op whisky. Va
 
 Het duurt nog zo'n maand tot de officiele whisky tastings worden hervat, misschien moesten we daarvoor nog maar eens zo'n gezellig avondje organiseren.
 
- [1]: {% post_baseurl 2015-06-20-whisky-poker %} "Whisky & Poker"
+ [1]: {% post_baseurl 2015-06-18-whisky-poker %} "Whisky & Poker"

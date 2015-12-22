@@ -20,4 +20,4 @@ Zondagochtend was het tijd voor nog meer sport en hebben we in het duin hardgelo
 Na vier nachten in Uitgeest was het tijd om rond het middaguur weer naar Edinburgh te vliegen. Het was een topweekend!
 
  [1]: {% post_baseurl 2014-01-12-christmas-holidays %} "Christmas holidays"
- [2]: {% post_baseurl 2014-04-14-london %} "London"
+ [2]: {% post_baseurl 2014-04-10-london %} "London"
