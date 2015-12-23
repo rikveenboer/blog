@@ -57,11 +57,15 @@ layout: post
                     <dt>Camera</dt>
                     <dd>{{ page.exif.make }} {{ page.exif.model }}
 
+                    {% if page.exif.aperture %}
                     <dt>Aperture</dt>
                     <dd>{{ page.exif.aperture }}</dd>
+                    {% endif %}
 
+                    {% if page.exif.aperture %}
                     <dt>Exposure</dt>
                     <dd>{{ page.exif.exposure }}</dd>
+                    {% endif %}
 
                     {% if page.sizes %}
                         <dt>Sizes</dt>

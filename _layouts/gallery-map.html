@@ -27,7 +27,7 @@ layout: post
                         title : "{{ item.title }}"
                     });
                     var w = new google.maps.InfoWindow({
-                        content: '<div style="margin-bottom:5px;">{{ item.title|replace:"'","\\'" }}</div><a href="/{{ item.fullname }}.html"><img alt="Photo: {{ item.title|replace:"'","\\'" }}" height="200" src="{{ site.asset_prefix }}/{{ item.fullname }}~200x200.jpg" title="{{ item.title|replace:"'","\\'" }}" width="200" /></a>'
+                        content: '<div style="margin-bottom:5px;">{{ item.title|replace:"'","\\'" }}</div><a href="/{{ site.baseurl }}/{{ item.fullname }}.html"><img alt="Photo: {{ item.title|replace:"'","\\'" }}" height="200" src="{{ site.asset_prefix }}/{{ item.fullname }}~200x200.jpg" title="{{ item.title|replace:"'","\\'" }}" width="200" /></a>'
                     });
                     google.maps.event.addListener(
                         m,
