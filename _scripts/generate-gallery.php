@@ -45,7 +45,7 @@ $oConsole
             if (!is_dir($sRenderPath)) {
                 mkdir($sRenderPath, 0700, true);
             }
-            
+
             // Check directory and presence of YAML file
             if (!is_dir($sDir)) {                
                 $oOutput->writeln('<error>Import directory does not exist</error>');
@@ -69,7 +69,7 @@ $oConsole
 
             // Loop over files
             $sHighlight = null;
-            $aPhotos = [];
+            $aPhotos = $aLongitude = $aLatitude = [];
             foreach ($aFiles as $i => $sFile) {
                 // Build photo information
                 $aPhoto = [
@@ -95,13 +95,23 @@ $oConsole
                 if (isset($aPhoto['exif']['GPSLongitude'])) {
                     $aPhoto = array_merge($aPhoto, [
                         'longitude' => coordinateToDegrees($aPhoto['exif']['GPSLongitude'], $aPhoto['exif']['GPSLongitudeRef']),
-                        'latitude' => coordinateToDegrees($aPhoto['exif']['GPSLatitude'], $aPhoto['exif']['GPSLatitudeRef']),
-                        'altitude' => fractionToFloat($aPhoto['exif']['GPSAltitude']),
-                        'direction' => fractionToFloat($aPhoto['exif']['GPSImgDirection'])]);
+                        'latitude' => coordinateToDegrees($aPhoto['exif']['GPSLatitude'], $aPhoto['exif']['GPSLatitudeRef'])
+                    ]);
+                    if (isset($aPhoto['exif']['GPSAltitude'])) {
+                        $aPhoto['altitude'] = fractionToFloat($aPhoto['exif']['GPSAltitude']);
+                    }
+                    if (isset($aPhoto['exif']['GPSImgDirection'])) {
+                        $aPhoto['direction'] = fractionToFloat($aPhoto['exif']['GPSImgDirection']);
+                    }
                     $aLongitude[] = $aPhoto['longitude'];
                     $aLatitude[] = $aPhoto['latitude'];
                 }
-                $aPhoto['date'] = new DateTime($aPhoto['exif']['DateTimeOriginal']);
+                if (isset($aPhoto['exif']['DateTimeOriginal'])) {
+                    $aPhoto['date'] = new DateTime($aPhoto['exif']['DateTimeOriginal']);
+                } else {
+                    $oDate = new DateTime();
+                    $aPhoto['date'] = $oDate->setTimestamp($aPhoto['exif']['FileDateTime']);
+                }
                 $aPhotos[] = $aPhoto;
             }
 
@@ -147,6 +157,10 @@ $oConsole
 
                         if (false !== strpos($sExport, 'x')) {
                             list($iW, $iH) = explode('x', $sExport);
+                            if ($iW > $oSourceSize->getWidth() || $iH > $oSourceSize->getHeight()) {
+                                $oOutput->writeln('    <comment>[skipping]</comment>');
+                                continue;
+                            }
                             $sExportImage = $oSourceJpg->thumbnail(
                                 new \Imagine\Image\Box($iW, $iH),
                                 \Imagine\Image\ImageInterface::THUMBNAIL_OUTBOUND
@@ -164,7 +178,13 @@ $oConsole
                             } elseif ($oSourceSize->getHeight() == max($oSourceSize->getWidth(), $oSourceSize->getHeight())) {
                                 $iY = (int) $sExport;
                                 $iX = ($iY * $oSourceSize->getWidth()) / $oSourceSize->getHeight();
-                            }                            
+                            }
+
+                            if ($iX > $oSourceSize->getWidth() || $iY > $oSourceSize->getHeight()) {
+                                $oOutput->writeln('    <comment>[skipping]</comment>');
+                                continue;
+                            }
+                         
                             $sExportImage = $oSourceJpg->thumbnail(
                                 new \Imagine\Image\Box(ceil($iX), ceil($iY)),
                                 \Imagine\Image\ImageInterface::THUMBNAIL_INSET
@@ -207,12 +227,16 @@ $oConsole
                 $oEndDate = $i > 0 ? max($oEndDate, $aPhoto['date']) : $aPhoto['date'];
 
                 if (isset($aPhoto['exif']['Make'])) {
-                    $aMatter['exif'] = [
-                        'make' => $aPhoto['exif']['Make'],
-                        'model' => $aPhoto['exif']['Model'],
-                        'aperture' => $aPhoto['exif']['COMPUTED']['ApertureFNumber'],
-                        'exposure' => $aPhoto['exif']['ExposureTime'],
-                    ];
+                    $aMatter['exif']['make'] = $aPhoto['exif']['Make'];
+                    if (isset($aPhoto['exif']['Model'])) {
+                        $aMatter['model'] = $aPhoto['exif']['Model'];
+                    }
+                    if (isset($aPhoto['exif']['COMPUTED']['ApertureFNumber'])) {
+                        $aMatter['aperture'] = $aPhoto['exif']['COMPUTED']['ApertureFNumber'];
+                    }
+                    if (isset($aPhoto['exif']['ExposureTime'])) {
+                        $aMatter['exposure'] = $aPhoto['exif']['ExposureTime'];
+                    }
                 }
 
                 if (isset($aPhotos[$i - 1])) {
