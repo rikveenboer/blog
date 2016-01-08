@@ -12,7 +12,7 @@
             {% endif %}
         </div>
         <h1>
-            <span itemprop="name">{{ post.title }}</span>
+            <a href="/{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
             <small class="print-only" itemprop="datePublished" content="{{ post.date|date:'%F') }}">{{ post.date|date:'%A, %B %d, %Y' }}</small>
         </h1>
     </header>
@@ -26,7 +26,7 @@
         {% endcapture %} 
         {% if excerpt_words != content_words %}
             <p>
-                <a href="/{{ site.baseurl }}{{ post.url }}" role="button">{{ site.read_more }}</a>
+                <a href="/{{ site.baseurl }}{{ post.url }}" class="read-more" role="button">{{ site.read_more }}</a>
             </p>
         {% endif %}
     </section>

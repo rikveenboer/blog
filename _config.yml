@@ -1,6 +1,9 @@
 # location
 absolute: http://localhost
-baseurl: jekyll
+baseurl: .
+asset_prefix: /asset
+static_prefix: /static
+destination: ../site
 
 # variables
 title: Rik @ St Andrews
@@ -22,13 +25,7 @@ next_page: 'Volgende pagina &rarr;'
 # other
 gems: [jekyll-paginate]
 markdown: redcarpet
-highlighter: pygments
-safe: false
-environment: dev
-artifact_commit: dev
-artifact_branch: master
-asset_prefix: /jekyll/asset
-static_prefix: /jekyll/static
 exclude:
 - LICENSE
 - README
+environment: dev

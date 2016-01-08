@@ -35,14 +35,6 @@ body > footer {
         color: #999999;
     }
 
-    body > footer:hover {
-        color: #666666;
-    }
-
-        body > footer:hover a {
-            color: #666666;
-        }
-
 body.no-footer > footer {
     display: none;
 }
@@ -109,6 +101,14 @@ a {
     color: #CF5406;
 }
 
+a.read-more, ul.pager a {
+    text-decoration: none;
+}
+
+a.read-more:hover, ul.pager a:hover {
+    text-decoration: underline;
+}
+
 small {
     color: #666666;
 }
@@ -139,7 +139,13 @@ h1 {
     margin: 0;
     padding: 1px 0;
 }
-
+    h1 a {
+         color: #000000;
+        text-decoration: none;
+    }
+    h1 a:hover {
+        text-decoration: underline;
+    }
     h1 small {
         display: block;
         font-size: 12px;
@@ -174,12 +180,6 @@ section .timeline > * {
     opacity: 0.6;
     line-height: 0;
     margin-bottom: 4px;
-}
-
-body.layout-post section .timeline > *,
-body.layout-gallery-photo section .timeline > *,
-section:hover .timeline > * {
-    opacity: 1;
 }
 
 article.layout-post section {
