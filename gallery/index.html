@@ -4,7 +4,6 @@ layout: default
 ---
 <section>
     {% loopdir path:"gallery" match:"*/index.html" sort:"-date" %}
-    {{ itme }}
       <div style="display: inline-block; height: 274px; margin: 8px 10px 0 0; text-align: center; width: 200px;">
         <a href="/{{ site.baseurl }}/{{ item.path|replace:'/index.html','/' }}" style="text-decoration:none;">
           <img alt="{{ item.title }}" height="200" src="{{ site.asset_prefix }}/{{ item.path|replace:'/index.html','' }}/{{ item.highlight_photo }}~200x200.jpg" title="{{ item.title }}" width="200" style="border-radius:4px;" />

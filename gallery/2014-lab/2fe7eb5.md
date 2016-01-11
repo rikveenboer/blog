@@ -1,0 +1,28 @@
+---
+aperture: f/2.0
+date: 2013-11-20 08:57:42
+exif:
+  make: HTC
+exposure: 39995/1000000
+file: IMAG0111
+gallery: 2014-lab
+layout: gallery-photo
+location:
+  latitude: 56.339836111111
+  longitude: -2.8107404444444
+model: HTC One S
+next: 542b2d6
+ordering: 6
+previous: e4c20c9
+sizes:
+  640w:
+    height: 361
+    width: 640
+  200x200:
+    height: 200
+    width: 200
+  96x96:
+    height: 96
+    width: 96
+title: 
+---

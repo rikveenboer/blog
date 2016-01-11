@@ -1,9 +1,8 @@
 # location
-absolute: http://localhost
+absolute: http://csbnw.no-ip.org:3838
 baseurl: .
 asset_prefix: /asset
 static_prefix: /static
-destination: ../site
 
 # variables
 title: Rik @ St Andrews
