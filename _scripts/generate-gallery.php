@@ -15,6 +15,7 @@ $oConsole
     ->setDefinition([        
         new InputOption('export', null, InputOption::VALUE_REQUIRED | InputOption::VALUE_IS_ARRAY, 'Target image export sizes'),
         new InputOption('layout', null, InputOption::VALUE_REQUIRED, 'Rendering layout for individual images', 'gallery-photo'),
+        new InputOption('skip-resize', null, InputOption::VALUE_NONE, 'Skip resizing'),
         new InputArgument('name', InputArgument::REQUIRED, 'Gallery name'),
         new InputArgument('dir', InputArgument::REQUIRED, 'Directory to scan for images'),
         new InputArgument('assetdir', InputArgument::OPTIONAL, 'Asset directory for exported images', 'asset/gallery'),
@@ -35,6 +36,8 @@ $oConsole
             $sRenderPath = $oInput->getArgument('mdowndir') . '/' . $sGallery;    
             $sLayout = $oInput->getOption('layout');
             $sExports = $oInput->getOption('export');
+            $bSkipResize = $oInput->getOption('skip-resize');
+            $bSkipResize = true;
 
             $oImagine = new Imagine\Gd\Imagine();
 
@@ -156,15 +159,17 @@ $oConsole
                         $oOutput->write('    <comment>' . $sExport . '</comment>');
 
                         if (false !== strpos($sExport, 'x')) {
-                            list($iW, $iH) = explode('x', $sExport);
-                            if ($iW > $oSourceSize->getWidth() || $iH > $oSourceSize->getHeight()) {
+                            list($iX, $iY) = explode('x', $sExport);
+                            if ($iX > $oSourceSize->getWidth() || $iY > $oSourceSize->getHeight()) {
                                 $oOutput->writeln('    <comment>[skipping]</comment>');
                                 continue;
                             }
-                            $sExportImage = $oSourceJpg->thumbnail(
-                                new \Imagine\Image\Box($iW, $iH),
-                                \Imagine\Image\ImageInterface::THUMBNAIL_OUTBOUND
-                            );
+                            if (!$bSkipResize) {
+                                $sExportImage = $oSourceJpg->thumbnail(
+                                    new \Imagine\Image\Box($iX, $iY),
+                                    \Imagine\Image\ImageInterface::THUMBNAIL_OUTBOUND
+                                );
+                            }
                         } else {
                             if ('w' == substr($sExport, -1)) {
                                 $iX = (int) $sExport;
@@ -185,29 +190,42 @@ $oConsole
                                 continue;
                             }
                          
-                            $sExportImage = $oSourceJpg->thumbnail(
-                                new \Imagine\Image\Box(ceil($iX), ceil($iY)),
-                                \Imagine\Image\ImageInterface::THUMBNAIL_INSET
-                            );
+                            $iX = ceil($iX);
+                            $iY = ceil($iY);
+                            if (!$bSkipResize) {
+                                $sExportImage = $oSourceJpg->thumbnail(
+                                    new \Imagine\Image\Box($iX, $iY),
+                                    \Imagine\Image\ImageInterface::THUMBNAIL_INSET
+                                );
+                            }
                         }
 
-                        $sExportsize = $sExportImage->getSize();
+                        if ($bSkipResize) {
+                            $oOutput->writeln('');
+                        } else {
+                            $aExportsize = $sExportImage->getSize();
+                            if ($iX != $aExportsize->getWidth() || $iY != $aExportsize->getHeight()) {
+                                $oOutput->writeln(sprintf(' [%dx%d] vs [%dx%d]', $iX, $iY, $aExportsize->getWidth(), $aExportsize->getHeight()));
+                            } else {
+                                $oOutput->writeln(sprintf(' [%dx%d]', $iX, $iY));
+                            }
+                            $sExportPath = $sAssetPath . '/' . $aPhoto['id'] . '~' . $sExport . '.jpg';
+
+                            // Write converted image
+                            file_put_contents(
+                                $sExportPath,
+                                $sExportImage->get('jpeg', ['quality' => 90])
+                            );
+
+                            touch($sExportPath, $aPhoto['date']->getTimestamp());
+                            $sExportImage = null;
+                            $iX = $aExportsize->getWidth();
+                            $iY = $aExportsize->getHeight();
+                        }
                         $aPhoto['sizes'][$sExport] = [
-                            'width' => $sExportsize->getWidth(),
-                            'height' => $sExportsize->getHeight(),
+                            'width' => $iX,
+                            'height' => $iY,
                         ];
-
-                        $oOutput->writeln(' [' . $sExportsize->getWidth() . 'x' . $sExportsize->getHeight() . ']');
-                        $sExportPath = $sAssetPath . '/' . $aPhoto['id'] . '~' . $sExport . '.jpg';
-
-                        // Write converted image
-                        file_put_contents(
-                            $sExportPath,
-                            $sExportImage->get('jpeg', ['quality' => 90])
-                        );
-
-                        touch($sExportPath, $aPhoto['date']->getTimestamp());
-                        $sExportImage = null;
                     }
                     $oSourceJpg = null;
                 }
