@@ -54,8 +54,10 @@ layout: post
                     <dt>Date</dt>
                     <dd itemprop="dateCreated" content="{{ page.date|date:'%FT%TZ' }}">{{ page.date|date:'%A, %B %d at %I:%M %p'|replace:' 0',' '|replace:' AM',' am'|replace:' PM',' pm' }}
 
+                    {% if page.exif.aperture %}
                     <dt>Camera</dt>
-                    <dd>{{ page.exif.make }} {{ page.exif.model }}
+                    <dd>{{ page.exif.make }} {{ page.exif.model }}</dd>
+                    {% endif %}
 
                     {% if page.exif.aperture %}
                     <dt>Aperture</dt>
