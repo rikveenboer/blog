@@ -12,14 +12,14 @@ if (!is_dir($sNewDir)) {
 
 foreach (glob('blog/_posts/*.md') as $sFile) {
     $sBasename = basename($sFile);
-    
+
     printf("%s...\n", $sBasename);
-    
+
     $sContents = file_get_contents($sFile);
     $aContents = explode("\n", $sContents);
     $aParts = explode('--', implode("\n", array_slice($aContents, 1)));
     $aYaml = Yaml::parse(trim(str_replace("  - \n", null, current($aParts))));
-    
+
     if (strpos(end($aParts), '<') === false) {
         echo "    no html\n";
         continue;

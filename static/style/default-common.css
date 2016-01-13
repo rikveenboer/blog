@@ -216,6 +216,10 @@ section .timeline > * {
     margin-bottom: 4px;
 }
 
+span.date-range {
+    font-size: 0.8em;
+}
+
 article.layout-post section {
     padding-bottom: 12px;
 }

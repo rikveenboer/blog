@@ -3,6 +3,7 @@ id: 1019
 title: Birthday Holidays
 author: Rik
 layout: post
+end_date: 2014-06-02
 ---
 
 Het weekend van mijn (en Brams) verjaardag was ik weer in Nederland, tijd voor een verslag!
@@ -19,5 +20,5 @@ Zondagochtend was het tijd voor nog meer sport en hebben we in het duin hardgelo
 
 Na vier nachten in Uitgeest was het tijd om rond het middaguur weer naar Edinburgh te vliegen. Het was een topweekend!
 
- [1]: {% post_baseurl 2014-01-12-christmas-holidays %} "Christmas holidays"
+ [1]: {% post_baseurl 2014-12-20-christmas-holidays %} "Christmas holidays"
  [2]: {% post_baseurl 2014-04-10-london %} "London"
