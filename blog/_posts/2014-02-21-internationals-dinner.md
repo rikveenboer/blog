@@ -10,13 +10,11 @@ In de supermarkt moest ik uit een ruim assortiment appels kiezen, best lastig. G
 
 {% include caption.html
     width='300'
-    image-width='300'
     image='wp-content/gallery/Cooking/IMG_20140221_194916.jpg'
     text='Voor...'
 %}
 {% include caption.html
     width='300'
-    image-width='300'
     image='wp-content/gallery/Cooking/IMG_20140221_204737.jpg'
     text='... en na!'
 %}

@@ -8,7 +8,6 @@ Het voorjaar is al behoorlijk op dreef in mijn Schotse verblijfplaats. Met het r
 
 {% include caption.html
     width='420'
-    image-width='420'
     image='/wp-content/gallery/St%20Andrews/IMG_20150411_142931.jpg'
     text='Bomen in de knop'
 %}

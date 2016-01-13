@@ -1,5 +1,0 @@
-call _scripts/generate-gallery 2015-spain-portrait "D:\Todo\Gallery/spain-2015-portrait"
-call _scripts/generate-gallery 2015-spain-tarragona "D:\Todo\Gallery/spain-2015-tarragona"
-call _scripts/generate-gallery 2015-spain-sitges "D:\Todo\Gallery/spain-2015-sitges"
-call _scripts/generate-gallery 2015-spain-barcelona "D:\Todo\Gallery/spain-2015-barcelona"
-call _scripts/generate-gallery 2015-spain-barcelona-stores "D:\Todo\Gallery/spain-2015-barcelona-stores"

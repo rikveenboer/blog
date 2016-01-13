@@ -10,7 +10,6 @@ Na verschillende pogingen is het gelukt om een oude fiets van mijn huisbaas te r
 
 {% include caption.html
     width='300'
-    image-width='300'
     image='wp-content/gallery/Lade%20Braes/IMG_20140126_095957.jpg'
     text='De Lade zwelt aan tot een kolkende rivier.'
 %}

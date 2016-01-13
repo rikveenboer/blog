@@ -14,7 +14,7 @@ Daarna was het tijd voor whisky! De [vorige keer]({% post_baseurl 2015-11-05-whi
 
 De tasting werd georganiseerd door blenders [Compass Box](http://www.compassboxwhisky.com/index.php). De oplettende lezer zal herinneren dat we daar vorig jaar ook een [tasting]({% post_baseurl 2014-12-04-whisky-tasting %}) van hebben gehad.
 
-Een aantal whiskies waren gelijk, maar het aanbod was uitgebreid tot een totaal van negen (!) stuks. We begonnen met een soort blinde proeverij van de twee Great King Street whiskies (Artists Blend en Glasgow blend) en een derde niet met naam genoemde whisky. Uiteraard was het erg gemakkelijk om de eerste twee te onderscheiden, want de tweede was duidelijk de rokerige. De derde blinde whisky was een goedkope blend, gewoon om het verschil te proeven.
+Een aantal whiskies waren gelijk, maar het aanbod was uitgebreid tot een totaal van negen (!) stuks. We begonnen met een soort blinde proeverij van de twee Great King Street whiskies (Artist's Blend en Glasgow blend) en een derde niet met naam genoemde whisky. Uiteraard was het erg gemakkelijk om de eerste twee te onderscheiden, want de tweede was duidelijk de rokerige. De derde blinde whisky was een goedkope blend, gewoon om het verschil te proeven.
 
 Daarna gingen we over op echt goede whisky, te beginnen met de andere vier whiskies die we vorige keer al hadden geproefd: Hendonism, Spice Tree, Peat Monster en The Lost Blend.
 
@@ -24,7 +24,6 @@ Geloof het of niet, maar tijdens de loterij heb ik de hoofdprijs gewonnen, een v
 
 {% include caption.html
     width='420'
-    image-width='420'
     image='https://cdn3.masterofmalt.com/whiskies/p-2813/compass-box/compass-box-flaming-heart-15th-anniversary-whisky.jpg?ss=2.0'
     text='Een fraaie fles voor een bijzondere whisky.'
 %}

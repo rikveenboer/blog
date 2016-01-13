@@ -383,17 +383,23 @@ blockquote {
     border: 1px solid #ddd;
     text-align: center;
     background-color: #f3f3f3;
-    padding-top: 4px;
-    margin: 10px;
+    padding-top: 8px;
+    margin: 0 auto;
     -moz-border-radius: 3px;
     -khtml-border-radius: 3px;
     -webkit-border-radius: 3px;
     border-radius: 3px;
 }
 
-.caption img {
-    border: 0;
-}
+    .caption img {
+        border: 0 !important;
+        width: 95%;
+    }
+
+    .caption p {
+        font-style: italic;
+        margin: 0 0 8px 0;
+    }
 
 .aligncenter {
     display: block;

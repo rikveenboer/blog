@@ -11,8 +11,7 @@ We waren vanaf het begin voornemens om met een team van vijf mee te doen. Tijden
 
 {% include caption.html
     width='420'
-    image-width='420'
-    image='/wp-content/uploads/2015/07/Half_marathon...WE_MADE_IT.jpg'
+    image='/asset/images/2015-Half-Marathon-Dundee.jpg'
     text='Het team na de race'
 %}
 
