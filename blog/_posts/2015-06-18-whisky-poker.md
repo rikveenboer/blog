@@ -15,7 +15,8 @@ Nu het semester is afgelopen, zijn ook de georganiseerde whisky tastings afgelop
 - [Springbank Calvados Wood Finish (12 year, 53%)](https://www.masterofmalt.com/whiskies/springbank/springbank-12-year-old-calvados-wood-finish-whisky/)
 
 {% include caption.html
-    width='420'    image='/wp-content/gallery/whisky-poker/11401566_10155724426675597_6932590850520958164_n.jpg'
+    width='420'
+    image='/wp-content/gallery/whisky-poker/11401566_10155724426675597_6932590850520958164_n.jpg'
     text='De whisky line-up'
 %}
 
@@ -26,7 +27,8 @@ Eigenlijk is er over elke whisky wel iets bijzonders te vertellen. Zo is bijvoor
 Onder het genot van deze whiskies hebben we poker gespeeld. Het was daarbij leuk om echt kleingeld te gebruiken. Gelukkig bleef de inzet met blinds van 1 en 2 cent beperkt. De hoogste inzet van de avond liep tegen de 20 cent, maar op deze manier bleef het leuk. Al met al schat ik dat ik op een inleg van 2 pond zo'n 60 cent winst heb gemaakt.
 
 {% include caption.html
-    width='420'    image='/wp-content/gallery/whisky-poker/11407136_10155724426700597_7323413856952583575_n.jpg'
+    width='420'
+    image='/wp-content/gallery/whisky-poker/11407136_10155724426700597_7323413856952583575_n.jpg'
     text='Poker met echte munten'
 %}
 

@@ -27,4 +27,3 @@ markdown: redcarpet
 exclude:
 - LICENSE
 - README
-environment: dev
