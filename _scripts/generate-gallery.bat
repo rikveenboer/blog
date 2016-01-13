@@ -1,8 +1,9 @@
 set root=%~dp0..
+echo %1
 php -dmemory_limit=1G %root%/_scripts/generate-gallery.php ^
     %1 ^
     %2 ^
-    %root%/asset/gallery ^
+    %3 ^
     %root%/gallery ^
     --export 1920x1080 ^
     --export 200x200 ^

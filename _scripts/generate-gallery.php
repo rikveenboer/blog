@@ -37,7 +37,6 @@ $oConsole
             $sLayout = $oInput->getOption('layout');
             $sExports = $oInput->getOption('export');
             $bSkipResize = $oInput->getOption('skip-resize');
-            $bSkipResize = true;
 
             $oImagine = new Imagine\Gd\Imagine();
 
