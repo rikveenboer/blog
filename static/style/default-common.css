@@ -134,6 +134,11 @@ a {
     color: #CF5406;
 }
 
+ul.pager {
+    position: relative;
+    left: 80px;
+}
+
 a.read-more, ul.pager a {
     text-decoration: none;
 }

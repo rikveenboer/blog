@@ -15,8 +15,7 @@ maps: AIzaSyCyIwGR-F48dFjAbwNr9JdOsfUYaUQxz1s
 
 # pagination
 paginate: 3
-all_posts: 'Alle posts &rarr;'
-all_posts_description: 'Bekijk alle # posts.'
+all_posts: 'Alle # posts &rarr;'
 read_more: '&raquo; Verder lezen...'
 previous_page: '&larr; Vorige pagina'
 next_page: 'Volgende pagina &rarr;'

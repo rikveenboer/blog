@@ -25,14 +25,7 @@ tags: blog scotland chemistry phd
     {% if paginator.next_page %}
     <a href="/{{ site.baseurl }}{{ paginator.next_page_path }}">{{ site.next_page }}</a>
     {% endif %}
+    &nbsp;|&nbsp;
+    <a href="/{{ site.baseurl }}/blog/" class="read-more">{{ site.all_posts | replace:'#',site.posts.size }}</a>
 </ul>
-{% endif %}
-
-{% if paginator.next_page %}
-    <section>
-        <header>
-            <h1><a href="/{{ site.baseurl }}/blog/">{{ site.all_posts }}</a></h1>
-            <div class="meta">{{ site.all_posts_description | replace:'#',site.posts.size }}</div>
-        </header>
-    </section>
 {% endif %}
