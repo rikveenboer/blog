@@ -4,7 +4,6 @@ title: Christmas Holidays
 layout: post
 end_date: 2015-01-04
 ---
--
 De kerst en oud en nieuw vakantie heb ik dit jaar in Nederland gevierd!
 
 Na een onverwacht maar toch aangenaam bezoek aan <a href="http://csbnw.no-ip.org:38/?p=2103" title="Genève">Genève</a> kwam ik weer terug in Nederland voor kerst, oud/nieuw jaar en Nederlandse gezelligheid. Dat begon gelijk al toen ik werd opgehaald vanuit Rotterdam en direct werd getrakteerd op een diner bij een bekend restaurant langs de weg.
