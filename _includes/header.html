@@ -32,6 +32,11 @@
             var _gaq = _gaq || [];
             _gaq.push(['_setAccount', '{{ site.analytics }}']);
             _gaq.push(['_trackPageview']);
+            window.onload = function() {                
+                var headers = {{ site.headers | implode }};
+                var header = headers[Math.floor(Math.random() * headers.length)];                
+                document.getElementById('masthead').style.backgroundImage = "url('/asset/header/" + header + ".jpg')";
+            }   
         </script>
     </head>
     <body class="layout-{{ page.layout }}{% if page.body_class %} {{ page.body_class }}{% endif %}">

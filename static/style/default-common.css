@@ -1,3 +1,5 @@
+---
+---
 * {
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
@@ -32,7 +34,7 @@ header.site-header, header.navigation {
 header.site-header {
     padding: 0;
     width: 100%;
-    background: url(/asset/header/187b6ae.jpg) no-repeat scroll top;
+    background: url(/asset/header/{{ site.headers[0] }}.jpg) no-repeat scroll top;
     background-size: 1600px auto;
 }
 
