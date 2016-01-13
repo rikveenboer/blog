@@ -1,7 +1,6 @@
 ---
 id: 3227
 title: Coastal path
-author: Rik
 layout: post
 description: Een winterse wandeling over het coastal path.
 ---

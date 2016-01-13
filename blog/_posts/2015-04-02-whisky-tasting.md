@@ -1,7 +1,6 @@
 ---
 id: 2191
 title: Whisky Tasting
-author: Rik
 layout: post
 ---
 De tasting vanavond werd georganiseerd door onafhankelijke bottelaar Hunter Laing, de wederhelft van Douglas Laing (zie een [vorige tasting][1]). We werden getrakteerd op een zestal bijzonder fraaie whiskies uit de [Old Malt Cask][2] serie:

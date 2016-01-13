@@ -1,7 +1,6 @@
 ---
 id: 921
 title: Evening run
-author: Rik
 layout: post
 ---
 Vandaag was een erg mooie dag met temperaturen tegen de 20 Â°C. Hoewel ik al helemaal een beetje moe was van de dag werken, kon ik het niet laten om 's avonds een ronde te gaan hardlopen. Omdat het het afgelopen weekend niet was gelukt om een eerder geplande route te volgen, heb ik dat vanavond gedaan, zie [MapMyRun][1].

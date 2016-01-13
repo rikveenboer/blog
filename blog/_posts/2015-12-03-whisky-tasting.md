@@ -1,7 +1,6 @@
 ---
 id: 3221
 title: Whisky Tasting
-author: Rik
 layout: post
 ---
 Nu de Spaanse lessen zijn afgelopen zijn de donderdagavonden weer vrij voor andere activiteiten. In princiepe is er elke donderdag training (hardlopen, intervallen) en tijdens een groot deel van het jaar om de week een whisky tasting. Deze avond was de laatste tasting van het seizoen, dus daar moest ik heen!
@@ -24,7 +23,7 @@ Geloof het of niet, maar tijdens de loterij heb ik de hoofdprijs gewonnen, een v
 
 {% include caption.html
     width='420'
-    image='https://cdn3.masterofmalt.com/whiskies/p-2813/compass-box/compass-box-flaming-heart-15th-anniversary-whisky.jpg?ss=2.0'
+    image='/asset/images/Compass-Box-Flaming-Heart.jpg'
     text='Een fraaie fles voor een bijzondere whisky.'
 %}
 

@@ -1,7 +1,6 @@
 ---
 id: 1881
 title: Whisky tasting
-author: Rik
 layout: post
 ---
 Deze whisky tasting werden we getrakteerd op diverse "cask strength" whiskies uit de Speyside regio en een van de Orkney-eilanden. De presentatie werd verzorgd door een vriendelijke dikkige Schot die er duidelijk enorm veel plezier in heeft om betaald te worden voor zijn hobby: bezig zijn met alle aspecten van whisky. In de proeflijst van deze avond valt gelijk de hoge leeftijd van deze whiskies op. Ook heb ik een prijsindicatie (per fles) toegevoegd:
@@ -28,7 +27,7 @@ Na de verschillende smakelijk whiskies en de goede uitleg was er zoals gebruikel
 
 {% include caption.html
     width='300'
-    image='https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xap1/v/t1.0-9/10411025_1547389645497486_6179201900580587165_n.jpg?oh=b98721350e473fe7137b79bef9e466b2&oe=54AAAB68&__gda__=1421845329_63f4b786ff1abdc903cd072d8da2db3c' 
+    image='/asset/images/Glen-Keith-19-Year.jpg' 
     text='[Glen Keith (19 year)](http://www.whiskybase.com/whisky/58528/1995)'
 %}
 

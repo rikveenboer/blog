@@ -1,7 +1,6 @@
 ---
 id: 2356
-title: BBQ &#038; Bonfire
-author: Rik
+title: BBQ & Bonfire
 layout: post
 ---
 Hoewel het weer minder goed was dan [vorige week][1], is de meteorologische zomer officieel begonnen en dat moest gevierd worden.

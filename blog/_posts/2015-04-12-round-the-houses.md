@@ -1,7 +1,6 @@
 ---
 id: 2287
 title: Round the Houses
-author: Rik
 layout: post
 ---
 Sinds ik afgelopen september [lid ben geworden van het universitair sportcentrum](?p=1249) ben ik aanzienlijk meer gaan sporten:  sportschool, atletiek (sprint) en hardlopen. Dat laatste gaat prima op eigen houtje, maar ook de rondes met de Cross Country Club zijn leuk en uitdagend.

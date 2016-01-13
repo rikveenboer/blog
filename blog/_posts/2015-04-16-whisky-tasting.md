@@ -1,7 +1,6 @@
 ---
 id: 2312
 title: Whisky Tasting
-author: Rik
 layout: post
 ---
 Vanavond was de laatste whisky tasting van het seizoen en het mag gerust een fantastische finale genoemd worden! Op het programma stonden maar liefst zeven whiskies van drie distilleerderijen:

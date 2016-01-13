@@ -1,7 +1,6 @@
 ---
 id: 649
 title: 60 hour film blitz screening
-author: Rik
 layout: post
 ---
 

@@ -1,7 +1,6 @@
 ---
 id: 1132
 title: Cinema Dundee
-author: Rik
 layout: post
 ---
 Er is weer een nieuwe film uit:

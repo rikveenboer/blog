@@ -1,7 +1,6 @@
 ---
 id: 656
 title: Pancake Day celebration
-author: Rik
 layout: post
 ---
 Tijdens het arriveren bij deze [activiteit][1] voor internationale studenten besef ik me wel waarom Franse collega Marie gisteren crÃªpes had meegebracht: het was Pancake Day! Deze traditie heeft een grappige geschiedenis, het is de moeite waard om er eens over te lezen.

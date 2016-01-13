@@ -1,7 +1,6 @@
 ---
 id: 1214
 title: Conference Glasgow
-author: Rik
 layout: post
 end_date: 2014-09-06
 ---

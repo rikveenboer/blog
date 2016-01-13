@@ -1,7 +1,6 @@
 ---
 id: 418
 title: Christmas Holidays
-author: Rik
 layout: post
 end_date: 2014-01-04
 ---
@@ -15,6 +14,6 @@ In Schotland heb ik geen weegschaal dus ik was zeer verrast om te zijn afgevalle
 
 Omdat Bram in januari aan zijn promotie begint, moest hij een deel van de vakantie besteden aan inpakken en verhuizen. Met de auto volgeladen voelde het een beetje als wintersport om vast de eerste lading spullen naar Lhee te brengen. Hij heeft ons niet alleen zijn huis, maar ook de omgeving en Astron laten zien. Een mooie, gemoedelijke, bosrijke en wijdse omgeving. Omschrijvingen schieten te kort, maar het is leuk om vast een idee te hebben van waar Bram zijn tijd gaat besteden.
 
-Een vakantie vol gevarieerde bezigheden dus! Naar goed gebruik hebben we erg veel koffie gedronken en dat smaakte naar meer. Gelukkig bood Amazon een scherpe deal voor een Senseo en met de meegebrachte koffiepads werd het mogelijk om ook op de Lindsay Gardens een caffeÃ¯nemoment te creÃ«ren. De eerste bakkies zijn gedronken en mogen een doorslaand succes genoemd worden.
+Een vakantie vol gevarieerde bezigheden dus! Naar goed gebruik hebben we erg veel koffie gedronken en dat smaakte naar meer. Gelukkig bood Amazon een scherpe deal voor een Senseo en met de meegebrachte koffiepads werd het mogelijk om ook op de Lindsay Gardens een caffeÃ¯nemoment te creëren. De eerste bakkies zijn gedronken en mogen een doorslaand succes genoemd worden.
 
 Nu terug in Schotland begint het op het werk ook al weer een beetje te wennen. Ik houd jullie op de hoogte!

@@ -1,7 +1,6 @@
 ---
 id: 512
 title: Whisky tasting
-author: Rik
 layout: post
 ---
 Het officieuseÂ whisky seizoen is weer van start gegaan met een voortreffelijke tasting. De lokale slijterij (Luvians) had een vijftal whiskies geselecteerd om het publiek een idee te geven van recente trends in "whiskyland":

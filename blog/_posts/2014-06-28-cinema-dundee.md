@@ -1,7 +1,6 @@
 ---
 id: 1087
 title: Cinema Dundee
-author: Rik
 layout: post
 ---
 Het was al een tijdje geleden, maar zijn weer naar de bioscoop geweest voor een tweetal films.

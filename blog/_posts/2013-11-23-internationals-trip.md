@@ -1,7 +1,6 @@
 ---
 id: 342
 title: Internationals trip
-author: Rik
 layout: post
 ---
 Naast CafÃ© 360 organiseren een aantal afgevaardigen van de verschillende kerken in St Andrews ook trips voor internationale studenten. Ik ben meegegaan met de trip naar Striling die bestond uit:

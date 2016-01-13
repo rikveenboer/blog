@@ -1,7 +1,6 @@
 ---
 id: 562
 title: Internationals dinner
-author: Rik
 layout: post
 ---
 Een Italiaanse collega had het plan opgevat om een internationaal diner te organiseren. Daarbij was het uiteraard de bedoeling om een gerecht mee te brengen dat het land van herkomst vertegenwoordigd. Dat klinkt leuk, maar het leek me niet zo vriendelijk om het toch minder bijzondere (maar wel oer-Hollandse) aardappel-vlees-groente mee te brengen. Gelukkig kwam van het uitstel (van het kiezen van een gerecht) vanzelf een voorstel: er moest nog een dessert verzorgd worden. Hoe Nederlands is het dan om een echte appeltaart te bakken!

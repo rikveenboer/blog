@@ -1,7 +1,6 @@
 ---
 id: 2582
 title: Half Marathon
-author: Rik
 layout: post
 dsq_thread_id: null
 ---

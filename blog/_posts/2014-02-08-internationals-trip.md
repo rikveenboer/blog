@@ -1,7 +1,6 @@
 ---
 id: 514
 title: Internationals trip
-author: Rik
 layout: post
 ---
 Wat ben ik blij dat ik op na de vorige zeer geslaagde <a href="/?ai1ec_event=internationals-trip-2&instance_id=" title="Internationals trip">Internationals trip</a> naar Stirling ook werd uitgenodigd voor een nieuwe trip naar Pitlochry: "gateway to the Highlands". Hoewel het vorige keer leuk was om met allerlei (vooral Aziatische) onbekenden op pad te gaan, leek het me een goed idee om de nieuwe Franse student in de groep te vragen mee te gaan, en zo geschiedde.

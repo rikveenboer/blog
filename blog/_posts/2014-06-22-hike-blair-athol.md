@@ -1,7 +1,6 @@
 ---
 id: 1085
 title: Hike Blair Atholl
-author: Rik
 layout: post
 ---
 Hoewel zondag veelal als rustdag word gebruikt, is het beter om er dan op uit te trekken. Vandaag ben ik met de <a href="https://www.facebook.com/groups/PGStaffHiking/">Postgrad & Staff Hiking Club</a> gaan hiken in de buurt van Blair Atholl.
@@ -10,8 +9,10 @@ De keuze was tussen een 4 uur durende hike rond de rivieren <a href="http://www.
 
 Net als ik kozen de meesten kozen voor deze uitdagende laatste optie. Ongeveer de helft van de route is redelijk vlak en volgt de kronkelige rivier Tilt. We moesten oppassen om aan de goede kant van de rivier te lopen, want er werd geschoten op de <a href="http://www.westatholl.org.uk/WebPageStuff/HillWalkersnew.html">nabijgelegen schietbaan</a>. Met flinke knallen op de achtergrond liepen we in een rap tempo naar de voet van de daarwerkelijke berg. Aldaar werd het al snel erg steil en was het een hele inspanning om hogerop te komen. Hierna konden we een tijdje een grindpad volgen om vlakbij de top nog eens extra uitgedaagd te worden. In plaats van een pad kozen we een snellere route dwars door lage struikjes en mos. Het is erg comfortabel om op deze zachte ondergrond te lopen. De allerlaatste meters naar de top voeren over scherp grind. Een geoloog zou me misschien verbeteren, maar ik vermoed dat erosie op deze hoogte het gesteente transformeert tot deze gedegradeerde toestand.
 
-De terugweg heeft een van de organisatoren <a href="?attachment_id=1097">vastgelegd op GPS</a>, leuk om in Google Earth te plotten! Afdalen ging uiteraard veel sneller dan de klim, maar aan de voet van de berg was het toch nog een behoorlijk eind om weer terug bij het vertrekpunt te komen. Gelukkig was het weer al die tijd behoorlijk goed gebleven, dus we konden mooi nog even van de omgeving genieten. Uiteindelijk hebben we er (inclusief pauzes) iets meer dan zeven uur over gedaan! Bij terugkomst bleken diegenen die de andere route volgden te zijn verdwaald. Het bleek dat ze een afslag hadden gemist en daardoor uren extra hadden rondgedoold. Daardoor waren ze ook nog een bezoekje aan het op de originele oute gelegen <a href="http://www.undiscoveredscotland.co.uk/blairatholl/blaircastle/">kasteel</a> misgelopen. Gelukkig konden ze na een korte lokalisatie met de auto worden opgehaald. 
+De terugweg heeft een van de organisatoren [vastgelegd op GPS][1], leuk om in Google Earth te plotten! Afdalen ging uiteraard veel sneller dan de klim, maar aan de voet van de berg was het toch nog een behoorlijk eind om weer terug bij het vertrekpunt te komen. Gelukkig was het weer al die tijd behoorlijk goed gebleven, dus we konden mooi nog even van de omgeving genieten. Uiteindelijk hebben we er (inclusief pauzes) iets meer dan zeven uur over gedaan! Bij terugkomst bleken diegenen die de andere route volgden te zijn verdwaald. Het bleek dat ze een afslag hadden gemist en daardoor uren extra hadden rondgedoold. Daardoor waren ze ook nog een bezoekje aan het op de originele oute gelegen <a href="http://www.undiscoveredscotland.co.uk/blairatholl/blaircastle/">kasteel</a> misgelopen. Gelukkig konden ze na een korte lokalisatie met de auto worden opgehaald. 
 
 Moe en hongerig van deze hike hebben we gegeten bij <a href="http://www.highlandperthshire.com/restaurants-cafes/pubs---take-aways/bothy-bar-blair-atholl.aspx" title="Bothy Bar">Bothy Bar</a> om daarna weer St Andrews-waarts te keren. De ogranisatoren gaven toe dat dit wellicht de zwaarste hike tot nu toe was. Als het volgende keer ene tandje lichter is zou ik zeker weer mee gaan, want het is duidelijk dat te voet een prima manier is om het prachtige landschap te verkennen.
 
 [nggallery id=51]
+
+ [1]: /asset/2014-Hike-Blair-Athol.kml

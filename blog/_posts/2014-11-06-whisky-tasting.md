@@ -1,7 +1,6 @@
 ---
 id: 1884
 title: Whisky tasting
-author: Rik
 layout: post
 ---
 Twee weken geleden was de whisky tasting in St Andrews verruild voor een evenement in Dundee en daar konden we helaas niet bij zijn. Na een maand wachten waren we dan ook extra verheugd om een zestal whiskies van onafhankelijke bottelaar Douglas Laing te proeven:

@@ -1,7 +1,6 @@
 ---
 id: 1197
 title: Summer Holidays
-author: Rik
 layout: post
 end_date: 2015-08-25
 ---

@@ -1,7 +1,6 @@
 ---
 id: 471
 title: Cinema Dundee
-author: Rik
 layout: post
 ---
 

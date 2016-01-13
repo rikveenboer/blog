@@ -1,7 +1,6 @@
 ---
 id: 2177
 title: 60 hour film blitz
-author: Rik
 layout: post
 ---
 Hoewel collega Scott afgelopen herst zijn promotie al afrondde, is hij nu terug in St Andrews om net als de afgelopen jaren deel te nemen aan de Film Blitz. In deze wedstrijd strijden zo'n 20 teams om in 60 uur de beste korte film (3 minuten) te produceren. Met als decor ons fraaie Middeleeuwse dorp en met studenten en promovendi als acteurs staat dat garant voor een leuk spektakel.

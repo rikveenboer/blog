@@ -1,7 +1,6 @@
 ---
 id: 715
 title: Cinema Dundee
-author: Rik
 layout: post
 ---
 Na een dag op jacht naar een auto (daarover later meer) en wat kleren kopen bij de [TKmax](http://www.tkmaxx.com/) in Dundee is het goed neerploffen in de bioscoop! Deze keer hebben we een nieuwe actiefilm bekeken:

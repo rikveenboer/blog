@@ -1,7 +1,6 @@
 ---
 id: 2180
 title: Goodbye Jan
-author: Rik
 layout: post
 ---
 De stage van Duitse masterstudent Jan is inmiddels op zijn einde gelopen en we hebben zijn vertrek vanavond gevierd. Na het werk zijn we een burger gaan eten bij [Rascals][1] om daarna te borrelen bij de [Vic][2]. Het is natuurlijk altijd jammer als een vriendelijke collega (ook al Duits?) vertrekt, maar dergelijke festiviteiten maken veel goed.

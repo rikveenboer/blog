@@ -1,7 +1,6 @@
 ---
 id: 2159
 title: Whisky tasting
-author: Rik
 layout: post
 ---
 Vanavond werd de whisky tasting gepresenteerd door Glenmorangie. We werden getrakteerd op de standaard editie, drie edities uit wijn/sherry/port vaten en een nieuwe editie:

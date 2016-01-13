@@ -1,4 +1,6 @@
 <div style="width: {{ include.width }}px;" class="caption">
     <img src="{{ include.image }}" />
+    {% if include.text %}
     {{ include.text|markdownify }}
+    {% endif %}
 </div>

@@ -1,7 +1,6 @@
 ---
 id: 2131
 title: Bezoek Angela
-author: Rik
 layout: post
 ---
 Eind januari zijn Angela en Peeter op bezoek geweest, gezellig!

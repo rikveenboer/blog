@@ -1,7 +1,6 @@
 ---
 id: 2111
 title: Huisfeest
-author: Rik
 layout: post
 ---
 Als we het weekend niet in de pub vieren is er meestal wel een feestelijk gelegenheid die het rechtvaardigt om een huisfeest bij te wonen. Ik geloof dat het feest vanavond in het teken stond van iemands verjaardag, maar eigenlijk maakte dat niet veel uit, want het recept voor een geslaagde avond is altijd hetzelfde: iedereen neemt wat mee en met een muziekje op de achtergrond komt het dan vanzelf goed.

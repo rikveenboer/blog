@@ -1,7 +1,6 @@
 ---
 id: 2110
 title: Edinburgh Christmas market
-author: Rik
 layout: post
 ---
 Om de laatste zondag voor de kerstvakantie in stijl door te brengen ben ik met twee Italiaanse en een Duitse collega naar de kerstmarkt in Edinburgh gegaan. Het is altijd leuk om door het fraaie Edinburgh te lopen, maar de kerstsfeer doet daar nog een schepje bovenop.

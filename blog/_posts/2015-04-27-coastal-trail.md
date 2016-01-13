@@ -1,7 +1,6 @@
 ---
 id: 2317
 title: Coastal trail
-author: Rik
 layout: post
 ---
 Nu het weer steeds beter is, is het telkens aantrekkelijker om er hardlopend op uit te gaan. Om gerichter te kunnen trainen heb ik mijzelf een [Polar M400][1] GPS/hartslag sporthorloge cadeau gedaan. Natuurlijk is het daarnaast ook nog eens erg leuk speelgoed.
