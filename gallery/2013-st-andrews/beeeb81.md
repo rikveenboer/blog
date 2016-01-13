@@ -1,7 +1,7 @@
 ---
 date: 2014-05-19 08:34:41
 file: PANO_20140513_182919
-gallery: 2015-st-andrews
+gallery: 2014-st-andrews
 layout: gallery-photo
 location:
   latitude: 56.336455555556

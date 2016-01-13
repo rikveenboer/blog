@@ -11,15 +11,15 @@ Zeer toepasselijk na ons bezoek van vorige week aan de [Aberfeldy distilleerderi
 We zijn getrakteerd op maar liefst zeven malts van drie van de vijf verschillende distilleerderijen:
 
   * Aberfeldy 
-      * [12 year, 40%, Â£33][3]
-      * [21 year, 40%, Â£94][4]
+      * [12 year, 40%, £33][3]
+      * [21 year, 40%, £94][4]
   * Aultmore 
-      * [12 year, 46%, Â£50][5]
-      * [25 year, 46%, Â£296][6]
+      * [12 year, 46%, £50][5]
+      * [25 year, 46%, £296][6]
   * Craigellachie 
-      * [13 year, 46%, Â£45][7]
-      * [17 year, 46%, Â£81][8]
-      * [23 year, 46%, Â£134][9]
+      * [13 year, 46%, £45][7]
+      * [17 year, 46%, £81][8]
+      * [23 year, 46%, £134][9]
 
 Zoals gebruikelijk waren er whisky placemats, waarop de verschillende distilleerderijen stonden aangegeven. De marketing afdeling had hier duidelijk zijn best opgedaan, want de proefnotities lieten aan fantastische beschrijvingen niets te wensen over. Er stonden echter geen aanduidingen van de diverse expressies (zoals verschillende bottelingen genoemd worden). Dit maakt het een uitdaging om uit het hoofd exact de geproefde exemplaren te reproduceren, maar op de tweede Aberfeldy na ben ik behoorlijk zeker.
 

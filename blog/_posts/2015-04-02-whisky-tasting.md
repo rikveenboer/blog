@@ -6,12 +6,12 @@ layout: post
 ---
 De tasting vanavond werd georganiseerd door onafhankelijke bottelaar Hunter Laing, de wederhelft van Douglas Laing (zie een [vorige tasting][1]). We werden getrakteerd op een zestal bijzonder fraaie whiskies uit de [Old Malt Cask][2] serie:
 
-  * [Auchentoshan (15 yo, Â£63)][3]
-  * [Linkwood (21 yo, Â£77)][4]
-  * [Clynelish (16 yo, Â£75)][5]
-  * [Blair Athol (18 yo, Â£85)][6]
-  * [Highland Park (18 yo, Â£99)][7]
-  * [Laphroaig (14 yo, Â£79)][8]
+  * [Auchentoshan (15 yo, £63)][3]
+  * [Linkwood (21 yo, £77)][4]
+  * [Clynelish (16 yo, £75)][5]
+  * [Blair Athol (18 yo, £85)][6]
+  * [Highland Park (18 yo, £99)][7]
+  * [Laphroaig (14 yo, £79)][8]
 
 Al deze whiskies zijn gebotteld met 50% alcohol zonder koud te filteren. De verschillende leeftijden zijn gekozen om een product te garanderen dat exact de juiste tijd in het vat heeft doorgebracht. Het resultaat wordt aangeprezen als whisky voor liefhebbers op aangename drinksterkte.
 

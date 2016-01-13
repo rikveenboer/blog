@@ -1,16 +1,16 @@
 ---
 aperture: f/16.0
-date: 2014-03-01 13:04:51
+date: 2014-03-01 10:39:31
 exif:
   make: SONY
-exposure: 1/125
-file: DSC00303.JPG
-gallery: 2015-st-andrews
+exposure: 1/250
+file: DSC00280.JPG
+gallery: 2014-st-andrews
 layout: gallery-photo
 model: NEX-3N
-next: c130d74
-ordering: 18
-previous: 2d0ebb4
+next: 6383ea8
+ordering: 10
+previous: cc68fbf
 sizes:
   640w:
     height: 426

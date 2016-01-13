@@ -1,0 +1,6 @@
+{% capture image %}/asset/gallery/{{ include.album }}/{{ include.photo }}~640w.jpg{% endcapture %}
+{% include caption.html
+    width='600'
+    image=image
+    text=include.text
+%}

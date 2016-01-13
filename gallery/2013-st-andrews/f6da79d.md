@@ -1,18 +1,19 @@
 ---
 aperture: f/2.0
-date: 2013-10-26 14:10:06
+date: 2013-11-03 16:14:42
 exif:
   make: HTC
-exposure: 19997/1000000
-file: IMAG0038
-gallery: 2015-st-andrews
+exposure: 5841/1000000
+file: IMAG0062
+gallery: 2014-st-andrews
 layout: gallery-photo
 location:
-  latitude: 56.337848638889
-  longitude: -2.8026039722222
+  latitude: 56.343193027778
+  longitude: -2.8090896388889
 model: HTC One S
-next: f3ed1b7
-ordering: 0
+next: 71a8e74
+ordering: 2
+previous: f3ed1b7
 sizes:
   640w:
     height: 361

@@ -6,11 +6,11 @@ layout: post
 ---
 Vanavond werd de whisky tasting gepresenteerd door Glenmorangie. We werden getrakteerd op de standaard editie, drie edities uit wijn/sherry/port vaten en een nieuwe editie:
 
-  * [Original][1] (10 year, 40%, Â£31
-  * [Lasanta][2] (12 year, 46%, Â£39
-  * [Quinta Ruban][3] (12 year, 46%, Â£41
-  * [Signet][4] (no age statement, 46%, Â£125)
-  * [Duthac]() (no age statement, 43%)
+  * [Original][1] (10 year, 40%, £31
+  * [Lasanta][2] (12 year, 46%, £39
+  * [Quinta Ruban][3] (12 year, 46%, £41
+  * [Signet][4] (no age statement, 46%, £125)
+  * Duthac (no age statement, 43%)
 
 De originele 10 jaars editie hadden we al eens eerder geproefd bij Bep en Bob tijdens vorig jaars kerstvakantie. Bob vertelde toen dat hij deze whisky van een collega had gehad. De presentatrice van de tasting vertelde ons dat dit de Schotlands meest verkochte single malt is. En niet zonder reden, want ook wat mij betreft is dit de beste 10 jaars, 40% whisky die ik tot nu toe heb geproefd. Het licht geturfde mout waarvan deze whisky is gemaakt geeft duidelijk een aangename complexe drinkbeleving. 
 
@@ -25,7 +25,7 @@ De Duthac (nagerijpt in sherry vaten) tenslotte is een nieuwe editie die binnenk
 
 Voordat de loterij begon was er nog het laatste onderdeel van de demonstratie: stukken hout van diverse vaten. De presentatrice had zelf meegedronken, dus haar verhaal over hout en hoe veel expertise Glenmorangie daarin heeft was niet heel erg samenhangend meer. Maar evengoed leuk om nog even te zien! Behalve nog een aantal royale whiskies heb ik vanavond opnieuw geen fles whisky gewonnen, maar al met al was het zeker een geslaagde avond.
 
-Wat een verassing was het dat de Glenmorangie Original bij Aldi in de reclame (slechts Â£25!) was! Of Aldi ook in andere landen in A-merken handelt weet ik niet, maar hier in Schotland is zeker de productgroep alcoholen daarin prima vertegenwoordigd. Ik heb mijn fles de zaterdag na de tasting gekocht en uiteraard bijna direct geopend om het begin van de tasting her te beleven. Uiteraard heb ik ook de verpakking gelezen en de tekst daarop was soms letterlijk dezelfde als wat ons bij de tasting werd verteld. Toen had ik niet zo erg in de gaten dat er een ingestudeerd verhaal werd opgerakeld, maar erg is het natuurlijk ook niet.
+Wat een verassing was het dat de Glenmorangie Original bij Aldi in de reclame (slechts £25!) was! Of Aldi ook in andere landen in A-merken handelt weet ik niet, maar hier in Schotland is zeker de productgroep alcoholen daarin prima vertegenwoordigd. Ik heb mijn fles de zaterdag na de tasting gekocht en uiteraard bijna direct geopend om het begin van de tasting her te beleven. Uiteraard heb ik ook de verpakking gelezen en de tekst daarop was soms letterlijk dezelfde als wat ons bij de tasting werd verteld. Toen had ik niet zo erg in de gaten dat er een ingestudeerd verhaal werd opgerakeld, maar erg is het natuurlijk ook niet.
 
  [1]: https://www.masterofmalt.com/whiskies/glenmorangie-original-10-year-old-whisky/
  [2]: https://www.masterofmalt.com/whiskies/glenmorangie-lasanta-12-year-old-whisky/
