@@ -5,6 +5,8 @@ author: Rik
 layout: post
 ---
 
+Het is heel handig om een collega te hebben die voldoet aan drie critera:
+
 1. Schots
 2. heeft een auto en
 3. is verzot op films kijken.
@@ -13,6 +15,6 @@ Dat betekent namelijk dat hij maar wat graag collega's uitnodigd om samen een fi
 
 {% include caption.html
     width='230'
-    image='/wp-content/uploads/2014/01/The-Wolf-of-Wall-Street-2013.jpg' 
+    image='/asset/images/The-Wolf-of-Wall-Street.jpg' 
     text='[The Wolf of Wall Street](http://www.imdb.com/title/tt0993846/)'
 %}

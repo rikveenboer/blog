@@ -8,7 +8,7 @@ Er is weer een nieuwe film uit:
 
 {% include caption.html
     width='300'
-    image='wp-content/uploads/2014/07/Chef.jpg' 
+    image='/asset/images/Chef.jpg' 
     text='[Chef](http://www.imdb.com/title/tt2883512/)'
 %}
 

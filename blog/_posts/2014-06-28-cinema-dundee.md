@@ -8,7 +8,7 @@ Het was al een tijdje geleden, maar zijn weer naar de bioscoop geweest voor een 
 
 {% include caption.html
     width='300'
-    image='wp-content/uploads/2014/06/How-to-Train-Your-Dragon-2.jpg' 
+    image='/asset/images/How-to-Train-Your-Dragon-2.jpg' 
     text='[How to Train Your Dragon 2](http://www.imdb.com/title/tt1646971/)'
 %}
 
@@ -16,7 +16,7 @@ Het vervolg van [How to Train Your Dragon](http://www.imdb.com/title/tt0892769/)
 
 {% include caption.html
     width='300'
-    image='wp-content/uploads/2014/06/3-Days-to-Kill.jpg' 
+    image='/asset/images/3-Days-to-Kill.jpg' 
     text='[3 Days to Kill](http://www.imdb.com/title/tt2172934/)'
 %}
 

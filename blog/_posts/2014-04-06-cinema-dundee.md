@@ -8,7 +8,7 @@ Na een dag op jacht naar een auto (daarover later meer) en wat kleren kopen bij 
 
 {% include caption.html
     width='300'
-    image='wp-content/uploads/2014/04/Captain-America.jpg' 
+    image='/asset/images/Captain-America.jpg' 
     text='[Captain America](http://www.imdb.com/title/tt1843866/)'
 %}
 

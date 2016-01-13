@@ -10,7 +10,7 @@ Natuurlijk hebben we gelijk een tweetal films bekeken:
 
 {% include caption.html
     width='300'
-    image='wp-content/uploads/2014/07/Tammy.jpg' 
+    image='/asset/images/Tammy.jpg' 
     text='[Tammy](http://www.imdb.com/title/tt2109248/)'
 %}
 
@@ -18,7 +18,7 @@ en
 
 {% include caption.html
     width='300'
-    image='wp-content/uploads/2014/07/Transformers-Age-of-Extinction.jpg' 
+    image='/asset/images/Transformers-Age-of-Extinction.jpg' 
     text='[Transformers: Age of Extinction](http://www.imdb.com/title/tt2109248/)'
 %}
 

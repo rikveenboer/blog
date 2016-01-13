@@ -8,13 +8,13 @@ Italiaanse collega Lorenzo en Schotse collega Scott hebben een onbeperkt abbonem
 
 {% include caption.html
     width='300'
-    image='wp-content/uploads/2014/03/The-Grand-Budapest-Hotel.jpg' 
+    image='/asset/images/The-Grand-Budapest-Hotel.jpg' 
     text='[The Grand Budapest Hotel](http://www.imdb.com/title/tt2278388/)'
 %}
 
 {% include caption.html
     width='300'
-    image='wp-content/uploads/2014/03/The-Book-Thief.jpg' 
+    image='/asset/images/The-Book-Thief.jpg' 
     text='[The Book Thief](http://www.imdb.com/title/tt0816442/)'
 %}
 

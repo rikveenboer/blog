@@ -8,7 +8,7 @@ Hoewel het de afgelopen week behoorlijk goed weer was, is het toch leuk om lekke
 
 {% include caption.html
     width='300'
-    image='wp-content/uploads/2014/05/The-Two-Faces-of-January.jpg' 
+    image='/asset/images/The-Two-Faces-of-January.jpg' 
     text='[The Two Faces of January](http://www.imdb.com/title/tt1976000/)'
 %}
 
@@ -18,7 +18,7 @@ De ervaren filmbezoekers weten precies hoe lang de trailers voor de echte film d
 
 {% include caption.html
     width='300'
-    image='wp-content/uploads/2014/05/Godzilla.jpg' 
+    image='/asset/images/Godzilla.jpg' 
     text='[Godzilla](http://www.imdb.com/title/tt0831387/)'
 %}
 
