@@ -3,10 +3,9 @@ title: Home
 layout: default
 tags: blog scotland chemistry phd
 ---
-
 <section>
     <p>
-        In dit blog zal ik jullie op de hoogte houden van mijn belevenissen in St Andrews, Schotland. Daar ben ik in november 2013 begonnen aan een vierjarige PhD in de scheikunde, met als uiteindelijk doel het halen van de doctor titel.
+        In dit blog houd ik jullie zo goed mogelijk op de hoogte van mijn belevenissen in St Andrews, Schotland. Daar ben ik in november 2013 begonnen aan een vierjarige PhD in de scheikunde, met als uiteindelijk doel het halen van de doctor titel. Nostalgicie zijn misschien verknocht aan de <a href="http://csbnw.no-ip.org:38/">oude versie</a> van dit blog.
     </p>
 </section>
 
@@ -14,18 +13,21 @@ tags: blog scotland chemistry phd
     {% include post_detail.html %}
 {% endfor %}
 
+
 {% if paginator.total_pages > 1 %}
-<ul class="pager">
-    {% if paginator.previous_page %}
-    <a href="/{{ site.baseurl }}{{ paginator.previous_page_path }}">{{ site.previous_page }}</a>
-    {% endif %}
-    {% if paginator.previous_page and paginator.next_page %}
-    &nbsp;|&nbsp;
-    {% endif %}
-    {% if paginator.next_page %}
-    <a href="/{{ site.baseurl }}{{ paginator.next_page_path }}">{{ site.next_page }}</a>
-    {% endif %}
-    &nbsp;|&nbsp;
-    <a href="/{{ site.baseurl }}/blog/" class="read-more">{{ site.all_posts | replace:'#',site.posts.size }}</a>
-</ul>
+<section>
+    <ul class="pager">
+        {% if paginator.previous_page %}
+        <a href="/{{ site.baseurl }}{{ paginator.previous_page_path }}">{{ site.previous_page }}</a>
+        {% endif %}
+        {% if paginator.previous_page and paginator.next_page %}
+        &nbsp;|&nbsp;
+        {% endif %}
+        {% if paginator.next_page %}
+        <a href="/{{ site.baseurl }}{{ paginator.next_page_path }}">{{ site.next_page }}</a>
+        {% endif %}
+        &nbsp;|&nbsp;
+        <a href="/{{ site.baseurl }}/blog/" class="read-more">{{ site.all_posts | replace:'#',site.posts.size }}</a>
+    </ul>
+</section>
 {% endif %}
