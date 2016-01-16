@@ -21,4 +21,4 @@ Met een kast vol lekkernijen leek niets mij meer in de weg te staan van een verk
     text='Hollandse joy in een Schots lansschap (goed kijken!)'
 %}
 
-Het succes van deze verkenning smaakt naar meer en ik hoop binnekort nog vele andere bestemmingen aan te doen. Wellicht neem ik volgende keer wel een bus naar één van de wat verder gelegen dorpen in [Fife](/?page_id=348 "Map"). Maar allereerst zullen we met collega's [Glasgow]({% post_baseurl 2014-01-27-glasgow %} "Glasgow") gaan verkennen.
+Het succes van deze verkenning smaakt naar meer en ik hoop binnekort nog vele andere bestemmingen aan te doen. Wellicht neem ik volgende keer wel een bus naar één van de wat verder gelegen dorpen in [Fife](/?page_id=348 "Map"). Maar allereerst zullen we met collega's [Glasgow]({% post_baseurl 2014-01-25-glasgow %} "Glasgow") gaan verkennen.
