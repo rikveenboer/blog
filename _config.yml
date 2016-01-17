@@ -15,7 +15,7 @@ maps: AIzaSyCyIwGR-F48dFjAbwNr9JdOsfUYaUQxz1s
 headers: [187b6ae, 54773b7, eae28bd]
 
 # pagination
-paginate: 3
+paginate: 15
 all_posts: 'Alle # posts &rarr;'
 read_more: '&raquo; Verder lezen...'
 previous_page: '&larr; Vorige pagina'

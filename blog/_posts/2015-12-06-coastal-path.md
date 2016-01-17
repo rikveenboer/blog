@@ -1,6 +1,6 @@
 ---
 id: 3227
-title: Coastal path
+title: Coastal Path
 layout: post
 description: Een winterse wandeling over het coastal path.
 ---
@@ -12,4 +12,4 @@ Wat is op een zonnige winterzondag een beter uitje dan een hike over het coastal
 
 Een deel van het pad was behoorlijk modderig, maar dat voegde eigenlijk alleen maar toe aan het avontuur. Onderweg heb ik wat foto's geschoten:
 
-[nggallery id=102]
+{% include gallery.html gallery='2015-coastal-path' %}

@@ -1,16 +1,16 @@
 ---
 aperture: f/2.0
-date: 2015-12-06 13:01:36
+date: 2015-12-06 13:33:08
 exif:
   make: OnePlus
-exposure: 1/1700
-file: IMG_20151206_130134
-gallery: 2015-coastal-path-1
+exposure: 1/800
+file: IMG_20151206_133306
+gallery: 2015-coastal-path
 layout: gallery-photo
 model: One A0001
-next: 0b83b43
-ordering: 8
-previous: 995ab3e
+next: cb5ee4b
+ordering: 17
+previous: 6a565da
 sizes:
   1920x1080:
     height: 1080

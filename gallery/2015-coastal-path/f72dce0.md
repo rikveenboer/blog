@@ -5,7 +5,7 @@ exif:
   make: OnePlus
 exposure: 1/500
 file: IMG_20151206_133954
-gallery: 2015-coastal-path-1
+gallery: 2015-coastal-path
 layout: gallery-photo
 model: One A0001
 next: 5a8313a
