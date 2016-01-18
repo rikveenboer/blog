@@ -24,7 +24,9 @@ next_page: 'Volgende pagina &rarr;'
 
 # other
 gems: [jekyll-paginate]
-markdown: redcarpet
+markdown: rdiscount
+rdiscount:
+    extensions: [smart]
 exclude:
 - LICENSE
 - README
