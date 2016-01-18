@@ -5,6 +5,7 @@ asset_prefix: /asset
 static_prefix: /static
 
 # variables
+language: nl
 title: Rik @ St Andrews
 author: Rik Veenboer
 email: rik.veenboer@gmail.com

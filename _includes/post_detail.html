@@ -17,16 +17,16 @@
         </h1>
     </header>
     <section class="post-content" itemprop="articleBody">
-        {{ post.excerpt }}
+        {{ post.excerpt | hyphenate }}
         {% capture content_words %} 
             {{ post.content | number_of_words }} 
-        {% endcapture %} 
+        {% endcapture %}
         {% capture excerpt_words %} 
             {{ post.excerpt | number_of_words }} 
-        {% endcapture %} 
+        {% endcapture %}
         {% if excerpt_words != content_words %}
             <p>
-                <a href="/{{ site.baseurl }}{{ post.url }}" class="read-more" role="button">{{ site.read_more }}</a>
+                <a href="/{{ site.baseurl }}{{ post.url }}#more" class="read-more" role="button">{{ site.read_more }}</a>
             </p>
         {% endif %}
     </section>

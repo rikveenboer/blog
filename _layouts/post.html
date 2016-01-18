@@ -21,7 +21,7 @@
         {% endif %}
     </header>
     <section class="post-content" itemprop="articleBody">
-        {{ content }}
+        {{ content | hyphenate }}
     </section>
     {% if false != page.comments %}
         {% include disqus.html %}
