@@ -1,18 +1,19 @@
 ---
 aperture: f/2.0
-date: 2015-12-23 12:10:49
+date: 2016-01-19 13:34:19
 exif:
   make: OnePlus
-exposure: 1/110
-file: IMG_20151223_121048
-gallery: 2015-peugeot-206
+exposure: 1/250
+file: IMG_20160119_133417
+gallery: 2016-seat-ibiza-scrap
 layout: gallery-photo
 location:
-  latitude: 56.330391666667
-  longitude: -2.80981
+  latitude: 56.330375
+  longitude: -2.809805
 model: One A0001
-ordering: 5
-previous: 29bb256
+next: e5811cb
+ordering: 1
+previous: 4fda888
 sizes:
   1920x1080:
     height: 1080
