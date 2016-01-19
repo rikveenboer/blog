@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+{% assign url = page.url | split:'/' %}
+{% assign gallery = url[2] %}
 <section itemscope itemtype="http://schema.org/ImageGallery">
     <header>
         <div class="timeline"></div>
@@ -9,7 +11,32 @@ layout: default
         </h1>
     </header>
     <section class="post-content">
-        {{ content }}
+    <p>{{ content }}</p>
+    {% if false != page.slideshow %}
+    <a href="slideshow.html">[ slideshow ]</a>
+    {% endif %}
+    {% if false != page.slideshow and false != page.map %}
+    &nbsp;|&nbsp;    
+    {% endif %}
+    {% if false != page.map %}
+    <a href="map.html">[ map ]</a>
+    {% endif %}
+    {% include gallery_list.html gallery=gallery %}
+    {% capture list %}
+    {% for post in site.posts %}
+        {% if post.content contains gallery %}
+        <li>
+            <a href="{{ post.url }}">{{ post.title }}</a>
+        </li>
+        {% endif %}
+    {% endfor %}
+    {% endcapture %}
+    {% if list %}
+    <p>{{ site.mentioned_in }}</p>
+    <ul>
+    {{ list }}
+    </ul>
+    {% endif %}
     </section>
     {% if false != page.comments %}
         {% include disqus.html %}

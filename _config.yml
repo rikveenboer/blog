@@ -17,10 +17,13 @@ headers: [187b6ae, 54773b7, eae28bd]
 
 # pagination
 paginate: 15
+
+# translations
 all_posts: 'Alle # posts &rarr;'
 read_more: '&raquo; Verder lezen...'
 previous_page: '&larr; Vorige pagina'
 next_page: 'Volgende pagina &rarr;'
+mentioned_in: 'Komt voor in:'
 
 # other
 gems: [jekyll-paginate]

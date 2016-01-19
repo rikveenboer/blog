@@ -332,12 +332,17 @@ $oConsole
         
         // Write gallery index
         $oOutput->write('<comment>index</comment>');
-        $aLinks = [];
-        if ($bSlideshow) {
-            $aLinks[] = '<a href="slideshow.html">[ slideshow ]</a>';
+        $aMatter = [
+            'layout' => 'gallery-list',
+            'title' => empty($aGallery['title']) ? '' : $aGallery['title'],
+            'highlight_photo' => empty($sHighlight) ? $aPhotos[0]['id'] : $sHighlight,
+            'date' => $oDate->format('Y-m-d')
+        ];
+        if (!$bSlideshow) {
+            $aMatter['slideshow'] = false;
         }
-        if ($bMap) {
-            $aLinks[] = '<a href="map.html">[ map ]</a>';
+        if (!$bMap) {
+            $aMatter['map'] = false;
         }
         $aMatter = [
             'layout' => 'gallery-list',
@@ -349,15 +354,7 @@ $oConsole
             $aMatter['end_date'] = $oEndDate->format('Y-m-d');
         }
 
-        $sContents = sprintf(
-<<<EOF
-<div itemprop="description">
-    <p>%s</p>
-    %s
-</div>
-{%% include gallery_list.html gallery='%s' %%}
-EOF
-        , (empty($aGallery['description']) ? '' : $aGallery['description']), implode('&nbsp;|&nbsp;', $aLinks), $sGallery);
+        $sContents = empty($aGallery['description']) ? '' : $aGallery['description'];
         file_put_contents(
             $sRenderPath . '/index.html',
             '---' . "\n" . yamlDump($aMatter) . '---' . "\n" . $sContents
