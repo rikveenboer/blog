@@ -1,8 +1,6 @@
 ---
 aperture: f/2.0
 date: 2013-11-30 11:58:39
-exif:
-  make: HTC
 exposure: 19997/1000000
 file: IMAG0200
 gallery: 2013-visit-bram
@@ -24,5 +22,6 @@ sizes:
   96x96:
     height: 96
     width: 96
-title: 
+title: null
+make: HTC
 ---

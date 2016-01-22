@@ -1,8 +1,6 @@
 ---
 aperture: f/2.0
 date: 2014-06-28 15:18:09
-exif:
-  make: HTC
 exposure: 589/1000000
 file: IMG_20140628_151808
 gallery: 2014-seat-ibiza
@@ -24,5 +22,6 @@ sizes:
   96x96:
     height: 96
     width: 96
-title: 
+title: null
+make: HTC
 ---

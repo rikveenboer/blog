@@ -1,8 +1,6 @@
 ---
 aperture: f/5.4
 date: 2015-05-30 15:12:47
-exif:
-  make: SAMSUNG
 exposure: 1/750
 file: SAM_7122.JPG
 gallery: 2015-birthday-holidays
@@ -22,5 +20,6 @@ sizes:
   96x96:
     height: 96
     width: 96
-title: 
+title: null
+make: SAMSUNG
 ---

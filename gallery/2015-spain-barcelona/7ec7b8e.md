@@ -1,8 +1,6 @@
 ---
 aperture: f/2.0
 date: 2015-07-04 16:24:30
-exif:
-  make: OnePlus
 exposure: 1/1600
 file: IMG_20150704_162428
 gallery: 2015-spain-barcelona
@@ -27,5 +25,6 @@ sizes:
   96x96:
     height: 96
     width: 96
-title: 
+title: null
+make: OnePlus
 ---

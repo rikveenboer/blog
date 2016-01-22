@@ -1,8 +1,6 @@
 ---
 aperture: f/2.0
 date: 2014-01-26 10:25:23
-exif:
-  make: HTC
 exposure: 19996/1000000
 file: IMG_20140126_102523
 gallery: 2014-lab
@@ -12,7 +10,7 @@ location:
   longitude: -2.8108002777778
 model: One S
 ordering: 10
-previous: 69e2076
+previous: .Inf
 sizes:
   640w:
     height: 362
@@ -23,6 +21,7 @@ sizes:
   96x96:
     height: 96
     width: 96
-title: 
+title: null
+make: HTC
 ---
 blabla

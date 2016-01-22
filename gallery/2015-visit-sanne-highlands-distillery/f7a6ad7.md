@@ -1,8 +1,6 @@
 ---
 aperture: f/2.0
 date: 2015-08-22 17:09:03
-exif:
-  make: OnePlus
 exposure: 1/430
 file: IMG_20150822_170901
 gallery: 2015-visit-sanne-highlands-distillery
@@ -24,5 +22,6 @@ sizes:
   96x96:
     height: 96
     width: 96
-title: 
+title: null
+make: OnePlus
 ---

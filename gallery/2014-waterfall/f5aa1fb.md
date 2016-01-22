@@ -1,8 +1,6 @@
 ---
 aperture: f/4.5
 date: 2014-02-08 15:57:02
-exif:
-  make: SONY
 exposure: 1/160
 file: DSC00233.JPG
 gallery: 2014-waterfall
@@ -20,5 +18,6 @@ sizes:
   96x96:
     height: 96
     width: 96
-title: 
+title: null
+make: SONY
 ---

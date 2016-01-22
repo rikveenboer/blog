@@ -1,8 +1,6 @@
 ---
 aperture: f/2.8
 date: 2013-06-19 09:16:12
-exif:
-  make: Apple
 exposure: 1/15
 file: Kitchen 1
 gallery: 2014-room
@@ -21,5 +19,6 @@ sizes:
   96x96:
     height: 96
     width: 96
-title: 
+title: null
+make: Apple
 ---

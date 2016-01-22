@@ -1,8 +1,6 @@
 ---
 aperture: f/2.0
 date: 2014-09-07 20:16:52
-exif:
-  make: HTC
 exposure: 94370/1000000
 file: IMG_20140907_201651
 gallery: 2014-kettins
@@ -22,5 +20,6 @@ sizes:
   96x96:
     height: 96
     width: 96
-title: 
+title: null
+make: HTC
 ---

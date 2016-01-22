@@ -1,8 +1,6 @@
 ---
 aperture: f/2.0
 date: 2016-01-19 13:34:19
-exif:
-  make: OnePlus
 exposure: 1/250
 file: IMG_20160119_133417
 gallery: 2016-seat-ibiza-scrap
@@ -27,5 +25,6 @@ sizes:
   96x96:
     height: 96
     width: 96
-title: 
+title: null
+make: OnePlus
 ---

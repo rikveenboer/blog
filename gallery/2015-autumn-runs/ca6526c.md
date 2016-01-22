@@ -13,5 +13,5 @@ sizes:
   96x96:
     height: 96
     width: 96
-title: 
+title: null
 ---

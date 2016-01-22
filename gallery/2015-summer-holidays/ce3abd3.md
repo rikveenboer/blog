@@ -1,8 +1,6 @@
 ---
 aperture: f/10.0
 date: 2015-08-03 20:21:58
-exif:
-  make: NIKON CORPORATION
 exposure: 1/25
 file: Panorama-klein
 gallery: 2015-summer-holidays
@@ -20,5 +18,6 @@ sizes:
   96x96:
     height: 96
     width: 96
-title: 
+title: null
+make: NIKON CORPORATION
 ---

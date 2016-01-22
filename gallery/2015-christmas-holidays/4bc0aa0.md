@@ -1,8 +1,6 @@
 ---
 aperture: f/2.4
 date: 2014-12-26 19:24:48
-exif:
-  make: LGE
 exposure: 1/199
 file: 2014-12-26 19.24.48
 gallery: 2015-christmas-holidays
@@ -21,5 +19,6 @@ sizes:
   96x96:
     height: 96
     width: 96
-title: 
+title: null
+make: LGE
 ---

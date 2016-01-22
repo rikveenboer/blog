@@ -1,7 +1,5 @@
 ---
 date: 2014-12-31 12:52:38
-exif:
-  make: LGE
 file: 2014-12-31 12.52.38
 gallery: 2015-christmas-holidays-dwingelderveld
 layout: gallery-photo
@@ -21,5 +19,6 @@ sizes:
   96x96:
     height: 96
     width: 96
-title: 
+title: null
+make: LGE
 ---

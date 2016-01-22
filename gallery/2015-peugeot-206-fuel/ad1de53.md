@@ -1,8 +1,6 @@
 ---
 aperture: f/2.0
 date: 2015-12-23 12:09:46
-exif:
-  make: OnePlus
 exposure: 1/160
 file: IMG_20151223_120945
 gallery: 2015-peugeot-206-fuel
@@ -26,5 +24,6 @@ sizes:
   96x96:
     height: 96
     width: 96
-title: 
+title: null
+make: OnePlus
 ---

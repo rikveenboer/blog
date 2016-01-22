@@ -1,8 +1,6 @@
 ---
 aperture: f/2.0
 date: 2014-02-08 13:56:25
-exif:
-  make: HTC
 exposure: 39993/1000000
 file: img_20140208_135625
 gallery: 2014-the-house-of-bruar
@@ -21,5 +19,6 @@ sizes:
   96x96:
     height: 96
     width: 96
-title: 
+title: null
+make: HTC
 ---

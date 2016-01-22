@@ -1,7 +1,5 @@
 ---
 date: 2014-11-01 15:02:01
-exif:
-  make: ONEPLUS
 file: PANO_20141101_150113
 gallery: 2014-tentmuir
 layout: gallery-photo
@@ -22,5 +20,6 @@ sizes:
   96x96:
     height: 96
     width: 96
-title: 
+title: null
+make: ONEPLUS
 ---

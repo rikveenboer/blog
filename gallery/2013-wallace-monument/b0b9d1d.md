@@ -1,8 +1,6 @@
 ---
 aperture: f/2.0
 date: 2013-11-23 13:59:10
-exif:
-  make: HTC
 exposure: 1997/1000000
 file: IMAG0124
 gallery: 2013-wallace-monument
@@ -11,7 +9,7 @@ location:
   latitude: 56.138813
   longitude: -3.9183325277778
 model: HTC One S
-next: 8169e74
+next: 8.169E+77
 ordering: 3
 previous: a1a0910
 sizes:
@@ -24,6 +22,7 @@ sizes:
   96x96:
     height: 96
     width: 96
-title: 
+title: null
+make: HTC
 ---
 De versieringen aan de linkerkant omhullen een stijle wenteltrap.

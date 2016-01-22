@@ -1,7 +1,5 @@
 ---
 date: 2013-12-07 18:10:52
-exif:
-  make: HTC
 file: IMAG0259
 gallery: 2013-visit-bram
 layout: gallery-photo
@@ -22,5 +20,6 @@ sizes:
   96x96:
     height: 96
     width: 96
-title: 
+title: null
+make: HTC
 ---

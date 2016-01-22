@@ -1,8 +1,6 @@
 ---
 aperture: f/2.0
 date: 2015-08-22 14:34:08
-exif:
-  make: OnePlus
 exposure: 1/900
 file: IMG_20150822_143406
 gallery: 2015-visit-sanne-highlands-hike
@@ -24,5 +22,6 @@ sizes:
   96x96:
     height: 96
     width: 96
-title: 
+title: null
+make: OnePlus
 ---

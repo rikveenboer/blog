@@ -1,8 +1,6 @@
 ---
 aperture: f/2.0
 date: 2015-08-15 12:07:47
-exif:
-  make: OnePlus
 exposure: 1/1400
 file: IMG_20150815_120745
 gallery: 2015-northen-ireland-belfast
@@ -21,5 +19,6 @@ sizes:
   96x96:
     height: 96
     width: 96
-title: 
+title: null
+make: OnePlus
 ---

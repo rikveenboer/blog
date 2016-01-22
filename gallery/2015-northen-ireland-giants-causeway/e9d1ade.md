@@ -1,8 +1,6 @@
 ---
 aperture: f/2.0
 date: 2015-08-16 15:41:35
-exif:
-  make: OnePlus
 exposure: 1/1250
 file: IMG_20150816_154133
 gallery: 2015-northen-ireland-giants-causeway
@@ -24,5 +22,6 @@ sizes:
   96x96:
     height: 96
     width: 96
-title: 
+title: null
+make: OnePlus
 ---

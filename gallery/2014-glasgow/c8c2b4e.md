@@ -1,8 +1,6 @@
 ---
 aperture: f/2.0
 date: 2014-02-02 13:20:06
-exif:
-  make: HTC
 exposure: 703/1000000
 file: IMG_20140202_132005
 gallery: 2014-glasgow
@@ -23,5 +21,6 @@ sizes:
   96x96:
     height: 96
     width: 96
-title: 
+title: null
+make: HTC
 ---

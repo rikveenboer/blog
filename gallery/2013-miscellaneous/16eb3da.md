@@ -1,8 +1,6 @@
 ---
 aperture: f/2.0
 date: 2013-11-02 12:38:52
-exif:
-  make: HTC
 exposure: 94375/1000000
 file: IMAG0051
 gallery: 2013-miscellaneous
@@ -20,5 +18,6 @@ sizes:
   96x96:
     height: 96
     width: 96
-title: 
+title: null
+make: HTC
 ---

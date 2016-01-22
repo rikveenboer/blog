@@ -1,8 +1,6 @@
 ---
 aperture: f/2.0
 date: 2013-10-29 16:24:15
-exif:
-  make: HTC
 exposure: 39995/1000000
 file: IMAG0045
 gallery: 2014-lab
@@ -23,5 +21,6 @@ sizes:
   96x96:
     height: 96
     width: 96
-title: 
+title: null
+make: HTC
 ---

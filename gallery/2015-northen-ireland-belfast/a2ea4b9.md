@@ -1,8 +1,6 @@
 ---
 aperture: f/2.0
 date: 2015-08-15 11:19:00
-exif:
-  make: OnePlus
 exposure: 1/1900
 file: IMG_20150815_111858
 gallery: 2015-northen-ireland-belfast
@@ -10,7 +8,7 @@ layout: gallery-photo
 model: One A0001
 next: f7e9499
 ordering: 4
-previous: 0854894
+previous: 356
 sizes:
   1920x1080:
     height: 1080
@@ -24,5 +22,6 @@ sizes:
   96x96:
     height: 96
     width: 96
-title: 
+title: null
+make: OnePlus
 ---

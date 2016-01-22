@@ -1,8 +1,6 @@
 ---
 aperture: f/2.4
 date: 2014-09-05 12:12:33
-exif:
-  make: LGE
 exposure: 1/30
 file: 2014-09-05 12.12.33
 gallery: 2014-conference-usic
@@ -19,5 +17,6 @@ sizes:
   96x96:
     height: 96
     width: 96
-title: 
+title: null
+make: LGE
 ---

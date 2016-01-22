@@ -1,8 +1,6 @@
 ---
 aperture: f/2.0
 date: 2013-09-16 15:29:44
-exif:
-  make: HTC
 exposure: 723/1000000
 file: IMAG0754
 gallery: 2013-train
@@ -11,7 +9,7 @@ location:
   latitude: 56.063465111111
   longitude: -3.1956093055556
 model: HTC One S
-next: 0492706
+next: 17862
 ordering: 6
 previous: 48a04c1
 sizes:
@@ -24,5 +22,6 @@ sizes:
   96x96:
     height: 96
     width: 96
-title: 
+title: null
+make: HTC
 ---

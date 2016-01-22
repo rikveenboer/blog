@@ -1,8 +1,6 @@
 ---
 aperture: f/2.4
 date: 2014-12-31 13:26:32
-exif:
-  make: LGE
 exposure: 873/1000000
 file: 2014-12-31 13.26.32
 gallery: 2015-christmas-holidays-dwingelderveld
@@ -24,5 +22,6 @@ sizes:
   96x96:
     height: 96
     width: 96
-title: 
+title: null
+make: LGE
 ---

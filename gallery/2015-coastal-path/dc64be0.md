@@ -1,8 +1,6 @@
 ---
 aperture: f/2.0
 date: 2015-12-06 13:31:31
-exif:
-  make: OnePlus
 exposure: 1/750
 file: IMG_20151206_133129
 gallery: 2015-coastal-path
@@ -24,5 +22,6 @@ sizes:
   96x96:
     height: 96
     width: 96
-title: 
+title: null
+make: OnePlus
 ---

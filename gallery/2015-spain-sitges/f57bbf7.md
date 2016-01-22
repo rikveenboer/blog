@@ -1,8 +1,6 @@
 ---
 aperture: f/2.0
 date: 2015-06-30 15:34:54
-exif:
-  make: OnePlus
 exposure: 1/1400
 file: IMG_20150630_153452
 gallery: 2015-spain-sitges
@@ -27,5 +25,6 @@ sizes:
   96x96:
     height: 96
     width: 96
-title: 
+title: null
+make: OnePlus
 ---

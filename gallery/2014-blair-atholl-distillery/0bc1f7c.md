@@ -1,8 +1,6 @@
 ---
 aperture: f/2.0
 date: 2014-02-08 11:00:47
-exif:
-  make: HTC
 exposure: 50001/1000000
 file: img_20140208_110046
 gallery: 2014-blair-atholl-distillery
@@ -23,5 +21,6 @@ sizes:
   96x96:
     height: 96
     width: 96
-title: 
+title: null
+make: HTC
 ---

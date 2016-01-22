@@ -1,8 +1,6 @@
 ---
 aperture: f/2.0
 date: 2013-09-16 18:23:46
-exif:
-  make: HTC
 exposure: 1236/1000000
 file: IMAG0792
 gallery: 2013-visit
@@ -24,5 +22,6 @@ sizes:
   96x96:
     height: 96
     width: 96
-title: 
+title: null
+make: HTC
 ---

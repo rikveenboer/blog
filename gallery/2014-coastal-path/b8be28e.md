@@ -1,8 +1,6 @@
 ---
 aperture: f/2.0
 date: 2014-05-04 12:21:31
-exif:
-  make: HTC
 exposure: 342/1000000
 file: IMG_20140504_122131
 gallery: 2014-coastal-path
@@ -24,5 +22,6 @@ sizes:
   96x96:
     height: 96
     width: 96
-title: 
+title: null
+make: HTC
 ---

@@ -1,8 +1,6 @@
 ---
 aperture: f/11.0
 date: 2014-03-01 10:39:07
-exif:
-  make: SONY
 exposure: 1/125
 file: DSC00279.JPG
 gallery: 2014-st-andrews
@@ -21,5 +19,6 @@ sizes:
   96x96:
     height: 96
     width: 96
-title: 
+title: null
+make: SONY
 ---

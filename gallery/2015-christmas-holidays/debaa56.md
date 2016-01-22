@@ -1,8 +1,6 @@
 ---
 aperture: f/2.0
 date: 2015-12-25 14:56:48
-exif:
-  make: FUJIFILM
 exposure: 1/300
 file: DSCF0465
 gallery: 2015-christmas-holidays
@@ -24,5 +22,6 @@ sizes:
   96x96:
     height: 96
     width: 96
-title: 
+title: null
+make: FUJIFILM
 ---

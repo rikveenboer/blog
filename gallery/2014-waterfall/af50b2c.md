@@ -1,8 +1,6 @@
 ---
 aperture: f/2.0
 date: 2014-02-08 14:12:49
-exif:
-  make: HTC
 exposure: 50001/1000000
 file: img_20140208_141249
 gallery: 2014-waterfall
@@ -23,5 +21,6 @@ sizes:
   96x96:
     height: 96
     width: 96
-title: 
+title: null
+make: HTC
 ---

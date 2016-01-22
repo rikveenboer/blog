@@ -1,8 +1,6 @@
 ---
 aperture: f/4.0
 date: 2015-08-22 18:09:40
-exif:
-  make: SAMSUNG
 exposure: 1/250
 file: SAM_0725.JPG
 gallery: 2015-visit-sanne-highlands-distillery
@@ -20,5 +18,6 @@ sizes:
   96x96:
     height: 96
     width: 96
-title: 
+title: null
+make: SAMSUNG
 ---

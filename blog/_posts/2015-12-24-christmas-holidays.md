@@ -16,7 +16,7 @@ Naast allerlei spelletjes, koffie-, thee- en borrelmomenten was er ook tijd voor
 
 Op Zondag ben ik met Bram naar Hoogeveen afgereisd. Daar hadden we een dag tijd voor meer hardlopen (in het prachtige Dwingelderveld) en wat klussen zoals het leggen van tapijt en het vervangen van een slot, alvorens ook moeder en zuster arriveerden om een dagje naar Assen te gaan. Erg gezellig, maar wel jammer dat vader thuis achterbleef om te werken.
 
-De tijd vloog voorbij en voor we het wisten waren we allemaal weer in Uitgeest voor oud en nieuw. Met Sanne's heerlijke oliebollen en andere culinaire hoogstandjes zoals loempia's en sushi hebben we het jaar feestelijk afgerond.
+De tijd vloog voorbij en voor we het wisten waren we allemaal weer in Uitgeest voor oud en nieuw. Met Sanne's heerlijke oliebollen en andere culinaire hoogstandjes zoals loempia's, sushi en plaatpizza hebben we het jaar feestelijk afgerond.
 
 We zijn het goede jaar goed begonnen met het plannen van een trip naar Edinburgh. Daar zullen we met z'n vijfen een paar dagen rond mijn (en Brams) verjaardag verblijven en ook meedoen aan de halve marathon! Daarnaast heb ik voor Sanne's verjaardag (en Paas) een tripje naar Nederland geboekt. Door zo in de ene vakantie de volgende(n) vast te plannen, blijft er het hele jaar iets om naar uit te kijken.
 

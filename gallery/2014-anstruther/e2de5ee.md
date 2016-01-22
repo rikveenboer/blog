@@ -1,8 +1,6 @@
 ---
 aperture: f/2.0
 date: 2014-05-18 14:14:58
-exif:
-  make: HTC
 exposure: 323/1000000
 file: IMG_20140518_141457
 gallery: 2014-anstruther
@@ -24,5 +22,6 @@ sizes:
   96x96:
     height: 96
     width: 96
-title: 
+title: null
+make: HTC
 ---

@@ -14,7 +14,7 @@ Ik ben behoorlijk kritisch en het viel me al snel op dat het stuur niet helemaal
 Een kleine irritatie was dat een deel van de verlichting op het middenconsole niet goed functioneerde. Na wat zoekwerk vond ik de hiervoor vervangende lampjes en dezen waren eenvoudig te verwisselen. Nu is het schermpje van de boordcomputer zo af te lezen als het zou moeten. Eenzelfde lampje in de climate control module moet ook worden vervangen, maar hiervoor moet ik een groter deel van het dashboard ontmantelen. Vanwege de de risico's die dit met zich meebrengt heb ik hier maar vanaf gezien.
 
 {% include photo.html
-    album='2016-peugeot-206-leak'
+    gallery='2016-peugeot-206-leak'
     photo='3c7d11d'
     text='Komt dat echt onder mijn auto vandaan?'
 %}

@@ -1,8 +1,6 @@
 ---
 aperture: f/2.0
 date: 2014-03-09 13:34:53
-exif:
-  make: HTC
 exposure: 323/1000000
 file: IMG_20140309_133452
 gallery: 2014-glenshee-ski
@@ -21,5 +19,6 @@ sizes:
   96x96:
     height: 96
     width: 96
-title: 
+title: null
+make: HTC
 ---

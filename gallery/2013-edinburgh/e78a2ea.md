@@ -1,8 +1,6 @@
 ---
 aperture: f/2.0
 date: 2013-09-18 10:14:41
-exif:
-  make: HTC
 exposure: 50003/1000000
 file: IMAG0848
 gallery: 2013-edinburgh
@@ -21,5 +19,6 @@ sizes:
   96x96:
     height: 96
     width: 96
-title: 
+title: null
+make: HTC
 ---

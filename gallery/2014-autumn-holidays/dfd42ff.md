@@ -1,8 +1,6 @@
 ---
 aperture: f/5.4
 date: 2014-09-23 11:33:26
-exif:
-  make: SAMSUNG
 exposure: 1/180
 file: SAM_6766.JPG
 gallery: 2014-autumn-holidays
@@ -21,5 +19,6 @@ sizes:
   96x96:
     height: 96
     width: 96
-title: 
+title: null
+make: SAMSUNG
 ---

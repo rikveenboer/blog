@@ -1,8 +1,6 @@
 ---
 aperture: f/2.0
 date: 2015-10-10 11:17:08
-exif:
-  make: OnePlus
 exposure: 1/125
 file: IMG_20151010_111707
 gallery: 2015-glen-clova
@@ -24,5 +22,6 @@ sizes:
   96x96:
     height: 96
     width: 96
-title: 
+title: null
+make: OnePlus
 ---

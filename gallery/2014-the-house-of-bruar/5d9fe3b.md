@@ -1,8 +1,6 @@
 ---
 aperture: f/4.0
 date: 2014-02-08 15:08:26
-exif:
-  make: SONY
 exposure: 1/160
 file: DSC00216.JPG
 gallery: 2014-the-house-of-bruar
@@ -20,5 +18,6 @@ sizes:
   96x96:
     height: 96
     width: 96
-title: 
+title: null
+make: SONY
 ---

@@ -1,14 +1,12 @@
 ---
 aperture: f/2.8
 date: 2015-09-13 14:37:56
-exif:
-  make: NIKON CORPORATION
 exposure: 1/80
 file: DSC_0467
 gallery: 2015-autumn-holidays
 layout: gallery-photo
 model: NIKON D3100
-next: 1665e59
+next: 1.665E+62
 ordering: 4
 previous: e3f8eba
 sizes:
@@ -24,5 +22,6 @@ sizes:
   96x96:
     height: 96
     width: 96
-title: 
+title: null
+make: NIKON CORPORATION
 ---

@@ -1,8 +1,6 @@
 ---
 aperture: f/2.0
 date: 2014-01-25 15:01:13
-exif:
-  make: HTC
 exposure: 1940/1000000
 file: IMG_20140125_150112
 gallery: 2014-strathkinness
@@ -13,7 +11,7 @@ location:
 model: One S
 next: 0afb61d
 ordering: 8
-previous: 04e8366
+previous: .Inf
 sizes:
   640w:
     height: 480
@@ -24,5 +22,6 @@ sizes:
   96x96:
     height: 96
     width: 96
-title: 
+title: null
+make: HTC
 ---

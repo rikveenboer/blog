@@ -1,8 +1,6 @@
 ---
 aperture: f/3.5
 date: 2014-02-08 13:56:01
-exif:
-  make: SONY
 exposure: 1/60
 file: DSC00215.JPG
 gallery: 2014-blair-atholl-distillery
@@ -20,5 +18,6 @@ sizes:
   96x96:
     height: 96
     width: 96
-title: 
+title: null
+make: SONY
 ---

@@ -1,8 +1,6 @@
 ---
 aperture: f/2.0
 date: 2014-03-23 14:06:19
-exif:
-  make: HTC
 exposure: 665/1000000
 file: IMG_20140323_140618
 gallery: 2014-crail
@@ -21,5 +19,6 @@ sizes:
   96x96:
     height: 96
     width: 96
-title: 
+title: null
+make: HTC
 ---

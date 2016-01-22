@@ -1,8 +1,6 @@
 ---
 aperture: f/2.0
 date: 2014-07-19 17:22:56
-exif:
-  make: HTC
 exposure: 3615/1000000
 file: IMG_20140719_172255
 gallery: 2014-fife
@@ -23,5 +21,6 @@ sizes:
   96x96:
     height: 96
     width: 96
-title: 
+title: null
+make: HTC
 ---

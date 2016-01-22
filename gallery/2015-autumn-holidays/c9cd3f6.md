@@ -1,8 +1,6 @@
 ---
 aperture: f/2.8
 date: 2015-09-14 14:06:47
-exif:
-  make: NIKON CORPORATION
 exposure: 1/800
 file: DSC_0606
 gallery: 2015-autumn-holidays
@@ -24,5 +22,6 @@ sizes:
   96x96:
     height: 96
     width: 96
-title: 
+title: null
+make: NIKON CORPORATION
 ---

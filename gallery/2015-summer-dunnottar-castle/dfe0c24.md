@@ -1,8 +1,6 @@
 ---
 aperture: f/2.0
 date: 2015-07-18 15:41:15
-exif:
-  make: OnePlus
 exposure: 1/1150
 file: IMG_20150718_154114
 gallery: 2015-summer-dunnottar-castle
@@ -21,5 +19,6 @@ sizes:
   96x96:
     height: 96
     width: 96
-title: 
+title: null
+make: OnePlus
 ---

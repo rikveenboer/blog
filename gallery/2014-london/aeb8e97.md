@@ -1,8 +1,6 @@
 ---
 aperture: f/3.3
 date: 2014-04-12 13:42:29
-exif:
-  make: SAMSUNG
 exposure: 1/500
 file: SAM_1323.JPG
 gallery: 2014-london
@@ -21,5 +19,6 @@ sizes:
   96x96:
     height: 96
     width: 96
-title: 
+title: null
+make: SAMSUNG
 ---

@@ -1,8 +1,6 @@
 ---
 aperture: f/16.0
 date: 2014-02-16 14:48:43
-exif:
-  make: SONY
 exposure: 1/125
 file: DSC00274.JPG
 gallery: 2014-st-andrews
@@ -21,5 +19,6 @@ sizes:
   96x96:
     height: 96
     width: 96
-title: 
+title: null
+make: SONY
 ---

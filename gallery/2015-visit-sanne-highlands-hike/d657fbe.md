@@ -1,8 +1,6 @@
 ---
 aperture: f/3.3
 date: 2015-08-22 15:45:35
-exif:
-  make: SAMSUNG
 exposure: 1/180
 file: SAM_0707.JPG
 gallery: 2015-visit-sanne-highlands-hike
@@ -21,5 +19,6 @@ sizes:
   96x96:
     height: 96
     width: 96
-title: 
+title: null
+make: SAMSUNG
 ---

@@ -1,8 +1,6 @@
 ---
 aperture: f/2.0
 date: 2015-01-02 14:50:19
-exif:
-  make: Sony
 exposure: 10/32000
 file: 2015-01-02 14.50.19
 gallery: 2015-christmas-holidays-beach
@@ -24,5 +22,6 @@ sizes:
   96x96:
     height: 96
     width: 96
-title: 
+title: null
+make: Sony
 ---

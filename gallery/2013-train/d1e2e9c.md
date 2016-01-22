@@ -1,8 +1,6 @@
 ---
 aperture: f/2.0
 date: 2013-09-17 16:38:06
-exif:
-  make: HTC
 exposure: 1446/1000000
 file: IMAG0816
 gallery: 2013-train
@@ -24,5 +22,6 @@ sizes:
   96x96:
     height: 96
     width: 96
-title: 
+title: null
+make: HTC
 ---

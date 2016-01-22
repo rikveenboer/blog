@@ -1,8 +1,6 @@
 ---
 aperture: f/2.0
 date: 2013-11-23 14:51:23
-exif:
-  make: HTC
 exposure: 39995/1000000
 file: IMAG0164
 gallery: 2013-wallace-monument
@@ -24,5 +22,6 @@ sizes:
   96x96:
     height: 96
     width: 96
-title: 
+title: null
+make: HTC
 ---

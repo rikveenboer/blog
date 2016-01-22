@@ -1,8 +1,6 @@
 ---
 aperture: f/3.3
 date: 2015-08-23 12:52:44
-exif:
-  make: SAMSUNG
 exposure: 1/1000
 file: SAM_0731.JPG
 gallery: 2015-visit-sanne-fife-pittenweem
@@ -21,5 +19,6 @@ sizes:
   96x96:
     height: 96
     width: 96
-title: 
+title: null
+make: SAMSUNG
 ---
