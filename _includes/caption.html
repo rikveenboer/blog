@@ -1,5 +1,9 @@
 <div style="width: {{ include.width }}px;" class="caption">
+    {% if include.link %}
+    <a href="{{ include.link }}"><img src="{{ include.image }}" /></a>
+    {% else %}
     <img src="{{ include.image }}" />
+    {% endif %}
     {% if include.text %}
     {{ include.text | markdownify | hyphenate }}
     {% endif %}

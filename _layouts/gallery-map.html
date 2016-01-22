@@ -1,7 +1,9 @@
 ---
 layout: post
 ---
-{% capture gallery %}{{ page.url|replace:'/map.html',''|remove_first:'/' }}{% endcapture %}
+<section class="post-content">
+<a href="/{{ site.baseurl }}/gallery/{{ page.gallery }}/">[ list ]</a>
+</section>
 <div id="googlemap" style="height:400px;margin-top:8px;"></div>
 <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key={{ site.maps }}&amp;sensor=false"></script>
 <script type="text/javascript">
@@ -12,22 +14,23 @@ layout: post
             var map = new google.maps.Map(
                 document.getElementById("googlemap"),
                 {
-                    center : new google.maps.LatLng({{ page.gallery_map.latitude }}, {{ page.gallery_map.longitude }}),
+                    center : new google.maps.LatLng({{ page.map.latitude }}, {{ page.map.longitude }}),
                     mapTypeId : google.maps.MapTypeId.TERRAIN,
-                    zoom : {{ page.gallery_map.zoom }}
+                    zoom : {{ page.map.zoom }}
                 }
             );
-
-            {% loopdir path:gallery match:"*.md" sort:"ordering" %}{% if item.location %}
+            {% for p in site.pages %}
+                {% if p.layout == 'gallery-photo' and p.gallery == page.gallery %}
+                    {% if p.location %}
                 (function () {
                     var wo = false;
                     var m = new google.maps.Marker({
-                        position: new google.maps.LatLng({{ item.location.latitude }}, {{ item.location.longitude }}),
+                        position: new google.maps.LatLng({{ p.location.latitude }}, {{ p.location.longitude }}),
                         map : map,
-                        title : "{{ item.title }}"
+                        title : "{{ p.title }}"
                     });
                     var w = new google.maps.InfoWindow({
-                        content: '<div style="margin-bottom:5px;">{{ item.title|replace:"'","\\'" }}</div><a href="/{{ site.baseurl }}/{{ item.fullname }}.html"><img alt="Photo: {{ item.title|replace:"'","\\'" }}" height="200" src="{{ site.asset_prefix }}/{{ item.fullname }}~200x200.jpg" title="{{ item.title|replace:"'","\\'" }}" width="200" /></a>'
+                        content: '<div style="margin-bottom:5px;">{{ p.title|replace:"'","\\'" }}</div><a href="/{{ site.baseurl }}/{{ p.url }}"><img alt="Photo: {{ p.title | replace:"'","\\'" }}" height="200" src="{{ site.asset_prefix }}/gallery/{{ page.gallery }}/{{ p.name | remove:'.md' }}~200x200.jpg" title="{{ p.title|replace:"'","\\'" }}" width="200" /></a>'
                     });
                     google.maps.event.addListener(
                         m,
@@ -38,12 +41,13 @@ layout: post
                             } else {
                                 w.open(map, m);
                             }
-
                             wo = !wo;
                         }
                     );
                 })();
-            {% endif %}{% endloopdir %}
+                    {% endif %}
+                {% endif %}
+            {% endfor %}
         }
     );
 </script>

@@ -11,32 +11,31 @@ layout: default
         </h1>
     </header>
     <section class="post-content">
-    <p>{{ content }}</p>
+    {{ content }}
     {% if false != page.slideshow %}
     <a href="slideshow.html">[ slideshow ]</a>
     {% endif %}
-    {% if false != page.slideshow and false != page.map %}
+    {% if false != page.slideshow and page.map %}
     &nbsp;|&nbsp;    
     {% endif %}
-    {% if false != page.map %}
+    {% if page.map %}
     <a href="map.html">[ map ]</a>
     {% endif %}
-    {% include gallery_list.html gallery=gallery %}
-    {% capture list %}
-    {% for post in site.posts %}
-        {% if post.content contains gallery %}
-        <li>
-            <a href="{{ post.url }}">{{ post.title }}</a>
-        </li>
+    {% assign items = site.array %}
+    {% for p in site.posts %}
+        {% if p.content contains gallery %}
+            {% assign items = items | push:p %}
         {% endif %}
     {% endfor %}
-    {% endcapture %}
-    {% if list %}
+    {% if items | size > 0 %}
     <p>{{ site.mentioned_in }}</p>
     <ul>
-    {{ list }}
+    {% for item in items %}
+        <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+    {% endfor %}
     </ul>
     {% endif %}
+    {% include gallery-list.html gallery=gallery %}
     </section>
     {% if false != page.comments %}
         {% include disqus.html %}

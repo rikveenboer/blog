@@ -244,7 +244,7 @@ $oConsole
                 $oEndDate = $i > 0 ? max($oEndDate, $aPhoto['date']) : $aPhoto['date'];
 
                 if (isset($aPhoto['exif']['Make'])) {
-                    $aMatter['exif']['make'] = $aPhoto['exif']['Make'];
+                    $aMatter['make'] = $aPhoto['exif']['Make'];
                     if (isset($aPhoto['exif']['Model'])) {
                         $aMatter['model'] = $aPhoto['exif']['Model'];
                     }
@@ -294,42 +294,7 @@ $oConsole
             );
             $oOutput->writeln(' done');
         }
-        
-        // Write slideshow
-        $bSlideshow = isset($aGallery['slideshow']) ? $aGallery['slideshow'] : true;
-        if ($bSlideshow) {
-            $oOutput->write('<comment>slideshow</comment>');
-            $aMatter = [
-                'layout' => 'gallery-slideshow',
-                'title' => empty($aGallery['title']) ? '' : $aGallery['title']
-            ];
-            file_put_contents(
-                $sRenderPath . '/slideshow.html',
-                '---' . "\n" . yamlDump($aMatter) . '---' . "\n"
-            );
-            $oOutput->writeln(' done');
-        }
 
-        // Write map
-        $bMap = count($aLongitude) > 0 && (isset($aGallery['map']) ? $aGallery['map'] : true);
-        if ($bMap) {
-            $oOutput->write('<comment>map</comment>');
-            $aMatter = [
-                'layout' => 'gallery-map',
-                'title' => empty($aGallery['title']) ? '' : $aGallery['title'],
-                'gallery_map' => [
-                    'latitude' => array_sum($aLatitude) / count($aLatitude),
-                    'longitude' => array_sum($aLongitude) / count($aLongitude),
-                    'zoom' => 8
-                ]
-            ];
-            file_put_contents(
-                $sRenderPath . '/map.html',
-                '---' . "\n" . yamlDump($aMatter) . '---' . "\n"
-            );
-            $oOutput->writeln(' done');
-        }
-        
         // Write gallery index
         $oOutput->write('<comment>index</comment>');
         $aMatter = [
@@ -338,9 +303,11 @@ $oConsole
             'highlight_photo' => empty($sHighlight) ? $aPhotos[0]['id'] : $sHighlight,
             'date' => $oDate->format('Y-m-d')
         ];
+        $bSlideshow = isset($aGallery['slideshow']) ? $aGallery['slideshow'] : true;
         if (!$bSlideshow) {
             $aMatter['slideshow'] = false;
         }
+        $bMap = count($aLongitude) > 0 && (isset($aGallery['map']) ? $aGallery['map'] : true);
         if (!$bMap) {
             $aMatter['map'] = false;
         }
@@ -359,8 +326,7 @@ $oConsole
             $sRenderPath . '/index.html',
             '---' . "\n" . yamlDump($aMatter) . '---' . "\n" . $sContents
         );
-        $oOutput->writeln(' done');
-        
+        $oOutput->writeln(' done');        
     }
 );
 

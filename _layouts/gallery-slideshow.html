@@ -1,10 +1,10 @@
+{% assign item = site.gallery | where:'name', page.gallery | first %}
 <html>
-  {% capture gallery %}{{ page.url|replace:'/slideshow.html',''|remove_first:'/' }}{% endcapture %}
   <head>
     <title>{{ page.title }}</title>
     
     <script src="http://ajax.googleapis.com/ajax/libs/mootools/1.5.1/mootools-yui-compressed.js"></script>
-    
+
     <!-- Core CSS file -->
     <link rel="stylesheet" href="{{ site.static_prefix }}/photo-swipe/photoswipe.css"> 
 
@@ -40,24 +40,27 @@
       }
     </style>
   </head>
-  
   <body>
     <section>
       <h1>{{ page.title }}</h1>
-      {% loopdir path:gallery match:"*.md" sort:"ordering" %}<div class="photo" style="border-radius:2px;display:inline-block;margin:4px;overflow:hidden;">
-        {% assign maxsize = 0 %}
-        {% assign maxref = false %}
-        {% for size in item.sizes %}
-          {% if maxsize < size[1].height * size[1].width %}
-            {% assign maxsize = size[1].height * size[1].width %}
-            {% assign maxref = size %}
-          {% endif %}
-        {% endfor %}
-        <a href="{{ site.asset_prefix }}/{{ item.fullname }}~{{ maxref[0] }}.jpg" data-size="{{ maxref[1].width }}x{{ maxref[1].height }}">
-            <img src="{{ site.asset_prefix }}/{{ item.fullname }}~200x200.jpg" height="100" alt="{{ item.title }}" width="100" data-size="200x200" />
+        {% for p in site.pages %}
+            {% if p.layout == 'gallery-photo' and p.gallery == page.gallery %}
+      <div class="photo" style="border-radius:2px;display:inline-block;margin:4px;overflow:hidden;">
+                {% assign maxsize = 0 %}
+                {% assign maxref = false %}
+                {% for size in p.sizes %}
+                    {% if maxsize < size[1].height * size[1].width %}
+                        {% assign maxsize = size[1].height * size[1].width %}
+                        {% assign maxref = size %}
+                    {% endif %}
+                {% endfor %}
+        <a href="{{ site.asset_prefix }}/gallery/{{ page.gallery }}/{{ p.name | remove:'.md' }}~{{ maxref[0] }}.jpg" data-size="{{ maxref[1].width }}x{{ maxref[1].height }}">
+            <img src="{{ site.asset_prefix }}/gallery/{{ page.gallery }}/{{ p.name | remove:'.md' }}~200x200.jpg" height="100" alt="{{ p.title }}" width="100" data-size="200x200" />
         </a>
-        <div class="caption" style="display:none;">{{ item.content }}</div>
-      </div>{% endloopdir %}
+        <div class="caption" style="display:none;">{{ p.content }}</div>
+      </div>
+        {% endif %}
+    {% endfor %}
     </section>
       
       <!-- Root element of PhotoSwipe. Must have class pswp. -->

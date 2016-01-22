@@ -8,16 +8,18 @@ layout: default
     </p>
 </section>
 <section>
-    {% loopdir path:"gallery" match:"*/index.html" sort:"-date" %}
-        {% if item.ignore == null %}    
+{% assign items = site.gallery | sort:'date' | reverse %}
+{% for item in items %}
+    {% if item.ignore == null %}        
+        {% assign name = item.id | split:'/' | last %}
     <div style="display: inline-block; height: 274px; margin: 8px 10px 0 0; text-align: center; width: 200px;">
-        <a href="/{{ site.baseurl }}/{{ item.path|replace:'/index.html','/' }}" style="text-decoration:none;">
-        <img alt="{{ item.title }}" height="200" src="{{ site.asset_prefix }}/{{ item.path|replace:'/index.html','' }}/{{ item.highlight_photo }}~200x200.jpg" title="{{ item.title }}" width="200" style="border-radius:4px;" />
+        <a href="/{{ site.baseurl }}/{{ item.collection }}/{{ name }}/" style="text-decoration:none;">
+        <img alt="{{ item.title }}" height="200" src="{{ site.asset_prefix }}/{{ item.collection }}/{{ name }}/{{ item.highlight }}~200x200.jpg" title="{{ item.title }}" width="200" style="border-radius:4px;" />
         <span style="text-decoration:underline;">{{ item.title }}</span>
             {% if item.date %}<br />
             <small>
                 {% if item.date_end %}
-                    {{ item.date|date:"%B %-d" }} &ndash; {{        item.date_end|date:"%-d" }}, {{ item.date|date:"%Y" }}
+                    {{ item.date|date:"%B %-d" }} &ndash; {{ item.date_end|date:"%-d" }}, {{ item.date|date:"%Y" }}
                 {% else %}
                     {{ item.date|date:"%B %-d, %Y" }}
                 {% endif %}
@@ -25,6 +27,6 @@ layout: default
             {% endif %}
         </a>
     </div>    
-        {% endif %}
-    {% endloopdir %}
+    {% endif %}
+{% endfor %}
 </section>

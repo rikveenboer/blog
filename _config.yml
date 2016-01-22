@@ -25,6 +25,20 @@ previous_page: '&larr; Vorige pagina'
 next_page: 'Volgende pagina &rarr;'
 mentioned_in: 'Komt voor in:'
 
+# collections
+collections:
+    gallery:
+        output: true
+        permalink: /:collection/:name/
+
+# defaults
+defaults:
+    -
+        scope:
+            type: gallery
+        values:
+            layout: gallery-list
+
 # other
 gems: [jekyll-paginate]
 markdown: rdiscount
@@ -33,3 +47,4 @@ rdiscount:
 exclude:
 - LICENSE
 - README
+array: []

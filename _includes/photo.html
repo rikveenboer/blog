@@ -1,6 +1,8 @@
-{% capture image %}/asset/gallery/{{ include.album }}/{{ include.photo }}~640w.jpg{% endcapture %}
+{% capture image %}/asset/gallery/{{ include.gallery }}/{{ include.photo }}~640w.jpg{% endcapture %}
+{% capture link %}/{{ site.baseurl }}/gallery/{{ include.gallery }}/{{ include.photo }}.html{% endcapture %}
 {% include caption.html
     width='600'
     image=image
     text=include.text
+    link=link
 %}
