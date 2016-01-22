@@ -5,20 +5,20 @@ layout: null
 <feed xmlns="http://www.w3.org/2005/Atom">
    <id>{{ site.absolute }}/{{ site.baseurl }}/</id>
    <title>{{ site.author }}</title>
-   <link href="{{ site.absolute }}/{{ site.baseurl }}/blog/atom.xml" rel="self" />
-   <link href="{{ site.absolute }}/{{ site.baseurl }}/" />
-   <updated>{{ site.time|date_to_xmlschema }}</updated>
+   <link href="{{ site.absolute }}{{ site.baseurl }}/blog/atom.xml" rel="self" />
+   <link href="{{ site.absolute }}{{ site.baseurl }}/" />
+   <updated>{{ site.time | date_to_xmlschema }}</updated>
    <author>
        <name>{{ site.author }}</name>
        <email>{{ site.email }}</email>
    </author>
    {% for post in site.posts %}
-       <entry>
-           <id>{{ site.absolute }}/{{ post.id }}</id>
-           <title>{{ post.title }}</title>
-           <link href="{{ site.absolute }}/{{ site.baseurl }}{{ post.url }}"/>
-           <updated>{{ post.date|date_to_xmlschema }}</updated>
-           <content type="html">{{ post.content|xml_escape }}</content>
-       </entry>
+   <entry>
+       <id>{{ site.absolute }}/{{ site.baseurl }}{{ post.url }}</id>
+       <title>{{ post.title | xml_escape }}</title>
+       <link href="{{ site.absolute }}/{{ site.baseurl }}{{ post.url }}"/>
+       <updated>{{ post.date | date_to_xmlschema }}</updated>
+       <content type="html">{{ post.content | xml_escape }}</content>
+   </entry>
    {% endfor %}
 </feed>
