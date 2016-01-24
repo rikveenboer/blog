@@ -9,7 +9,7 @@ module Jekyll
             self.data.merge!( gallery.data)
             self.data['gallery'] = gallery.url.split('/')[2]
             self.data['layout'] = 'gallery-' + layout
-        end        
+        end
     end
 
     class GalleryPageGenerator < Generator

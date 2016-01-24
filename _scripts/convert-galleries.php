@@ -3,80 +3,41 @@ require __DIR__ . '/../_php/autoload.php';
 
 use Symfony\Component\Yaml\Yaml;
 
-$sOriginalDir = '_gallery.orig';
 $sCollectionDir = '_gallery';
 $sGalleryDir = 'gallery';
+$sDataDir = '_data/gallery';
 
-if (!is_dir($sCollectionDir)) {
-   mkdir($sCollectionDir); 
-}
-if (!is_dir($sGalleryDir)) {
-    mkdir($sGalleryDir);
+if (!file_exists($sDataDir)) {
+    mkdir($sDataDir);
 }
 
-foreach (glob($sOriginalDir . '/*/index.html') as $sFile) {
-    $sBasename = basename($sFile, '.md');
-    $sGallery = basename(dirname($sFile));
+foreach (glob($sCollectionDir . '/*.md') as $sFile) {
+    $sGallery = basename($sFile, '.md');
     printf("%s..\n", $sGallery);
 
-    $sDir = sprintf('%s/%s', $sOriginalDir, $sGallery);
-    $sMapFile = sprintf('%s/map.html', $sDir);
-
     parseFile($sFile, $aYaml, $sContents);
-    if (strpos($sContents, 'gallery_list') !== false) {
-        $sContents = null;
-    }
-    $aYaml['date'] = date('Y-m-d', $aYaml['date']);
     if (strpos($aYaml['title'], ' ') !== false) {
         $aYaml['title'] = sprintf('"%s"', $aYaml['title']);
     }
+    $aYaml['date'] = date('Y-m-d', $aYaml['date']);
     if (isset($aYaml['end_date'])) {
         $aYaml['end_date'] = date('Y-m-d', $aYaml['end_date']);
     }
-    unset($aYaml['highlight_photo']);
-    unset($aYaml['layout']);
-    unset($aYaml['map']);
-    if (file_exists($sMapFile)) {
-        parseFile($sMapFile, $aMapYaml, $sContents);
-        if (isset($aMapYaml['gallery_map'])) {
-            $aYaml['map'] = $aMapYaml['gallery_map'];
-        }
-    }
-
-    $sCopyDir = sprintf('%s/%s', $sGalleryDir, $sGallery);
-    if (!file_exists($sCopyDir)) {
-        mkdir($sCopyDir);
-    }
-
-    $aYaml['photos'] = [];
     $aPhotos = [];
-    foreach (glob(sprintf('%s/*.md', $sDir)) as $sFile) {
-        $sName = basename($sFile, '.md');
+    foreach (glob(sprintf('%s/%s/*.md', $sGalleryDir, $sGallery)) as $sPhotoFile) {
+        $sName = basename($sPhotoFile, '.md');
         $aYaml['photos'][] = $sName;
-        $sTargetFile = sprintf('%s/%s.md', $sCopyDir, $sName);
-        parseFile($sFile, $aPhotoYaml, $sPhotoContents);
-        // unset($aPhotoYaml['name']);
-        if (isset($aPhotoYaml['exif'])) {
-            $aPhotoYaml = array_merge($aPhotoYaml, $aPhotoYaml['exif']);
-            unset($aPhotoYaml['exif']);
-        }
-        if (isset($aPhotoYaml['album'])) {
-            $aPhotoYaml['gallery'] = $aPhotoYaml['album'];            
-            unset($aPhotoYaml['album']);
-        }
+        parseFile($sPhotoFile, $aPhotoYaml);
         if (isset($aPhotoYaml['date'])) {
-            $aPhotoYaml['date'] = date('Y-m-d H:i:s', $aPhotoYaml['date']);
             $aPhotos[$aPhotoYaml['date']] = $sName;
         }
-        writeFile($sTargetFile, $aPhotoYaml, $sPhotoContents);
     }
     ksort($aPhotos);
-    // $aYaml['photos'] = array_values($aPhotos);
+    $sDataFile = sprintf('%s/%s.yml', $sDataDir, $sGallery);
+    $aYaml['highlight'] = sprintf('%07s', current($aPhotos));
+    file_put_contents($sDataFile, yamlDump(array_values($aPhotos)));
     unset($aYaml['photos']);
-    $aYaml['highlight'] = current($aPhotos);
-
-    $sIndexFile = sprintf('%s/%s.md', $sCollectionDir, $sGallery);
-    // writeFile($sIndexFile, $aYaml, $sContents);
+    writeFile($sFile, $aYaml, $sContents);
 }
 
 function parseFile($sFile, &$aYaml, &$sContents = null) {

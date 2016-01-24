@@ -1,0 +1,9 @@
+{% capture baseurl %}{{ sitebaseurl }}/gallery/{{ include.gallery }}{% endcapture %}
+{% assign baseurl=baseurl | replace_first:'./','/' %}
+{% assign names=site.data.gallery[include.gallery] %}
+{% assign photos=site.array %}
+{% for name in names %}
+    {% capture url %}{{ baseurl }}/{{ name }}.html{% endcapture %}
+    {% assign_page photo=url %}
+    {% assign photos=photos | push:photo %}
+{% endfor %}

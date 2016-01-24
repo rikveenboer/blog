@@ -1,11 +1,10 @@
 <div class="list-gallery">
-{% for p in site.pages %}
-    {% if p.layout == 'gallery-photo' and p.gallery == gallery %}
+{% include gallery-photos.html %}
+{% for photo in photos %}
     <span itemprop="image" itemscope itemtype="http://schema.org/Photograph">
-        <a href="/{{ site.baseurl }}/{{ p.url }}" itemprop="url">
-            <img alt="Photo: {{ p.title }}" height="200" src="{{ site.asset_prefix }}/gallery/{{ gallery }}/{{ p.name | remove:'.md' }}~200x200.jpg" title="{{ p.title }}" width="200" />
+        <a href="/{{ site.baseurl }}/{{ photo.url }}" itemprop="url">
+            <img alt="Photo: {{ photo.title }}" height="200" src="{{ site.asset_prefix }}/gallery/{{ gallery }}/{{ photo.name | remove:'.md' }}~200x200.jpg" title="{{ photo.title }}" width="200" />
         </a>
     </span>
-    {% endif %}
 {% endfor %}
 </div>

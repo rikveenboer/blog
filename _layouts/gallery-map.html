@@ -19,18 +19,18 @@ layout: post
                     zoom : {{ page.map.zoom }}
                 }
             );
-            {% for p in site.pages %}
-                {% if p.layout == 'gallery-photo' and p.gallery == page.gallery %}
-                    {% if p.location %}
+{% include gallery-photos.html gallery=page.gallery %}
+{% for photo in photos %}
+    {% if photo.location %}
                 (function () {
                     var wo = false;
                     var m = new google.maps.Marker({
-                        position: new google.maps.LatLng({{ p.location.latitude }}, {{ p.location.longitude }}),
+                        position: new google.maps.LatLng({{ photo.location.latitude }}, {{ photo.location.longitude }}),
                         map : map,
-                        title : "{{ p.title }}"
+                        title : "{{ photo.title }}"
                     });
                     var w = new google.maps.InfoWindow({
-                        content: '<div style="margin-bottom:5px;">{{ p.title|replace:"'","\\'" }}</div><a href="/{{ site.baseurl }}/{{ p.url }}"><img alt="Photo: {{ p.title | replace:"'","\\'" }}" height="200" src="{{ site.asset_prefix }}/gallery/{{ page.gallery }}/{{ p.name | remove:'.md' }}~200x200.jpg" title="{{ p.title|replace:"'","\\'" }}" width="200" /></a>'
+                        content: '<div style="margin-bottom:5px;">{{ photo.title|replace:"'","\\'" }}</div><a href="/{{ site.baseurl }}/{{ photo.url }}"><img alt="Photo: {{ photo.title | replace:"'","\\'" }}" height="200" src="{{ site.asset_prefix }}/gallery/{{ page.gallery }}/{{ photo.name | remove:'.md' }}~200x200.jpg" title="{{ photo.title|replace:"'","\\'" }}" width="200" /></a>'
                     });
                     google.maps.event.addListener(
                         m,
@@ -45,9 +45,8 @@ layout: post
                         }
                     );
                 })();
-                    {% endif %}
-                {% endif %}
-            {% endfor %}
+    {% endif %}
+{% endfor %}
         }
     );
 </script>
