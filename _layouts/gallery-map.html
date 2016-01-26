@@ -19,8 +19,7 @@ layout: post
                     zoom : {{ page.map.zoom }}
                 }
             );
-{% include gallery-photos.html gallery=page.gallery %}
-{% for photo in photos %}
+{% for photo in page.photos %}
     {% if photo.location %}
                 (function () {
                     var wo = false;
@@ -30,7 +29,7 @@ layout: post
                         title : "{{ photo.title }}"
                     });
                     var w = new google.maps.InfoWindow({
-                        content: '<div style="margin-bottom:5px;">{{ photo.title|replace:"'","\\'" }}</div><a href="/{{ site.baseurl }}/{{ photo.url }}"><img alt="Photo: {{ photo.title | replace:"'","\\'" }}" height="200" src="{{ site.asset_prefix }}/gallery/{{ page.gallery }}/{{ photo.name | remove:'.md' }}~200x200.jpg" title="{{ photo.title|replace:"'","\\'" }}" width="200" /></a>'
+                        content: '<div style="margin-bottom:5px;">{{ photo.title | replace:"'","\\'" }}</div><a href="/{{ site.baseurl }}/{{ photo.url }}"><img alt="Photo: {{ photo.title | replace:"'","\\'" }}" height="200" src="{{ site.asset_prefix }}/gallery/{{ page.gallery }}/{{ photo.name | remove:'.md' }}~200x200.jpg" title="{{ photo.title|replace:"'","\\'" }}" width="200" /></a>'
                     });
                     google.maps.event.addListener(
                         m,

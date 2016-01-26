@@ -1,10 +1,143 @@
-- 3c66219
-- 754d0d7
-- c9ea3f3
-- b8be28e
-- 5d36fbd
-- c2f1cbf
-- e33a96e
-- 7b75179
-- a335c56
-- 658404b
+title: coastal-path
+date: 2014-05-04
+map:
+  latitude: 56.330246469444
+  longitude: -2.7564578722222
+  zoom: 8
+photos:
+  3c66219:
+    aperture: f/2.0
+    date: 2014-05-04 12:03:42
+    exposure: 380/1000000
+    file: IMG_20140504_120341
+    location:
+      latitude: 56.3320465
+      longitude: -2.7802524444444
+    model: One S
+    sizes:
+      640w: { height: 362, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: HTC
+  754d0d7:
+    aperture: f/2.0
+    date: 2014-05-04 12:08:48
+    exposure: 437/1000000
+    file: IMG_20140504_120848
+    location:
+      latitude: 56.332588194444
+      longitude: -2.7777383055556
+    model: One S
+    sizes:
+      640w: { height: 362, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: HTC
+  c9ea3f3:
+    aperture: f/2.0
+    date: 2014-05-04 12:10:46
+    exposure: 1046/1000000
+    file: IMG_20140504_121045
+    location:
+      latitude: 56.331237777778
+      longitude: -2.7694325555556
+    model: One S
+    sizes:
+      640w: { height: 362, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: HTC
+  b8be28e:
+    aperture: f/2.0
+    date: 2014-05-04 12:21:31
+    exposure: 342/1000000
+    file: IMG_20140504_122131
+    location:
+      latitude: 56.33107375
+      longitude: -2.7673642222222
+    model: One S
+    sizes:
+      640w: { height: 362, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: HTC
+  5d36fbd:
+    aperture: f/2.0
+    date: 2014-05-04 12:32:40
+    exposure: 1369/1000000
+    file: IMG_20140504_123240
+    location:
+      latitude: 56.32827375
+      longitude: -2.74225875
+    model: One S
+    sizes:
+      640w: { height: 1132, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: HTC
+  c2f1cbf:
+    aperture: f/2.0
+    date: 2014-05-04 12:34:44
+    exposure: 399/1000000
+    file: IMG_20140504_123443
+    location:
+      latitude: 56.328186027778
+      longitude: -2.7421054722222
+    model: One S
+    sizes:
+      640w: { height: 362, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: HTC
+  e33a96e:
+    aperture: f/2.0
+    date: 2014-05-04 12:52:10
+    exposure: 2530/1000000
+    file: IMG_20140504_125209
+    location:
+      latitude: 56.328186027778
+      longitude: -2.7421054722222
+    model: One S
+    sizes:
+      640w: { height: 362, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: HTC
+  7b75179:
+    aperture: f/2.0
+    date: 2014-05-04 13:19:26
+    exposure: 361/1000000
+    file: IMG_20140504_131925
+    location:
+      latitude: 56.330005638889
+      longitude: -2.74763175
+    model: One S
+    sizes:
+      640w: { height: 362, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: HTC
+  a335c56:
+    aperture: f/2.0
+    date: 2014-05-04 13:21:31
+    exposure: 475/1000000
+    file: IMG_20140504_132131
+    location:
+      latitude: 56.330333694444
+      longitude: -2.7478341944444
+    model: One S
+    sizes:
+      640w: { height: 362, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: HTC
+  658404b:
+    date: 2014-05-04 16:09:06
+    file: PANO_20140504_134656
+    location:
+      latitude: 56.330533333333
+      longitude: -2.7478555555556
+    sizes:
+      640w: { height: 146, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }

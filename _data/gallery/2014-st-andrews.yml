@@ -1,23 +1,283 @@
-- 88a2c16
-- f3ed1b7
-- f6da79d
-- 71a8e74
-- 5061a38
-- 0466e83
-- 21e6cc3
-- 7c9e867
-- 3cfcc4b
-- cc68fbf
-- d3a67dd
-- 6383ea8
-- 4d8f437
-- 86d40a8
-- 0d857ec
-- c4a1884
-- 5568ee5
-- 2d0ebb4
-- 084b457
-- c130d74
-- 52395d5
-- beeeb81
-- 60ed2f6
+title: "St Andrews"
+date: 2013-10-26
+end_date: 2014-04-11
+map:
+  latitude: 56.333788211111
+  longitude: -2.8112084222222
+  zoom: 8
+photos:
+  88a2c16:
+    aperture: f/2.0
+    date: 2013-10-26 14:10:06
+    exposure: 19997/1000000
+    file: IMAG0038
+    location:
+      latitude: 56.337848638889
+      longitude: -2.8026039722222
+    model: HTC One S
+    sizes:
+      640w: { height: 361, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: HTC
+  f3ed1b7:
+    aperture: f/2.0
+    date: 2013-10-27 11:13:59
+    exposure: 9304/1000000
+    file: IMAG0042
+    location:
+      latitude: 56.328914638889
+      longitude: -2.8081791388889
+    model: HTC One S
+    sizes:
+      640w: { height: 361, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: HTC
+  f6da79d:
+    aperture: f/2.0
+    date: 2013-11-03 16:14:42
+    exposure: 5841/1000000
+    file: IMAG0062
+    location:
+      latitude: 56.343193027778
+      longitude: -2.8090896388889
+    model: HTC One S
+    sizes:
+      640w: { height: 361, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: HTC
+  71a8e74:
+    aperture: f/2.0
+    date: 2013-11-09 10:50:03
+    exposure: 589/1000000
+    file: IMAG0089
+    location:
+      latitude: 56.346015916667
+      longitude: -2.8243839722222
+    model: HTC One S
+    sizes:
+      640w: { height: 361, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: HTC
+  5061a38:
+    aperture: f/2.0
+    date: 2014-02-15 16:43:32
+    exposure: 2949/1000000
+    file: IMG_20140215_164331
+    location:
+      latitude: 56.335987083333
+      longitude: -2.818146
+    model: One S
+    sizes:
+      640w: { height: 362, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: HTC
+  0466e83:
+    aperture: f/2.0
+    date: 2014-02-15 16:44:35
+    exposure: 4604/1000000
+    file: IMG_20140215_164435
+    location:
+      latitude: 56.3164215
+      longitude: -2.8193521388889
+    model: One S
+    sizes:
+      640w: { height: 362, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: HTC
+  21e6cc3:
+    aperture: f/16.0
+    date: 2014-02-16 13:52:54
+    exposure: 1/250
+    file: DSC00261.JPG
+    model: NEX-3N
+    sizes:
+      640w: { height: 426, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: SONY
+  7c9e867:
+    aperture: f/16.0
+    date: 2014-02-16 14:45:31
+    exposure: 1/100
+    file: DSC00273.JPG
+    model: NEX-3N
+    sizes:
+      640w: { height: 426, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: SONY
+  3cfcc4b:
+    aperture: f/16.0
+    date: 2014-02-16 14:48:43
+    exposure: 1/125
+    file: DSC00274.JPG
+    model: NEX-3N
+    sizes:
+      640w: { height: 426, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: SONY
+  cc68fbf:
+    aperture: f/11.0
+    date: 2014-03-01 10:39:07
+    exposure: 1/125
+    file: DSC00279.JPG
+    model: NEX-3N
+    sizes:
+      640w: { height: 426, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: SONY
+  d3a67dd:
+    aperture: f/16.0
+    date: 2014-03-01 10:39:31
+    exposure: 1/250
+    file: DSC00280.JPG
+    model: NEX-3N
+    sizes:
+      640w: { height: 426, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: SONY
+  6383ea8:
+    aperture: f/16.0
+    date: 2014-03-01 10:39:47
+    exposure: 1/80
+    file: DSC00281.JPG
+    model: NEX-3N
+    sizes:
+      640w: { height: 426, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: SONY
+  4d8f437:
+    aperture: f/11.0
+    date: 2014-03-01 10:41:37
+    exposure: 1/250
+    file: DSC00282.JPG
+    model: NEX-3N
+    sizes:
+      640w: { height: 426, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: SONY
+  86d40a8:
+    aperture: f/16.0
+    date: 2014-03-01 10:45:18
+    exposure: 1/160
+    file: DSC00283.JPG
+    model: NEX-3N
+    sizes:
+      640w: { height: 426, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: SONY
+  0d857ec:
+    aperture: f/16.0
+    date: 2014-03-01 10:54:28
+    exposure: 1/250
+    file: DSC00286.JPG
+    model: NEX-3N
+    sizes:
+      640w: { height: 426, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: SONY
+  c4a1884:
+    aperture: f/14.0
+    date: 2014-03-01 11:01:46
+    exposure: 1/200
+    file: DSC00288.JPG
+    model: NEX-3N
+    sizes:
+      640w: { height: 426, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: SONY
+  5568ee5:
+    aperture: f/16.0
+    date: 2014-03-01 11:01:56
+    exposure: 1/100
+    file: DSC00289.JPG
+    model: NEX-3N
+    sizes:
+      640w: { height: 426, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: SONY
+  2d0ebb4:
+    aperture: f/16.0
+    date: 2014-03-01 11:04:13
+    exposure: 1/250
+    file: DSC00291.JPG
+    model: NEX-3N
+    sizes:
+      640w: { height: 426, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: SONY
+  084b457:
+    aperture: f/16.0
+    date: 2014-03-01 13:04:51
+    exposure: 1/125
+    file: DSC00303.JPG
+    model: NEX-3N
+    sizes:
+      640w: { height: 426, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: SONY
+  c130d74:
+    aperture: f/2.0
+    date: 2014-05-13 18:29:13
+    exposure: 970/1000000
+    file: IMG_20140513_182913
+    location:
+      latitude: 56.331214888889
+      longitude: -2.8060073611111
+    model: One S
+    sizes:
+      640w: { height: 362, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: HTC
+  52395d5:
+    aperture: f/2.0
+    date: 2014-05-17 15:36:49
+    exposure: 2530/1000000
+    file: IMG_20140517_153648
+    location:
+      latitude: 56.3316345
+      longitude: -2.8117885555556
+    model: One S
+    sizes:
+      640w: { height: 362, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: HTC
+  beeeb81:
+    date: 2014-05-19 08:34:41
+    file: PANO_20140513_182919
+    location:
+      latitude: 56.336455555556
+      longitude: -2.8025666666667
+    sizes:
+      640w: { height: 185, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+  60ed2f6:
+    date: 2015-04-11 14:29:32
+    file: IMG_20150411_142931
+    location:
+      latitude: 56.330196361111
+      longitude: -2.8099667777778
+    sizes:
+      640w: { height: 475, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }

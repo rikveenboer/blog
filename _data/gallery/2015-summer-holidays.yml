@@ -1,13 +1,147 @@
-- 5eb6abe
-- 5c66765
-- 381002b
-- 02207bd
-- ce3abd3
-- 87055e2
-- 612b54f
-- 3ed240c
-- 6032ca4
-- 16ac82b
-- eb1c684
-- 20037b3
-- 491fa55
+title: "Summer Holidays"
+date: 2015-08-01
+end_date: 2015-08-08
+photos:
+  5eb6abe:
+    aperture: f/4.6
+    date: 2015-08-01 18:55:48
+    exposure: 1/500
+    file: SAM_7562.JPG
+    model: SAMSUNG WB600 / VLUU WB600 / SAMSUNG WB610
+    sizes:
+      640w: { height: 480, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: SAMSUNG
+  5c66765:
+    aperture: f/6.5
+    date: 2015-08-01 20:37:04
+    exposure: 1/250
+    file: SAM_7583.JPG
+    model: SAMSUNG WB600 / VLUU WB600 / SAMSUNG WB610
+    sizes:
+      640w: { height: 480, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: SAMSUNG
+  381002b:
+    aperture: f/6.2
+    date: 2015-08-02 09:23:01
+    exposure: 1/500
+    file: SAM_7589.JPG
+    model: SAMSUNG WB600 / VLUU WB600 / SAMSUNG WB610
+    sizes:
+      640w: { height: 480, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: SAMSUNG
+  02207bd:
+    aperture: f/4.8
+    date: 2015-08-02 18:10:43
+    exposure: 1/750
+    file: SAM_7590.JPG
+    model: SAMSUNG WB600 / VLUU WB600 / SAMSUNG WB610
+    sizes:
+      640w: { height: 480, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: SAMSUNG
+  ce3abd3:
+    aperture: f/10.0
+    date: 2015-08-03 20:21:58
+    exposure: 1/25
+    file: Panorama-klein
+    model: NIKON D3100
+    sizes:
+      640w: { height: 141, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: NIKON CORPORATION
+  87055e2:
+    aperture: f/5.0
+    date: 2015-08-07 17:50:45
+    exposure: 1/750
+    file: SAM_7605.JPG
+    model: SAMSUNG WB600 / VLUU WB600 / SAMSUNG WB610
+    sizes:
+      640w: { height: 480, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: SAMSUNG
+  612b54f:
+    aperture: f/6.2
+    date: 2015-08-07 17:52:03
+    exposure: 1/350
+    file: SAM_7608.JPG
+    model: SAMSUNG WB600 / VLUU WB600 / SAMSUNG WB610
+    sizes:
+      640w: { height: 480, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: SAMSUNG
+  3ed240c:
+    aperture: f/8.3
+    date: 2015-08-08 14:33:11
+    exposure: 1/250
+    file: SAM_7611.JPG
+    model: SAMSUNG WB600 / VLUU WB600 / SAMSUNG WB610
+    sizes:
+      640w: { height: 480, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: SAMSUNG
+  6032ca4:
+    aperture: f/4.8
+    date: 2015-08-08 15:54:08
+    exposure: 1/750
+    file: SAM_7616.JPG
+    model: SAMSUNG WB600 / VLUU WB600 / SAMSUNG WB610
+    sizes:
+      640w: { height: 854, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: SAMSUNG
+  16ac82b:
+    aperture: f/6.6
+    date: 2015-08-08 15:56:58
+    exposure: 1/750
+    file: SAM_7621.JPG
+    model: SAMSUNG WB600 / VLUU WB600 / SAMSUNG WB610
+    sizes:
+      640w: { height: 480, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: SAMSUNG
+  eb1c684:
+    aperture: f/5.2
+    date: 2015-08-08 16:33:37
+    exposure: 1/750
+    file: SAM_7623.JPG
+    model: SAMSUNG WB600 / VLUU WB600 / SAMSUNG WB610
+    sizes:
+      640w: { height: 854, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: SAMSUNG
+  20037b3:
+    aperture: f/7.0
+    date: 2015-08-08 16:40:38
+    exposure: 1/350
+    file: SAM_7634.JPG
+    model: SAMSUNG WB600 / VLUU WB600 / SAMSUNG WB610
+    sizes:
+      640w: { height: 480, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: SAMSUNG
+  491fa55:
+    aperture: f/3.4
+    date: 2015-08-08 21:43:10
+    exposure: 1/30
+    file: SAM_7653.JPG
+    model: SAMSUNG WB600 / VLUU WB600 / SAMSUNG WB610
+    sizes:
+      640w: { height: 480, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: SAMSUNG

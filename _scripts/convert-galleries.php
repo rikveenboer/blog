@@ -3,12 +3,13 @@ require __DIR__ . '/../_php/autoload.php';
 
 use Symfony\Component\Yaml\Yaml;
 
-$sCollectionDir = '_gallery';
-$sGalleryDir = 'gallery';
-$sDataDir = '_data/gallery';
+$sCollectionDir = '_old__gallery';
+$sGalleryDir = '_old_gallery';
+$sDataDir = '_data/_gallery';
+$sNewDataDir = '_data/gallery';
 
-if (!file_exists($sDataDir)) {
-    mkdir($sDataDir);
+if (!file_exists($sNewDataDir)) {
+    mkdir($sNewDataDir);
 }
 
 foreach (glob($sCollectionDir . '/*.md') as $sFile) {
@@ -23,21 +24,29 @@ foreach (glob($sCollectionDir . '/*.md') as $sFile) {
     if (isset($aYaml['end_date'])) {
         $aYaml['end_date'] = date('Y-m-d', $aYaml['end_date']);
     }
-    $aPhotos = [];
-    foreach (glob(sprintf('%s/%s/*.md', $sGalleryDir, $sGallery)) as $sPhotoFile) {
-        $sName = basename($sPhotoFile, '.md');
-        $aYaml['photos'][] = $sName;
-        parseFile($sPhotoFile, $aPhotoYaml);
+    unset($aYaml['highlight']);
+    
+    $aPhotos = explode("\n", trim(str_replace('- ', null, file_get_contents(sprintf('%s/%s.yml', $sDataDir, $sGallery)))));
+    foreach ($aPhotos as $sName) {
+        parseFile(sprintf('%s/%s/%s.md', $sGalleryDir, $sGallery, $sName), $aPhotoYaml, $sContents);
         if (isset($aPhotoYaml['date'])) {
-            $aPhotos[$aPhotoYaml['date']] = $sName;
+            $aPhotoYaml['date'] = date('Y-m-d H:i:s', $aPhotoYaml['date']);
         }
+        if (!empty($sContents)) {
+            $aPhotoYaml['description'] = sprintf('"%s"', $sContents);
+        }
+        if (empty($aPhotoYaml['title']) == 'null') {
+            unset($aPhotoYaml['title']);
+        }
+        unset($aPhotoYaml['gallery']);
+        unset($aPhotoYaml['layout']);
+        unset($aPhotoYaml['next']);
+        unset($aPhotoYaml['previous']);
+        unset($aPhotoYaml['ordering']);
+        $aYaml['photos'][$sName] = $aPhotoYaml;
     }
-    ksort($aPhotos);
-    $sDataFile = sprintf('%s/%s.yml', $sDataDir, $sGallery);
-    $aYaml['highlight'] = sprintf('%07s', current($aPhotos));
-    file_put_contents($sDataFile, yamlDump(array_values($aPhotos)));
-    unset($aYaml['photos']);
-    writeFile($sFile, $aYaml, $sContents);
+    $sNewDataFile = sprintf('%s/%s.yml', $sNewDataDir, $sGallery);
+    file_put_contents($sNewDataFile, trim(yamlDump($aYaml)));
 }
 
 function parseFile($sFile, &$aYaml, &$sContents = null) {

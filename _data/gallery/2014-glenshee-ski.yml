@@ -1,10 +1,117 @@
-- a509f2c
-- 2493030
-- 691102c
-- ec79d73
-- 1b0f8a7
-- 8a7f91c
-- d75944a
-- e0bfe6d
-- bf58531
-- 35969f0
+title: glenshee-ski
+date: 2014-03-09
+end_date: 2014-03-12
+map:
+  latitude: 56.885940527778
+  longitude: -3.3776604722222
+  zoom: 8
+photos:
+  a509f2c:
+    aperture: f/11.0
+    date: 2014-03-09 10:37:16
+    exposure: 1/80
+    file: DSC00326.JPG
+    model: NEX-3N
+    sizes:
+      640w: { height: 426, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: SONY
+  2493030:
+    aperture: f/4.5
+    date: 2014-03-09 10:37:35
+    exposure: 1/500
+    file: DSC00328.JPG
+    model: NEX-3N
+    sizes:
+      640w: { height: 426, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: SONY
+  691102c:
+    aperture: f/2.0
+    date: 2014-03-09 11:03:03
+    exposure: 418/1000000
+    file: IMG_20140309_110303
+    location:
+      latitude: 56.885940527778
+      longitude: -3.3776604722222
+    model: One S
+    sizes:
+      640w: { height: 362, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: HTC
+  ec79d73:
+    aperture: f/2.0
+    date: 2014-03-09 11:05:26
+    exposure: 456/1000000
+    file: IMG_20140309_110525
+    model: One S
+    sizes:
+      640w: { height: 362, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: HTC
+  1b0f8a7:
+    aperture: f/2.0
+    date: 2014-03-09 11:06:36
+    exposure: 437/1000000
+    file: IMG_20140309_110636
+    model: One S
+    sizes:
+      640w: { height: 362, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: HTC
+  8a7f91c:
+    aperture: f/2.0
+    date: 2014-03-09 11:56:28
+    exposure: 837/1000000
+    file: IMG_20140309_115627
+    model: One S
+    sizes:
+      640w: { height: 362, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: HTC
+  d75944a:
+    aperture: f/2.0
+    date: 2014-03-09 11:56:49
+    exposure: 513/1000000
+    file: IMG_20140309_115648
+    model: One S
+    sizes:
+      640w: { height: 362, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: HTC
+  e0bfe6d:
+    aperture: f/2.0
+    date: 2014-03-09 13:34:53
+    exposure: 323/1000000
+    file: IMG_20140309_133452
+    model: One S
+    sizes:
+      640w: { height: 362, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: HTC
+  bf58531:
+    aperture: f/2.0
+    date: 2014-03-09 13:45:59
+    exposure: 342/1000000
+    file: IMG_20140309_134558
+    model: One S
+    sizes:
+      640w: { height: 362, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: HTC
+  35969f0:
+    date: 2014-03-12 20:19:54
+    file: PANO_20140309_133459
+    sizes:
+      640w: { height: 199, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }

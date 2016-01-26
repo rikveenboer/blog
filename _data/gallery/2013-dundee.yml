@@ -1,2 +1,35 @@
-- 236a633
-- ad2b297
+title: Dundee
+date: 2013-11-24
+map:
+  latitude: 56.461420041667
+  longitude: -2.9712500416667
+  zoom: 8
+photos:
+  236a633:
+    aperture: f/2.0
+    date: 2013-11-24 13:30:10
+    exposure: 3215/1000000
+    file: IMAG0183
+    location:
+      latitude: 56.460559833333
+      longitude: -2.9703473888889
+    model: HTC One S
+    sizes:
+      640w: { height: 361, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: HTC
+  ad2b297:
+    aperture: f/2.0
+    date: 2013-11-24 14:20:39
+    exposure: 2245/1000000
+    file: IMAG0184
+    location:
+      latitude: 56.46228025
+      longitude: -2.9721526944444
+    model: HTC One S
+    sizes:
+      640w: { height: 361, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: HTC

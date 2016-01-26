@@ -1,14 +1,192 @@
-- 90be30d
-- 05d8a05
-- 7ef2536
-- a0b658f
-- 3dd9d17
-- fae19bc
-- 5280fae
-- 04e8366
-- 73efeac
-- 0afb61d
-- f72837a
-- 5783ac0
-- 64cb179
-- b93d71b
+title: Strathkinness
+date: 2014-01-25
+map:
+  latitude: 56.335838089744
+  longitude: -2.8768994594017
+  zoom: 8
+photos:
+  90be30d:
+    aperture: f/2.0
+    date: 2014-01-25 14:43:55
+    exposure: 1541/1000000
+    file: IMG_20140125_144355
+    location:
+      latitude: 56.337116222222
+      longitude: -2.8763108333333
+    model: One S
+    sizes:
+      640w: { height: 480, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: HTC
+  05d8a05:
+    aperture: f/2.0
+    date: 2014-01-25 14:45:50
+    exposure: 4756/1000000
+    file: IMG_20140125_144550
+    location:
+      latitude: 56.337413777778
+      longitude: -2.8765287222222
+    model: One S
+    sizes:
+      640w: { height: 480, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: HTC
+  7ef2536:
+    aperture: f/2.0
+    date: 2014-01-25 14:46:12
+    exposure: 3843/1000000
+    file: IMG_20140125_144611
+    location:
+      latitude: 56.336990333333
+      longitude: -2.8756749444444
+    model: One S
+    sizes:
+      640w: { height: 480, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: HTC
+  a0b658f:
+    aperture: f/2.0
+    date: 2014-01-25 14:47:25
+    exposure: 2397/1000000
+    file: IMG_20140125_144724
+    location:
+      latitude: 56.337757083333
+      longitude: -2.8767197222222
+    model: One S
+    sizes:
+      640w: { height: 480, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: HTC
+  3dd9d17:
+    aperture: f/2.0
+    date: 2014-01-25 14:47:39
+    exposure: 2054/1000000
+    file: IMG_20140125_144738
+    location:
+      latitude: 56.336620305556
+      longitude: -2.8766889444444
+    model: One S
+    sizes:
+      640w: { height: 854, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: HTC
+  fae19bc:
+    aperture: f/2.0
+    date: 2014-01-25 14:48:10
+    exposure: 2530/1000000
+    file: IMG_20140125_144809
+    location:
+      latitude: 56.337425222222
+      longitude: -2.8768122222222
+    model: One S
+    sizes:
+      640w: { height: 480, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: HTC
+  5280fae:
+    aperture: f/2.0
+    date: 2014-01-25 14:52:38
+    exposure: 3120/1000000
+    file: IMG_20140125_145237
+    location:
+      latitude: 56.33714675
+      longitude: -2.8768641666667
+    model: One S
+    sizes:
+      640w: { height: 480, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: HTC
+  04e8366:
+    aperture: f/2.0
+    date: 2014-01-25 14:56:23
+    exposure: 1274/1000000
+    file: IMG_20140125_145622
+    location:
+      latitude: 56.336795805556
+      longitude: -2.8794352777778
+    model: One S
+    sizes:
+      640w: { height: 480, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: HTC
+  73efeac:
+    aperture: f/2.0
+    date: 2014-01-25 15:01:13
+    exposure: 1940/1000000
+    file: IMG_20140125_150112
+    location:
+      latitude: 56.331615444444
+      longitude: -2.8765175277778
+    model: One S
+    sizes:
+      640w: { height: 480, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: HTC
+  0afb61d:
+    aperture: f/2.0
+    date: 2014-01-25 15:05:25
+    exposure: 2397/1000000
+    file: IMG_20140125_150525
+    model: One S
+    sizes:
+      640w: { height: 480, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: HTC
+  f72837a:
+    aperture: f/2.0
+    date: 2014-01-25 15:07:49
+    exposure: 1484/1000000
+    file: IMG_20140125_150748
+    location:
+      latitude: 56.331615444444
+      longitude: -2.8765175277778
+    model: One S
+    sizes:
+      640w: { height: 480, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: HTC
+  5783ac0:
+    aperture: f/2.0
+    date: 2014-01-25 15:12:24
+    exposure: 2188/1000000
+    file: IMG_20140125_151224
+    location:
+      latitude: 56.331615444444
+      longitude: -2.8765175277778
+    model: One S
+    sizes:
+      640w: { height: 480, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: HTC
+  64cb179:
+    date: 2014-01-26 10:59:00
+    file: PANO_20140125_145528
+    location:
+      latitude: 56.336794444444
+      longitude: -2.8794333333333
+    sizes:
+      640w: { height: 195, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+  b93d71b:
+    date: 2014-01-26 10:59:01
+    file: PANO_20140125_144203
+    location:
+      latitude: 56.336988888889
+      longitude: -2.8756722222222
+    sizes:
+      640w: { height: 160, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }

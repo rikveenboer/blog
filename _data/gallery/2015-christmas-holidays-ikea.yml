@@ -1,3 +1,25 @@
-- 1b49d18
-- d7c29bf
-- 9f338ab
+title: christmas-holidays-2014-ikea
+date: 2014-12-22
+end_date: 2014-12-23
+photos:
+  1b49d18:
+    date: 2014-12-22 10:28:46
+    file: IMG_20141222_102846
+    sizes:
+      640w: { height: 475, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+  d7c29bf:
+    date: 2014-12-23 11:58:19
+    file: IMG_20141223_115818
+    sizes:
+      640w: { height: 475, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+  9f338ab:
+    date: 2014-12-23 13:20:45
+    file: IMG_20141223_132045
+    sizes:
+      640w: { height: 475, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }

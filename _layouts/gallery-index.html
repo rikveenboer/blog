@@ -1,0 +1,50 @@
+---
+layout: default
+---
+<section itemscope itemtype="http://schema.org/ImageGallery">
+    <header>
+        <div class="timeline"></div>
+        <h1>
+            <span itemprop="name">{{ page.title }}</span>
+        </h1>
+    </header>
+    <section class="post-content">
+    {{ content }}
+    {% if false != page.slideshow %}
+    <a href="slideshow.html">[ slideshow ]</a>
+    {% endif %}
+    {% if false != page.slideshow and page.map %}
+    &nbsp;|&nbsp;    
+    {% endif %}
+    {% if page.map %}
+    <a href="map.html">[ map ]</a>
+    {% endif %}
+    {% assign items = site.array %}
+    {% for p in site.posts %}
+        {% if p.content contains page.gallery %}
+            {% assign items = items | push:p %}
+        {% endif %}
+    {% endfor %}
+    {% assign size=items | size %}
+    {% if size > 0 %}
+    <p>{{ site.mentioned_in }}</p>
+    <ul>
+        {% for item in items %}
+        <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+        {% endfor %}
+    </ul>
+    {% endif %}
+    <div class="list-gallery">
+    {% for photo in page.photos %}
+        <span itemprop="image" itemscope itemtype="http://schema.org/Photograph">
+            <a href="/{{ site.baseurl }}/{{ photo.url }}" itemprop="url">
+                <img alt="Photo: {{ photo.title }}" height="200" src="{{ site.asset_prefix }}/gallery/{{ page.gallery }}/{{ photo.name }}~200x200.jpg" title="{{ photo.title }}" width="200" />
+            </a>
+        </span>
+    {% endfor %}
+    </div>    
+    </section>
+    {% if false != page.comments %}
+        {% include disqus.html %}
+    {% endif %}
+</section>

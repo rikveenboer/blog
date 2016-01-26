@@ -1,5 +1,57 @@
-- 2c802d3
-- 1016c64
-- 0b7862b
-- 1cc8ac2
-- 23135f6
+title: "Visit Sanne"
+date: 2015-08-21
+end_date: 2015-08-23
+photos:
+  2c802d3:
+    aperture: f/3.3
+    date: 2015-08-21 13:16:22
+    exposure: 1/45
+    file: SAM_0688.JPG
+    model: SAMSUNG PL210, PL211 / VLUU PL210, PL211
+    sizes:
+      640w: { height: 480, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: SAMSUNG
+  1016c64:
+    aperture: f/2.0
+    date: 2015-08-22 15:11:37
+    exposure: 1/290
+    file: IMG_20150822_151135
+    model: One A0001
+    sizes:
+      1920x1080: { height: 1080, width: 1920 }
+      640w: { height: 360, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: OnePlus
+  0b7862b:
+    aperture: f/3.3
+    date: 2015-08-22 16:47:47
+    exposure: 1/180
+    file: SAM_0716.JPG
+    model: SAMSUNG PL210, PL211 / VLUU PL210, PL211
+    sizes:
+      640w: { height: 480, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: SAMSUNG
+  1cc8ac2:
+    aperture: f/2.0
+    date: 2015-08-23 15:49:23
+    exposure: 1/2300
+    file: IMG_20150823_154921
+    model: One A0001
+    sizes:
+      1920x1080: { height: 1080, width: 1920 }
+      640w: { height: 360, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: OnePlus
+  23135f6:
+    date: 2015-08-23 17:07:30
+    file: IMG_20150823_170730
+    sizes:
+      640w: { height: 480, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }

@@ -1,2 +1,18 @@
-- f062567
-- f92cb12
+title: glen-clova-david
+date: 2015-10-11
+photos:
+  f062567:
+    date: 2015-10-11 19:24:15
+    file: 12094965_10208572406014090_7417930256676720204_o
+    sizes:
+      640w: { height: 961, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+  f92cb12:
+    date: 2015-10-11 19:24:16
+    file: 12095200_10208572408214145_4494281446369998512_o
+    sizes:
+      1920x1080: { height: 1080, width: 1920 }
+      640w: { height: 427, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }

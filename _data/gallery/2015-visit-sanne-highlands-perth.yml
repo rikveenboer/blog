@@ -1,5 +1,62 @@
-- b4aeee4
-- febc436
-- 38a287f
-- 770159b
-- 3851fc2
+title: visit-sanne-2015-highlands-perth
+date: 2015-08-22
+photos:
+  b4aeee4:
+    aperture: f/2.0
+    date: 2015-08-22 18:24:14
+    exposure: 1/50
+    file: IMG_20150822_182412
+    model: One A0001
+    sizes:
+      1920x1080: { height: 1080, width: 1920 }
+      640w: { height: 360, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: OnePlus
+  febc436:
+    aperture: f/2.0
+    date: 2015-08-22 18:44:28
+    exposure: 1/120
+    file: IMG_20150822_184426
+    model: One A0001
+    sizes:
+      1920x1080: { height: 1080, width: 1920 }
+      640w: { height: 360, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: OnePlus
+  38a287f:
+    aperture: f/2.0
+    date: 2015-08-22 18:46:38
+    exposure: 1/125
+    file: IMG_20150822_184636
+    model: One A0001
+    sizes:
+      1920x1080: { height: 1080, width: 1920 }
+      640w: { height: 360, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: OnePlus
+  770159b:
+    aperture: f/2.0
+    date: 2015-08-22 18:47:29
+    exposure: 1/60
+    file: IMG_20150822_184727
+    model: One A0001
+    sizes:
+      1920x1080: { height: 1080, width: 1920 }
+      640w: { height: 360, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: OnePlus
+  3851fc2:
+    aperture: f/3.7
+    date: 2015-08-22 19:49:17
+    exposure: 1/60
+    file: SAM_0730.JPG
+    model: SAMSUNG PL210, PL211 / VLUU PL210, PL211
+    sizes:
+      640w: { height: 480, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: SAMSUNG

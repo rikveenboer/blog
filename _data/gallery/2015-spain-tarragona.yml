@@ -1,4 +1,67 @@
-- c2c8f99
-- 1422b9b
-- 5a4c1c4
-- ad9f802
+title: "Spain: Tarragona"
+date: 2015-06-27
+map:
+  latitude: 41.116458333333
+  longitude: 1.253865
+  zoom: 8
+photos:
+  c2c8f99:
+    aperture: f/2.0
+    date: 2015-06-27 13:26:38
+    exposure: 1/1200
+    file: IMG_20150627_132635
+    location:
+      latitude: 41.117123333333
+      longitude: 1.25617
+    model: One A0001
+    sizes:
+      1920x1080: { height: 1080, width: 1920 }
+      640w: { height: 360, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: OnePlus
+  1422b9b:
+    aperture: f/2.0
+    date: 2015-06-27 14:50:42
+    exposure: 1/1900
+    file: IMG_20150627_145039
+    location:
+      latitude: 41.113583333333
+      longitude: 1.25641
+    model: One A0001
+    sizes:
+      1920x1080: { height: 1080, width: 1920 }
+      640w: { height: 360, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: OnePlus
+  5a4c1c4:
+    aperture: f/2.0
+    date: 2015-06-27 16:01:01
+    exposure: 1/1500
+    file: IMG_20150627_160058
+    location:
+      latitude: 41.118206666667
+      longitude: 1.2472083333333
+    model: One A0001
+    sizes:
+      1920x1080: { height: 1080, width: 1920 }
+      640w: { height: 1138, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: OnePlus
+  ad9f802:
+    aperture: f/2.0
+    date: 2015-06-28 11:28:21
+    exposure: 1/1600
+    file: IMG_20150628_112819
+    location:
+      latitude: 41.11692
+      longitude: 1.2556716666667
+    model: One A0001
+    sizes:
+      1920x1080: { height: 1080, width: 1920 }
+      640w: { height: 360, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: OnePlus

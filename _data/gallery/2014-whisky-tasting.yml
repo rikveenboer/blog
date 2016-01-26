@@ -1,4 +1,47 @@
-- 598c7ff
-- cd86d2d
-- 6ef0a46
-- 316804e
+title: whisky-tasting
+date: 2014-03-06
+photos:
+  598c7ff:
+    aperture: f/2.0
+    date: 2014-03-06 19:25:19
+    exposure: 50001/1000000
+    file: IMG_20140306_192518
+    model: One S
+    sizes:
+      640w: { height: 362, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: HTC
+  cd86d2d:
+    aperture: f/2.0
+    date: 2014-03-06 19:26:56
+    exposure: 50001/1000000
+    file: IMG_20140306_192656
+    model: One S
+    sizes:
+      640w: { height: 1132, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: HTC
+  6ef0a46:
+    aperture: f/2.0
+    date: 2014-03-06 19:28:16
+    exposure: 50001/1000000
+    file: IMG_20140306_192815
+    model: One S
+    sizes:
+      640w: { height: 362, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: HTC
+  316804e:
+    aperture: f/2.0
+    date: 2014-03-06 20:20:41
+    exposure: 50001/1000000
+    file: IMG_20140306_202040
+    model: One S
+    sizes:
+      640w: { height: 362, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: HTC

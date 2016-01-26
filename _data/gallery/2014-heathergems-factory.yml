@@ -1,3 +1,49 @@
-- 9189da9
-- ecaf22c
-- 4490829
+title: "Heathergems factory"
+date: 2014-02-08
+map:
+  latitude: 56.707992527778
+  longitude: -3.7423253333333
+  zoom: 8
+photos:
+  9189da9:
+    aperture: f/2.0
+    date: 2014-02-08 12:35:42
+    exposure: 50001/1000000
+    file: img_20140208_123541
+    location:
+      latitude: 56.707992527778
+      longitude: -3.7423253333333
+    model: One S
+    sizes:
+      640w: { height: 362, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: HTC
+  ecaf22c:
+    aperture: f/2.0
+    date: 2014-02-08 12:36:02
+    exposure: 50001/1000000
+    file: img_20140208_123602
+    location:
+      latitude: 56.707992527778
+      longitude: -3.7423253333333
+    model: One S
+    sizes:
+      640w: { height: 1132, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: HTC
+  4490829:
+    aperture: f/2.0
+    date: 2014-02-08 12:36:23
+    exposure: 41667/1000000
+    file: img_20140208_123623
+    location:
+      latitude: 56.707992527778
+      longitude: -3.7423253333333
+    model: One S
+    sizes:
+      640w: { height: 362, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: HTC

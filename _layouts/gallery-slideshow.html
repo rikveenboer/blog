@@ -1,4 +1,3 @@
-{% assign item = site.gallery | where:'name', page.gallery | first %}
 <html>
   <head>
     <title>{{ page.title }}</title>
@@ -43,8 +42,7 @@
   <body>
     <section>
       <h1>{{ page.title }}</h1>
-{% include gallery-photos.html gallery=page.gallery %}
-{% for photo in photos %}
+{% for photo in page.photos %}
       <div class="photo" style="border-radius:2px;display:inline-block;margin:4px;overflow:hidden;">
     {% assign maxsize = 0 %}
     {% assign maxref = false %}

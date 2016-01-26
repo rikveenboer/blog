@@ -1,43 +1,36 @@
 ---
+title: Galleries
 layout: default
 ---
-{% assign url = page.url | split:'/' %}
-{% assign gallery = url[2] %}
-<section itemscope itemtype="http://schema.org/ImageGallery">
-    <header>
-        <div class="timeline"></div>
-        <h1>
-            <span itemprop="name">{{ page.title }}</span>
-        </h1>
-    </header>
-    <section class="post-content">
-    {{ content }}
-    {% if false != page.slideshow %}
-    <a href="slideshow.html">[ slideshow ]</a>
+<section>
+    <p>
+        Naast foto's die bij bepaalde activiteiten horen, kom ik vaak situaties tegen die ik de moeite waard vind om op beeld vast te leggen. Wist je dat ik de meeste foto's op dit blog met de camera op mijn HTC One S of OnePlus One maak? Geloof het of niet, maar zelfs sommige van de prachtige panorama's boven elke pagina zijn daarvan afkomstig. Natuurlijk vul ik mijn eigen foto's aan met exemplaren van anderen.
+    </p>
+</section>
+<section>
+{% for gallery in page.galleries %}
+    {% if gallery.ignore == null %}
+    {% if gallery.highlight %}
+        {% assign highlight=gallery.highlight %}
+    {% else %}
+        {% assign photo=gallery.photos | first %}
+        {% assign highlight=photo.name %}
     {% endif %}
-    {% if false != page.slideshow and page.map %}
-    &nbsp;|&nbsp;    
+    <div style="display: inline-block; height: 274px; margin: 8px 10px 0 0; text-align: center; width: 200px;">
+        <a href="/{{ site.baseurl }}/gallery/{{ gallery.gallery }}/" style="text-decoration:none;">
+        <img alt="{{ gallery.title }}" height="200" src="{{ site.asset_prefix }}/gallery/{{ gallery.gallery }}/{{ highlight }}~200x200.jpg" title="{{ gallery.title }}" width="200" style="border-radius:4px;" />
+        <span style="text-decoration:underline;">{{ gallery.title }}</span>
+            {% if gallery.date %}<br />
+            <small>
+                {% if gallery.date_end %}
+                    {{ gallery.date|date:"%B %-d" }} &ndash; {{ gallery.date_end|date:"%-d" }}, {{ gallery.date|date:"%Y" }}
+                {% else %}
+                    {{ gallery.date|date:"%B %-d, %Y" }}
+                {% endif %}
+            </small>
+            {% endif %}
+        </a>
+    </div>    
     {% endif %}
-    {% if page.map %}
-    <a href="map.html">[ map ]</a>
-    {% endif %}
-    {% assign items = site.array %}
-    {% for p in site.posts %}
-        {% if p.content contains gallery %}
-            {% assign items = items | push:p %}
-        {% endif %}
-    {% endfor %}
-    {% if items | size > 0 %}
-    <p>{{ site.mentioned_in }}</p>
-    <ul>
-    {% for item in items %}
-        <li><a href="{{ item.url }}">{{ item.title }}</a></li>
-    {% endfor %}
-    </ul>
-    {% endif %}
-    {% include gallery-list.html gallery=gallery %}
-    </section>
-    {% if false != page.comments %}
-        {% include disqus.html %}
-    {% endif %}
+{% endfor %}
 </section>

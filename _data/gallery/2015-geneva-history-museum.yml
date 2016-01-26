@@ -1,16 +1,167 @@
-- e3550a4
-- edee5ba
-- 18c2c97
-- c14f59b
-- dd27cb6
-- 6ede0ab
-- 6844d40
-- 45e3d39
-- b14be20
-- 076247f
-- aed9115
-- c1855ee
-- 9b5018d
-- 74174b3
-- bedf679
-- 44bf55d
+title: geneva-2014-history-museum
+date: 2014-12-21
+map:
+  latitude: 46.201427685764
+  longitude: 6.1557546458333
+  zoom: 8
+photos:
+  e3550a4:
+    date: 2014-12-21 10:03:47
+    file: IMG_20141221_100346
+    location:
+      latitude: 46.201404555556
+      longitude: 6.1554326944444
+    sizes:
+      640w: { height: 475, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+  edee5ba:
+    date: 2014-12-21 10:06:39
+    file: IMG_20141221_100638
+    location:
+      latitude: 46.201404555556
+      longitude: 6.1554326944444
+    sizes:
+      640w: { height: 475, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+  18c2c97:
+    date: 2014-12-21 10:07:49
+    file: IMG_20141221_100748
+    location:
+      latitude: 46.20143125
+      longitude: 6.155488
+    sizes:
+      640w: { height: 475, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+  c14f59b:
+    date: 2014-12-21 10:10:52
+    file: IMG_20141221_101052
+    location:
+      latitude: 46.201526638889
+      longitude: 6.1557078333333
+    sizes:
+      640w: { height: 480, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+  dd27cb6:
+    date: 2014-12-21 10:11:06
+    file: IMG_20141221_101105
+    location:
+      latitude: 46.201526638889
+      longitude: 6.1557078333333
+    sizes:
+      640w: { height: 475, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+  6ede0ab:
+    date: 2014-12-21 10:12:55
+    file: IMG_20141221_101254
+    location:
+      latitude: 46.196697222222
+      longitude: 6.1629881666667
+    sizes:
+      640w: { height: 864, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+  6844d40:
+    date: 2014-12-21 10:13:15
+    file: IMG_20141221_101313
+    location:
+      latitude: 46.199050888889
+      longitude: 6.1592106666667
+    sizes:
+      640w: { height: 475, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+  45e3d39:
+    date: 2014-12-21 10:14:53
+    file: IMG_20141221_101452
+    location:
+      latitude: 46.199050888889
+      longitude: 6.1592106666667
+    sizes:
+      640w: { height: 475, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+  b14be20:
+    date: 2014-12-21 10:16:49
+    file: IMG_20141221_101648
+    location:
+      latitude: 46.201526638889
+      longitude: 6.1557078333333
+    sizes:
+      640w: { height: 475, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+  076247f:
+    date: 2014-12-21 10:17:58
+    file: IMG_20141221_101757
+    location:
+      latitude: 46.201526638889
+      longitude: 6.1557078333333
+    sizes:
+      640w: { height: 475, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+  aed9115:
+    date: 2014-12-21 10:23:10
+    file: IMG_20141221_102309
+    location:
+      latitude: 46.201404555556
+      longitude: 6.1554326944444
+    sizes:
+      640w: { height: 475, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+  c1855ee:
+    date: 2014-12-21 10:23:25
+    file: IMG_20141221_102324
+    location:
+      latitude: 46.201404555556
+      longitude: 6.1554326944444
+    sizes:
+      640w: { height: 475, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+  9b5018d:
+    date: 2014-12-21 10:34:42
+    file: IMG_20141221_103441
+    location:
+      latitude: 46.19737625
+      longitude: 6.1614594444444
+    sizes:
+      640w: { height: 475, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+  74174b3:
+    date: 2014-12-21 10:35:37
+    file: IMG_20141221_103536
+    location:
+      latitude: 46.201526638889
+      longitude: 6.1557078333333
+    sizes:
+      640w: { height: 475, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+  bedf679:
+    date: 2014-12-21 10:41:27
+    file: IMG_20141221_104126
+    location:
+      latitude: 46.207992527778
+      longitude: 6.1467237222222
+    sizes:
+      640w: { height: 475, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+  44bf55d:
+    date: 2014-12-21 10:43:49
+    file: IMG_20141221_104348
+    location:
+      latitude: 46.207992527778
+      longitude: 6.1467237222222
+    sizes:
+      640w: { height: 475, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }

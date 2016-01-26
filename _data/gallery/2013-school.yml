@@ -1,5 +1,78 @@
-- 1c84d8a
-- b43d43c
-- 90f86ae
-- c6c7b38
-- bfb4534
+title: School
+date: 2013-11-03
+end_date: 2013-11-20
+map:
+  latitude: 56.3407852
+  longitude: -2.8089547611111
+  zoom: 8
+photos:
+  1c84d8a:
+    aperture: f/2.0
+    date: 2013-11-03 16:14:34
+    exposure: 3520/1000000
+    file: IMAG0061
+    location:
+      latitude: 56.34321975
+      longitude: -2.8059895
+    model: HTC One S
+    sizes:
+      640w: { height: 361, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: HTC
+  b43d43c:
+    aperture: f/2.0
+    date: 2013-11-09 10:51:59
+    exposure: 818/1000000
+    file: IMAG0090
+    location:
+      latitude: 56.339515666667
+      longitude: -2.80945325
+    model: HTC One S
+    sizes:
+      640w: { height: 361, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: HTC
+  90f86ae:
+    aperture: f/2.0
+    date: 2013-11-09 10:52:10
+    exposure: 323/1000000
+    file: IMAG0091
+    location:
+      latitude: 56.339664444444
+      longitude: -2.8078863611111
+    model: HTC One S
+    sizes:
+      640w: { height: 361, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: HTC
+  c6c7b38:
+    aperture: f/2.0
+    date: 2013-11-16 11:24:55
+    exposure: 799/1000000
+    file: IMAG0100
+    location:
+      latitude: 56.341232277778
+      longitude: -2.8098456666667
+    model: HTC One S
+    sizes:
+      640w: { height: 361, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: HTC
+  bfb4534:
+    aperture: f/2.0
+    date: 2013-11-20 08:49:42
+    exposure: 30005/1000000
+    file: IMAG0108
+    location:
+      latitude: 56.340293861111
+      longitude: -2.8115990277778
+    model: HTC One S
+    sizes:
+      640w: { height: 361, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: HTC

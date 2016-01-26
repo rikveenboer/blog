@@ -1,10 +1,129 @@
-- 8eafdf9
-- cedffdd
-- 8fe9d47
-- 0a14a5a
-- f0c6532
-- e669a5a
-- 9eb032a
-- 248789d
-- 257c3ab
-- efb60c9
+title: "Christmas Holidays: Dwingelderveld"
+date: 2014-12-31
+map:
+  latitude: 52.813841732639
+  longitude: 6.4157383368056
+  zoom: 8
+photos:
+  8eafdf9:
+    date: 2014-12-31 12:51:24
+    file: IMG_20141231_125123
+    sizes:
+      640w: { height: 475, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+  cedffdd:
+    date: 2014-12-31 12:52:38
+    file: 2014-12-31 12.52.38
+    location:
+      latitude: 52.823460833333
+      longitude: 6.4175758333333
+    model: Nexus 5
+    sizes:
+      640w: { height: 855, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: LGE
+  8fe9d47:
+    aperture: f/2.9
+    date: 2014-12-31 13:14:35
+    exposure: 1/839
+    file: 2014-12-31 13.14.35
+    location:
+      latitude: 52.81384275
+      longitude: 6.4133958611111
+    model: Nexus 5
+    sizes:
+      640w: { height: 480, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: LGE
+  0a14a5a:
+    date: 2014-12-31 13:18:45
+    file: IMG_20141231_131844
+    sizes:
+      640w: { height: 475, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+  f0c6532:
+    aperture: f/2.4
+    date: 2014-12-31 13:19:43
+    exposure: 529/1000000
+    file: 2014-12-31 13.19.43
+    location:
+      latitude: 52.813228611111
+      longitude: 6.4156630555556
+    model: Nexus 5
+    sizes:
+      640w: { height: 865, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: LGE
+  e669a5a:
+    date: 2014-12-31 13:20:10
+    file: 2014-12-31 13.20.10
+    location:
+      latitude: 52.813203888889
+      longitude: 6.4156458333333
+    model: Nexus 5
+    sizes:
+      640w: { height: 99, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: LGE
+  9eb032a:
+    aperture: f/2.4
+    date: 2014-12-31 13:21:20
+    exposure: 1058/1000000
+    file: 2014-12-31 13.21.20
+    location:
+      latitude: 52.813183888889
+      longitude: 6.4156480555556
+    model: Nexus 5
+    sizes:
+      640w: { height: 865, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: LGE
+  248789d:
+    aperture: f/2.4
+    date: 2014-12-31 13:25:00
+    exposure: 727/1000000
+    file: 2014-12-31 13.25.00
+    location:
+      latitude: 52.811250277778
+      longitude: 6.4159197222222
+    model: Nexus 5
+    sizes:
+      640w: { height: 865, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: LGE
+  257c3ab:
+    aperture: f/2.4
+    date: 2014-12-31 13:25:51
+    exposure: 1296/1000000
+    file: 2014-12-31 13.25.51
+    location:
+      latitude: 52.811293611111
+      longitude: 6.4160222222222
+    model: Nexus 5
+    sizes:
+      640w: { height: 474, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: LGE
+  efb60c9:
+    aperture: f/2.4
+    date: 2014-12-31 13:26:32
+    exposure: 873/1000000
+    file: 2014-12-31 13.26.32
+    location:
+      latitude: 52.81127
+      longitude: 6.4160361111111
+    model: Nexus 5
+    sizes:
+      640w: { height: 474, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: LGE

@@ -1,8 +1,109 @@
-- 55bc23e
-- f646f54
-- bb2244f
-- ef1167e
-- 3ffd76b
-- 0d4a290
-- 797d6e1
-- 03da288
+title: tentmuir
+date: 2014-11-01
+map:
+  latitude: 56.412449488095
+  longitude: -2.8235294960317
+  zoom: 8
+photos:
+  55bc23e:
+    aperture: f/2.0
+    date: 2014-11-01 14:47:38
+    exposure: 1/33
+    file: DSC_0047.JPG
+    location:
+      latitude: 56.406906111111
+      longitude: -2.8176874722222
+    model: A0001
+    sizes:
+      640w: { height: 475, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: ONEPLUS
+  f646f54:
+    aperture: f/2.0
+    date: 2014-11-01 14:49:38
+    exposure: 1/100
+    file: DSC_0050.JPG
+    location:
+      latitude: 56.407070138889
+      longitude: -2.8171441388889
+    model: A0001
+    sizes:
+      640w: { height: 864, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: ONEPLUS
+  bb2244f:
+    date: 2014-11-01 14:57:21
+    exposure: 1/4836
+    file: 20141101_145721_HDR
+    model: A0001
+    sizes:
+      640w: { height: 475, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: ONEPLUS
+  ef1167e:
+    aperture: f/2.0
+    date: 2014-11-01 14:59:42
+    exposure: 1/3023
+    file: DSC_0056.JPG
+    location:
+      latitude: 56.406894666667
+      longitude: -2.8068923888889
+    model: A0001
+    sizes:
+      640w: { height: 475, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: ONEPLUS
+  3ffd76b:
+    date: 2014-11-01 15:02:01
+    file: PANO_20141101_150113
+    location:
+      latitude: 56.406965833333
+      longitude: -2.8081458333333
+    model: A0001
+    sizes:
+      640w: { height: 120, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: ONEPLUS
+  0d4a290:
+    aperture: f/2.0
+    date: 2014-11-01 15:09:08
+    exposure: 1/33
+    file: IMG_20141101_150907
+    location:
+      latitude: 56.406723
+      longitude: -2.8170838611111
+    model: A0001
+    sizes:
+      640w: { height: 475, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: ONEPLUS
+  797d6e1:
+    date: 2014-11-01 15:16:58
+    file: PANO_20141101_151601
+    location:
+      latitude: 56.405583888889
+      longitude: -2.8241738888889
+    model: A0001
+    sizes:
+      640w: { height: 269, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: ONEPLUS
+  03da288:
+    date: 2014-11-01 15:41:54
+    file: PANO_20141101_154120
+    location:
+      latitude: 56.447002777778
+      longitude: -2.8735788888889
+    model: A0001
+    sizes:
+      640w: { height: 163, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+    make: ONEPLUS
