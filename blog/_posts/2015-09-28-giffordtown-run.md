@@ -1,8 +1,5 @@
 ---
-id: 3016
 title: Giffordtown run
-author: Rik
-layout: post
 ---
 Ik heb met een delegatie van de Cross Country hardloopclub meegedaan aan een officiÃ«le 5 kilometer wedstrijd in Giffordtown, nabij St Andrews. Zie de [informatie van de organisator][1], [de facebookpagina][2] of mijn eigen [verslag][3] voor meer informatie!
 

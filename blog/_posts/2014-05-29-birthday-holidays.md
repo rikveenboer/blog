@@ -1,7 +1,5 @@
 ---
-id: 1019
 title: Birthday Holidays
-layout: post
 end_date: 2014-06-02
 ---
 

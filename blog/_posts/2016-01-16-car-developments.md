@@ -1,6 +1,5 @@
 ---
 title: Car Developments (2)
-layout: post
 description: De Peugeot 206 nadert perfectie.
 ---
 Na de [ontdekking van een olielek]({% post_baseurl 2016-01-09-car-developments %}) in mijn [nieuwe auto]({% post_baseurl 2015-12-23-new-car %}) heb ik nu een week later goed nieuws te melden.

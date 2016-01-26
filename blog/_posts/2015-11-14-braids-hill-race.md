@@ -1,8 +1,5 @@
 ---
-id: 3217
 title: Braids Hill Race
-author: Rik
-layout: post
 end_date: 2015-11-15
 ---
 Dit weekend stond in het teken van de [Braids hill race][1] in Edinburgh. Ik heb met de cross country (XC) club uit St Andrews meegedaan aan de 10 kilometer wedstrijd, bestaande uit twee spectaculaire ronden om een golfbaan. Met die beschrijving doe ik het parcours veel te kort, want:

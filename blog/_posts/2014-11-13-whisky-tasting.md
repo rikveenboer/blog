@@ -1,7 +1,5 @@
 ---
-id: 1928
 title: Whisky tasting
-layout: post
 ---
 Deze whisky tasting werd gepresenteerd door de overkopelende "Inver House Distillers". Op het programma stonden diverse whiskies van anCnoc:
 

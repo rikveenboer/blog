@@ -1,7 +1,5 @@
 ---
-id: 1132
 title: Cinema Dundee
-layout: post
 ---
 Er is weer een nieuwe film uit:
 

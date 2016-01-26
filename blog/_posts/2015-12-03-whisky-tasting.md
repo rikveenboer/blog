@@ -1,7 +1,5 @@
 ---
-id: 3221
 title: Whisky Tasting
-layout: post
 ---
 Nu de Spaanse lessen zijn afgelopen zijn de donderdagavonden weer vrij voor andere activiteiten. In princiepe is er elke donderdag training (hardlopen, intervallen) en tijdens een groot deel van het jaar om de week een whisky tasting. Deze avond was de laatste tasting van het seizoen, dus daar moest ik heen!
 

@@ -1,7 +1,5 @@
 ---
-id: 911
 title: Cinema Dundee
-layout: post
 ---
 Hoewel het de afgelopen week behoorlijk goed weer was, is het toch leuk om lekker binnen in de bioscoop te zitten en nieuwe films te bekijken. Vanavond was ik met de Schotse collega en drie Italianen op pad. Als eerste hebben we een "thriller" gezien:
 

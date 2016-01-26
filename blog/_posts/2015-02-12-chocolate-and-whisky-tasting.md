@@ -1,7 +1,5 @@
 ---
-id: 2142
 title: Whisky and chocolate tasting
-layout: post
 ---
 Een samenwerking tussen de Fine Chocolate Society en de Whisky Society heeft vanavond een (extra) gecombineerde tasting opgeleverd. Er waren vier whiskies uitgezocht met telkens een passende truffel:
 

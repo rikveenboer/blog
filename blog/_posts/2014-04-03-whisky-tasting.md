@@ -1,7 +1,5 @@
 ---
-id: 721
 title: Whisky tasting
-layout: post
 ---
 Voor deze tasting hebben we een burger gegeten bij [Rascals Bar][1], een prima plaats om een bodem te leggen!
 

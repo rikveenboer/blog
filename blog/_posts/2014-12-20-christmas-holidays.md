@@ -1,7 +1,5 @@
 ---
-id: 2116
 title: Christmas Holidays
-layout: post
 end_date: 2015-01-04
 ---
 De kerst en oud en nieuw vakantie heb ik dit jaar in Nederland gevierd!

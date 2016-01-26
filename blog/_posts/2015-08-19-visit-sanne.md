@@ -1,8 +1,5 @@
 ---
-id: 2856
 title: Visit Sanne
-author: Rik
-layout: post
 ---
 Sanne is deze augustus bij mij op bezoek geweest in St Andrews voor een joyful lang weekend!
 

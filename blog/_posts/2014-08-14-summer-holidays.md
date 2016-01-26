@@ -1,7 +1,5 @@
 ---
-id: 1197
 title: Summer Holidays
-layout: post
 end_date: 2015-08-25
 ---
 Eind augustus ben ik weer naar Uitgeest gegaan voor zomervakantie!

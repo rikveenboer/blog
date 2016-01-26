@@ -1,8 +1,5 @@
 ---
-id: 2590
 title: Aberdeen and Dunnottar Castle
-author: Rik
-layout: post
 ---
 Vanwege het 144ste golf open toernooi in St Andrews is de universiteit op donderdag en vrijdag gesloten. Thuis werken bleek na korte overweging een te verwerpen optie, dus we hadden vier dagen weekend! Ik had nog nooit eerder een doordeweekse dag zomaar vrij, dus het was even onwennig hoe deze extra tijd optimaal te besteden. We waren eerst voornemens om met collega's een meerdaagse trip door Schotland te maken, maar helaas voor ons (en de golfers) gooide het weer roet in het eten. Na twee dagen thuis luieren was het zaterdag goed weer en zijn we op een dagtrip naar het noordoosten van Schotland gegaan.
 

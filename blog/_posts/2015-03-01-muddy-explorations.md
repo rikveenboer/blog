@@ -1,7 +1,5 @@
 ---
-id: 2153
 title: Muddy Explorations
-layout: post
 ---
 Na mijn avontuurlijke hardloopavontuur van [vorige week][1], had ik ook vandaag zin om al hardlopend op verkenning te gaan. Terwijl het weer vorige week behoorlijk slecht was, was het nu overwegend zonnig met harde wind. Ik had dan ook niet verwacht onderweg zoveel modder tegen te komen!
 

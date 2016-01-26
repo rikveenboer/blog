@@ -1,7 +1,5 @@
 ---
-id: 905
 title: Anstruther
-layout: post
 ---
 Eigenlijk wilden we dit weekend een trip naar de hooglanden maken, maar dat lukte helaas niet. Een bezoekje naar het dichtbij gelegen Anstruther is een eenvoudig maar vermakelijk alternatief. Dit kleine vissersdorp ligt iets verder dan [Crail]({% post_baseurl 2014-03-23-crail %} "Crail") en heeft slechts 3600 inwoners.
 

@@ -1,8 +1,5 @@
 ---
-id: 2325
 title: Birthday Holidays
-author: Rik
-layout: post
 end_date: 2015-06-03
 ---
 Net als [Glasgow]({% post_baseurl 2014-05-29-birthday-holidays %} vorig jaar) ben ik eind mei weer naar Nederland geweest om daar mijn (en Brams) verjaardag te vieren. Op de valreep besloten we dat ik niet van donderdagavond to zondagavond zou blijven, maar zelfs tot woensdagavond: zes hele dagen joy!

@@ -1,7 +1,5 @@
 ---
-id: 2145
 title: International dinner
-layout: post
 ---
 Het vergt een goed geheugen, maar het is op de dag af een jaar geleden dat we een [international dinner][1] hebben gedaan met collega's!
 

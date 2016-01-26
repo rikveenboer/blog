@@ -1,7 +1,5 @@
 ---
-id: 344
 title: Visit School of Chemistry
-layout: post
 ---
 Toen ik werd uitgenoedigd om de School of Chemistry te bezoeken, was het hoofddoel natuurlijk het ontmoeten van verschillende professoren en hun onderzoeksgroepen en het bekijken van de beschikbare faciliteiten. Maar dit serieuze doel weerhield mij er niet van om er een heuse trip van te maken.
 

@@ -1,7 +1,5 @@
 ---
-id: 2181
 title: Lazy Friday
-layout: post
 ---
 De astronomische lente begint eigenlijk pas laat op de vrijdagavond, maar omdat het deze vrijdag kennelijk ook de [internationale dag van de blijheid](http://www.dayofhappiness.net/) is, zijn we daar op het werk vast op vooruitgelopen. Want van werken kwam vandaag weinig terecht! Gelukkig was de professor er vandaag niet...
 

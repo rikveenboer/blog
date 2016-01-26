@@ -1,7 +1,5 @@
 ---
-id: 981
 title: Edinburgh
-layout: post
 ---
 Vandaag ben ik met Franse collega's Alan en Hubert naar Edinburgh geweest. Mijn [vorige]({% post_baseurl 2013-12-08-visit-school-of-chemistry %} "Visit School of Chemistry") bezoek aan Edinburgh beviel me goed en het was leuk om er opnieuw te zijn. Het weer was niet fantastisch, behoorlijk koud met af en toe een beetje motregen. Gelukkig geeft me dat wel gelegenheid om het Schotse woord voor dergelijke weersomstandigheden te introduceren: Dreich.
 

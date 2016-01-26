@@ -1,7 +1,5 @@
 ---
-id: 2144
 title: Whisky  tasting
-layout: post
 ---
 Vandaag stond er bij de whisky tasting Glenfarclas uit de Speyside regio op het programma! We werden getrakteerd op een hele serie:
 

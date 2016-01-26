@@ -1,6 +1,5 @@
 ---
 title: Car Developments (1)
-layout: post
 description: De Peugeot 206 moet nog een beetje onder handen worden genomen.
 ---
 Voor de vakantie heb ik maar kort in mijn [nieuwe auto]({% post_baseurl 2015-12-23-new-car %}) kunnen rijden. Nu ik terug ben is er uitgebreid gelegenheid om de weg op te gaan.

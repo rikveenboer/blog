@@ -1,6 +1,5 @@
 ---
 title: Pre-holiday Laziness
-layout: post
 description: Diverse activiteiten brengen ons vast in de vakantie stemming.
 end_date: 2015-12-23
 ---

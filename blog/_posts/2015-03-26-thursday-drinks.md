@@ -1,7 +1,5 @@
 ---
-id: 2186
 title: Thursday Drinks
-layout: post
 ---
 Wie dit blog leest zou de indruk kunnen krijgen dat ik een groot deel van mijn tijd in Schotland vul met [whisky tastings][1] en andere alcohol-gerelateerde activiteiten. Behalve regelmatige [bioscoopbezoeken][2] (ik ben gestopt met rapporteren op dit blog, ik houd nu lijsten bij op IMDb) en sportieve inspanningen is dat inderdaad niet ver van de waarheid. Vele sociale activiteiten vinden nou eenmaal in de avond plaats en daarbij zijn versnaperingen verre van misplaatst.
 

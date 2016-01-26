@@ -1,7 +1,5 @@
 ---
-id: 2137
 title: Whisky tasting
-layout: post
 ---
 Nu het tweede semester van het collegejaar 2014/2015 op de universiteit is begonnen, gaan de normale dingen weer van start. Zo ook de langverwachte tweewekelijkse whisky tastings.
 

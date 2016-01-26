@@ -1,7 +1,5 @@
 ---
-id: 471
 title: Cinema Dundee
-layout: post
 ---
 
 Het is heel handig om een collega te hebben die voldoet aan drie critera:

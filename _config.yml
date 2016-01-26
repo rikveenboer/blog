@@ -25,6 +25,15 @@ previous_page: '&larr; Vorige pagina'
 next_page: 'Volgende pagina &rarr;'
 mentioned_in: 'Komt voor in:'
 
+# defaults
+defaults:
+  -
+    scope:
+      path: blog
+      type: posts
+    values:
+      layout: post
+
 # other
 gems: [jekyll-paginate]
 markdown: rdiscount

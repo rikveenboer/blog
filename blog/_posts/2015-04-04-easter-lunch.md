@@ -1,7 +1,5 @@
 ---
-id: 2193
 title: Easter Lunch
-layout: post
 ---
 In tegenstelling tot veel andere Europese landen (waaronder Engeland) gaat het werk in Schotland op nationale feestdagen (bank holidays) meestal gewoon door. Zo ook op goede vrijdag en tweede paasdag. Niet getreurd, want eerste paasdag valt op zondag en dat gaf ons evengoed de gelegenheid tot een gepaste viering.
 

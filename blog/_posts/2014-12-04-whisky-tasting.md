@@ -1,7 +1,5 @@
 ---
-id: 2113
 title: Whisky tasting
-layout: post
 ---
 Deze merkwaardige tasting werd verzorgd door [Compass Box][1], compleet met opmerkelijke presentator. Allereerst de geproefde whiskies, allen voorzien van opvallende namen:
 

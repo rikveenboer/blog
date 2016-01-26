@@ -1,6 +1,5 @@
 ---
 title: St Andrews
-layout: post
 ---
 De foto's die ik heb gemaakt toen ik voor het [eerst in St Andrews was][1], geven vast een goede indruk van het dorp. Toch loont het zeker de moeite om bij te houden hoe het bos en het strand hier telkens een nieuwe aanblik genereren.
 

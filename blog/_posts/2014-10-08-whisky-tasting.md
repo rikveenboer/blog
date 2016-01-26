@@ -1,7 +1,5 @@
 ---
-id: 1881
 title: Whisky tasting
-layout: post
 ---
 Deze whisky tasting werden we getrakteerd op diverse "cask strength" whiskies uit de Speyside regio en een van de Orkney-eilanden. De presentatie werd verzorgd door een vriendelijke dikkige Schot die er duidelijk enorm veel plezier in heeft om betaald te worden voor zijn hobby: bezig zijn met alle aspecten van whisky. In de proeflijst van deze avond valt gelijk de hoge leeftijd van deze whiskies op. Ook heb ik een prijsindicatie (per fles) toegevoegd:
 

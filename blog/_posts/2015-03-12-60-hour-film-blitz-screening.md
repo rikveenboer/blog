@@ -1,7 +1,5 @@
 ---
-id: 2178
 title: 60 hour film blitz screening
-layout: post
 ---
 Vanavond werden de producten van de 24 deelnemers van de [film blitz][1] vertoond in het luxueuze [Byre Theatre][2]. Deel van de opdracht dit jaar was dat elke film op een of andere manier verwees naar een muzieknummer. Aan het publiek was het de taak om uit een lijst de juiste combinaties met de films te herleiden. Soms was dit erg makkelijk, soms ook helemaal niet. Hetzelfde gold voor de films: sommigen waren erg goed en duidelijk, terwijl de boodschap bij anderen volstrekt onduidelijk bleef.
 

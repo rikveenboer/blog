@@ -1,7 +1,5 @@
 ---
-id: 1092
 title: Goodbye Hubert
-layout: post
 ---
 De Franse collega Hubert was zes maanden in St Andrews voor zijn masterstage. Vorige week hadden we bij hem thuis al zijn laatste weekend gevierd, maar als laatste afscheid hadden we besloten om uit eten te gaan bij [Blue Stane][1].
 

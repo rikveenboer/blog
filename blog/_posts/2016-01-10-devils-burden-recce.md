@@ -1,6 +1,5 @@
 ---
 title: Devils Burden Reconnaissance
-layout: post
 description: Vast het "parcours" verkennen voor een bergachtige hardloop evenement.
 ---
 Binnenkort zal ik meedoen aan de [Devil's Burden Race](http://www.fifeac.org/events/fife-ac-events/devils-burdens/919-devil-s-burdens-2016.html), een hardloopwedstrijd in de vlakbij St Andrews gelegen Lomond Hills. Het is van groot belang om van te voren het parcours te verkennen.

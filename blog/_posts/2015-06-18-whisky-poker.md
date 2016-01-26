@@ -1,7 +1,5 @@
 ---
-id: 2347
 title: Whisky & Poker
-layout: post
 ---
 Nu het semester is afgelopen, zijn ook de georganiseerde whisky tastings afgelopen. Omdat ik en enkele anderen whisky nog steeds erg lekker vinden, vonden we het tijd om zelf weer een tasting te organiseren. We waren deze keer met z'n vieren bij mij thuis, met Nederlanders Frank en Michiel en Engelsman Stefan. Net als [vorige keer]({% post_baseurl 2015-03-26-special-whisky-tasting %}) verzorgden we allen een (of meerdere) whiskies. Het resultaat was een fraaie diversiteit, waaronder een aantal oude bekenden zoals de gesherriede Blair Athol en de GlenDronach:
 

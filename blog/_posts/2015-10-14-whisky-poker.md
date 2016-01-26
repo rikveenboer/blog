@@ -1,8 +1,5 @@
 ---
-id: 3215
 title: Whisky &#038; Poker
-author: Rik
-layout: post
 ---
 Opnieuw een gezellig vervolg op de vorige [zelfgeorganiseerde whisky tasting][1]!
 

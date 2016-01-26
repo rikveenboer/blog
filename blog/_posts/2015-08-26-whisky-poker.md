@@ -1,8 +1,5 @@
 ---
-id: 3006
 title: Whisky &#038; Poker
-author: Rik
-layout: post
 ---
 Het was weer tijd voor een vervolg op de [vorige zelfgeorganiseerde whisky tasting][1]!
 

@@ -1,7 +1,5 @@
 ---
-id: 1085
 title: Hike Blair Atholl
-layout: post
 ---
 Hoewel zondag veelal als rustdag word gebruikt, is het beter om er dan op uit te trekken. Vandaag ben ik met de <a href="https://www.facebook.com/groups/PGStaffHiking/">Postgrad & Staff Hiking Club</a> gaan hiken in de buurt van Blair Atholl.
 

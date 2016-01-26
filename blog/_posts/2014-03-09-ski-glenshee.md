@@ -1,7 +1,5 @@
 ---
-id: 571
 title: Ski Glenshee
-layout: post
 ---
 De winter lijkt in maart voorbij te zijn, maar toch lijken we er geen genoeg van te krijgen: we wilden op wintersport! Na een aantal weekeinden met veel wind waren de vooruitzichten nu prima, dus we zijn daadwerkelijk gaan skiën. Nadat een aantal collega's had afgehaakt ben ik alleen met Hubert op pad gegaan. Het was erg handig dat deze Franse collega zijn auto heeft meegebracht, want op deze manier was het skigebied (Glenshee) maar op anderhalf uur afstand.
 

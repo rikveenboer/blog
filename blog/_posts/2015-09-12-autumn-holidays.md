@@ -1,8 +1,5 @@
 ---
-id: 3009
 title: Autumn Holidays
-author: Rik
-layout: post
 end_date: 2015-09-19
 ---
 Ook dit jaar hebben we een fantastische reis door Schotland gemaakt!

@@ -1,6 +1,5 @@
 ---
 title: Car Broken
-layout: post
 description: Mijn Seat Ibiza heeft een groot probleem.
 ---
 Het eerste dat mij tijdens het maken van een proefrit in mijn eerste auto opviel was dat het koppelen behoorlijk zwaar ging. Wie had kunnen vermoeden dat deze betrekkelijk kleine ergernis zich tot een afschrijvingoorzaak zou ontwikkelen?

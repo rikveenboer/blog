@@ -1,6 +1,5 @@
 ---
 title: Iceskating Dundee
-layout: post
 description: Schaatsen op de indoor ijsbaan in Dundee.
 ---
 De Schotse winter is tot nu toe voornamelijk een langgerekte herfst zonder echte kou. Gelukkig heeft Dundee een indoor ijsbaan om toch het verlangen naar wat winterse sportiviteit te vervullen.

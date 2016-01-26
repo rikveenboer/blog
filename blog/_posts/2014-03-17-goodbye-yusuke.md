@@ -1,7 +1,5 @@
 ---
-id: 666
 title: Goodbye Yusuke
-layout: post
 end_date: 2014-03-19
 ---
 Nu ik hier al enkele maanden ben lijkt het heel normaal om elke dag dezelfde collega's te zien. Ik zou bijna vergeten dat de meesten eerder zijn begonnen dan ik, of een kortere (maximaal twee jaar) postdoc doen. Het ligt dan uiteraard in de lijn der verwachting dat er flink wat verloop zal plaatsvinden. Deze week vertrekt Japanse postdoc Yusuke en dat moet feestelijk gevierd worden.

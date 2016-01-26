@@ -1,7 +1,5 @@
 ---
-id: 2582
 title: Half Marathon
-layout: post
 dsq_thread_id: null
 ---
 Na maanden van training en investering in geavanceerde hardlooprusting (trail schoenen, polar horloge, nieuw shirt) was het vandaag de grootse dag van de Half DRAM: de halve marathon in Dundee!
