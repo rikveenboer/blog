@@ -4,7 +4,7 @@ description: Mijn Seat Ibiza heeft een groot probleem.
 ---
 Het eerste dat mij tijdens het maken van een proefrit in mijn eerste auto opviel was dat het koppelen behoorlijk zwaar ging. Wie had kunnen vermoeden dat deze betrekkelijk kleine ergernis zich tot een afschrijvingoorzaak zou ontwikkelen?
 
-<!--more-->
+<a name="more"></a>
 
 Het koppelingspedaal begon de afgelopen weken wel eens te kraken tijdens gebruik. Op dat moment schreef ik dat aan de kou toe en met een spuitje olie bleef het binnen de perken. Daarnaast was het me al eerder opgevallen dat wanneer ik in harde regen reed, het waarschuwingslampje van de motor af en toe begon te knipperen. Vaak sputterde de motor dan tijdens het optrekken ook, maar dit duurde nooit langer dan enkele minuten. De laatste tijd kwam het echter ook wel eens voor dat het lampje tot enkele dagen toe aan bleef.
 

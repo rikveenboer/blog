@@ -5,7 +5,7 @@ end_date: 2016-01-04
 ---
 Na een week van [voor-vakantie]({% post_baseurl 2015-12-16-pre-holidays %}) is het nu de tijd daar om Schotland tijdelijk te verlaten en de kerstvakantie in Nederland te vieren.
 
-<!--more-->
+<a name="more"></a>
 
 Ik had het kerstlied "Driving Home for Christmas" de afgelopen weken al regelmatig op de radio gehoord en nu gaf ik daar letterlijk mijn eigen invulling aan, ik reed in mijn [nieuwe auto]({% post_baseurl 2015-12-23-new-car %}) kerst tegemoet. Na een soepele reis waren we op kerstavond met het hele gezin weer bijeen in Uitgeest!
 

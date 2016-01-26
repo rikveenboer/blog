@@ -4,7 +4,7 @@ description: Wordt dit mijn nieuwe auto?
 ---
 De beste deals voor gebruikte auto's lijk je bij particulieren te kunnen vinden. Toen ik een fraaie Renault Megane uit St Andrews op het oog kreeg, moest ik deze auto uiteraard serieus overwegen.
 
-<!--more-->
+<a name="more"></a>
 
 Het is oppassen om kritisch te blijven bij de aanblik van zo'n indrukwekkend voertuig:
 

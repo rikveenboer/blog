@@ -4,7 +4,7 @@ description: Een winterse wandeling over het coastal path.
 ---
 De Schotse winter is vreemd, het ene weekend sneeuwt het en liggen de temperaturen rond het vriespunt, het volgende waait het alsof we nog wat herfst tegoed hebben en is het bijna 10 °C.
 
-<!--more-->
+<a name="more"></a>
 
 Wat is op een zonnige winterzondag een beter uitje dan een hike over het coastal path? Een hike over het coastal path met halverwege lunch op een enorm rotsblok!
 

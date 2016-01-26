@@ -37,6 +37,7 @@ defaults:
 # other
 gems: [jekyll-paginate]
 markdown: rdiscount
+excerpt_separator: <a name="more"></a>
 rdiscount:
     extensions: [smart]
 exclude:

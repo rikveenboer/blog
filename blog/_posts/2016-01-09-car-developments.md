@@ -4,7 +4,7 @@ description: De Peugeot 206 moet nog een beetje onder handen worden genomen.
 ---
 Voor de vakantie heb ik maar kort in mijn [nieuwe auto]({% post_baseurl 2015-12-23-new-car %}) kunnen rijden. Nu ik terug ben is er uitgebreid gelegenheid om de weg op te gaan.
 
-<!--more-->
+<a name="more"></a>
 
 Met al het werk dat de dealer aan de auto heeft gehad verkeert deze nu in uitstekende staat. Natuurlijk zijn er wat gebruikssporen, maar over het algemeen ziet de prachtige blauwe wagen er net zo chique uit als deze rijdt.
 
