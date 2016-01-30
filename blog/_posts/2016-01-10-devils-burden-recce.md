@@ -2,7 +2,10 @@
 title: Devils Burden Reconnaissance
 description: Vast het "parcours" verkennen voor een bergachtige hardloop evenement.
 ---
-Binnenkort zal ik meedoen aan de [Devil's Burden Race](http://www.fifeac.org/events/fife-ac-events/devils-burdens/919-devil-s-burdens-2016.html), een hardloopwedstrijd in de vlakbij St Andrews gelegen Lomond Hills. Het is van groot belang om van te voren het parcours te verkennen.
+[1]: http://www.fifeac.org/events/fife-ac-events/devils-burdens/919-devil-s-burdens-2016.html
+[2]: https://flow.polar.com/training/analysis/354846198
+
+Binnenkort zal ik meedoen aan de [Devil's Burden Race][1], een hardloopwedstrijd in de vlakbij St Andrews gelegen Lomond Hills. Het is van groot belang om van te voren het parcours te verkennen.
 
 <a name="more"></a>
 
@@ -13,4 +16,4 @@ Een team bestaat uit zes hardlopers. Het eerste en laatste deel worden alleen ge
 
 In de bergen kan het mistig zijn en dan is het zelfs met kompas, kaart en GPS lastig navigeren. Het was daarom essentieel om mee te gaan toen een groep deelnemers mijn deel (het tweede) twee weken van te voren vast eens ging verkennen. Ik had nog nooit eerder in de bergen hardgelopen en er stond me een pittige uitdaging te wachten. Het was veelal zo steil dat er geklauterd moest worden. Zelfs de glooiende of dalende stukken voerden niet over goede paden, maar over laag struikgewas of door modderige moorlanden. Het "pad" was al veel uitdagender dan wat ik eerder had gehiket, maar het moest nu ook nog eens op tempo. Gelukkig waren de uitzichten zonder uitzondering fenomenaal.
 
-Omdat ik niet echt had bedacht dat we ook nog terug moesten lopen, had ik geen speciale voorbereidingen getroffen: een licht ontbijt en geen water of snacks voor onderweg. Dat kwam me na zo'n 14 kilometer duur te staan, want toen sloeg de vermoeidheid hard toe. Gelukkig heb ik het op een veel rustiger tempo wel terug gehaald, maar een [berentocht](https://flow.polar.com/training/analysis/354846198) was het zeker!
+Omdat ik niet echt had bedacht dat we ook nog terug moesten lopen, had ik geen speciale voorbereidingen getroffen: een licht ontbijt en geen water of snacks voor onderweg. Dat kwam me na zo'n 14 kilometer duur te staan, want toen sloeg de vermoeidheid hard toe. Gelukkig heb ik het op een veel rustiger tempo wel terug gehaald, maar een [berentocht][2] was het zeker!

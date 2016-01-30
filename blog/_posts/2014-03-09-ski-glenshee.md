@@ -1,9 +1,11 @@
 ---
 title: Ski Glenshee
 ---
+[1]: /asset/Glenshee-Map-2011.pdf
+
 De winter lijkt in maart voorbij te zijn, maar toch lijken we er geen genoeg van te krijgen: we wilden op wintersport! Na een aantal weekeinden met veel wind waren de vooruitzichten nu prima, dus we zijn daadwerkelijk gaan skiën. Nadat een aantal collega's had afgehaakt ben ik alleen met Hubert op pad gegaan. Het was erg handig dat deze Franse collega zijn auto heeft meegebracht, want op deze manier was het skigebied (Glenshee) maar op anderhalf uur afstand.
 
-Omdat we al om 7 uur 's ochtends uit St. Andrews vertrokken waren we voor de grote drukte op de plaats van bestemming. De rit voerde langs het prachtige Schotse landschap, compleet met hooglanders, schapen en rivieren. Het huren van materiaal werd efficiënt gecombineerd met de verkoop van liftpassen en we stonden al voor 10 uur in de sneeuw! De [kaart](/asset/Glenshee-Map-2011.pdf) belooft zo'n 40 kilometer aan piste en voor ons als ervargen wintersporters was het de uitdaging om deze in een dag allemaal af te gaan.
+Omdat we al om 7 uur 's ochtends uit St. Andrews vertrokken waren we voor de grote drukte op de plaats van bestemming. De rit voerde langs het prachtige Schotse landschap, compleet met hooglanders, schapen en rivieren. Het huren van materiaal werd efficiënt gecombineerd met de verkoop van liftpassen en we stonden al voor 10 uur in de sneeuw! De [kaart][1] belooft zo'n 40 kilometer aan piste en voor ons als ervargen wintersporters was het de uitdaging om deze in een dag allemaal af te gaan.
 
 [nggallery id=43]
 

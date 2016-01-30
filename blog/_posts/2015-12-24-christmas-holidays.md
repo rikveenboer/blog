@@ -1,13 +1,16 @@
 ---
-title: Christmas Holidays.
+title: Christmas Holidays
 description: Kerstvakantie in Nederland.
 end_date: 2016-01-04
 ---
-Na een week van [voor-vakantie]({% post_baseurl 2015-12-16-pre-holidays %}) is het nu de tijd daar om Schotland tijdelijk te verlaten en de kerstvakantie in Nederland te vieren.
+[1]: {% post_baseurl 2015-12-16-pre-holidays %}
+[2]: {% post_baseurl 2015-12-23-new-car %}
+
+Na een week van [voor-vakantie][1] is het nu de tijd daar om Schotland tijdelijk te verlaten en de kerstvakantie in Nederland te vieren.
 
 <a name="more"></a>
 
-Ik had het kerstlied "Driving Home for Christmas" de afgelopen weken al regelmatig op de radio gehoord en nu gaf ik daar letterlijk mijn eigen invulling aan, ik reed in mijn [nieuwe auto]({% post_baseurl 2015-12-23-new-car %}) kerst tegemoet. Na een soepele reis waren we op kerstavond met het hele gezin weer bijeen in Uitgeest!
+Ik had het kerstlied "Driving Home for Christmas" de afgelopen weken al regelmatig op de radio gehoord en nu gaf ik daar letterlijk mijn eigen invulling aan, ik reed in mijn [nieuwe auto][2] kerst tegemoet. Na een soepele reis waren we op kerstavond met het hele gezin weer bijeen in Uitgeest!
 
 De vakantie stond in het teken van divers vermaak, te beginnen met het uitpakken van vele geschenken op eerste kerstdag. Ik ben erg verwend, onder andere met een scala aan hardloopattributen. 's Avonds hebben we heerlijk gedineerd. Na familiebezoek op tweede kerstdag hebben we die avond gezellig gegourmet.
 

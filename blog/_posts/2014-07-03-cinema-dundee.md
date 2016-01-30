@@ -1,12 +1,14 @@
 ---
 title: Cinema Dundee
 ---
+[1]: http://www.imdb.com/title/tt2883512/
+
 Er is weer een nieuwe film uit:
 
 {% include caption.html
     width='300'
     image='/asset/images/Chef.jpg' 
-    text='[Chef](http://www.imdb.com/title/tt2883512/)'
+    text='[Chef][1]'
 %}
 
 Het gaat over een chef die het zat is om steeds volgens een menu te moeten koken, zeker als hij daarvoor een vernietigende recensie krijgt. Hij besluit zijn eigen cateringswagen te beginnen en aldoende beleeft hij vele avonturen.

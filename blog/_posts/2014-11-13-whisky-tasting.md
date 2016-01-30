@@ -1,6 +1,11 @@
 ---
 title: Whisky tasting
 ---
+[1]: http://www.masterofmalt.com/whiskies/knockdhu/ancnoc-rutter-whisky/
+[2]: http://www.masterofmalt.com/whiskies/knockdhu/ancnoc-flaughter-whisky/
+[3]: http://www.masterofmalt.com/whiskies/knockdhu/ancnoc-cutter-whisky/
+[4]: http://www.whiskyforeveryone.com/whisky_basics/influence_of_peat.html
+
 Deze whisky tasting werd gepresenteerd door de overkopelende "Inver House Distillers". Op het programma stonden diverse whiskies van anCnoc:
 
   * anCnoc (12yo)
@@ -20,8 +25,3 @@ De tasting werd vervolgd met drie rokerige whiskies. Dit is een relatief nieuw a
 De rooksmaak in whisky is afkomstig van de rook die vrijkomt bij het verbranden van veen tijdens het mouten van het graan. De rokerigheid wordt uitgedrukt in hoeveelheid fenol (in ppm). Afhankelijk van het hele process blijft er in het glas dan ongeveer [een derde][4] van over. De drie whiskies van deze avond hebben een oplopend fenol gehalte (11, 15 en 20 ppm respectievelijk), dat lijkt weinig vergeleken met de 40 ppm fenol in Laphroigh, maar het vertoont verrassend genoeg geen directe correlatie met de waargenomen rokerigheid in geur, smaak en mondgevoel (rook die aan het gehemelte blijft kleven). De presentator wist ons zeer beeldend de verschillen duidelijk te maken. Daarbij werden termen als vriendelijke rook, kampvuurgeur en dreigende harde rook niet gemeden. Een dergelijke uitleg tijdens het proeven brengt het geheel echt tot leven.
 
 Deze avond was opnieuw een zeer aangename kennismaking met goede whisky van een van de vele distilleerderijen die Schotland rijk is. Behalve een dubbel glas van de Cutter heb ik dit maal geen fles als trofee mee naar huis mogen nemen.
-
- [1]: http://www.masterofmalt.com/whiskies/knockdhu/ancnoc-rutter-whisky/
- [2]: http://www.masterofmalt.com/whiskies/knockdhu/ancnoc-flaughter-whisky/
- [3]: http://www.masterofmalt.com/whiskies/knockdhu/ancnoc-cutter-whisky/
- [4]: http://www.whiskyforeveryone.com/whisky_basics/influence_of_peat.html

@@ -1,6 +1,15 @@
 ---
 title: Whisky tasting
 ---
+[1]: http://www.compassboxwhisky.com/
+[2]: http://www.masterofmalt.com/whiskies/compass-box-hedonism-whisky/
+[3]: https://www.masterofmalt.com/whiskies/compass-box-great-king-street-artists-blend-50cl-whisky/
+[4]: http://www.masterofmalt.com/whiskies/compass-box-great-king-street-artists-blend-whisky/
+[5]: http://www.masterofmalt.com/whiskies/compass-box-spice-tree-whisky/
+[6]: http://www.masterofmalt.com/whiskies/compass-box-the-peat-monster-whisky/
+[7]: http://www.masterofmalt.com/whiskies/compass-box/compass-box-the-lost-blend-whisky/
+[8]: /asset/Great-King-Street-Cocktail-Collection.pdf
+
 Deze merkwaardige tasting werd verzorgd door [Compass Box][1], compleet met opmerkelijke presentator. Allereerst de geproefde whiskies, allen voorzien van opvallende namen:
 
   * [Hedonism][2]
@@ -25,12 +34,3 @@ Interessant genoeg gebruikt Compass Box diverse technieken om verouderde vaten n
 De Peat Monster hebben we al eens eerder gehad en was een fijn feest van herkenning. Ook bij het proeven van deze whisky werden er op achtergrondinformatie niet bespaard. Zo weten we nu bijvoorbeeld dat deze blend vroeger Caol Ila bevatte en nu Laphroigh. Maar dat hadden wij natuurlijk al lang al herkend!
 
 We hebben veel nieuws geleerd tijdens deze tasting, maar de eerlijkheid gebied te melden dat we liever een tasting hebben waarbij we iets meer "vrije tijd" hebben om met elkaar over te whisky te praten. En hoewel deze Amerikaanse presentator bijzonder goed te verstaan was, geniet het authentieke Schotse gebrabbel van een local toch onze voorkeur.
-
- [1]: http://www.compassboxwhisky.com/
- [2]: http://www.masterofmalt.com/whiskies/compass-box-hedonism-whisky/
- [3]: https://www.masterofmalt.com/whiskies/compass-box-great-king-street-artists-blend-50cl-whisky/
- [4]: http://www.masterofmalt.com/whiskies/compass-box-great-king-street-artists-blend-whisky/
- [5]: http://www.masterofmalt.com/whiskies/compass-box-spice-tree-whisky/
- [6]: http://www.masterofmalt.com/whiskies/compass-box-the-peat-monster-whisky/
- [7]: http://www.masterofmalt.com/whiskies/compass-box/compass-box-the-lost-blend-whisky/
- [8]: /asset/Great-King-Street-Cocktail-Collection.pdf

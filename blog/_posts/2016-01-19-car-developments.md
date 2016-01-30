@@ -2,7 +2,9 @@
 title: Car Developments (3)
 description: Afscheid van de Seat Ibiza.
 ---
-Het is inmiddels al vijf weken geleden dat mijn Seat Ibiza [stuk ging]({% post_baseurl 2015-12-10-car-broken %}). Omdat verkopen niet is gelukt besloot ik deze maar te laten verschroten. Dit vormt hopelijk voorlopig het laatste hoofdstuk in dit drieluik van auto-gerelateerde ontwikkelingen.
+[1]: {% post_baseurl 2015-12-10-car-broken %}
+
+Het is inmiddels al vijf weken geleden dat mijn Seat Ibiza [stuk ging][1]. Omdat verkopen niet is gelukt besloot ik deze maar te laten verschroten. Dit vormt hopelijk voorlopig het laatste hoofdstuk in dit drieluik van auto-gerelateerde ontwikkelingen.
 
 <a name="more"></a>
 

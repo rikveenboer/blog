@@ -1,6 +1,10 @@
 ---
 title: Whisky tasting
 ---
+[1]: http://www.tripadvisor.co.uk/Restaurant_Review-g186533-d2637486-Reviews-Rascals_Bar_St_Andrews-St_Andrews_Fife_Scotland.html
+[2]: http://www.benromach.com/
+[3]: {% post_baseurl 2014-04-03-whisky-tasting %} "Whisky tasting"
+
 Voor deze tasting hebben we een burger gegeten bij [Rascals Bar][1], een prima plaats om een bodem te leggen!
 
 De tasting werd verzorgd door Gordon & MacPhail. Deze onafhankelijke bottelaar is gehuisvest vlakbij Elgin in Speyside, de "whiskyhoofdstreek" van Schotland. Dit bedrijf runt ook de [Benromach][2] distilleerderij en daarvan kregen we zes whiskies te proeven:
@@ -19,7 +23,3 @@ Zoals de naam doet vermoeden is de Cask Strength erg sterk: maar liefst 50% alco
 De naam van de Origins Batch 4 en 5 doet vermoeden dat er weinig verschil is, maar niets is minder waar! Het voert te ver om uitgebreid te vergelijken, maar voor de lievhebbers van koffie en chocolade componenten zou ik de 4 aanraden en voor liefhebbers van een notig smaakje en een vleugje kampvuur lijkt de 5 me het meest geschikt. Beide whiskies zijn van redelijk gerookte mout geproducueerd (40 en 67 ppm) en het is duidelijk dat enkele jaren rijpen alle smaken perfect samenbrengt in een prachtig product.
 
 Zoals gebruikelijk wordt de meest rokerige whisky als laatste geproefd omdat die het sterkste smaakt. Deze Peat Smoke editie maakt zijn naam zeker waar en de lange afdronk maakt dit een ideale afsluiter.
-
- [1]: http://www.tripadvisor.co.uk/Restaurant_Review-g186533-d2637486-Reviews-Rascals_Bar_St_Andrews-St_Andrews_Fife_Scotland.html
- [2]: http://www.benromach.com/
- [3]: {% post_baseurl 2014-04-03-whisky-tasting %} "Whisky tasting"

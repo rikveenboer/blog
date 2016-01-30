@@ -2,7 +2,11 @@
 title: Car Developments (2)
 description: De Peugeot 206 nadert perfectie.
 ---
-Na de [ontdekking van een olielek]({% post_baseurl 2016-01-09-car-developments %}) in mijn [nieuwe auto]({% post_baseurl 2015-12-23-new-car %}) heb ik nu een week later goed nieuws te melden.
+[1]: {% post_baseurl 2016-01-09-car-developments %}
+[2]: {% post_baseurl 2015-12-23-new-car %}
+[3]: https://www.directline.com/car-insurance/telematics
+
+Na de [ontdekking van een olielek][1] in mijn [nieuwe auto][2] heb ik nu een week later goed nieuws te melden.
 
 <a name="more"></a>
 
@@ -16,6 +20,6 @@ Omdat ik graag in wat luxe investeer, heb ik dus maar een specifieke adapter bes
 
 Tijd om te testen? Zoals verwacht werkte het in eerste instantie niet... Met vooruitziende blik had ik eerder al een adapter besteld om een verbinding te kunnen leggen tussen mijn laptop en de boordcomputer. Niet veel prutsen later lukte het om de configuratie aan te passen en de muziek knalde de speakers uit!
 
-Wat mij nu nog resteerde was het terugplaatsen van een nieuwe [DrivePlus module](https://www.directline.com/car-insurance/telematics). Deze vergaart statistieken over mijn rijgedrag en levert mij een flinke korting op de verzekering op.
+Wat mij nu nog resteerde was het terugplaatsen van een nieuwe [DrivePlus module][3]. Deze vergaart statistieken over mijn rijgedrag en levert mij een flinke korting op de verzekering op.
 
-Voor nu is de Peugeot helemaal piekfijn! Ik nodig iedereen uit om er eens een stukje in te komen rijden. 
+Voor nu is de Peugeot helemaal piekfijn! Ik nodig iedereen uit om er eens een stukje in te komen rijden.

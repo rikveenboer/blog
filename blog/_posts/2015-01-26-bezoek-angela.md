@@ -1,6 +1,9 @@
 ---
 title: Bezoek Angela
 ---
+[1]: http://csbnw.no-ip.org:38{% post_baseurl 2014-02-08-internationals-trip %} "Internationals trip"
+[2]: http://www.imdb.com/title/tt2788710/
+
 Eind januari zijn Angela en Peeter op bezoek geweest, gezellig!
 
 Zij doen in Stockholm aan korfbal, maar helaas is de sport daar niet zo populair als in Nederland. Het was een erg goed idee om aan een toernooi in Edinburgh mee te doen, want zo hadden ze gelijk gelegenheid om bij mij op bezoek te komen.
@@ -21,6 +24,3 @@ Donderdag zijn Angela en Peeter met de bus gaan touren bij de aan zee gelegen do
 [The Interview][2] gezien, erg opmerkelijk, maar zeker niet onvermakelijk. Met al redelijk wat honger zijn we richting Aikmen's gegaan om echt Schotse Cullen Skink soep te eten en bier te drinken. Hier troffen we een Estoonse collega waarvan ik dacht dat ze in vertrouwde taal met Peeter kon praten. Helaas bleek ze uit het Russische deel van het land te komen, dus hier kwam weinig van terecht, jammer! Evengoed hebben we er (in het Engels) een geslaagde avond van gemaakt.
 
 Op vrijdagochtend zat het er al weer op en hebben Angela en Peeter hun lange reis Stockholm-waarts ingezet. Het was erg gezellig!
-
- [1]: http://csbnw.no-ip.org:38{% post_baseurl 2014-02-08-internationals-trip %} "Internationals trip"
- [2]: http://www.imdb.com/title/tt2788710/

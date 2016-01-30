@@ -2,8 +2,8 @@
 title: Braids Hill Race
 end_date: 2015-11-15
 ---
- [1]: https://www.facebook.com/events/428949130629478/
- [2]: https://flow.polar.com/training/analysis/280179519
+[1]: https://www.facebook.com/events/428949130629478/
+[2]: https://flow.polar.com/training/analysis/280179519
 
 Dit weekend stond in het teken van de [Braids hill race][1] in Edinburgh. Ik heb met de cross country (XC) club uit St Andrews meegedaan aan de 10 kilometer wedstrijd, bestaande uit twee spectaculaire ronden om een golfbaan. Met die beschrijving doe ik het parcours veel te kort, want:
 

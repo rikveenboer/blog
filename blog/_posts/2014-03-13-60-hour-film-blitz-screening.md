@@ -1,6 +1,11 @@
 ---
 title: 60 hour film blitz screening
 ---
+[1]: http://www.60hourfilmblitz.com/
+[2]: {% post_baseurl 2014-03-15-week-10 %} "Week 10"
+[3]: https://www.youtube.com/watch?v=9bAkC8noyeU
+[4]: http://www.krispykreme.co.uk/
+[5]: http://www.thesaint-online.com/2014/03/2014-60-hour-film-blitz-showcases-the-best-in-st-andrews-student-filmmaking/
 
 De titel vraagt om uitleg: de [Film Blitz][1] is een zestig uur durende competitie waarin deelnemers een film van drie minuten produceren. Deze zestig uur was gepland van donderdag tot zaterdagnacht in de [afgelopen week][2]. De screening is de grootste vertoning waarin de winnaar bekend wordt gemaakt.
 
@@ -11,9 +16,3 @@ Met meer dan twintig deelnemers moet het voor de jury een lastige opdracht zijn 
 Ook Scotts ouders waren erg trots op dit fantastische resultaat en trakteerden ons de volgende dag op een echte Hollywoordprijs: heerlijke "American style" [Krispy Kreme][4] donuts!
 
 Lees ook [het nieuwsartikel][5]!
-
- [1]: http://www.60hourfilmblitz.com/
- [2]: {% post_baseurl 2014-03-15-week-10 %} "Week 10"
- [3]: https://www.youtube.com/watch?v=9bAkC8noyeU
- [4]: http://www.krispykreme.co.uk/
- [5]: http://www.thesaint-online.com/2014/03/2014-60-hour-film-blitz-showcases-the-best-in-st-andrews-student-filmmaking/

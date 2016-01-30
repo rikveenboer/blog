@@ -2,6 +2,8 @@
 title: Birthday Holidays
 end_date: 2014-06-02
 ---
+[1]: {% post_baseurl 2014-12-20-christmas-holidays %} "Christmas holidays"
+[2]: {% post_baseurl 2014-04-10-london %} "London"
 
 Het weekend van mijn (en Brams) verjaardag was ik weer in Nederland, tijd voor een verslag!
 
@@ -16,6 +18,3 @@ Omdat ik de andere VU chemici ook al een tijdje niet had gezien, hadden we op za
 Zondagochtend was het tijd voor nog meer sport en hebben we in het duin hardgelopen. Hierna mocht ik een stukje rijden in Bram's auto en de nieuwe Ford Focus. Dit was nog best spannend aangezien ik al een tijd niet meer had autogereden en ook (op de fiets) al gewend begin te raken aan het links rijden. Toch heb ik het er volgens mij niet slecht vanaf gebracht en was het erg leuk om te vroemen in deze twee fijne auto's! De rest van de dag zijn we thuis gebleven om in de tuin (het Uitgeester buitenverblijf) van het prachtige weer te genieten. Met een tafelgrill-bbq sloten we het weekend feestelijk af.
 
 Na vier nachten in Uitgeest was het tijd om rond het middaguur weer naar Edinburgh te vliegen. Het was een topweekend!
-
- [1]: {% post_baseurl 2014-12-20-christmas-holidays %} "Christmas holidays"
- [2]: {% post_baseurl 2014-04-10-london %} "London"

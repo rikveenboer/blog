@@ -1,6 +1,8 @@
 ---
 title: Whisky and chocolate tasting
 ---
+[1]: https://www.google.co.uk/maps/place/Ilha+de+SÃ£o+TomÃ©,+Sao+TomÃ©+en+Principe/
+
 Een samenwerking tussen de Fine Chocolate Society en de Whisky Society heeft vanavond een (extra) gecombineerde tasting opgeleverd. Er waren vier whiskies uitgezocht met telkens een passende truffel:
 
   * Dalwhinnie (15 year) + Dark Velvet
@@ -20,5 +22,3 @@ Het was interessant om eens te proeven hoe sterk de smaak van de whisky wordt aa
 De Dalwhinnie had ik al eerder geproefd, de andere whiskies waren nieuwer. De (in sherryvat nagerijpte) Glenfiddich was het meest interessant, op de voet gevolgd door de Storm editie van de Talisker. De Arran was ook prima, maar de vreemde (naar pepernoten smakende) chocolade leidde een beetje af.
 
 Een verassende alternatieve tasting, maar doe mij maar liever 2 extra whiskies in plaats van 4 truffels!
-
- [1]: https://www.google.co.uk/maps/place/Ilha+de+SÃ£o+TomÃ©,+Sao+TomÃ©+en+Principe/
