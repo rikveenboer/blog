@@ -15,13 +15,14 @@ body > header {
     background-color: #f7f5e7;
 }
 
-body > header,article > section {
+body > header, article > section {
     border-bottom: #F0F0F0 solid 1px;
     padding: 24px 80px;
 }
 
 body > article {
     padding-left: 30px;
+    max-width: 800px;
 }
 
 @media screen and (min-width: 1000px) {

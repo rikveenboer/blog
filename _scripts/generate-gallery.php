@@ -1,5 +1,5 @@
 <?php
-require __DIR__ . '/../_php/autoload.php';
+require __DIR__ . '/utilities.php';
 
 use Symfony\Component\Console\Application;
 use Symfony\Component\Console\Input\ArgvInput;
@@ -7,19 +7,17 @@ use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Input\InputArgument;
 use Symfony\Component\Console\Input\InputOption;
 use Symfony\Component\Console\Output\OutputInterface;
-use Symfony\Component\Yaml\Yaml;
 
 $oConsole = new Application();
 $oConsole
     ->register('run')
     ->setDefinition([        
         new InputOption('export', null, InputOption::VALUE_REQUIRED | InputOption::VALUE_IS_ARRAY, 'Target image export sizes'),
-        new InputOption('layout', null, InputOption::VALUE_REQUIRED, 'Rendering layout for individual images', 'gallery-photo'),
         new InputOption('skip-resize', null, InputOption::VALUE_NONE, 'Skip resizing'),
         new InputArgument('name', InputArgument::REQUIRED, 'Gallery name'),
         new InputArgument('dir', InputArgument::REQUIRED, 'Directory to scan for images'),
         new InputArgument('assetdir', InputArgument::OPTIONAL, 'Asset directory for exported images', 'asset/gallery'),
-        new InputArgument('mdowndir', InputArgument::OPTIONAL, 'Markdown directory for dumping individual photo details', 'gallery'),
+        new InputArgument('datadir', InputArgument::OPTIONAL, 'Data directory for gallery yaml file', __DIR__ . '/../_data/gallery'),
     ])
     ->setDescription('Parse a YAML-like gallery configuration and export it.')
     ->setHelp('
@@ -33,90 +31,68 @@ $oConsole
             $sGallery = $oInput->getArgument('name');
             $sDir = realpath(rtrim($oInput->getArgument('dir'), '/\\'));
             $sAssetPath = $oInput->getArgument('assetdir') . '/' . $sGallery;
+            $sDataPath = $oInput->getArgument('datadir');
+            $sDataFile = sprintf('%s/%s.yml', $sDataPath, $sGallery);
             $sExports = $oInput->getOption('export');
             $bSkipResize = $oInput->getOption('skip-resize');
 
             $oImagine = new Imagine\Gd\Imagine();
 
-            // Initialize directory
+            // Initialize directories
             if (!is_dir($sAssetPath)) {
                 mkdir($sAssetPath, 0700, true);
             }
+            if (!is_dir($sDataPath)) {
+                mkdir($sDataPath, 0700, true);
+            }
 
-            // Check directory and presence of YAML file
-            if (!is_dir($sDir)) {                
+            // Check directory
+            if (!is_dir($sDir)) {              
                 $oOutput->writeln('<error>Import directory does not exist</error>');
                 exit;
             }
-            $sYamlFile = sprintf('%s/meta.yaml', $sDir);
-            if (!file_exists($sYamlFile)) {                
-                $oOutput->writeln('<error>No meta.yaml in directory</error>');
-                exit;
-            }
-
-            // Parse YAML file
-            $aYaml = Yaml::parse(file_get_contents($sYamlFile));
-            if (!isset($aYaml['gallery']) || !isset($aYaml['files'])) {
-                $oOutput->writeln('<error>Invalid YAML file</error>');
-                exit;
-            }
-            $aGallery = $aYaml['gallery'];
-            $aMeta = $aYaml['files'];
-            $aFiles = array_keys($aYaml['files']);
 
             // Loop over files
-            $sHighlight = null;
+            $aGallery['title'] = ucwords(str_replace('-', ' ', substr($sGallery, 5)));
             $aPhotos = $aLongitude = $aLatitude = [];
-            foreach ($aFiles as $i => $sFile) {
-                // Build photo information
-                $aPhoto = [
-                    'path' => $sDir . '/' . $sFile,
-                    'ordering' => $i,
-                    'name' => isset($aMeta[$sFile]['name']) ? $aMeta[$sFile]['name'] : null,
-                    'comment' => isset($aMeta[$sFile]['comment']) ? $aMeta[$sFile]['comment'] : null
-                ];
-
+            foreach (glob($sDir . '/*.jpg') as $i => $sFile) {
                 // Generate id from file contents
-                $aPhoto['id'] = substr(sha1_file($aPhoto['path']), 0, 7);
-                if (isset($aPhoto['title'])) {
-                    $aPhoto['id'] .= '-' . preg_replace('/(-| )+/', '-', preg_replace('/[^a-z0-9 ]/i', '-', preg_replace('/\'/', '', strtolower(preg_replace('/\p{Mn}/u', '', Normalizer::normalize($aPhoto['title'], Normalizer::FORM_KD))))));
-                }
+                $sId = substr(sha1_file($sFile), 0, 7);
 
                 // Parse selected EXIF data
-                $aPhoto['exif'] = exif_read_data($aPhoto['path']);
-                if (isset($aPhoto['exif']['GPSLongitude'])) {
-                    $aPhoto = array_merge($aPhoto, [
-                        'longitude' => coordinateToDegrees($aPhoto['exif']['GPSLongitude'], $aPhoto['exif']['GPSLongitudeRef']),
-                        'latitude' => coordinateToDegrees($aPhoto['exif']['GPSLatitude'], $aPhoto['exif']['GPSLatitudeRef'])
-                    ]);
-                    if (isset($aPhoto['exif']['GPSAltitude'])) {
-                        $aPhoto['altitude'] = fractionToFloat($aPhoto['exif']['GPSAltitude']);
+                $aExif = exif_read_data($sFile);
+                if (isset($aExif['GPSLongitude'])) {
+                    $aPhoto = [
+                        'longitude' => coordinateToDegrees($aExif['GPSLongitude'], $aExif['GPSLongitudeRef']),
+                        'latitude' => coordinateToDegrees($aExif['GPSLatitude'], $aExif['GPSLatitudeRef'])
+                    ];
+                    if (isset($aExif['GPSAltitude'])) {
+                        $aPhoto['altitude'] = fractionToFloat($aExif['GPSAltitude']);
                     }
-                    if (isset($aPhoto['exif']['GPSImgDirection'])) {
-                        $aPhoto['direction'] = fractionToFloat($aPhoto['exif']['GPSImgDirection']);
+                    if (isset($aExif['GPSImgDirection'])) {
+                        $aPhoto['direction'] = fractionToFloat($aExif['GPSImgDirection']);
                     }
                     $aLongitude[] = $aPhoto['longitude'];
                     $aLatitude[] = $aPhoto['latitude'];
+                } else {
+                    $aPhoto = [];
                 }
-                if (isset($aPhoto['exif']['DateTimeOriginal'])) {
-                    $aPhoto['date'] = new DateTime($aPhoto['exif']['DateTimeOriginal']);
+                if (isset($aExif['DateTimeOriginal'])) {
+                    $aPhoto['date'] = new DateTime($aExif['DateTimeOriginal']);
                 } else {
                     $oDate = new DateTime();
-                    $aPhoto['date'] = $oDate->setTimestamp($aPhoto['exif']['FileDateTime']);
+                    $aPhoto['date'] = $oDate->setTimestamp($aExif['FileDateTime']);
                 }
-                $aPhotos[] = $aPhoto;
-            }
 
-            // Manipulate
-            foreach ($aPhotos as $i => $aPhoto) {
-                $oOutput->write('<info>' . $aPhoto['id'] . '</info>');
+                // Manipulate
+                $oOutput->write('<info>' . $sId . '</info>');
                 $aPhoto['sizes'] = [];
 
                 // Image exports
-                if (false || 0 < count($sExports)) {
-                    $oSourceJpg = $oImagine->open($aPhoto['path']);
-                    if (isset($aPhoto['exif']['Orientation'])) {
-                        switch ($aPhoto['exif']['Orientation']) {
+                if (count($sExports) > 0) {
+                    $oSourceJpg = $oImagine->open($sFile);
+                    if (isset($aExif['Orientation'])) {
+                        switch ($aExif['Orientation']) {
                           case 2:
                             $oSourceJpg->mirror();                            
                             break;
@@ -198,7 +174,7 @@ $oConsole
                             } else {
                                 $oOutput->writeln(sprintf(' [%dx%d]', $iX, $iY));
                             }
-                            $sExportPath = $sAssetPath . '/' . $aPhoto['id'] . '~' . $sExport . '.jpg';
+                            $sExportPath = $sAssetPath . '/' . $sId . '~' . $sExport . '.jpg';
 
                             // Write converted image
                             file_put_contents(
@@ -219,55 +195,31 @@ $oConsole
                     $oSourceJpg = null;
                 }
 
-                $oOutput->write('    <comment>markdown</comment>');
-                $aMatter = [
-                    'layout' => $sLayout,
-                    'gallery' => $sGallery,
-                    'file' => basename($aPhoto['path'], '.jpg'),
-                    'title' => isset($aPhoto['title']) ? $aPhoto['title'] : '',
-                    'date' => $aPhoto['date']->format('Y-m-d H:i:s'),
-                    'ordering' => $aPhoto['ordering']
-                ];
-                
                 // Keep track of album dates
                 $oDate = $i > 0 ? min($oDate, $aPhoto['date']) : $aPhoto['date'];
                 $oEndDate = $i > 0 ? max($oEndDate, $aPhoto['date']) : $aPhoto['date'];
 
-                if (isset($aPhoto['exif']['Make'])) {
-                    $aMatter['make'] = $aPhoto['exif']['Make'];
-                    if (isset($aPhoto['exif']['Model'])) {
-                        $aMatter['model'] = $aPhoto['exif']['Model'];
+                $aPhoto = array_merge($aPhoto, [
+                    'file' => str_ireplace('.jpg', null, basename($sFile)),
+                    'date' => $aPhoto['date']->format('Y-m-d H:i:s'),
+                ]);
+
+                if (isset($aExif['Make'])) {
+                    $aPhoto['make'] = $aExif['Make'];
+                    if (isset($aExif['Model'])) {
+                        $aPhoto['model'] = $aExif['Model'];
                     }
-                    if (isset($aPhoto['exif']['COMPUTED']['ApertureFNumber'])) {
-                        $aMatter['aperture'] = $aPhoto['exif']['COMPUTED']['ApertureFNumber'];
+                    if (isset($aExif['COMPUTED']['ApertureFNumber'])) {
+                        $aPhoto['aperture'] = $aExif['COMPUTED']['ApertureFNumber'];
                     }
-                    if (isset($aPhoto['exif']['ExposureTime'])) {
-                        $aMatter['exposure'] = $aPhoto['exif']['ExposureTime'];
+                    if (isset($aExif['ExposureTime'])) {
+                        $aPhoto['exposure'] = $aExif['ExposureTime'];
                     }
                 }
-
-                if (isset($aPhotos[$i - 1])) {
-                    $aMatter['previous'] = $aPhotos[$i - 1]['id'];
-                }
-
-                if (isset($aPhotos[$i + 1])) {
-                    $aMatter['next'] = $aPhotos[$i + 1]['id'];
-                }
-
-                if (isset($aPhoto['latitude'])) {
-                    $aMatter['location'] = [
-                        'latitude' => $aPhoto['latitude'],
-                        'longitude' => $aPhoto['longitude'],
-                    ];
-                }
-
-                if ($aPhoto['sizes']) {
-                    $aMatter['sizes'] = $aPhoto['sizes'];
-                }
-
-                ksort_recursive($aMatter);
+                
+                ksort_recursive($aPhoto);
                 uasort(
-                    $aMatter['sizes'],
+                    $aPhoto['sizes'],
                     function ($aA, $aB) {
                         $iSurfaceA = $aA['width'] * $aA['height'];
                         $iSurfaceB = $aB['width'] * $aB['height'];
@@ -276,71 +228,25 @@ $oConsole
                             : (($iSurfaceA > $iSurfaceB) ? -1 : 1);
                     }
                 );
-            // yamlDump($aMatter)
-            $oOutput->writeln(' done');
-        }
 
-        // Write datafile
-        $oOutput->write('<comment>index</comment>');
-        $aMatter = [
-            'layout' => 'gallery-list',
-            'title' => empty($aGallery['title']) ? '' : $aGallery['title'],
-            'date' => $oDate->format('Y-m-d')
-        ];
-        $bSlideshow = isset($aGallery['slideshow']) ? $aGallery['slideshow'] : true;
-        if (!$bSlideshow) {
-            $aMatter['slideshow'] = false;
+                $aPhotos[$sId] = $aPhoto;
+            }
+
+            // Write datafile
+            $aGallery['date'] = $oDate->format('Y-m-d');
+            if ($oDate->diff($oEndDate)->d > 0) {
+                $aGallery['end_date'] = $oEndDate->format('Y-m-d');
+            }
+            if (count($aLongitude) > 0) {
+                $aGallery['map'] = [
+                    'latitude' => array_sum($aLatitude) / count($aLatitude),
+                    'longitude' => array_sum($aLongitude) / count($aLongitude),
+                    'zoom' => 8
+                ];
+            }
+            $aGallery['photos'] = $aPhotos;
+            file_put_contents($sDataFile, yamlDump($aGallery));
         }
-        $bMap = count($aLongitude) > 0 && (isset($aGallery['map']) ? $aGallery['map'] : true);
-        if (!$bMap) {
-            $aMatter['map'] = false;
-        }
-        $aMatter = [
-            'layout' => 'gallery-list',
-            'title' => empty($aGallery['title']) ? '' : $aGallery['title'],
-            'highlight_photo' => empty($sHighlight) ? $aPhotos[0]['id'] : $sHighlight,
-            'date' => $oDate->format('Y-m-d')
-        ];
-        if ($oDate->diff($oEndDate)->d > 0) {
-            $aMatter['end_date'] = $oEndDate->format('Y-m-d');
-        }
-        
-        // yamlDump($aMatter)
-    }
 );
 
 $oConsole->run(new ArgvInput(array_merge([$_SERVER['argv'][0], 'run' ], array_slice($_SERVER['argv'], 1))));
-
-function ksort_recursive(&$aArray, $mSortFlags = SORT_REGULAR) {
-    if (!is_array($aArray)) {
-        return false;
-    }
-    foreach ($aArray as &$aSubarray) {
-        ksort_recursive($aSubarray, $mSortFlags);
-    }
-    ksort($aArray, $mSortFlags);
-    return true;
-}
-
-function coordinateToDegrees($aCoordinate, $sHemisphere) {
-    $aCoordinate = array_map('fractionToFloat', $aCoordinate);
-    $aDegrees = array_map(function ($a, $b) {
-            return $a / $b;
-        }, $aCoordinate, array(1, 60, 3600));
-    $iFlip = ($sHemisphere == 'W' or $sHemisphere == 'S') ? -1 : 1;
-    return $iFlip * array_sum($aDegrees);
-}
-
-function fractionToFloat($sFraction) {
-    $aParts = explode('/', $sFraction);
-    $iParts = count($aParts);
-    return $iParts
-        ? ($iParts > 1
-            ? floatval($aParts[0]) / floatval($aParts[1])
-            : $aParts[0])
-        : 0;
-}
-
-function yamlDump($aData) {
-    return str_replace("'", null, Yaml::dump($aData, 4, 2));
-}

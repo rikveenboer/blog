@@ -82,7 +82,7 @@ layout: default
                                 <span itemprop="image" itemscope itemtype="http://schema.org/ImageObject">
                                     <meta itemprop="height" content="{{ size[1].height }}" />
                                     <meta itemprop="width" content="{{ size[1].width }}" />
-                                    <a href="{{ site.asset_prefix }}{{ photo.url|replace:".html","" }}~{{ size[0] }}.jpg" itemprop="contentUrl">{{ size[1].width }}x{{size[1].height }}</a>
+                                    <a href="{{ site.asset_prefix }}/{{ photo.url|replace:".html","" }}~{{ size[0] }}.jpg" itemprop="contentUrl">{{ size[1].width }}x{{size[1].height }}</a>
                                 </span>
                             {% endfor %}
                         </dd>
