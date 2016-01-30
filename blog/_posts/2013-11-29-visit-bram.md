@@ -9,4 +9,4 @@ Omdat zijn bezoek samenviel met St Andrews Day, was de toegang tot de ruïne van
 
 Alle foto's:
 
-[nggallery id=30]
+{% include gallery.html gallery='2013-visit-bram' %}

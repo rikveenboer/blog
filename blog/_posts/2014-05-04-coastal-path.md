@@ -5,4 +5,4 @@ Ik hoop volgende week mee te gaan op een hike naar de top van een Munro (hoge Sc
 
 Het was inderdaad een zeer gevarieerde toch: over gras, stenen, modder en het strand met hier en daar behoorlijke hoogteverschillen. Volgens mij heb ik mijn schoenen zo prima uitgeprobeerd. Op een van de stranden stonden curieuze (doch natuurlijke) stenen pilaren. 
 
-[nggallery id=48]
+{% include gallery.html gallery='2014-coastal-path' %}

@@ -19,6 +19,6 @@ Met die uitvalsbassisen hebben we zowel de oost als westkust van het noorder sch
 <iframe src="https://mapsengine.google.com/map/u/0/embed?mid=zfmXklqejgRM.kgOJiOHdi0cg" width="640" height="480"></iframe>
 
 Het zou ondoenlijk zijn om al onze avonturen tot in detail uiteen te zetten, dus ik hoop de lezer tevreden te stellen met een foto-impressie!
-[nggallery id=97]
+{% include gallery.html gallery='2015-autumn-holidays' %}
 
 Al deze bijzonder fraaie foto's zijn gemaakt met Brams DLSR, fantastisch he?

@@ -7,12 +7,12 @@ Toen ik werd uitgenoedigd om de School of Chemistry te bezoeken, was het hoofddo
 
 De reis per trein van Edinburgh Airport naar St Andrews maakte onmiddelijk duidelijk hoe mooi het Schotse landschap is:
 
-[nggallery id=26]
+{% include gallery.html gallery='2013-train' %}
 
 En St Andrews bleek inderdaad het prachtige middeleeuwse dorp te zijn waarop ik had gehoopt. Het is klein genoeg om alle uithoeken te voet te kunnen bereiken, maar groot genoeg om van te voren toch even uit te zoeken hoe lang het duurt om van het hotel bij de School of Chemistry te komen.
 
-[nggallery id=24]
+{% include gallery.html gallery='2013-visit-bram' %}
 
 En na het bezoek ben ik direct terug gegaan naar Edinburgh om daar de volgende dag te touristen. De [georganiseerde tour][1] door de stad is een echte aanrader!
 
-[nggallery id=25]
+{% include gallery.html gallery='2013-edinburgh' %}

@@ -18,4 +18,4 @@ Op zondag was het grootse feest ter gelegenheid van Oma's 80ste verjaardag. Gelu
 
 Maandag waren we eigenlijk van plan om nog een afsluitende kitesessie te houden, maar het buiige weer weerhield ons daarvan. Om het vertouwde gevoel van weer thuis zijn door te zetten hebben we een beetje in de tuin gewerkt. 's Avonds was dan toch het moment daar om weer St Andrews-waarts te keren. Gelukkig hebben we foto's om deze vakantie ook visueel te herinneren:
 
-[nggallery id=54]
+{% include gallery.html gallery='2014-holidays-uitgeest' %}

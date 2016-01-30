@@ -21,4 +21,4 @@ De terugweg heeft een van de organisatoren [vastgelegd op GPS][7], leuk om in Go
 
 Moe en hongerig van deze hike hebben we gegeten bij [Bothy Bar][9] om daarna weer St Andrews-waarts te keren. De ogranisatoren gaven toe dat dit wellicht de zwaarste hike tot nu toe was. Als het volgende keer ene tandje lichter is zou ik zeker weer mee gaan, want het is duidelijk dat te voet een prima manier is om het prachtige landschap te verkennen.
 
-[nggallery id=51]
+{% include gallery.html gallery='2014-hike-blair-atholl' %}

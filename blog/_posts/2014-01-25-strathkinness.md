@@ -5,4 +5,4 @@ De plaatsnamen vragen erom en een klein lesje Schots is op dit moment verheldere
 
 Hoe dan ook, Strathkinness is een klein dorpje op de top van een heuvel vlakbij St Andrews. Het is nogal een klim naar "de top", maar het uitzicht maakt het zeker de moeite waard. Ook de de rest van de weg  door een stuk bos en langs heuvelachtige weilanden met grazende schapen dragen zeer bij aan het Schotse gevoel. Oordeel zelf:
 
-[nggallery id=33]
+{% include gallery.html gallery='2014-strathkinness' %}

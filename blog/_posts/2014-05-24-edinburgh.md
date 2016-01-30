@@ -22,4 +22,4 @@ Nu de wedstrijd was afgelopen was het tijd voor avondeten. Vanwege de omvangrijk
 
 In de bus terug naar St Andrews is het goed nagenieten van deze welbestede dag. Ook hebben we mooi even tijd om een tukkie te doen ter voorbereiding op het avondprogramma: het [afscheidsfeest][8] van collega Julie. Veel plezier met het bekijken van de foto's uit Edinburgh:
 
-[nggallery id=50]
+{% include gallery.html gallery='2014-edinburgh' %}

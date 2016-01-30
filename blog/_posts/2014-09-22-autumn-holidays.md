@@ -95,4 +95,4 @@ Het was een geslaagde avond, maar helaas had ik voor de volgende dag geen vrij g
 De volgende ochtend was al tijd voor de terugreis. Ik had nog even overwegen om mee te gaan naar Newcastle om daar het weekend door te brengen, maar dat was mislukt. Nu had ik wel rustig de tijd om na te genieten van de enorme hoeveelheid dingen die we in slechts een week tijd hebben gezien en gedaan. Het was een zeer gezellige top reis, zeker voor herhaling vatbaar. Laat het weten als je zelf ook eens op bezoek wilt, dan gaan we dat regelen!
 
 Een selectie van de foto's:
-[nggallery id=60]
+{% include gallery.html gallery='2014-autumn-holidays' %}

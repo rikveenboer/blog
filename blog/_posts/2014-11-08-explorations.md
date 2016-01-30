@@ -8,4 +8,4 @@ Een van de vele uitmuntentheden van mijn nieuwe [One Plus One][1] is de voortref
 
 Zeker de wandeling door het bos en het duin naar het strand is de moeite waard. Oordeel zelf over de foto's:
 
-[nggallery id=62]
+{% include gallery.html gallery='2014-tentmuir' %}

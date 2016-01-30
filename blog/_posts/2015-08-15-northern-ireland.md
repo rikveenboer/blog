@@ -24,19 +24,19 @@ De collega bij wie ik op bezoek was woont in Queen's Quarter dat niet geheel toe
 
 In de foto's zouden de meeste van de genoemde bestemmingen redelijk eenvoudig herkenbaar moeten zijn:
 
-[nggallery id=87]
+{% include gallery.html gallery='2015-northen-ireland-belfast' %}
 
 's Avonds zijn we met diverse collega's (zelfs uit Iran!) en vrienden daarvan gaan voorborrelen bij iemand thuis om daarna de feestelijkheden voort te zetten bij de enorme "bar" [Lavery's][4]. Bar is slechts een benadering van gepaste benaming, want diverse verdiepingen en zalen van deze gelegenheid bieden voor ieder wat wils: pool, pub, dansvloer en biertuin. Het moge duidelijk zijn wat mijn meest en minst favoriete gedeeltes waren. Na gezellig vermaak was het behoorlijk laat/vroeg tijd om weer huiswaarts te keren. Het was erg vriendelijk dat ik op een (verassend comfortable) bank mocht slapen, want dat scheelde gedoe met hostels en zo konden we na een beetje uitslapen de volgende dag gemakkelijk weer op pad.
 
 Op het programma stond een bezoek aan de [Giants Causeway][5], een serie schitterende steenformaties (40.000 bastaltkolommen) aan de noordkust. Na een fraaie autorit door het op oost-Schotland gelijkende landschap kwamen we aan bij deze bestemming die letterlijk "weg van reuzen" betekent. De legende gaat dat deze door vulkanische activiteit (60 miljoen jaar oud) gevormde verbinding tussen Noord-Ierland en Schotland ooit door reuzen uit de respectievelijke landen werd gebruikt om met elkaar op de vuist te gaan. Hierover en over de wetenschappelijke achtergronden is nog veel meer te vertellen, maar ik zal me beperken tot het tonen van tot de verbeelding sprekende foto's:
 
-[nggallery id=88]
+{% include gallery.html gallery='2015-northen-ireland-giants-causeway' %}
 
 Als een ware geoloog heb ik een specimen dat was afgebroken van een van de kolommen meegebracht. Kom maar in Schotland langs als je die zelf wilt aanschouwen als je er niet zelf heen gaat en niet wilt wachten tot ik weer terug kom.
 
 Op de terugweg richting Belfast zijn we door een haag van bomen gereden: de Dark Hedges. Deze tweehonderd jaar oude laan versierde ooit de oprijlaan van een landhuis en is nog steeds een populaire attractie. Voor liefhebbers van Game of Thrones zou deze locatie herkenbaar kunnen zijn, want deze is te zien in de eerste aflevering van het tweede seizoen. Verder zijn meer delen van deze televisieserie in Noord-Ierland opgenomen en er schijnt ook een speciale filmstudio te zijn in Titanic Quarter in Belfast. Dit klinkt misschien leuk, maar in de praktijk was het erg druk met touristen, dus een mooie foto maken zat er helaas niet in. Zoek zelf een afbeelding op, of probeer een indruk op te doen met mijn poging:
 
-[nggallery id=89]
+{% include gallery.html gallery='2015-northen-ireland-dark-hedges' %}
 
 Hiermee zat het interessanste gedeelte van mijn trip er alweer op, want eenmaal terug in de stad was het na een hapje eten al snel tijd om wat slaap in te halen. De volgende ochtend moest ik immers vroeg op weg naar het vliegveld voor wat een bijzonder soepele terugreis zou worden. Om 7 uur kon ik op het vliegveld de verleiding niet weerstaan om een fles [Connemara][6] whiskey aan te schaffen (speciale aanbieding). Helaas was daarvan fles open om eerst een beetje te proeven, maar omdat dit de enige geturfde (dus rokerige) whiskey uit Ierland is, nam ik aan dat het wel goed zou zijn. Gelukkig heb ik dat later tijdens het uitzoeken van de foto's kunnen bevestigen. De medewerker op het vliegveld was zo vriendelijk om mij twee andere whiskeys te laten proeven: zowel de single grain als de single malt variant van de [Teeling][7] whiskey. Wie had kunnen denken dat ik op deze manier ook nog mijn whiskey (let op de ey) kennis kon opvijzelen? Na deze proeferij was het tijd voor ontbijt, en reis per vliegtuig, bus en auto om na een sterke kop koffie redelijk energiek aan het werk te gaan.
 

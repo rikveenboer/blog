@@ -13,4 +13,4 @@ In de haven van Anstruther valt het op dat er een groot verschil is tussen eb en
 We hebben een ronde gelopen door het dorp, langs de kerk, de kleurrijke en met schelpen gedocoreerde huizen en uiteraard de golfbaan. De grootste attractie was eigenlijk de lunch: fish&ships bij de prijswinnende [Fish Bar][2]. Afhalen is aanzienlijk voordeliger dan binnen eten en met de Schotse zon erbij was dat helemaal geen straf. Omdat de bus alleen uurlijks rijdt, was er zelfs nog even tijd voor een zomerse ijsco.
 
 Bekijk de foto's en waan je (opnieuw) op vakantie:
-[nggallery id=49]
+{% include gallery.html gallery='2014-anstruther' %}

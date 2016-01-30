@@ -7,7 +7,7 @@ De winter lijkt in maart voorbij te zijn, maar toch lijken we er geen genoeg van
 
 Omdat we al om 7 uur 's ochtends uit St. Andrews vertrokken waren we voor de grote drukte op de plaats van bestemming. De rit voerde langs het prachtige Schotse landschap, compleet met hooglanders, schapen en rivieren. Het huren van materiaal werd efficiënt gecombineerd met de verkoop van liftpassen en we stonden al voor 10 uur in de sneeuw! De [kaart][1] belooft zo'n 40 kilometer aan piste en voor ons als ervargen wintersporters was het de uitdaging om deze in een dag allemaal af te gaan.
 
-[nggallery id=43]
+{% include gallery.html gallery='2014-glenshee-ski' %}
 
 Op het eerste gezicht leek dit gebied erg op wat ik gewend ben van de Franse alpen: brede pistes en hier en daar behoorlijk steile hellingen. De sneeuw was van voortreffelijke kwaliteit: geen stukje met ijs, zand, stenen of pap te bekennen. Ook was het erg rustig, zodat sommige gedeelten nog helemaal ongerept waren. Een aantal zaken was duidelijk anders. Zo waren er voornamelijk sleepliften, zodat even uitrusten tussen de afdalingen door er niet bij was. De Schotten gebruiken in geval van wachttijd voor de lift een ingenieus systeem: verschillende rijen (zie foto). Zodra de ene rij was afgelopen schuift het geheel op en zo verder, geen gedoe met poortjes!
 

@@ -17,7 +17,7 @@ Twee weken geleden was de whisky tasting in St Andrews verruild voor een eveneme
 </ul>
 
 Voor deze keer heb ik extra metadata toegevoegd: de serie in cursief, tussen haakjes de leeftijd en prijs en zelfs afbeeldingen van de flessen:
-[nggallery id=61]
+{% include gallery.html gallery='2014-whisky-tasting-2' %}
 
 Ook verdiend de term onafhankelijke bottelaar uitleg. Dit is een (familie)bedrijf dat van uiteenlopende distilleerderijen (zo'n 100!) vers gedestilleerde drank of alreeds in vaten gerijpte whisky koopt. Vervolgens wordt er verder gerijpt, gemengd of direct gebotteld. Het is duidelijk dat een dergelijke werkwijze uitgelezen kansen bied om whisky te bundelen in karakteristieke series, zie daarvoor [hun website][1]. Daarnaast geeft zo'n groot bereik whiskies de mogelijkheid tot groeperen en dat doet deze bottelaar dan ook: per serie zijn de whiskies uit de diverse regionen met kleur gecodeerd. Voor de liefhebber is op deze manier bijvoorbeeld eenvoudig te zien of het om een een rokerige/zilte Islayer gaat, een zoetige Speysider of juist een uitgesproken Highlander.
 

@@ -9,7 +9,7 @@ De astronomische lente begint eigenlijk pas laat op de vrijdagavond, maar omdat 
 
 De eerste twee uur van de dag (8.30-10.30) besteden we aan het bewonderen van de zonsverduistering. Daartoe gingen we naar het naburige Natuurkunde gebouw, waar veel mensen zich verdrongen voor diverse telescopen, camera's en reflectieopstellingen. De mensen waren vriendelijk en we mochten uiteraard zelf ook een kijkje nemen. Helaas had ik geen speciale filterende bril gekocht, maar een kijkje door een geleend exemplaar bood toch een spectaculaire indruk. Ook hebben we inventief een "gaatjescamera" gemaakt van een stuk karton, dus we hebben de verduiserting op allerlei manier ervaren. Een paar foto's:
 
-[nggallery id=71]
+{% include gallery.html gallery='2015-solar-eclipse' %}
 
 Zie ook [deze foto][2] gemaakt vanaf het weststrand.
 

@@ -21,4 +21,4 @@ Het schaatsen op een indoorbaan valt een beetje tegen als je Nederlandse bevrore
 
 Alle foto's:
 
-[nggallery id=22]
+{% include gallery.html gallery='2013-wallace-monument' %}

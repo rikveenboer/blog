@@ -11,6 +11,6 @@ Gelukkig was er nog tijd voor sportiviteit en hebben we naast twee keer hardlope
 Toch valt het grootste deel van de vakantie bondig samen te vatten, want die hebben we al luierend op het strand doorgebracht. Het strandhuis was opnieuw een perfecte bestemming en daar zijn we drie keer blijven overnachten. Kortom: de full-time strand experience.
 
 Een impressie:
-[nggallery id=86]
+{% include gallery.html gallery='2015-summer-holidays' %}
 
 Het feit dat dit gelijk mijn laatste stranddag in heemskerk was is natuurlijk sip, maar niet getreurd: aan het einde van de maand komt Sanne op bezoek en in September gaan we een week door Schotland touren.

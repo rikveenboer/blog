@@ -12,9 +12,9 @@ Vandaag zijn we in de buurt van Glen Clova gaan hiken, om precies te zijn: een [
 De anderhalf uur durende autorit voerde ons op het laatst door bijzonder fraaie herfst landschappen. De zes uur durende hike (rustig aan, inclusief stops) was minstens zo indrukwekkend. Het leukste was waarschijnlijk de variatie: door het bos, langs een stroompje, een berg op, een bergkam over enzovoorts. Het weer was redelijk, voornamelijk omdat het niet regende en niet heel koud was. Anderzijds maakte de laaghangende bewolking (hoewel, hoe laag is 700 meter?) of mist dat we niet overal de vergezichten hadden die op een heldere dag wel mogelijk waren geweest. Toch gaf dit ook wel iets mysterieus aan de omgeving waar CÙ BÒCAN zich zeker thuis zou voelen.
 
 Ik heb voor het idee foto's met mijn mobiel gemaakt, maar de lichtomstandigheden waren niet ideaal. De eerlijkheid gebiedt mij te zeggen dat er behoorlijke nabewerking en bijlkeuring nodig was om toonbare prenten over te houden, maar oordeel vooral zelf:
-[nggallery id=99]
+{% include gallery.html gallery='2015-glen-clova-david' %}
 
 En bekijk ook een aantal foto's die een van de de hike-genoten met zijn DLSR heeft gemaakt:
-[nggallery id=100]
+{% include gallery.html gallery='2015-glen-clova-david' %}
 
 Al met al was het een erg leuke gevarieerde hike die zeker de moeite van het herhalen met zonniger weer waard zou zijn. Op de terugweg zijn we bij een pub gestopt om van een alcoholische versnapering te genieten (ik hoefde niet te rijden), zodat we in goede stemming terug naar St Andrews konden gaan.
