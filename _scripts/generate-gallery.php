@@ -33,19 +33,14 @@ $oConsole
             $sGallery = $oInput->getArgument('name');
             $sDir = realpath(rtrim($oInput->getArgument('dir'), '/\\'));
             $sAssetPath = $oInput->getArgument('assetdir') . '/' . $sGallery;
-            $sRenderPath = $oInput->getArgument('mdowndir') . '/' . $sGallery;    
-            $sLayout = $oInput->getOption('layout');
             $sExports = $oInput->getOption('export');
             $bSkipResize = $oInput->getOption('skip-resize');
 
             $oImagine = new Imagine\Gd\Imagine();
 
-            // Initialize directories
+            // Initialize directory
             if (!is_dir($sAssetPath)) {
                 mkdir($sAssetPath, 0700, true);
-            }
-            if (!is_dir($sRenderPath)) {
-                mkdir($sRenderPath, 0700, true);
             }
 
             // Check directory and presence of YAML file
@@ -85,11 +80,6 @@ $oConsole
                 $aPhoto['id'] = substr(sha1_file($aPhoto['path']), 0, 7);
                 if (isset($aPhoto['title'])) {
                     $aPhoto['id'] .= '-' . preg_replace('/(-| )+/', '-', preg_replace('/[^a-z0-9 ]/i', '-', preg_replace('/\'/', '', strtolower(preg_replace('/\p{Mn}/u', '', Normalizer::normalize($aPhoto['title'], Normalizer::FORM_KD))))));
-                }
-
-                // Check if photo is highlighted
-                if (empty($sHighlight) && isset($aMeta[$sFile]['highlight'])) {
-                    $sHighlight = $aPhoto['id'];
                 }
 
                 // Parse selected EXIF data
@@ -286,21 +276,15 @@ $oConsole
                             : (($iSurfaceA > $iSurfaceB) ? -1 : 1);
                     }
                 );
-
-            // Write photo Markdown file
-            file_put_contents(
-                $sRenderPath . '/' . $aPhoto['id'] . '.md',
-                '---' . "\n" . yamlDump($aMatter) . '---' . "\n" . (empty($aPhoto['comment']) ? '' : $aPhoto['comment'] . "\n")
-            );
+            // yamlDump($aMatter)
             $oOutput->writeln(' done');
         }
 
-        // Write gallery index
+        // Write datafile
         $oOutput->write('<comment>index</comment>');
         $aMatter = [
             'layout' => 'gallery-list',
             'title' => empty($aGallery['title']) ? '' : $aGallery['title'],
-            'highlight_photo' => empty($sHighlight) ? $aPhotos[0]['id'] : $sHighlight,
             'date' => $oDate->format('Y-m-d')
         ];
         $bSlideshow = isset($aGallery['slideshow']) ? $aGallery['slideshow'] : true;
@@ -320,13 +304,8 @@ $oConsole
         if ($oDate->diff($oEndDate)->d > 0) {
             $aMatter['end_date'] = $oEndDate->format('Y-m-d');
         }
-
-        $sContents = empty($aGallery['description']) ? '' : $aGallery['description'];
-        file_put_contents(
-            $sRenderPath . '/index.html',
-            '---' . "\n" . yamlDump($aMatter) . '---' . "\n" . $sContents
-        );
-        $oOutput->writeln(' done');        
+        
+        // yamlDump($aMatter)
     }
 );
 
