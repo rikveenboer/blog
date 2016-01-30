@@ -1,6 +1,13 @@
-{% assign photos=site.data.gallery[include.gallery].photos | sort:'date' %}
-<div style="line-height:0; padding:4px 0 0 1px;">
+{% assign gallery=site.data.gallery[include.gallery] %}
+{% assign photos=gallery.photos | sort:'date' %}
+<div style="text-align: center;">
+{% if include.no-link == null %}
+<a href="/{{ site.baseurl }}/gallery/{{ include.gallery }}/">[ gallery ]</a><br />
+{% endif %}
 {% for photo in photos %}
     <a href="/{{ site.baseurl }}/{{ photo.url }}" style="display: inline-block; margin: 3px; text-decoration: none;"><img alt="Photo: {{ photo.title }}" height="96" src="{{ site.asset_prefix }}/gallery/{{ include.gallery }}/{{ photo.name | remove:'.md' }}~96x96.jpg" title="{{ photo.title }}" width="96" style="padding: 1px;" /></a>
 {% endfor %}
 </div>
+{% if include.no-link %}
+    <a href="/{{ site.baseurl }}/gallery/{{ include.gallery }}/">[ gallery ]</a>
+{% endif %}

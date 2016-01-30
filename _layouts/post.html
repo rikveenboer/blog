@@ -17,7 +17,7 @@
             <small class="print-only" itemprop="datePublished" content="{{ page.date|date:'%F') }}">{{ page.date|date:'%A, %B %d, %Y' }}</small>
         </h1>
         {% if page.end_date %}
-            <span class="date-range">&#x1f557; {{ page.date|date:"%d/%m/%Y" }} - {{ page.end_date|date:"%d/%m/%Y" }}</span>
+            <span class="date-range">&#x1f557; {{ page.date | date:"%d/%m/%Y" }} - {{ page.end_date | date:"%d/%m/%Y" }}</span>
         {% endif %}
     </header>
     <section class="post-content" itemprop="articleBody">

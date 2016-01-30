@@ -10,12 +10,12 @@ layout: default
 <section>
 {% for gallery in page.galleries %}
     {% if gallery.ignore == null %}
-    {% if gallery.highlight %}
-        {% assign highlight=gallery.highlight %}
-    {% else %}
-        {% assign photo=gallery.photos | first %}
-        {% assign highlight=photo.name %}
-    {% endif %}
+        {% if gallery.highlight %}
+            {% assign highlight=gallery.highlight %}
+        {% else %}
+            {% assign photo=gallery.photos | first %}
+            {% assign highlight=photo.name %}
+        {% endif %}
     <div style="display: inline-block; height: 274px; margin: 8px 10px 0 0; text-align: center; width: 200px;">
         <a href="/{{ site.baseurl }}/gallery/{{ gallery.gallery }}/" style="text-decoration:none;">
         <img alt="{{ gallery.title }}" height="200" src="{{ site.asset_prefix }}/gallery/{{ gallery.gallery }}/{{ highlight }}~200x200.jpg" title="{{ gallery.title }}" width="200" style="border-radius:4px;" />
