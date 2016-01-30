@@ -12,6 +12,19 @@
                 <a href="{{ page.code }}"><img alt="code" height="49" src="{{ site.static_prefix }}/icon/code.png" width="49" /></a>
             {% endif %}
         </div>
+            <ul style="margin-top: 0;">
+            {% if page.previous %}
+                <li><a href="/{{ site.baseurl }}{{ page.previous.url }}" rel="prev">&nbsp;&larr;&nbsp;{{ page.previous.title }}&nbsp;</a></li>
+            {% else %}
+                <li><span class="noanchor">&nbsp;&larr;&nbsp;</span></li>
+            {% endif %}
+
+            {% if page.next %}
+                <li><a href="/{{ site.baseurl }}{{ page.next.url }}" rel="next">&nbsp;{{ page.next.title }}&nbsp;&rarr;&nbsp;</a></li>
+            {% else %}
+                <li><span class="noanchor">&nbsp;&rarr;&nbsp;</span></li>
+            {% endif %}
+        </ul>
         <h1>
             <span itemprop="name">{{ page.title }}</span>
             <small class="print-only" itemprop="datePublished" content="{{ page.date|date:'%F') }}">{{ page.date|date:'%A, %B %d, %Y' }}</small>
