@@ -1,0 +1,48 @@
+title: Rainbow Views
+date: 2016-01-29
+map:
+  latitude: 56.340732092587
+  longitude: -2.8113284907407
+  zoom: 8
+photos:
+  0e7b849:
+    altitude: 87
+    aperture: f/2.0
+    date: 2016-01-29 13:23:10
+    direction: 296
+    exposure: 1/2500
+    file: IMG_20160129_132307
+    latitude: 56.340843194444
+    longitude: -2.8112706944444
+    make: OnePlus
+    model: One A0001
+    sizes:
+      1920x1080: { height: 1080, width: 1920 }
+      640w: { height: 360, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+  3263441:
+    altitude: 77
+    aperture: f/2.0
+    date: 2016-01-29 13:23:15
+    direction: 315
+    exposure: 1/2000
+    file: IMG_20160129_132312
+    latitude: 56.340705861095
+    longitude: -2.811337
+    make: OnePlus
+    model: One A0001
+    sizes:
+      1920x1080: { height: 1080, width: 1920 }
+      640w: { height: 360, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
+  1803d4b:
+    date: 2016-01-29 13:23:26
+    file: PANO_20160129_132319
+    latitude: 56.340647222222
+    longitude: -2.8113777777778
+    sizes:
+      640w: { height: 323, width: 640 }
+      200x200: { height: 200, width: 200 }
+      96x96: { height: 96, width: 96 }
