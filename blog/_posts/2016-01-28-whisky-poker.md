@@ -1,5 +1,5 @@
 ---
-title: Whisky &#038; Poker
+title: Whisky & Poker
 ---
 [1]: {% post_baseurl 2015-11-19-whisky-poker %} "Whisky & Poker"
 [2]: http://google.nl

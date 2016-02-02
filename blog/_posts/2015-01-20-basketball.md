@@ -1,7 +1,7 @@
 ---
 title: Basketball
 ---
-[1]: http://csbnw.no-ip.org:38{% post_baseurl 2014-10-05-sports %} "Sports (2)"
+[1]: {% post_baseurl 2014-10-05-sports %} "Sports (2)"
 
 Vanavond hebben we een goede traditie voorgezet: met collega's basketballen in het sportcentrum. Dit past goed bij mijn [recente sportiviteit][1] en is een goede manier om warm te blijven nu de temperatuur buiten steeds rond het vriespunt ligt.
 

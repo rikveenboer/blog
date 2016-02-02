@@ -1,6 +1,7 @@
 ---
 title: Birthday Holidays
 end_date: 2015-06-03
+description: Verjaren in Nederland!
 ---
 [1]: {% post_baseurl 2014-05-29-birthday-holidays %} vorig jaar
 
@@ -14,7 +15,11 @@ Dat de toon hiermee goed was gezet, was duidelijk want ook ik werd later op mijn
 
 De rest van onze verjaardag hebben we heerlijk op het strand doorgebracht. Het cadeau van het weer was een lekkere temperatuur, scherp zonnetje en genoeg wind om te kitesurfen! Nu ik een met GPS uitgerust horloge had, kon ik leuke statistieken vergaren: maximaal 39 km/h! Na deze sportiviteit hebben we geborreld en heerlijk gegeten in het paviljoen.
 
-[caption align="aligncenter" width="420"]<img src="/wp-content/gallery/birthday-holidays-2015/SAM_7122.JPG" width="400" /> Een sportieve verjaardagsbesteding[/caption]
+{% include photo.html
+    gallery='2015-birthday-holidays'
+    photo='315dacc'
+    text='Een sportieve verjaardagsbesteding!'
+%}
 
 De volgende dagen waren afwisselend gevuld met tegenvallend weer en uitstekend weer. Hierdoor was het goed mogelijk om in de zon aan te bakken, door te bruinen en te herhalen. Na enkele van deze cycli heb ik het ergste Schotse wit nu grotendeels verruild voor een vers laagje brons.
 

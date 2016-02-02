@@ -3,7 +3,7 @@ title: Christmas lunch
 ---
 [1]: http://dollshousestandrews.co.uk/
 [2]: http://www.forgansstandrews.co.uk/
-[3]: http://csbnw.no-ip.org:38{% post_baseurl 2014-12-04-whisky-tasting %} "Whisky tasting"
+[3]: {% post_baseurl 2014-12-04-whisky-tasting %} "Whisky tasting"
 
 Een goed idee opperen in de wekelijkse groeps bijeenkomsten op het werk is zelden vrijblijvend, zeker als de professor aanwezig is. Dat heb ik aan den lijve ondervonden toen ik voorstelde om eens over de kerstlunch na te denken. Voor ik het wist kon ik er niet meer onderuit en moest ik zelf de organisatie op mij nemen. Omdat gedeelde smart halve smart is, heb ik een collega van de zuster onderzoeksgroep (Cazin, Nolans vrouw) om hulp gevraagd. Spaanse promovendus Alberto was zo vriendelijk om bij te springen en samen hebben we een restaurant uitgezocht, de keuzes voor het menu genoteerd en de betalingen verzameld.
 

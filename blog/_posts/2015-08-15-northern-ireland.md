@@ -1,6 +1,7 @@
 ---
 title: Northern Ireland
 end_date: 2015-08-17
+description: Op bezoek bij een chemicus uit Noord-Ierland.
 ---
 [1]: {% post_baseurl 2015-07-13-spain %} "Spain"
 [2]: http://www.tripadvisor.nl/Attraction_Review-g186470-d606886-Reviews-White_s_Tavern-Belfast_Northern_Ireland.html

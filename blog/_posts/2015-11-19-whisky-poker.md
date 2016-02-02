@@ -1,5 +1,6 @@
 ---
 title: Whisky & Poker
+description: Whisky drinken en poker spelen.
 ---
 [1]: {% post_baseurl 2015-10-14-whisky-poker %} "Whisky & Poker"
 

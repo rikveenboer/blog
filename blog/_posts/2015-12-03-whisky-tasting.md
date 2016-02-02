@@ -1,5 +1,6 @@
 ---
 title: Whisky Tasting
+description: De laatste officiële tasting van het semester.
 ---
 [1]: http://www.tripadvisor.co.uk/Restaurant_Review-g186533-d7933367-Reviews-Tulsi-St_Andrews_Fife_Scotland.html
 [2]: {% post_baseurl 2015-11-05-whisky-tasting %} "Whisky Tasting"
@@ -27,7 +28,6 @@ De laatste waren nieuw voor ons en helemaal erg indrukwekkend: de [Flaming Heart
 Geloof het of niet, maar tijdens de loterij heb ik de hoofdprijs gewonnen, een volle fles van de Flaming Heart!
 
 {% include caption.html
-    width='420'
     image='/asset/images/Compass-Box-Flaming-Heart.jpg'
     text='Een fraaie fles voor een bijzondere whisky.'
 %}

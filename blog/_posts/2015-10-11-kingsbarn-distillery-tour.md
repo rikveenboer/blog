@@ -1,5 +1,6 @@
 ---
 title: Kingsbarn Distillery Tour
+description: Een rondleiding bij de dichtstbijzijnde distillerderij.
 ---
 [1]: http://www.kingsbarnsdistillery.com/distillery/
 [2]: {% post_baseurl 2015-08-19-visit-sanne %} "Visit Sanne"
@@ -25,4 +26,5 @@ De tour eindige in een fraaie zitkamer met een glaasje bijzonder smakelijk vers 
 Toen de tour helemaal was afgelopen ontmoetten we de oprichter die ons uiteraard herkende van de vele samen bijgewoonde tastings. Sterker nog, een aantal van ons had op een door hem gepresenteerde tasting vrijkaartjes voor de tour gewonnen. Vriendelijk zoals deze Schot is bood hij ons nog een slokje van een zeer goede single cask malt aan ([deze][6], in mijn geval).
 
 Al met al was dit een geslaagd bezoek in gezellig gezelschap. Ik heb wat foto's geschoten om een indruk op te doen, proost!
+
 {% include gallery.html gallery='2015-kingsbarns-distillery' %}

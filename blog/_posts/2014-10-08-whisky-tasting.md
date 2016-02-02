@@ -1,5 +1,5 @@
 ---
-title: Whisky tasting
+title: Whisky Tasting
 ---
 [1]: http://www.maltmadness.com/whisky/map/Scotland/index.html
 [2]: http://www.maltmadness.com/whisky/glen-keith.html
@@ -7,17 +7,13 @@ title: Whisky tasting
 
 Deze whisky tasting werden we getrakteerd op diverse "cask strength" whiskies uit de Speyside regio en een van de Orkney-eilanden. De presentatie werd verzorgd door een vriendelijke dikkige Schot die er duidelijk enorm veel plezier in heeft om betaald te worden voor zijn hobby: bezig zijn met alle aspecten van whisky. In de proeflijst van deze avond valt gelijk de hoge leeftijd van deze whiskies op. Ook heb ik een prijsindicatie (per fles) toegevoegd:
 
-<ul>
-    <li>Glenburgie (20 year, £ 60.95)</li>
-    <li>Scapa (14 year, £ 66.00 )</li>
-    <li>Strathisla (19 year, £ 49.95)</li>
-    <li>Tormore (15 year, £ 31.64)</li>
-    <li>The Glenlivet (17 year, £ 46.00)</li>
-</ul>
+- Glenburgie (20 year, £ 60.95)
+- Scapa (14 year, £ 66.00)
+- Strathisla (19 year, £ 49.95)
+- Tormore (15 year, £ 31.64)
+- The Glenlivet (17 year, £ 46.00)
 
-Online is een [fraaie kaart][1] met alle distilleerderijen in Schotland te vinden, maar voor het gemak heb ik de betreffende distilleerderijen zelf ook vastgelegd:
-
-[mapsmarker layer="5"]
+Online is een [fraaie kaart][1] met alle distilleerderijen in Schotland te vinden.
 
 Het bijzondere van de whiskies deze avond is dat allen op "cask strength" gebotteld zijn: direct uit het vat tegen de 60% alcohol. Meestal wordt whisky verdund tot een gangbare 40% procent. Het hogere alcoholgehalte bied de drinker een keuze: verdunnen of niet? Bij het nippen aan een "cask strength" word je tong eigenlijk een beetje verdoofd door de alcohol en dat is zonde van het fijne palet dat hierdoor verloren gaat. Met een beetje water (het liefst gedemineraliseerd, om de smaak niet te beïnvloeden) kan het echte proeven beginnen. De presentator bediende zich ook van wat chemische feitjes: het toevoegen van water aan whisky geeft een exotherme reactie waardoor het aroma beter vrijkomt. Dat klinkt leuk, maar in werkelijkheid zal dit effect nauwelijks meetbaar zijn.
 

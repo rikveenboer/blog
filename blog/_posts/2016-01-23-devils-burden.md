@@ -11,6 +11,11 @@ Na het [verkennen][1] van het parcours, was vandaag de dag van de  [Devil's Burd
 
 Een leuke onderdeel van de intervaltraining op dinsdagen is dat de trainers/coaches de resultaten van de wedstrijden van het afgelopen weekend mede delen. Zo is het meedoen aan deze trainingen niet alleen een goed herstel van de inspanning in de wedstrijd, maar ook een moment om met de eer te strijken. Het was grappig dat de trainer deze keer niet kon nalaten te melden dat ik uit Nederland kom en niet aan bergen gewend ben.
 
+{% include caption.html
+    image='/asset/images/2016-Devils-Burden.jpg'
+    text='Een deel van het team na de race'
+%}
+
 
 1 32
 2 105

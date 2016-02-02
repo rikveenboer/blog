@@ -1,6 +1,6 @@
 ---
 title: Half Marathon
-dsq_thread_id: null
+description: Deelnemen aan de halve marathon van Dundee.
 ---
 [1]: http://www.chipresults.co.uk/individual.aspx?event=2015DRAMHalfMarathon&bib=726
 [2]: https://flow.polar.com/training/analysis/138372820
@@ -10,7 +10,6 @@ Na maanden van training en investering in geavanceerde hardlooprusting (trail sc
 We waren vanaf het begin voornemens om met een team van vijf mee te doen. Tijdens de voorbereidingen hadden nog enkele fanatiekelingen zich aangesloten, maar op de valreep besloten die toch dat 21.1 kilometer een stapje te ver was. Vanwege een blessure moest een origineel teamlid helaas al weken voor de wedstrijd afhaken, en helaas zegde ook zijn plaatsvervanger op het laatste moment af. Zo kon het gebeuren dat we met een team van vier overbleven: twee Italianen, een Fransman en mijzelf.
 
 {% include caption.html
-    width='420'
     image='/asset/images/2015-Half-Marathon-Dundee.jpg'
     text='Het team na de race'
 %}

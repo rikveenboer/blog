@@ -1,7 +1,7 @@
 ---
 title: International dinner
 ---
-[1]: http://csbnw.no-ip.org:38{% post_baseurl 2014-02-21-internationals-dinner %}
+[1]: {% post_baseurl 2014-02-21-internationals-dinner %}
 
 Het vergt een goed geheugen, maar het is op de dag af een jaar geleden dat we een [international dinner][1] hebben gedaan met collega's!
 

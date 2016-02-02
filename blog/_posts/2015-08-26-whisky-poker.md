@@ -1,5 +1,6 @@
 ---
-title: Whisky &#038; Poker
+title: Whisky & Poker
+description: Whisky drinken en poker spelen.
 ---
 [1]: {% post_baseurl 2015-06-18-whisky-poker %} "Whisky & Poker"
 
@@ -9,6 +10,6 @@ We beginnen een soort routine te ontwikkelen bestaande uit dineren, whisky drink
 
 Toen we klaar waren met werken hebben we Indisch eten besteld, maar omdat dat nogal op zich liet wachten hebben we eenmaal thuis aangekomen eerst maar een whisky gedronken. Gelukkig was de tijd zo snel gedood en konden we al snel heerlijk eten. Om dit pittige eten te neutraliseren hebben we als digestief een jenever gedronken: niet heel lekker, maar ook wel eens grappig.
 
-Hierna hebben we het poker aangevangen en zijn we weer overgestapt op whisky. Van zacht naar zeer rokerig en van sterk gesherried naar whisky op vatsterkte: een uitmuntend lekkere variatie.
+Hierna hebben we het poker aangevangen en zijn we weer overgestapt op whisky. Van zacht naar zeer rokerig en van sterk gesherried naar whisky op vat sterkte: een uitmuntend lekkere variatie.
 
-Het duurt nog zo'n maand tot de officiele whisky tastings worden hervat, misschien moesten we daarvoor nog maar eens zo'n gezellig avondje organiseren.
+Het duurt nog zo'n maand tot de officiële whisky tastings worden hervat, misschien moesten we daarvoor nog maar eens zo'n gezellig avondje organiseren.

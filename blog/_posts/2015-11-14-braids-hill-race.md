@@ -1,6 +1,7 @@
 ---
 title: Braids Hill Race
 end_date: 2015-11-15
+description: Een modderige hardloop wedstrijd in Edinburgh.
 ---
 [1]: https://www.facebook.com/events/428949130629478/
 [2]: https://flow.polar.com/training/analysis/280179519

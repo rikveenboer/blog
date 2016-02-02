@@ -1,5 +1,6 @@
 ---
 title: BBQ & Bonfire
+description: Diverse vuurgerelateerde activiteiten op het strand.
 ---
 [1]: {% post_baseurl 2015-06-20-beach-bbq %} "Beach BBQ"
 

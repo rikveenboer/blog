@@ -1,7 +1,8 @@
 ---
 title: Round the Houses
+description: Een erg snelle 5 kilometer hardloopwedstrijd op een wat saai parcours.
 ---
-[1]: ?p=1249
+[1]: {% post_baseurl 2014-09-14-sports %}
 [2]: http://www.mapmyrun.com/routes/view/671479502
 [3]: http://www.mapmyrun.com/routes/view/674313550
 [4]: http://www.mapmyrun.com/sc/victoria-english-river/round-the-houses-10k-route-15102514

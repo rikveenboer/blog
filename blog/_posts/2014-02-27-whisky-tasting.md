@@ -5,15 +5,14 @@ title: Whisky tasting
 [2]: {% post_baseurl 2014-02-06-whisky-tasting %} "Whisky tasting"
 
 De meest uitgebreide tasting dtot nu toe, met maar liefst zeven whiskies van drie verschillende distilleerderijen. Allen behorend tot de [Morrison Bowmore Distillers][1]:
-<ul>
-	<li>Auchentoshan (12 year)</li>
-	<li>Auchentoshan: Three Wood</li>
-	<li>Aucentoshan: Valinch</li>
-	<li>Glen Garioch (12 year)</li>
-	<li>Glen Garioch: 1999 Sherry Matured</li>
-	<li>Bowmore: Darkest (15 year)</li>
-	<li>Bowmore: Tempest Batch 4</li>
-</ul>
+
+- Auchentoshan (12 year)
+- Auchentoshan: Three Wood
+- Aucentoshan: Valinch
+- Glen Garioch (12 year)
+- Glen Garioch: 1999 Sherry Matured
+- Bowmore: Darkest (15 year)
+- Bowmore: Tempest Batch 4
 
 De presentatie werd verzorgt door een echte liefhebber die verhalen over de achtergronden bij de whiskies afwisselde met video's over de distileerderijen. Op deze manier wist hij een prima sfeer te creëren om ons echt te verplaatsten in het Schotse vocht.
 

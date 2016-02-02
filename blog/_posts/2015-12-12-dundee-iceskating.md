@@ -11,7 +11,6 @@ Het was ons gelukt om met een hele groep collega's af te spreken bij de ijsbaan.
 Behalve normale rondjes hebben we ook diverse acrobatische truckjes geoefend. Vooral het achteruit schaatsen was voor velen een geliefd doel. Hiernaast was er natuurlijk gelegenheid voor een groepsportret:
 
 {% include caption.html
-    width='420'
     image='/asset/images/2015-Iceskating Dundee.jpg'
     text='Een afvaardiging van de scheikunde afdeling op ijsbaan.'
 %}

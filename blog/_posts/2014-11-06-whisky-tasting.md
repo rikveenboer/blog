@@ -7,16 +7,17 @@ title: Whisky tasting
 
 Twee weken geleden was de whisky tasting in St Andrews verruild voor een evenement in Dundee en daar konden we helaas niet bij zijn. Na een maand wachten waren we dan ook extra verheugd om een zestal whiskies van onafhankelijke bottelaar Douglas Laing te proeven:
 
-<ul>
-    <li>Timorous Beastie (blend, £36)</li>
-    <li><em>Provenance</em> Dailuaine (12yo, £38)</li>
-    <li><em>Old Particular</em> Blair Athol (15yo, £70)</li>
-    <li><em>Director's Cut</em> Glen Ord (21yo, £122)</li>
-    <li><em>Clan Denny</em> Invergordon (26yo, £84)</li>
-    <li><em>Big Peat</em> (blend, £34)</li>
-</ul>
+- Timorous Beastie (blend, £36)
+- *Provenance* Dailuaine (12yo, £38)
+- *Old Particular* Blair Athol (15yo, £70)
+- *Director's Cut* Glen Ord (21yo, £122)
+- *Clan Denny* Invergordon (26yo, £84)
+- *Big Peat* (blend, £34)
+
+
 
 Voor deze keer heb ik extra metadata toegevoegd: de serie in cursief, tussen haakjes de leeftijd en prijs en zelfs afbeeldingen van de flessen:
+
 {% include gallery.html gallery='2014-whisky-tasting-2' %}
 
 Ook verdiend de term onafhankelijke bottelaar uitleg. Dit is een (familie)bedrijf dat van uiteenlopende distilleerderijen (zo'n 100!) vers gedestilleerde drank of alreeds in vaten gerijpte whisky koopt. Vervolgens wordt er verder gerijpt, gemengd of direct gebotteld. Het is duidelijk dat een dergelijke werkwijze uitgelezen kansen bied om whisky te bundelen in karakteristieke series, zie daarvoor [hun website][1]. Daarnaast geeft zo'n groot bereik whiskies de mogelijkheid tot groeperen en dat doet deze bottelaar dan ook: per serie zijn de whiskies uit de diverse regionen met kleur gecodeerd. Voor de liefhebber is op deze manier bijvoorbeeld eenvoudig te zien of het om een een rokerige/zilte Islayer gaat, een zoetige Speysider of juist een uitgesproken Highlander.

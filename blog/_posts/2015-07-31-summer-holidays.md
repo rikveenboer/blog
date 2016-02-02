@@ -1,5 +1,6 @@
 ---
 title: Summer Holidays
+description: Zomervakantie in Nederland.
 end_date: 2015-08-09
 ---
 De tijd vliegt en het is alweer Augustus, hoog tijd voor zomervakantie in Nederland! Hoewel het weer in Schotland soms heel behoorlijk kan zijn, is het meestal toch te koud om lang in de zon te zitten of zelfs maar te overwegen om naar het strand te gaan. Dat is in Nederland wel anders en zeker de week die we dit jaar hadden uitgezocht was voortreffelijk: een dag regen en verder volop zon en temperaturen rond de 30 graden.

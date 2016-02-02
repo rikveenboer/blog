@@ -1,4 +1,9 @@
-<div style="width: {{ include.width }}px;" class="caption">
+{% if include.width %}
+    {% assign width=include.width %}
+{% else %}
+    {% assign width=430 %}
+{% endif %}
+<div style="width: {{ width }}px;" class="caption">
     {% if include.link %}
     <a href="{{ include.link }}"><img src="{{ include.image }}" /></a>
     {% else %}

@@ -1,6 +1,6 @@
 ---
 title: Devils Burden Reconnaissance
-description: Vast het "parcours" verkennen voor een bergachtige hardloop evenement.
+description: Vast het parcours verkennen voor een bergachtige hardloop evenement.
 ---
 [1]: http://www.fifeac.org/events/fife-ac-events/devils-burdens/919-devil-s-burdens-2016.html
 [2]: https://flow.polar.com/training/analysis/354846198

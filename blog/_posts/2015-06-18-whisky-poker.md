@@ -1,5 +1,6 @@
 ---
 title: Whisky & Poker
+description: Whisky drinken en poker spelen.
 ---
 [1]: {% post_baseurl 2015-03-26-special-whisky-tasting %}
 [2]: https://www.masterofmalt.com/whiskies/balvenie/balvenie-12-year-old-doublewood-whisky/
@@ -12,13 +13,13 @@ title: Whisky & Poker
 
 Nu het semester is afgelopen, zijn ook de georganiseerde whisky tastings afgelopen. Omdat ik en enkele anderen whisky nog steeds erg lekker vinden, vonden we het tijd om zelf weer een tasting te organiseren. We waren deze keer met z'n vieren bij mij thuis, met Nederlanders Frank en Michiel en Engelsman Stefan. Net als [vorige keer][1] verzorgden we allen een (of meerdere) whiskies. Het resultaat was een fraaie diversiteit, waaronder een aantal oude bekenden zoals de gesherriede Blair Athol en de GlenDronach:
 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
+- [Balvenie (12 year, 40%)](2)
+- [Glenburgie (18 year, 43%)](3)
+- [BenRiach Sauternes Finish (16 year, 46%)](4)
+- [Blair Athol (15 year, 48%)](5)
+- [Ardmore Traditional (46%)](6)
+- [GlenDronach (21 year, 48%)](7)
+- [Springbank Calvados Wood Finish (12 year, 53%)](8)
 
 {% include photo.html
     album='2015-whisky-poker'

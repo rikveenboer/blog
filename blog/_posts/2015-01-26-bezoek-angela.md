@@ -1,7 +1,7 @@
 ---
 title: Bezoek Angela
 ---
-[1]: http://csbnw.no-ip.org:38{% post_baseurl 2014-02-08-internationals-trip %} "Internationals trip"
+[1]: {% post_baseurl 2014-02-08-internationals-trip %} "Internationals trip"
 [2]: http://www.imdb.com/title/tt2788710/
 
 Eind januari zijn Angela en Peeter op bezoek geweest, gezellig!

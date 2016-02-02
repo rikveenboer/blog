@@ -1,24 +1,25 @@
 ---
 title: Whisky Tasting
+description: 
 ---
-[1]: ?ai1ec_event=whisky-tasting-10&instance_id=
+[1]: {% post_baseurl 2014-11-06-whisky-tasting %}
 [2]: http://www.hunterlaing.com/brands/old-malt-cask/
 [3]: https://www.masterofmalt.com/whiskies/auchentoshan/auchentoshan-15-year-old-1997-cask-9807-old-malt-cask-hunter-laing-whisky/
-[4]: https://www.masterofmalt.com/whiskies/linkwood/linkwood-21-year-old-1989-old-malt-cask-douglas-laing-whisky/?srh=1
-[5]: https://www.masterofmalt.com/whiskies/clynelish/clynelish-16-year-old-1997-cask-10227-old-malt-cask-hunter-laing-whisky/?srh=1
+[4]: https://www.masterofmalt.com/whiskies/linkwood/linkwood-21-year-old-1989-old-malt-cask-douglas-laing-whisky/
+[5]: https://www.masterofmalt.com/whiskies/clynelish/clynelish-16-year-old-1997-cask-10227-old-malt-cask-hunter-laing-whisky/
 [6]: https://www.masterofmalt.com/whiskies/blair-athol/blair-athol-18-year-old-1995-cask-10303-old-malt-cask-hunter-laing-whisky/
-[7]: https://www.masterofmalt.com/whiskies/highland-park/highland-park-18-year-old-1995-cask-10586-old-malt-cask-hunter-laing-whisky/?srh=1
-[8]: https://www.masterofmalt.com/whiskies/laphroaig/-laphroaig-14-year-old-2000-cask-10809-old-malt-cask-hunter-laing-whisky/?srh=1
-[9]: ?ai1ec_event=whisky-tasting-7
+[7]: https://www.masterofmalt.com/whiskies/highland-park/highland-park-18-year-old-1995-cask-10586-old-malt-cask-hunter-laing-whisky/
+[8]: https://www.masterofmalt.com/whiskies/laphroaig/-laphroaig-14-year-old-2000-cask-10809-old-malt-cask-hunter-laing-whisky/
+[9]: {% post_baseurl 2014-05-10-whisky-tasting %}
 
 De tasting vanavond werd georganiseerd door onafhankelijke bottelaar Hunter Laing, de wederhelft van Douglas Laing (zie een [vorige tasting][1]). We werden getrakteerd op een zestal bijzonder fraaie whiskies uit de [Old Malt Cask][2] serie:
 
-  * [Auchentoshan (15 yo, £63)][3]
-  * [Linkwood (21 yo, £77)][4]
-  * [Clynelish (16 yo, £75)][5]
-  * [Blair Athol (18 yo, £85)][6]
-  * [Highland Park (18 yo, £99)][7]
-  * [Laphroaig (14 yo, £79)][8]
+* [Auchentoshan (15 yo, £63)][3]
+* [Linkwood (21 yo, £77)][4]
+* [Clynelish (16 yo, £75)][5]
+* [Blair Athol (18 yo, £85)][6]
+* [Highland Park (18 yo, £99)][7]
+* [Laphroaig (14 yo, £79)][8]
 
 Al deze whiskies zijn gebotteld met 50% alcohol zonder koud te filteren. De verschillende leeftijden zijn gekozen om een product te garanderen dat exact de juiste tijd in het vat heeft doorgebracht. Het resultaat wordt aangeprezen als whisky voor liefhebbers op aangename drinksterkte.
 

@@ -1,5 +1,6 @@
 ---
 title: Hike Glen Clova
+description: Een herfstige hike in een prachtige omgeving.
 ---
 [1]: {% post_baseurl 2015-09-12-autumn-holidays %} "Autumn Holidays"
 [2]: {% post_baseurl 2014-06-22-hike-blair-athol %} "Hike Blair Atholl"

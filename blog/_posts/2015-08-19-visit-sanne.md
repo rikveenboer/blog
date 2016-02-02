@@ -1,5 +1,7 @@
 ---
 title: Visit Sanne
+description: Een weekje met Sanne van Schotland genieten.
+end_date: 2015-08-24
 ---
 [1]: http://www.walkhighlands.co.uk/perthshire/queens-view.shtml
 [2]: https://flow.polar.com/training/analysis/185289180
@@ -8,10 +10,10 @@ title: Visit Sanne
 [5]: http://scone-palace.co.uk/
 [6]: http://www.visitscotland.com/info/see-do/elcho-castle-p248441
 [7]: http://www.taylor-walker.co.uk/pub/central-st-andrews/s1874/
-[8]: http://csbnw.no-ip.org:38{% post_baseurl 2014-09-22-autumn-holidays %} "Autumn Holidays"
+[8]: {% post_baseurl 2014-09-22-autumn-holidays %} "Autumn Holidays"
 [9]: http://www.pittenweemchocolate.co.uk/
 [10]: http://www.anstrutherfishbar.co.uk/
-[11]: http://csbnw.no-ip.org:38{% post_baseurl 2014-05-18-edinburgh %} "Anstruther"
+[11]: {% post_baseurl 2014-05-18-edinburgh %} "Anstruther"
 [12]: http://www.kingsbarnsdistillery.com/
 [13]: http://www.st-andrews-botanic.org/
 
@@ -19,11 +21,11 @@ Sanne is deze augustus bij mij op bezoek geweest in St Andrews voor een joyful l
 
 Sanne heeft deze zomer een prachtig lang weekend (donderdag tot en met maandag) uitgezocht om mij in Schotland te bezoeken. Het was erg gezellig om samen op pad te gaan. We hebben eigenlijk zo veel leuke dingen gedaan en bezocht dat ik mezelf ook op vakantie waande! Lees het verslag van dag tot dag:
 
-<strong>Donderdag</strong> Nadat ze woensdagavond in Edinburgh aan kwam is Sanne het grootste deel van donderdag op verkenning in deze Schotse hoofdstad geweest. Aan het einde van de middag vertrok ze met de trein richting Leuchars, het station nabij St Andrews. Door onze perfecte timing kon ik haar precies na het werk afhalen om thuis aangekomen een simpel doch vertrouwd lekker maal pannekoeken te koken. We hadden nog wat daglicht over, dus we hebben een rondje door het dorp gereden om Sanne vast wat aanknopingspunten voor de volgende dag te geven. Geloof het of niet, maar we durfden het zelfs aan om Sanne een stukje te laten rijden! Eenmaal terug onthulde Sanne haar koffer vol gulle gaven uit Nederland. De topstukken zijn onbetwist het verduisterende gordijn voor mijn kamer en een heerlijke zelfgebakken gevulde boterkoek.
+**Donderdag** Nadat ze woensdagavond in Edinburgh aan kwam is Sanne het grootste deel van donderdag op verkenning in deze Schotse hoofdstad geweest. Aan het einde van de middag vertrok ze met de trein richting Leuchars, het station nabij St Andrews. Door onze perfecte timing kon ik haar precies na het werk afhalen om thuis aangekomen een simpel doch vertrouwd lekker maal pannekoeken te koken. We hadden nog wat daglicht over, dus we hebben een rondje door het dorp gereden om Sanne vast wat aanknopingspunten voor de volgende dag te geven. Geloof het of niet, maar we durfden het zelfs aan om Sanne een stukje te laten rijden! Eenmaal terug onthulde Sanne haar koffer vol gulle gaven uit Nederland. De topstukken zijn onbetwist het verduisterende gordijn voor mijn kamer en een heerlijke zelfgebakken gevulde boterkoek.
 
-<strong>Vrijdag</strong> Ik had geen vrij genomen, dus vandaag mocht Sanne zelf op verkenning, maar niet voordat we naar vakantie-maatstaven toch redelijk vroeg samen hadden ontbeten. Voor toegenomen mobiliteit mocht ze mijn fiets mee. Dat betekende dat ik naar mijn werk moest lopen, maar dat was niet erg want het was lekker zonnig weer. Voor de lunch kwam Sanne bij de School of Chemistry langs. Na een rondleiding van de belangrijkste wetenschappelijke bezienswaardigheden hebben we met collega's in de common room gegeten. Hierna hebben we beiden onze werk/tourist planningen voortgezet. Ter ere van een voetbaltoornooi tussen diverse Schotse universiteiten werd er 's avonds een barbecue georganiseerd. Voor het sociale kwam Sanne mij dus van het werk ophalen om samen met vele anderen hamburgers te eten en cider te drinken. Het geheel stelde niet heel veel voor, maar het was toch wel de moeite waard. Al helemaal een beetje moe zijn we terug naar mijn huis gegaan om wat uit te rusten voor de grote reis die ons de volgende dag te wachten stond.
+**Vrijdag** Ik had geen vrij genomen, dus vandaag mocht Sanne zelf op verkenning, maar niet voordat we naar vakantie-maatstaven toch redelijk vroeg samen hadden ontbeten. Voor toegenomen mobiliteit mocht ze mijn fiets mee. Dat betekende dat ik naar mijn werk moest lopen, maar dat was niet erg want het was lekker zonnig weer. Voor de lunch kwam Sanne bij de School of Chemistry langs. Na een rondleiding van de belangrijkste wetenschappelijke bezienswaardigheden hebben we met collega's in de common room gegeten. Hierna hebben we beiden onze werk/tourist planningen voortgezet. Ter ere van een voetbaltoornooi tussen diverse Schotse universiteiten werd er 's avonds een barbecue georganiseerd. Voor het sociale kwam Sanne mij dus van het werk ophalen om samen met vele anderen hamburgers te eten en cider te drinken. Het geheel stelde niet heel veel voor, maar het was toch wel de moeite waard. Al helemaal een beetje moe zijn we terug naar mijn huis gegaan om wat uit te rusten voor de grote reis die ons de volgende dag te wachten stond.
 
-<strong>Zaterdag</strong> Deze trip-op-zich bestond uit een bij mij geliefd drieluik: whisky, natuur en architectuur (niet speciaal in die volgorde). Dit alles was gesitueerd in/nabij de highlands, te beginnen bij Loch Tommel, vlak onder Pitlochery. Nadat ik eerst mijn auto op de proef had gesteld op een per abuis ingeslagen boerenpad kwamen we aan bij het bedoelde [Queen's View][1] uitzichtpunt. Uiteraard hadden we de omschrijving niet heel goed gelezen, dus in plaats van direct aan de goede hike te beginnen volgden we eerst een redelijk incourrant pad. Gelukkig voerde dit vlak langs het water, dus het was zeker de extra moeite waard. Ook het bedoelde parcours was fraai en bood ons uitzichten over het Loch en een blik op de restanten van een beschaving uit oude tijden. Uiteraard heb ik het grooste deel van de route [geplot][2] en hebben we volop foto's gemaakt:
+**Zaterdag** Deze trip-op-zich bestond uit een bij mij geliefd drieluik: whisky, natuur en architectuur (niet speciaal in die volgorde). Dit alles was gesitueerd in/nabij de highlands, te beginnen bij Loch Tommel, vlak onder Pitlochery. Nadat ik eerst mijn auto op de proef had gesteld op een per abuis ingeslagen boerenpad kwamen we aan bij het bedoelde [Queen's View][1] uitzichtpunt. Uiteraard hadden we de omschrijving niet heel goed gelezen, dus in plaats van direct aan de goede hike te beginnen volgden we eerst een redelijk incourrant pad. Gelukkig voerde dit vlak langs het water, dus het was zeker de extra moeite waard. Ook het bedoelde parcours was fraai en bood ons uitzichten over het Loch en een blik op de restanten van een beschaving uit oude tijden. Uiteraard heb ik het grooste deel van de route [geplot][2] en hebben we volop foto's gemaakt:
 
 {% include gallery.html gallery='2015-visit-sanne-highlands-hike' %}
 
@@ -37,7 +39,7 @@ Qua architectuur hadden we op de terugweg twee stops in Perth gepland, respectie
 
 Na het laatste stuk terug naar St Andrews waren we wel aan een lui hapje eten toe. Tot onze teleurstelling werd er in [The Central][7] geen eten geserveerd, dus het geplande pubmaal ging aan onze neuzen voorbij. Als alternatief zijn we net als [vorig jaar][8] bij het Italiaanse Zizzi's gaan eten. Helaas was ik een beetje vergeten dat dit een ietwat prijzige en jupperige tent is geworden, maar gelukkig smaakten onze Calzone pizza's goed. Al met al konden we reflecteren op een zeer welbestede dag.
 
-<strong>Zondag</strong> Na een goede nacht slapen hadden we met opnieuw schitterende weer een dag met activiteiten dichter bij huis op het programma staan: een tour langs de zuidkust van Fife (de provincie waarin St Andrews ligt). Na een kijkje in de haven en het coastal path van Pittenweem hebben we ons getrakteerd op een kopje ijskoffie bij [Cocoa Tree][9]. Uiteraard hebben we deze vergezeld laten gaan van heerlijke huisgemaakte Scone en worteltaart: smullen!
+**Zondag** Na een goede nacht slapen hadden we met opnieuw schitterende weer een dag met activiteiten dichter bij huis op het programma staan: een tour langs de zuidkust van Fife (de provincie waarin St Andrews ligt). Na een kijkje in de haven en het coastal path van Pittenweem hebben we ons getrakteerd op een kopje ijskoffie bij [Cocoa Tree][9]. Uiteraard hebben we deze vergezeld laten gaan van heerlijke huisgemaakte Scone en worteltaart: smullen!
 
 {% include gallery.html gallery='2015-visit-sanne-fife-pittenweem' %}
 
@@ -47,7 +49,7 @@ De volgende stop was bij het naburige Anstruther. Het concept van dit vissersdor
 
 Op de terugweg zijn we de kust verder gevolgd langs de uitgestrekte golfbanen en we konden het niet laten om nog even te stoppen bij de pas geopende [Kingsbarns Distillery][12]. Om mij ook de gelegenheid te geven om een beetje om mij heen te kijken heeft Sanne deze laatste etappe terug naar huis gereden. Met onze buiken nog behoorlijk vol van de fish&chips hebben we het laatste stukje van de zonnige middag gebruikt om een rondje door de [botanische tuin][13] te lopen. Al met al was ook dit een goed gevulde dag, zo vol zelfs dat we behalve wat snacks het avondeten maar hebben overgeslagen. Daarvoor in de plaats hebben een lekker ontbijtje van scones en crumpets ingeslagen om de volgende ochtend dit heugelijke weekend goed af te sluiten.
 
-<strong>Maandag</strong> Inderdaad, het ontbijt was lekker, maar onvermijdelijk kwam het afscheid ook steeds dichterbij. Vanwege een geplande presentatie op mijn werk kon ik Sanne niet meer treffen voordat ze 's middags weer richting het vliegveld moest vertrekken, dus we hebben elkaar thuis uitgezwaaid. Hierna ben ik maar aan het werk gegaan en heeft Sanne zichzelf nog een ochtendje vermaakt. Niet getreurd, want we hebben zoveel leuke dingen gedaan dat we nog een lange tijd aan deze vakantie kunnen terugdenken.
+**Maandag** Inderdaad, het ontbijt was lekker, maar onvermijdelijk kwam het afscheid ook steeds dichterbij. Vanwege een geplande presentatie op mijn werk kon ik Sanne niet meer treffen voordat ze 's middags weer richting het vliegveld moest vertrekken, dus we hebben elkaar thuis uitgezwaaid. Hierna ben ik maar aan het werk gegaan en heeft Sanne zichzelf nog een ochtendje vermaakt. Niet getreurd, want we hebben zoveel leuke dingen gedaan dat we nog een lange tijd aan deze vakantie kunnen terugdenken.
 
 Laat ik vrolijk afsluiten met een test of de lezer goed heeft opgelet: waar en wanneer zijn de volgende foto's gemaakt?
 

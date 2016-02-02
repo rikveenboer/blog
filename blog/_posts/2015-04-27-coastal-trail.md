@@ -1,5 +1,6 @@
 ---
-title: Coastal trail
+title: Coastal Trail
+description: Hardlopen maakt van een pad een spoor.
 ---
 [1]: http://www.polar.com/uk-en/products/improve_fitness/running_multisport/m400
 [2]: http://www.wiggle.co.uk/saucony-excursion-tr-8-shoes-ss15

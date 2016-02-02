@@ -1,5 +1,6 @@
 ---
 title: Aberdeen and Dunnottar Castle
+description: Een verkenning van noord-oost Schotland.
 ---
 [1]: http://www.tripadvisor.co.uk/Restaurant_Review-g186487-d4794060-Reviews-Slains_Castle_Aberdeen-Aberdeen_Aberdeenshire_Scotland.html
 [2]: http://www.aagm.co.uk/Visit/TheTolboothMuseum/ttm-overview.aspx
