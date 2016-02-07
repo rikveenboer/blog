@@ -1,5 +1,6 @@
 # adapted from
 # - https://gist.githubusercontent.com/nathangrigg/7387238/raw/fdb229fb162a303cbd9a666de8be7d0aa3515cd6/assign_page.rb
+
 module Jekyll
   module Tags
     class AssignPage < Liquid::Assign

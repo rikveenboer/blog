@@ -6,7 +6,7 @@ layout: default
     <section>
         <header>
             <div class="timeline">
-                <time datetime="{{ post.date|date_to_xmlschema }}"><strong>{{ post.date|date:"%b %d"|upcase }}</strong><br />{{ post.date|date:"%Y" }}</time>
+                <time datetime="{{ post.date|date_to_xmlschema }}"><strong>{{ post.date | date:"%b %d" | upcase }}</strong><br />{{ post.date | date:"%Y" }}</time>
             </div>
             <h1><a href="/{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
             {% if post.description %}

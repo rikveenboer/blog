@@ -1,7 +1,7 @@
 {% assign gallery=site.data.gallery[include.gallery] %}
 {% assign photos=gallery.photos | sort:'date' %}
 <div style="text-align: center;">
-{% unless include.no-link == null %}
+{% unless include.no-link %}
 <a href="/{{ site.baseurl }}/gallery/{{ include.gallery }}/">[ gallery ]</a><br />
 {% endunless %}
 {% for photo in photos %}
