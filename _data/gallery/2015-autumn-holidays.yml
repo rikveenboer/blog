@@ -8,11 +8,7 @@ photos:
     exposure: 1/500
     file: DSC_0390
     model: NIKON D3100
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: NIKON CORPORATION
   aa4f363:
     aperture: f/2.8
@@ -20,11 +16,7 @@ photos:
     exposure: 1/1000
     file: DSC_0440
     model: NIKON D3100
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: NIKON CORPORATION
   e3f8eba:
     aperture: f/2.8
@@ -32,11 +24,7 @@ photos:
     exposure: 1/640
     file: DSC_0448
     model: NIKON D3100
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: NIKON CORPORATION
   bc098cd:
     aperture: f/2.8
@@ -44,11 +32,7 @@ photos:
     exposure: 1/80
     file: DSC_0467
     model: NIKON D3100
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: NIKON CORPORATION
   1665e59:
     aperture: f/2.8
@@ -56,11 +40,7 @@ photos:
     exposure: 1/400
     file: DSC_0478
     model: NIKON D3100
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: NIKON CORPORATION
   1766bea:
     aperture: f/2.8
@@ -68,11 +48,7 @@ photos:
     exposure: 1/640
     file: DSC_0516
     model: NIKON D3100
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: NIKON CORPORATION
   d43ff62:
     aperture: f/2.8
@@ -80,11 +56,7 @@ photos:
     exposure: 1/400
     file: DSC_0558
     model: NIKON D3100
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: NIKON CORPORATION
   44d3ba9:
     aperture: f/2.8
@@ -92,11 +64,7 @@ photos:
     exposure: 1/800
     file: DSC_0560
     model: NIKON D3100
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: NIKON CORPORATION
   c9cd3f6:
     aperture: f/2.8
@@ -104,11 +72,7 @@ photos:
     exposure: 1/800
     file: DSC_0606
     model: NIKON D3100
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: NIKON CORPORATION
   8f1ba2d:
     aperture: f/2.8
@@ -116,11 +80,7 @@ photos:
     exposure: 1/200
     file: DSC_0646
     model: NIKON D3100
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: NIKON CORPORATION
   923ca41:
     aperture: f/2.8
@@ -128,11 +88,7 @@ photos:
     exposure: 1/1000
     file: DSC_0653
     model: NIKON D3100
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: NIKON CORPORATION
   d028121:
     aperture: f/2.8
@@ -140,11 +96,7 @@ photos:
     exposure: 1/200
     file: DSC_0700
     model: NIKON D3100
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: NIKON CORPORATION
   1283f2e:
     aperture: f/2.8
@@ -152,11 +104,7 @@ photos:
     exposure: 1/200
     file: DSC_0738
     model: NIKON D3100
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: NIKON CORPORATION
   061bd47:
     aperture: f/2.8
@@ -164,11 +112,7 @@ photos:
     exposure: 1/200
     file: DSC_0748
     model: NIKON D3100
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: NIKON CORPORATION
   da7f18a:
     aperture: f/2.8
@@ -176,11 +120,7 @@ photos:
     exposure: 1/200
     file: DSC_0764
     model: NIKON D3100
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: NIKON CORPORATION
   17f3471:
     aperture: f/2.8
@@ -188,11 +128,7 @@ photos:
     exposure: 1/200
     file: DSC_0772-Edit
     model: NIKON D3100
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: NIKON CORPORATION
   1e5184e:
     aperture: f/2.8
@@ -200,11 +136,7 @@ photos:
     exposure: 1/200
     file: DSC_0777
     model: NIKON D3100
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: NIKON CORPORATION
   bd4f7fc:
     aperture: f/2.8
@@ -212,11 +144,7 @@ photos:
     exposure: 1/1250
     file: DSC_0857
     model: NIKON D3100
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: NIKON CORPORATION
   7e0ca61:
     aperture: f/2.8
@@ -224,11 +152,7 @@ photos:
     exposure: 1/400
     file: DSC_0897
     model: NIKON D3100
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: NIKON CORPORATION
   a288da0:
     aperture: f/2.8
@@ -236,11 +160,7 @@ photos:
     exposure: 1/640
     file: DSC_0898
     model: NIKON D3100
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: NIKON CORPORATION
   677ee74:
     aperture: f/2.8
@@ -248,11 +168,7 @@ photos:
     exposure: 1/640
     file: DSC_0901
     model: NIKON D3100
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: NIKON CORPORATION
   24118eb:
     aperture: f/2.8
@@ -260,11 +176,7 @@ photos:
     exposure: 1/400
     file: DSC_0933
     model: NIKON D3100
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: NIKON CORPORATION
   b383b43:
     aperture: f/2.8
@@ -272,11 +184,7 @@ photos:
     exposure: 1/640
     file: DSC_0961
     model: NIKON D3100
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: NIKON CORPORATION
   cf5af88:
     aperture: f/2.8
@@ -284,11 +192,7 @@ photos:
     exposure: 1/800
     file: DSC_0981
     model: NIKON D3100
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: NIKON CORPORATION
   e905b5d:
     aperture: f/2.8
@@ -296,11 +200,7 @@ photos:
     exposure: 1/400
     file: DSC_1011
     model: NIKON D3100
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: NIKON CORPORATION
   cd61d1e:
     aperture: f/2.8
@@ -308,11 +208,7 @@ photos:
     exposure: 1/640
     file: DSC_1012
     model: NIKON D3100
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: NIKON CORPORATION
   dcfa233:
     aperture: f/2.8
@@ -320,11 +216,7 @@ photos:
     exposure: 1/640
     file: DSC_1013
     model: NIKON D3100
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: NIKON CORPORATION
   5d1cc2a:
     aperture: f/2.8
@@ -332,11 +224,7 @@ photos:
     exposure: 1/200
     file: DSC_1033
     model: NIKON D3100
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: NIKON CORPORATION
   04dc1e4:
     aperture: f/2.8
@@ -344,11 +232,7 @@ photos:
     exposure: 1/250
     file: DSC_1034
     model: NIKON D3100
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: NIKON CORPORATION
   3519ab6:
     aperture: f/2.8
@@ -356,11 +240,7 @@ photos:
     exposure: 1/500
     file: DSC_1050
     model: NIKON D3100
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: NIKON CORPORATION
   4ca3b77:
     aperture: f/3.2
@@ -368,11 +248,7 @@ photos:
     exposure: 1/640
     file: DSC_1072
     model: NIKON D3100
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: NIKON CORPORATION
   49b1e81:
     aperture: f/2.8
@@ -380,11 +256,7 @@ photos:
     exposure: 1/400
     file: DSC_1079
     model: NIKON D3100
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: NIKON CORPORATION
   e768b76:
     aperture: f/2.8
@@ -392,11 +264,7 @@ photos:
     exposure: 1/400
     file: DSC_1084
     model: NIKON D3100
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: NIKON CORPORATION
   4e9d026:
     aperture: f/2.8
@@ -404,11 +272,7 @@ photos:
     exposure: 1/320
     file: DSC_1119
     model: NIKON D3100
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: NIKON CORPORATION
   cbbdd30:
     aperture: f/2.8
@@ -416,11 +280,7 @@ photos:
     exposure: 1/80
     file: DSC_1126
     model: NIKON D3100
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: NIKON CORPORATION
   368ba23:
     aperture: f/2.8
@@ -428,11 +288,7 @@ photos:
     exposure: 1/640
     file: DSC_1187
     model: NIKON D3100
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: NIKON CORPORATION
   fac7c5d:
     aperture: f/2.8
@@ -440,11 +296,7 @@ photos:
     exposure: 1/250
     file: DSC_1197
     model: NIKON D3100
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: NIKON CORPORATION
   0138770:
     aperture: f/2.8
@@ -452,11 +304,7 @@ photos:
     exposure: 1/125
     file: DSC_1200
     model: NIKON D3100
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: NIKON CORPORATION
   c601f0f:
     aperture: f/2.8
@@ -464,11 +312,7 @@ photos:
     exposure: 1/125
     file: DSC_1211
     model: NIKON D3100
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: NIKON CORPORATION
   63974db:
     aperture: f/2.8
@@ -476,11 +320,7 @@ photos:
     exposure: 1/100
     file: DSC_1213
     model: NIKON D3100
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: NIKON CORPORATION
   fbed02a:
     aperture: f/2.8
@@ -488,11 +328,7 @@ photos:
     exposure: 1/80
     file: DSC_1214
     model: NIKON D3100
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: NIKON CORPORATION
   d82255d:
     aperture: f/2.8
@@ -500,11 +336,7 @@ photos:
     exposure: 1/125
     file: DSC_1215
     model: NIKON D3100
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: NIKON CORPORATION
   0e17e5c:
     aperture: f/2.8
@@ -512,11 +344,7 @@ photos:
     exposure: 1/640
     file: DSC_1258
     model: NIKON D3100
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: NIKON CORPORATION
   61f4659:
     aperture: f/2.8
@@ -524,11 +352,7 @@ photos:
     exposure: 1/400
     file: DSC_1279
     model: NIKON D3100
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: NIKON CORPORATION
   9a5d8f5:
     aperture: f/2.8
@@ -536,11 +360,7 @@ photos:
     exposure: 1/500
     file: DSC_1307
     model: NIKON D3100
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: NIKON CORPORATION
   32f7d1d:
     aperture: f/2.8
@@ -548,11 +368,7 @@ photos:
     exposure: 1/160
     file: DSC_1314
     model: NIKON D3100
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: NIKON CORPORATION
   d0a51f7:
     aperture: f/2.8
@@ -560,11 +376,7 @@ photos:
     exposure: 1/800
     file: DSC_1318
     model: NIKON D3100
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: NIKON CORPORATION
   731476e:
     aperture: f/2.8
@@ -572,11 +384,7 @@ photos:
     exposure: 1/320
     file: DSC_1319
     model: NIKON D3100
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: NIKON CORPORATION
   3395610:
     aperture: f/2.8
@@ -584,11 +392,7 @@ photos:
     exposure: 1/1000
     file: DSC_1321
     model: NIKON D3100
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: NIKON CORPORATION
   138b512:
     aperture: f/2.8
@@ -596,9 +400,5 @@ photos:
     exposure: 1/125
     file: DSC_1360
     model: NIKON D3100
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: NIKON CORPORATION

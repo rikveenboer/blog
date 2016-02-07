@@ -20,11 +20,11 @@ layout: post
                 }
             );
 {% for photo in page.photos %}
-    {% if photo.location %}
+    {% if photo.latitude %}
                 (function () {
                     var wo = false;
                     var m = new google.maps.Marker({
-                        position: new google.maps.LatLng({{ photo.location.latitude }}, {{ photo.location.longitude }}),
+                        position: new google.maps.LatLng({{ photo.latitude }}, {{ photo.longitude }}),
                         map : map,
                         title : "{{ photo.title }}"
                     });

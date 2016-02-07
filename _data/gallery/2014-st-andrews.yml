@@ -1,4 +1,4 @@
-title: "St Andrews"
+title: St Andrews
 date: 2013-10-26
 end_date: 2014-04-11
 map:
@@ -15,10 +15,6 @@ photos:
       latitude: 56.337848638889
       longitude: -2.8026039722222
     model: HTC One S
-    sizes:
-      640w: { height: 361, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
     make: HTC
   f3ed1b7:
     aperture: f/2.0
@@ -29,10 +25,6 @@ photos:
       latitude: 56.328914638889
       longitude: -2.8081791388889
     model: HTC One S
-    sizes:
-      640w: { height: 361, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
     make: HTC
   f6da79d:
     aperture: f/2.0
@@ -43,10 +35,6 @@ photos:
       latitude: 56.343193027778
       longitude: -2.8090896388889
     model: HTC One S
-    sizes:
-      640w: { height: 361, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
     make: HTC
   71a8e74:
     aperture: f/2.0
@@ -57,10 +45,6 @@ photos:
       latitude: 56.346015916667
       longitude: -2.8243839722222
     model: HTC One S
-    sizes:
-      640w: { height: 361, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
     make: HTC
   5061a38:
     aperture: f/2.0

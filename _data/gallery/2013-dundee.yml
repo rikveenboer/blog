@@ -14,10 +14,6 @@ photos:
       latitude: 56.460559833333
       longitude: -2.9703473888889
     model: HTC One S
-    sizes:
-      640w: { height: 361, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
     make: HTC
   ad2b297:
     aperture: f/2.0
@@ -28,8 +24,4 @@ photos:
       latitude: 56.46228025
       longitude: -2.9721526944444
     model: HTC One S
-    sizes:
-      640w: { height: 361, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
     make: HTC

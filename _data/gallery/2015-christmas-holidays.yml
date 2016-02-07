@@ -95,11 +95,7 @@ photos:
     exposure: 1/30
     file: DSCF0461
     model: XQ1
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: FUJIFILM
   f43c4ec:
     aperture: f/1.8
@@ -107,11 +103,7 @@ photos:
     exposure: 1/100
     file: DSCF0463
     model: XQ1
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: FUJIFILM
   debaa56:
     aperture: f/2.0
@@ -119,11 +111,7 @@ photos:
     exposure: 1/300
     file: DSCF0465
     model: XQ1
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: FUJIFILM
   886f250:
     aperture: f/3.8
@@ -131,11 +119,7 @@ photos:
     exposure: 1/10
     file: DSCF0466
     model: XQ1
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: FUJIFILM
   fb24cf1:
     aperture: f/2.2
@@ -143,11 +127,7 @@ photos:
     exposure: 1/300
     file: DSCF0467
     model: XQ1
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: FUJIFILM
   ebf3f19:
     aperture: f/4.9
@@ -155,11 +135,7 @@ photos:
     exposure: 1/15
     file: DSCF0470
     model: XQ1
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: FUJIFILM
   b1f61e3:
     aperture: f/1.8
@@ -167,11 +143,7 @@ photos:
     exposure: 1/60
     file: DSCF0473
     model: XQ1
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: FUJIFILM
   b924fdc:
     aperture: f/2.5
@@ -179,11 +151,7 @@ photos:
     exposure: 1/20
     file: DSCF0479
     model: XQ1
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: FUJIFILM
   81e32d1:
     aperture: f/1.8
@@ -191,11 +159,7 @@ photos:
     exposure: 1/100
     file: DSCF0480
     model: XQ1
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: FUJIFILM
   8bdfa44:
     aperture: f/3.6
@@ -203,11 +167,7 @@ photos:
     exposure: 1/5
     file: DSCF0484
     model: XQ1
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: FUJIFILM
   b3f827b:
     aperture: f/1.8
@@ -215,11 +175,7 @@ photos:
     exposure: 1/10
     file: DSCF0492
     model: XQ1
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: FUJIFILM
   4c38747:
     aperture: f/3.6
@@ -227,11 +183,7 @@ photos:
     exposure: 1/3
     file: DSCF0498
     model: XQ1
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: FUJIFILM
   b26ad08:
     aperture: f/1.8
@@ -239,11 +191,7 @@ photos:
     exposure: 1/8
     file: DSCF0503
     model: XQ1
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: FUJIFILM
   ff33227:
     aperture: f/3.4
@@ -251,11 +199,7 @@ photos:
     exposure: 1/3
     file: DSCF0505
     model: XQ1
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: FUJIFILM
   41de2e7:
     aperture: f/1.8
@@ -263,11 +207,7 @@ photos:
     exposure: 1/10
     file: DSCF0514
     model: XQ1
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: FUJIFILM
   5636d6c:
     aperture: f/1.8
@@ -275,11 +215,7 @@ photos:
     exposure: 1/17
     file: DSCF0521
     model: XQ1
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: FUJIFILM
   698c477:
     aperture: f/1.8
@@ -287,11 +223,7 @@ photos:
     exposure: 1/15
     file: DSCF0523
     model: XQ1
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: FUJIFILM
   a4d2bc2:
     aperture: f/1.8
@@ -299,11 +231,7 @@ photos:
     exposure: 1/18
     file: DSCF0526
     model: XQ1
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: FUJIFILM
   d5a2cb9:
     aperture: f/1.8
@@ -311,11 +239,7 @@ photos:
     exposure: 1/10
     file: DSCF0527
     model: XQ1
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: FUJIFILM
   4012f4f:
     aperture: f/1.8
@@ -323,11 +247,7 @@ photos:
     exposure: 1/90
     file: DSCF0531
     model: XQ1
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: FUJIFILM
   0b7b3c0:
     aperture: f/1.8
@@ -335,11 +255,7 @@ photos:
     exposure: 1/12
     file: DSCF0538
     model: XQ1
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: FUJIFILM
   88ba775:
     aperture: f/3.8
@@ -347,11 +263,7 @@ photos:
     exposure: 1/5
     file: DSCF0540
     model: XQ1
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: FUJIFILM
   78d172f:
     aperture: f/2.1
@@ -359,11 +271,7 @@ photos:
     exposure: 1/10
     file: DSCF0542
     model: XQ1
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: FUJIFILM
   03a3cf4:
     aperture: f/1.8
@@ -371,11 +279,7 @@ photos:
     exposure: 1/125
     file: DSCF0549
     model: XQ1
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: FUJIFILM
   3e37348:
     aperture: f/1.8
@@ -383,11 +287,7 @@ photos:
     exposure: 1/70
     file: DSCF0551
     model: XQ1
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: FUJIFILM
   449d094:
     aperture: f/1.8
@@ -395,11 +295,7 @@ photos:
     exposure: 1/160
     file: DSCF0552
     model: XQ1
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: FUJIFILM
   cd4ef4a:
     aperture: f/4.5
@@ -407,11 +303,7 @@ photos:
     exposure: 1/850
     file: DSCF0553
     model: XQ1
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: FUJIFILM
   db4e423:
     aperture: f/2.1
@@ -419,11 +311,7 @@ photos:
     exposure: 1/20
     file: DSCF0558
     model: XQ1
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: FUJIFILM
   3435f20:
     aperture: f/1.8
@@ -431,11 +319,7 @@ photos:
     exposure: 1/20
     file: DSCF0564
     model: XQ1
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: FUJIFILM
   a3a777c:
     aperture: f/1.8
@@ -443,11 +327,7 @@ photos:
     exposure: 1/160
     file: DSCF0565
     model: XQ1
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: FUJIFILM
   84190a0:
     aperture: f/1.8
@@ -455,11 +335,7 @@ photos:
     exposure: 1/15
     file: DSCF0570
     model: XQ1
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: FUJIFILM
   0ca40f2:
     aperture: f/1.8
@@ -467,11 +343,7 @@ photos:
     exposure: 1/4
     file: DSCF0577
     model: XQ1
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: FUJIFILM
   91c9241:
     aperture: f/4.0
@@ -479,11 +351,7 @@ photos:
     exposure: 1/680
     file: DSCF0587
     model: XQ1
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: FUJIFILM
   b088e59:
     aperture: f/6.4
@@ -491,11 +359,7 @@ photos:
     exposure: 1/800
     file: DSCF0588
     model: XQ1
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: FUJIFILM
   5e66500:
     aperture: f/4.9
@@ -503,11 +367,7 @@ photos:
     exposure: 1/180
     file: DSCF0589
     model: XQ1
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: FUJIFILM
   cdaa3b4:
     aperture: f/4.0
@@ -515,11 +375,7 @@ photos:
     exposure: 1/640
     file: DSCF0593
     model: XQ1
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: FUJIFILM
   46504d6:
     aperture: f/4.9
@@ -527,11 +383,7 @@ photos:
     exposure: 1/240
     file: DSCF0594
     model: XQ1
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: FUJIFILM
   76a9939:
     aperture: f/4.0
@@ -539,9 +391,5 @@ photos:
     exposure: 1/600
     file: DSCF0599
     model: XQ1
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: FUJIFILM

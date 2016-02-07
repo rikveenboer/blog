@@ -1,4 +1,4 @@
-title: "Visit Sanne: Anstruther"
+title: Visit Sanne - Anstruther
 date: 2015-08-23
 photos:
   933253f:
@@ -7,11 +7,7 @@ photos:
     exposure: 1/950
     file: IMG_20150823_131841
     model: One A0001
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: OnePlus
   f659d36:
     aperture: f/2.0
@@ -19,11 +15,7 @@ photos:
     exposure: 1/2200
     file: IMG_20150823_134722
     model: One A0001
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: OnePlus
   315c401:
     aperture: f/2.0
@@ -31,11 +23,7 @@ photos:
     exposure: 1/1600
     file: IMG_20150823_135237
     model: One A0001
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: OnePlus
   74b5a76:
     aperture: f/2.0
@@ -43,11 +31,7 @@ photos:
     exposure: 1/1600
     file: IMG_20150823_135506
     model: One A0001
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: OnePlus
   14a875b:
     aperture: f/9.2
@@ -66,11 +50,7 @@ photos:
     exposure: 1/1600
     file: IMG_20150823_144611
     model: One A0001
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: OnePlus
   9ee6652:
     aperture: f/2.0
@@ -78,31 +58,19 @@ photos:
     exposure: 1/1700
     file: IMG_20150823_144812
     model: One A0001
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: OnePlus
   7b54f72:
     date: 2015-08-23 14:50:54
     file: IMG_20150823_145053
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
   96ad329:
     aperture: f/2.0
     date: 2015-08-23 14:51:12
     exposure: 1/3600
     file: IMG_20150823_145110
     model: One A0001
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: OnePlus
   9e38769:
     aperture: f/3.3

@@ -16,11 +16,7 @@ photos:
     longitude: -2.8112706944444
     make: OnePlus
     model: One A0001
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
   3263441:
     altitude: 77
     aperture: f/2.0
@@ -32,11 +28,7 @@ photos:
     longitude: -2.811337
     make: OnePlus
     model: One A0001
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
   1803d4b:
     date: 2016-01-29 13:23:26
     file: PANO_20160129_132319

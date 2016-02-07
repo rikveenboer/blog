@@ -2,11 +2,13 @@
 layout: default
 ---
 {% assign photo=page.photo %}
+{% capture photo_url %}{{ site.asset_prefix }}/gallery/{{ page.gallery }}/{{ photo.name }}{% endcapture %}
+{% capture gallery_url %}/{{ site.baseurl }}/gallery/{{ page.gallery }}{% endcapture %}
 <section itemscope itemtype="http://schema.org/Photograph">
     <header>
         <div class="timeline">
             {% if photo.date %}
-                <time datetime="{{ photo.date|date_to_xmlschema }}" title="{{ photo.date|date_to_xmlschema }}"><strong>{{ photo.date | date:"%b %d" | upcase }}</strong><br />{{ photo.date | date:"%Y" }}</time>
+                <time datetime="{{ photo.date | date_to_xmlschema }}" title="{{ photo.date | date_to_xmlschema }}"><strong>{{ photo.date | date:"%b %d" | upcase }}</strong><br />{{ photo.date | date:"%Y" }}</time>
             {% endif %}
             {% if photo.location %}
                 <a href="https://maps.google.com/maps?hl=en&amp;ll={{ photo.location.latitude }},{{ photo.location.longitude }}&amp;t=w&amp;z=12"><img alt="map" height="49" src="https://maps.googleapis.com/maps/api/staticmap?center={{ photo.location.latitude }},{{ photo.location.longitude }}&amp;zoom=9&amp;size=98x98&amp;sensor=false" title="{{ photo.location.title }}" width="49" /></a>
@@ -14,17 +16,17 @@ layout: default
         </div>
         <section class="post-content">
             <p>{{ content }}</p>
-            <a href="/{{ site.baseurl }}/gallery/{{ page.gallery }}/">[ list ]</a>
+            <a href="{{ gallery_url }}/">[ gallery ]</a>
         </section>
         <ul style="margin-top: 0;">
             {% if photo.previous %}
-                <li><a href="/{{ site.baseurl }}/gallery/{{ page.gallery }}/{{ photo.previous }}.html" rel="prev">&nbsp;&larr;&nbsp;</a></li>
+                <li><a href="{{ gallery_url }}/{{ photo.previous }}.html" rel="prev">&nbsp;&larr;&nbsp;</a></li>
             {% else %}
                 <li><span class="noanchor">&nbsp;&larr;&nbsp;</span></li>
             {% endif %}
 
             {% if photo.next %}
-                <li><a href="/{{ site.baseurl }}/gallery/{{ page.gallery }}/{{ photo.next }}.html" rel="next">&nbsp;&rarr;&nbsp;</a></li>
+                <li><a href="{{ gallery_url }}/{{ photo.next }}.html" rel="next">&nbsp;&rarr;&nbsp;</a></li>
             {% else %}
                 <li><span class="noanchor">&nbsp;&rarr;&nbsp;</span></li>
             {% endif %}
@@ -34,16 +36,19 @@ layout: default
         </h1>
     </header>
     <section class="post-content">
-        {% assign maxsize = 0 %}
-        {% assign maxref = false %}
-        {% for size in photo.sizes %}
-            {% if maxsize < size[1].height * size[1].width %}
-                {% assign maxsize = size[1].height * size[1].width %}
-                {% assign maxref = size %}
+        {% if photo.width %}
+            {% assign max_width=photo.width %}
+        {% else %}
+            {% assign max_width=640 %}
+        {% endif %}
+        {% assign sizes=''|split:'' %}
+        {% for size in site.photo_sizes %}
+            {% if size[0] <= max_width %}
+                {% assign sizes=sizes | push:size %}
             {% endif %}
         {% endfor %}
         <p style="text-align:center;">
-            <a href="{{ site.asset_prefix }}/{{ photo.url|replace:".html","" }}~{{ maxref[0] }}.jpg"><img alt="Photo: {{ photo.title }}" src="{{ site.asset_prefix }}/{{ photo.url|replace:".html","~640w.jpg" }}" style="max-width:630px;" /></a>
+            <a href="{{ photo_url }}~640w.jpg"><img alt="Photo: {{ photo.title }}" src="{{ photo_url }}~640w.jpg" style="max-width:630px;" /></a>
         </p>
 
         {% if content %}
@@ -54,7 +59,7 @@ layout: default
     </section>
     <div class="meta">
         <div class="meta-properties">
-            <div style="float:left;width:352px;">
+            <div>
                 <dl style="margin-top:0;">
                     <dt>Date</dt>
                     <dd itemprop="dateCreated" content="{{ photo.date | date:'%FT%TZ' }}">{{ photo.date | date:'%A, %B %d at %I:%M %p' | replace:' 0',' ' | replace:' AM',' am' | replace:' PM',' pm' }}
@@ -74,15 +79,23 @@ layout: default
                     <dd>{{ photo.exposure }}</dd>
                     {% endif %}
 
-                    {% if photo.sizes %}
+                    {% if sizes %}
                         <dt>Sizes</dt>
                         <dd>
-                            {% for size in photo.sizes %}
+                            {% for size in sizes %}
                                 {% if 0 < forloop.index0 %}&nbsp;&middot;&nbsp;{% endif %}
+                                {% assign width=size[0] %}
+                                {% assign height=size[1] %}                                
+                                {% capture label %}{{ width }}x{{ height }}{% endcapture %}
+                                {% if width == 640 %}
+                                    {% assign file='640w' %}
+                                {% else %}    
+                                    {% assign file=label %}
+                                {% endif %}
                                 <span itemprop="image" itemscope itemtype="http://schema.org/ImageObject">
-                                    <meta itemprop="height" content="{{ size[1].height }}" />
-                                    <meta itemprop="width" content="{{ size[1].width }}" />
-                                    <a href="{{ site.asset_prefix }}/{{ photo.url|replace:".html","" }}~{{ size[0] }}.jpg" itemprop="contentUrl">{{ size[1].width }}x{{size[1].height }}</a>
+                                    <meta itemprop="width" content="{{ width }}" />
+                                    <meta itemprop="height" content="{{ height }}" />
+                                    <a href="{{ photo_url }}~{{ file }}.jpg" itemprop="contentUrl">{{ label }}</a>
                                 </span>
                             {% endfor %}
                         </dd>
@@ -105,13 +118,13 @@ layout: default
         <div class="meta-navigate screen-only">
             {% if photo.next %}
                 <div style="float:right;">
-                    <a href="/{{ site.baseurl }}/gallery/{{ page.gallery }}/{{ photo.next }}.html" rel="next">Next Photo &raquo;</a>
+                    <a href="{{ gallery_url }}/{{ photo.next }}.html" rel="next">Next &raquo;</a>
                 </div>
             {% endif %}
 
             {% if photo.previous %}
                 <div style="float:left;">
-                    <a href="/{{ site.baseurl }}/gallery/{{ page.gallery }}/{{ photo.previous }}.html" rel="prev">&laquo; Previous</a>
+                    <a href="{{ gallery_url }}/{{ photo.previous }}.html" rel="prev">&laquo; Previous</a>
                 </div>
             {% endif %}
 

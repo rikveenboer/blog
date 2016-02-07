@@ -58,6 +58,7 @@ $oConsole
             foreach (glob($sDir . '/*.jpg') as $i => $sFile) {
                 // Generate id from file contents
                 $sId = substr(sha1_file($sFile), 0, 7);
+                $oOutput->write('<info>' . $sId . '</info>');
 
                 // Parse selected EXIF data
                 $aExif = exif_read_data($sFile);
@@ -83,10 +84,6 @@ $oConsole
                     $oDate = new DateTime();
                     $aPhoto['date'] = $oDate->setTimestamp($aExif['FileDateTime']);
                 }
-
-                // Manipulate
-                $oOutput->write('<info>' . $sId . '</info>');
-                $aPhoto['sizes'] = [];
 
                 // Image exports
                 if (count($sExports) > 0) {
@@ -120,10 +117,11 @@ $oConsole
                     $oSourceSize = $oSourceJpg->getSize();
                     $oOutput->writeln(' [' . $oSourceSize->getWidth() . 'x' . $oSourceSize->getHeight() . ']...');
 
+                    $iWidth = 0;
                     foreach ($sExports as $sExport) {
                         $oOutput->write('    <comment>' . $sExport . '</comment>');
 
-                        if (false !== strpos($sExport, 'x')) {
+                        if (strpos($sExport, 'x') !== false) {
                             list($iX, $iY) = explode('x', $sExport);
                             if ($iX > $oSourceSize->getWidth() || $iY > $oSourceSize->getHeight()) {
                                 $oOutput->writeln('    <comment>[skipping]</comment>');
@@ -136,13 +134,7 @@ $oConsole
                                 );
                             }
                         } else {
-                            if ('w' == substr($sExport, -1)) {
-                                $iX = (int) $sExport;
-                                $iY = ($iX * $oSourceSize->getHeight()) / $oSourceSize->getWidth();
-                            } elseif ('h' == substr($sExport, -1)) {
-                                $iY = (int) $sExport;
-                                $iX = ($iY * $oSourceSize->getWidth()) / $oSourceSize->getHeight();
-                            } elseif ($oSourceSize->getWidth() == max($oSourceSize->getWidth(), $oSourceSize->getHeight())) {
+                            if ($oSourceSize->getWidth() == max($oSourceSize->getWidth(), $oSourceSize->getHeight())) {
                                 $iX = (int) $sExport;
                                 $iY = ($iX * $oSourceSize->getHeight()) / $oSourceSize->getWidth();
                             } elseif ($oSourceSize->getHeight() == max($oSourceSize->getWidth(), $oSourceSize->getHeight())) {
@@ -184,15 +176,17 @@ $oConsole
 
                             touch($sExportPath, $aPhoto['date']->getTimestamp());
                             $sExportImage = null;
+
+                            // Keep track of dimensions
                             $iX = $aExportsize->getWidth();
-                            $iY = $aExportsize->getHeight();
+                            $iY = $aExportsize->getHeight();                            
                         }
-                        $aPhoto['sizes'][$sExport] = [
-                            'width' => $iX,
-                            'height' => $iY,
-                        ];
+                        $iWidth = max($iWidth, $iX);
                     }
                     $oSourceJpg = null;
+                    if ($iWidth != 640) {
+                        $aPhoto['width'] = $iWidth;
+                    }
                 }
 
                 // Keep track of album dates
@@ -216,19 +210,7 @@ $oConsole
                         $aPhoto['exposure'] = $aExif['ExposureTime'];
                     }
                 }
-                
-                ksort_recursive($aPhoto);
-                uasort(
-                    $aPhoto['sizes'],
-                    function ($aA, $aB) {
-                        $iSurfaceA = $aA['width'] * $aA['height'];
-                        $iSurfaceB = $aB['width'] * $aB['height'];
-                        return $iSurfaceA == $iSurfaceB
-                            ? 0
-                            : (($iSurfaceA > $iSurfaceB) ? -1 : 1);
-                    }
-                );
-
+                ksort($aPhoto);
                 $aPhotos[$sId] = $aPhoto;
             }
 

@@ -29,8 +29,4 @@ photos:
       latitude: 56.330989833333
       longitude: -2.8061346666667
     model: HTC One S
-    sizes:
-      640w: { height: 361, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
     make: HTC

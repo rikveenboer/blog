@@ -1,4 +1,4 @@
-title: "Spain: Sitges"
+title: Spain - Sitges
 date: 2015-06-28
 end_date: 2015-07-02
 map:
@@ -15,11 +15,7 @@ photos:
       latitude: 41.228221666667
       longitude: 1.7873166666667
     model: One A0001
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: OnePlus
   4a7abd3:
     aperture: f/2.0
@@ -30,11 +26,7 @@ photos:
       latitude: 41.227851666667
       longitude: 1.785015
     model: One A0001
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: OnePlus
   c102420:
     aperture: f/2.0
@@ -45,11 +37,7 @@ photos:
       latitude: 41.228893333333
       longitude: 1.7853116666667
     model: One A0001
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: OnePlus
   0381192:
     aperture: f/2.0
@@ -60,11 +48,7 @@ photos:
       latitude: 41.228878333333
       longitude: 1.7853233333333
     model: One A0001
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: OnePlus
   0605fba:
     aperture: f/2.0
@@ -75,11 +59,7 @@ photos:
       latitude: 41.236695
       longitude: 1.8235283333333
     model: One A0001
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: OnePlus
   fac0784:
     aperture: f/2.0
@@ -90,11 +70,7 @@ photos:
       latitude: 41.237048333333
       longitude: 1.8228266666667
     model: One A0001
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: OnePlus
   be2277a:
     aperture: f/2.0
@@ -105,11 +81,7 @@ photos:
       latitude: 41.237445
       longitude: 1.8231183333333
     model: One A0001
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: OnePlus
   13215a0:
     aperture: f/2.0
@@ -120,11 +92,7 @@ photos:
       latitude: 41.236678333333
       longitude: 1.8210633333333
     model: One A0001
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: OnePlus
   10b6e2d:
     aperture: f/2.0
@@ -132,11 +100,7 @@ photos:
     exposure: 1/2200
     file: IMG_20150630_150229
     model: One A0001
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: OnePlus
   2b745a8:
     aperture: f/2.0
@@ -147,11 +111,7 @@ photos:
       latitude: 41.236121666667
       longitude: 1.81792
     model: One A0001
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: OnePlus
   c9de3c2:
     aperture: f/2.0
@@ -162,11 +122,7 @@ photos:
       latitude: 41.236145
       longitude: 1.81783
     model: One A0001
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: OnePlus
   dacd9dc:
     aperture: f/2.0
@@ -177,11 +133,7 @@ photos:
       latitude: 41.234585
       longitude: 1.8119
     model: One A0001
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: OnePlus
   e945f15:
     aperture: f/2.0
@@ -192,11 +144,7 @@ photos:
       latitude: 41.234538333333
       longitude: 1.8117933333333
     model: One A0001
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: OnePlus
   70ce4fd:
     aperture: f/2.0
@@ -207,11 +155,7 @@ photos:
       latitude: 41.234481666667
       longitude: 1.8070983333333
     model: One A0001
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: OnePlus
   4348930:
     aperture: f/2.0
@@ -222,11 +166,7 @@ photos:
       latitude: 41.234153333333
       longitude: 1.806225
     model: One A0001
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: OnePlus
   f57bbf7:
     aperture: f/2.0
@@ -237,11 +177,7 @@ photos:
       latitude: 41.232265
       longitude: 1.80028
     model: One A0001
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: OnePlus
   cadb90d:
     aperture: f/2.0
@@ -252,11 +188,7 @@ photos:
       latitude: 41.224181666667
       longitude: 1.7707433333333
     model: One A0001
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: OnePlus
   8d246e7:
     aperture: f/2.0
@@ -267,11 +199,7 @@ photos:
       latitude: 41.236796666667
       longitude: 1.82372
     model: One A0001
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: OnePlus
   3025085:
     aperture: f/2.0
@@ -282,11 +210,7 @@ photos:
       latitude: 41.236511666667
       longitude: 1.82375
     model: One A0001
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: OnePlus
   d05ac75:
     aperture: f/2.0
@@ -297,9 +221,5 @@ photos:
       latitude: 41.233771666667
       longitude: 1.80544
     model: One A0001
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: OnePlus

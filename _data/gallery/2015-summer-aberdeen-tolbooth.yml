@@ -1,4 +1,4 @@
-title: "Summer: Aberdeen tolbooth"
+title: Summer - Aberdeen Tolbooth
 date: 2015-07-18
 photos:
   a581ec2:
@@ -7,11 +7,7 @@ photos:
     exposure: 1/20
     file: IMG_20150718_114727
     model: One A0001
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: OnePlus
   4296a83:
     aperture: f/2.0
@@ -30,11 +26,7 @@ photos:
     exposure: 1/25
     file: IMG_20150718_114822
     model: One A0001
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: OnePlus
   1222a7a:
     aperture: f/2.0
@@ -42,11 +34,7 @@ photos:
     exposure: 1/20
     file: IMG_20150718_115942
     model: One A0001
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: OnePlus
   39df1f6:
     aperture: f/2.0
@@ -54,9 +42,5 @@ photos:
     exposure: 1/25
     file: IMG_20150718_120318
     model: One A0001
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: OnePlus

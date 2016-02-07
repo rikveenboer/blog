@@ -1,4 +1,4 @@
-title: "Visit Sanne: Pittenweem"
+title: Visit Sanne - Pittenweem
 date: 2015-08-23
 photos:
   97b3176:
@@ -7,11 +7,7 @@ photos:
     exposure: 1/2100
     file: IMG_20150823_114915
     model: One A0001
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: OnePlus
   03292ba:
     aperture: f/2.0
@@ -19,11 +15,7 @@ photos:
     exposure: 1/1400
     file: IMG_20150823_115136
     model: One A0001
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: OnePlus
   dbe3d72:
     aperture: f/2.0
@@ -31,11 +23,7 @@ photos:
     exposure: 1/1700
     file: IMG_20150823_115302
     model: One A0001
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: OnePlus
   a3562f0:
     aperture: f/2.0
@@ -43,11 +31,7 @@ photos:
     exposure: 1/1600
     file: IMG_20150823_115644
     model: One A0001
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: OnePlus
   a42e5b0:
     aperture: f/2.0
@@ -55,11 +39,7 @@ photos:
     exposure: 1/1500
     file: IMG_20150823_115916
     model: One A0001
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: OnePlus
   621f0cb:
     aperture: f/2.0
@@ -67,11 +47,7 @@ photos:
     exposure: 1/1800
     file: IMG_20150823_120021
     model: One A0001
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: OnePlus
   45a813c:
     aperture: f/2.0
@@ -79,11 +55,7 @@ photos:
     exposure: 1/3200
     file: IMG_20150823_120316
     model: One A0001
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: OnePlus
   7365055:
     aperture: f/2.0
@@ -91,11 +63,7 @@ photos:
     exposure: 1/1400
     file: IMG_20150823_120610
     model: One A0001
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: OnePlus
   522e4c2:
     aperture: f/2.0
@@ -103,20 +71,12 @@ photos:
     exposure: 1/2000
     file: IMG_20150823_121259
     model: One A0001
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: OnePlus
   fecb909:
     date: 2015-08-23 12:24:52
     file: IMG_20150823_122452
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
   c168aac:
     aperture: f/3.3
     date: 2015-08-23 12:52:44
@@ -134,11 +94,7 @@ photos:
     exposure: 1/1500
     file: IMG_20150823_125634
     model: One A0001
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: OnePlus
   95c47af:
     aperture: f/9.2

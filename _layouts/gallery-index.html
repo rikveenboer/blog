@@ -19,7 +19,7 @@ layout: default
     {% if page.map %}
     <a href="map.html">[ map ]</a>
     {% endif %}
-    {% assign items = site.array %}
+    {% assign items = ''|split:'' %}
     {% for p in site.posts %}
         {% if p.content contains page.gallery %}
             {% assign items = items | push:p %}

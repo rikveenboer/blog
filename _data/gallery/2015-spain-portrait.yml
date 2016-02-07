@@ -1,4 +1,4 @@
-title: "Spain: portret"
+title: Spain - portret
 date: 2015-06-27
 end_date: 2015-07-02
 map:
@@ -9,22 +9,14 @@ photos:
   4a34012:
     date: 2015-06-27 12:30:49
     file: IMG_20150627_123049
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
   b7ed29e:
     aperture: f/2.0
     date: 2015-06-30 15:00:17
     exposure: 1/3200
     file: IMG_20150630_150015
     model: One A0001
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: OnePlus
   6904318:
     aperture: f/2.0
@@ -35,9 +27,5 @@ photos:
       latitude: 41.236686666667
       longitude: 1.8236266666667
     model: One A0001
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: OnePlus

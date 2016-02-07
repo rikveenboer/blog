@@ -1,4 +1,4 @@
-title: "Lade Braes"
+title: Lade Braes
 date: 2013-10-26
 end_date: 2014-01-26
 map:
@@ -15,10 +15,6 @@ photos:
       latitude: 56.3355255
       longitude: -2.8091225833333
     model: HTC One S
-    sizes:
-      640w: { height: 361, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
     make: HTC
   ef5d19f:
     aperture: f/2.0
@@ -29,10 +25,6 @@ photos:
       latitude: 56.333198527778
       longitude: -2.8286838333333
     model: HTC One S
-    sizes:
-      640w: { height: 361, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
     make: HTC
   fd003dd:
     aperture: f/2.0
@@ -56,10 +48,6 @@ photos:
       latitude: 56.332935333333
       longitude: -2.8292493611111
     model: HTC One S
-    sizes:
-      640w: { height: 361, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
     make: HTC
   79c4bb3:
     aperture: f/2.0
@@ -83,10 +71,6 @@ photos:
       latitude: 56.333194722222
       longitude: -2.8285584722222
     model: HTC One S
-    sizes:
-      640w: { height: 361, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
     make: HTC
   c9e118b:
     aperture: f/2.0
@@ -97,10 +81,6 @@ photos:
       latitude: 56.333709694444
       longitude: -2.8137059444444
     model: HTC One S
-    sizes:
-      640w: { height: 361, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
     make: HTC
   8352ca0:
     aperture: f/2.0
@@ -111,10 +91,6 @@ photos:
       latitude: 56.333183277778
       longitude: -2.8123201944444
     model: HTC One S
-    sizes:
-      640w: { height: 361, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
     make: HTC
   49d78d7:
     aperture: f/2.0

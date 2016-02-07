@@ -30,8 +30,6 @@ module Jekyll
             @name = 'index.html'
             self.process(@name)
             self.read_yaml(File.join(site.source, '_layouts'), 'gallery-list.html')
-            # photo['url'] = @dir +  '/' + @name
-            # self.data.merge!(photo)
             self.data['galleries'] = galleries
         end
     end

@@ -1,4 +1,4 @@
-title: "Christmas Holidays: beach"
+title: Christmas Holidays - Beach
 date: 2015-01-02
 photos:
   1c46802:
@@ -7,11 +7,7 @@ photos:
     exposure: 10/10000
     file: 2015-01-02 14.47.36
     model: D5803
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: Sony
   bd4d3a0:
     aperture: f/2.0
@@ -19,11 +15,7 @@ photos:
     exposure: 10/32000
     file: 2015-01-02 14.50.19
     model: D5803
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: Sony
   234b994:
     aperture: f/2.8
@@ -31,11 +23,7 @@ photos:
     exposure: 10/1250
     file: 2015-01-02 14.50.50
     model: D5803
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: Sony
   8973bb6:
     aperture: f/2.0
@@ -43,11 +31,7 @@ photos:
     exposure: 10/64000
     file: 2015-01-02 14.53.24
     model: D5803
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: Sony
   de3417f:
     aperture: f/2.0
@@ -55,9 +39,5 @@ photos:
     exposure: 10/12500
     file: 2015-01-02 15.07.50
     model: D5803
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: Sony

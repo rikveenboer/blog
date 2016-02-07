@@ -12,10 +12,6 @@ photos:
     exposure: 342/1000000
     file: IMAG0741
     model: HTC One S
-    sizes:
-      640w: { height: 361, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
     make: HTC
   aaea74b:
     aperture: f/2.0
@@ -26,10 +22,6 @@ photos:
       latitude: 56.008274055556
       longitude: -3.3925730833333
     model: HTC One S
-    sizes:
-      640w: { height: 361, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
     make: HTC
   4f57220:
     aperture: f/2.0
@@ -40,10 +32,6 @@ photos:
       latitude: 56.042312611111
       longitude: -3.3812694444444
     model: HTC One S
-    sizes:
-      640w: { height: 361, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
     make: HTC
   4e57ab8:
     aperture: f/2.0
@@ -54,10 +42,6 @@ photos:
       latitude: 56.051437361111
       longitude: -3.3243245833333
     model: HTC One S
-    sizes:
-      640w: { height: 361, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
     make: HTC
   1039d58:
     aperture: f/2.0
@@ -68,10 +52,6 @@ photos:
       latitude: 56.052070611111
       longitude: -3.3221861944444
     model: HTC One S
-    sizes:
-      640w: { height: 361, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
     make: HTC
   48a04c1:
     aperture: f/2.0
@@ -79,10 +59,6 @@ photos:
     exposure: 570/1000000
     file: IMAG0753
     model: HTC One S
-    sizes:
-      640w: { height: 361, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
     make: HTC
   e6bba51:
     aperture: f/2.0
@@ -93,10 +69,6 @@ photos:
       latitude: 56.063465111111
       longitude: -3.1956093055556
     model: HTC One S
-    sizes:
-      640w: { height: 361, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
     make: HTC
   0492706:
     aperture: f/2.0
@@ -107,10 +79,6 @@ photos:
       latitude: 56.253021222222
       longitude: -3.14113925
     model: HTC One S
-    sizes:
-      640w: { height: 361, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
     make: HTC
   5778593:
     aperture: f/2.0
@@ -121,10 +89,6 @@ photos:
       latitude: 56.24360275
       longitude: -3.1428639722222
     model: HTC One S
-    sizes:
-      640w: { height: 361, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
     make: HTC
   d4b3d57:
     aperture: f/2.0
@@ -135,10 +99,6 @@ photos:
       latitude: 56.297859166667
       longitude: -3.1359820277778
     model: HTC One S
-    sizes:
-      640w: { height: 361, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
     make: HTC
   43d49b1:
     aperture: f/2.0
@@ -149,10 +109,6 @@ photos:
       latitude: 56.324962611111
       longitude: -2.9767050277778
     model: HTC One S
-    sizes:
-      640w: { height: 361, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
     make: HTC
   056d9e8:
     aperture: f/2.0
@@ -160,10 +116,6 @@ photos:
     exposure: 2131/1000000
     file: IMAG0804
     model: HTC One S
-    sizes:
-      640w: { height: 361, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
     make: HTC
   7939955:
     aperture: f/2.0
@@ -171,10 +123,6 @@ photos:
     exposure: 1997/1000000
     file: IMAG0805
     model: HTC One S
-    sizes:
-      640w: { height: 361, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
     make: HTC
   a299d7a:
     aperture: f/2.0
@@ -185,10 +133,6 @@ photos:
       latitude: 56.077747333333
       longitude: -3.1646559166667
     model: HTC One S
-    sizes:
-      640w: { height: 361, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
     make: HTC
   c1282dc:
     aperture: f/2.0
@@ -196,10 +140,6 @@ photos:
     exposure: 627/1000000
     file: IMAG0809
     model: HTC One S
-    sizes:
-      640w: { height: 361, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
     make: HTC
   be138f3:
     aperture: f/2.0
@@ -207,10 +147,6 @@ photos:
     exposure: 475/1000000
     file: IMAG0813
     model: HTC One S
-    sizes:
-      640w: { height: 361, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
     make: HTC
   d1e2e9c:
     aperture: f/2.0
@@ -221,10 +157,6 @@ photos:
       latitude: 56.008342722222
       longitude: -3.3923931111111
     model: HTC One S
-    sizes:
-      640w: { height: 361, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
     make: HTC
   ee2c537:
     aperture: f/2.0
@@ -235,8 +167,4 @@ photos:
       latitude: 56.005619027778
       longitude: -3.3910098055556
     model: HTC One S
-    sizes:
-      640w: { height: 361, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
     make: HTC

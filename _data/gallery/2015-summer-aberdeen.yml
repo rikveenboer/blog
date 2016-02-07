@@ -1,25 +1,17 @@
-title: "Summer: Aberdeen"
+title: Summer - Aberdeen
 date: 2015-07-18
 photos:
   fa4baea:
     date: 2015-07-18 11:38:35
     file: IMG_20150718_113835
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
   942a1bb:
     aperture: f/2.0
     date: 2015-07-18 12:05:04
     exposure: 1/560
     file: IMG_20150718_120502
     model: One A0001
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: OnePlus
   6fd482a:
     aperture: f/2.0
@@ -27,49 +19,29 @@ photos:
     exposure: 1/1500
     file: IMG_20150718_121424
     model: One A0001
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: OnePlus
   28f9814:
     date: 2015-07-18 12:49:51
     file: IMG_20150718_124950
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
   d85ad53:
     aperture: f/2.0
     date: 2015-07-18 13:13:40
     exposure: 1/20
     file: IMG_20150718_131337
     model: One A0001
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: OnePlus
   f5435e7:
     date: 2015-07-18 13:14:23
     file: IMG_20150718_131423
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
   b9684a8:
     aperture: f/2.0
     date: 2015-07-18 14:02:58
     exposure: 1/1800
     file: IMG_20150718_140256
     model: One A0001
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: OnePlus

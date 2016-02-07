@@ -41,14 +41,3 @@ function fractionToFloat($sFraction) {
             : $aParts[0])
         : 0;
 }
-
-function ksort_recursive(&$aArray, $mSortFlags = SORT_REGULAR) {
-    if (!is_array($aArray)) {
-        return false;
-    }
-    foreach ($aArray as &$aSubarray) {
-        ksort_recursive($aSubarray, $mSortFlags);
-    }
-    ksort($aArray, $mSortFlags);
-    return true;
-}

@@ -1,4 +1,4 @@
-title: "Seat Ibiza to Scrap"
+title: Seat Ibiza to Scrap
 date: 2016-01-19
 map:
   latitude: 56.330415333333
@@ -14,11 +14,7 @@ photos:
       latitude: 56.330436666667
       longitude: -2.80995
     model: One A0001
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: OnePlus
   eea3ae1:
     aperture: f/2.0
@@ -29,11 +25,7 @@ photos:
       latitude: 56.330375
       longitude: -2.809805
     model: One A0001
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: OnePlus
   e5811cb:
     aperture: f/2.0
@@ -44,11 +36,7 @@ photos:
       latitude: 56.330395
       longitude: -2.80973
     model: One A0001
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: OnePlus
   924e739:
     aperture: f/2.0
@@ -59,11 +47,7 @@ photos:
       latitude: 56.33041
       longitude: -2.8097866666667
     model: One A0001
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: OnePlus
   f3b37f7:
     aperture: f/2.0
@@ -74,9 +58,5 @@ photos:
       latitude: 56.33046
       longitude: -2.8097483333333
     model: One A0001
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 360, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920
     make: OnePlus
