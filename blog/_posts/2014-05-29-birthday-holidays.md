@@ -1,6 +1,7 @@
 ---
 title: Birthday Holidays
 end_date: 2014-06-02
+description: Onze verjaardag vieren in Nederland.
 ---
 [1]: {% post_baseurl 2014-12-20-christmas-holidays %} "Christmas holidays"
 [2]: {% post_baseurl 2014-04-10-london %} "London"

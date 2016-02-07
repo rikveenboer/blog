@@ -1,5 +1,6 @@
 ---
-title: 60 hour film blitz screening
+title: 60 Hour Film Blitz Screening
+description: Vertoning en prijzenceremonie van de film blitz.
 ---
 [1]: http://www.60hourfilmblitz.com/
 [2]: {% post_baseurl 2014-03-15-week-10 %} "Week 10"

@@ -1,8 +1,9 @@
 ---
 title: Half Marathon
+description: Een serieuze training voor de geplande wedstrijd.
 ---
 [1]: http://www.halfmarathonlist.co.uk/dundee-half-marathon.php
-[2]: ?ai1ec_event=international-dinner
+[2]: {% post_baseurl 2015-02-21-international-dinner %}
 [3]: http://www.mapmyrun.com/routes/view/637865160
 
 Met diverse collega's hebben we ons al doel gesteld om op 12 juli de [Dundee Half Marathon][1] te lopen. Diverse trainingsschema's raden me aan om zo'n vier maanden van tevoren te beginnen met trainen, maar om niet al te lui te worden probeer ik continu sportief bezig te blijven.

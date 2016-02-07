@@ -1,5 +1,6 @@
 ---
 title: Thursday Drinks
+description: Diverse gelegenheden voor een drankje.
 ---
 [1]: http://www.tripadvisor.co.uk/Restaurant_Review-g186533-d2460724-Reviews-Criterion_Public_House-St_Andrews_Fife_Scotland.html
 [2]: {% post_baseurl 2015-03-26-special-whisky-tasting %}

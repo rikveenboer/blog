@@ -1,5 +1,6 @@
 ---
-title: José birthday BBQ
+title: José Birthday BBQ
+description: Barbecuen ter ere van een Spaanse collega.
 ---
 Mooi weer in Schotland is niet vanzelfsprekend, dus als het een dag goed is maken we daar graag optimaal gebruik van. Zaterdag is Spaanse collega (postdoc) José jarig en om geen zomers uur verloren te laten gaan vieren we dat al vanaf vrijdagmiddag na het werk met een barbecue!
 

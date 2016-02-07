@@ -1,18 +1,19 @@
 ---
-title: Whisky tasting
+title: Whisky Tasting
+description: Een tasting van whiskies van anCnoc.
 ---
 [1]: http://www.masterofmalt.com/whiskies/knockdhu/ancnoc-rutter-whisky/
 [2]: http://www.masterofmalt.com/whiskies/knockdhu/ancnoc-flaughter-whisky/
 [3]: http://www.masterofmalt.com/whiskies/knockdhu/ancnoc-cutter-whisky/
 [4]: http://www.whiskyforeveryone.com/whisky_basics/influence_of_peat.html
 
-Deze whisky tasting werd gepresenteerd door de overkopelende "Inver House Distillers". Op het programma stonden diverse whiskies van anCnoc:
+Deze whisky tasting werd gepresenteerd door de overkoepelende "Inver House Distillers". Op het programma stonden diverse whiskies van anCnoc:
 
-  * anCnoc (12yo)
-  * anCnoc 2000
-  * [Rutter][1]
-  * [Flaughter][2]
-  * [Cutter][3]
+- anCnoc (12yo)
+- anCnoc 2000
+- [Rutter][1]
+- [Flaughter][2]
+- [Cutter][3]
 
 Als onderdeel van de achtergrondinformatie kregen we te horen dat de distilleerderij vroeger Knockdhu heette, maar beide namen verwijzen naar de berg waarop deze staat. Schotland is opgedeeld in diverse karakteristieke whisky regio's en deze distilleerderij behoort officiëel tot de highland regio. In de praktijk ligt deze echter praktisch in de Speyside regio en de unieke eigenschappen van deze regio kwamen tijdens de tasting duidelijk naar voren.
 

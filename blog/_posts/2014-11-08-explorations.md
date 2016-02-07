@@ -1,5 +1,6 @@
 ---
 title: Explorations (2)
+description: Na een jaar ben ik nog steds niet uitverkend.
 ---
 [1]: http://oneplus.net/
 [2]: http://www.raf.mod.uk/rafleuchars/

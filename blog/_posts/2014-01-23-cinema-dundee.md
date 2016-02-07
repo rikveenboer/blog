@@ -1,5 +1,6 @@
 ---
 title: Cinema Dundee
+description: Een eerste bezoek aan de grote bioscoop in Dundee.
 ---
 [1]: http://www.imdb.com/title/tt0993846
 [2]: http://www.imdb.com/title/tt0993846/

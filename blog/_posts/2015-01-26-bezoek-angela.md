@@ -1,5 +1,6 @@
 ---
 title: Bezoek Angela
+description: Gezellige activiteiten met Angela en Peeter vanuit Stockholm.
 ---
 [1]: {% post_baseurl 2014-02-08-internationals-trip %} "Internationals trip"
 [2]: http://www.imdb.com/title/tt2788710/

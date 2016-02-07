@@ -1,5 +1,6 @@
 ---
 title: Anstruther
+description: Een bezoek aan een nabijgelegen vissersdorp.
 ---
 [1]: {% post_baseurl 2014-03-23-crail %} "Crail"
 [2]: http://www.anstrutherfishbar.co.uk/

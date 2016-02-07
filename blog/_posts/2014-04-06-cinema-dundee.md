@@ -1,5 +1,6 @@
 ---
 title: Cinema Dundee
+description: Een dag in Dundee en omstreken afsluiten in de bioscoop.
 ---
 [1]: http://www.tkmaxx.com/
 [2]: http://www.imdb.com/title/tt1843866/

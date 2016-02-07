@@ -1,5 +1,6 @@
 ---
 title: Goodbye Jan
+description: Afscheid van een masterstudent.
 ---
 [1]: http://www.tripadvisor.co.uk/Restaurant_Review-g186533-d2637486-Reviews-Rascals_Bar_St_Andrews-St_Andrews_Fife_Scotland.html
 [2]: http://www.vicstandrews.co.uk/

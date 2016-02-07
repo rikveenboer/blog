@@ -1,5 +1,6 @@
 ---
 title: Goodbye Yusuke
+description: Afscheid van een Japanse collega.
 end_date: 2014-03-19
 ---
 [1]: http://www.imdb.com/title/tt0103064/

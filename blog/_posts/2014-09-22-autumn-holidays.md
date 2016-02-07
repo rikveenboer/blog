@@ -1,6 +1,7 @@
 ---
 title: Autumn Holidays
 end_date: 2014-09-27
+description: Een fantastisch grootse reis door Schotland.
 ---
 [1]: http://www.zizzi.co.uk/venue/index/st-andrews
 [2]: http://www.blair-castle.co.uk/

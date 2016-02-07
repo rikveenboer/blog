@@ -20,15 +20,15 @@ description: Een grootste afsluiting van het whisky seizoen.
 Vanavond was de laatste whisky tasting van het seizoen en het mag gerust een fantastische finale genoemd worden! Op het programma stonden maar liefst zeven whiskies van drie distilleerderijen:
 
 * BenRiach (Speyside) 
-  * [10 yo (43%, £31)][1]
-  * [Port Finish 15 yo (46%, £51)][2]
-  * [Curiositas 15 yo (40%, £30)][3]
+ - [10 yo (43%, £31)][1]
+ - [Port Finish 15 yo (46%, £51)][2]
+ - [Curiositas 15 yo (40%, £30)][3]
 * GlenDronach (Speyside) 
-  * [12 yo (43%, £36)][4]
-  * [18 yo (46%, £59)][5]
+ - [12 yo (43%, £36)][4]
+ - [18 yo (46%, £59)][5]
 * Glenglassaugh (Highland) 
-  * [Evolution (57%, £57)][6]
-  * [Torfa (50%, £40)][7]
+ - [Evolution (57%, £57)][6]
+ - [Torfa (50%, £40)][7]
 
 Het is erg leuk om BenRiach op een tasting tegen te komen, want deze distilleerderij is nogal memorabel. Op mijn allereerste avond in St Andrews liet mijn toenmalige huisbaas me  proeven. Dat was m'n eerste single malt en hoewel ik toen nog amper ervaring met whisky had, was het een zeer aangename introductie. Meer recent heeft Bram de  aangeschaft en omdat we die bij een van m'n bezoeken in Nederland hebben gedronken is dat ook zeker het vermelden waard.
 

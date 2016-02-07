@@ -1,5 +1,6 @@
 ---
-title: Huisfeest
+title: House Party
+description: Feest bij een collega thuis.
 ---
 [1]: http://nl.wikipedia.org/wiki/Feuerzangenbowle
 

@@ -1,5 +1,6 @@
 ---
 title: St Andrews
+description: Een verkenning van mijn nieuwe thuisbasis.
 ---
 [1]: {% post_baseurl 2013-12-08-visit-school-of-chemistry %} "Visit School of Chemistry"
 

@@ -1,5 +1,6 @@
 ---
 title: Goodbye Julie
+description: Afscheid van een Franse collega.
 ---
 [1]: http://www.cellarbar.co.uk/
 

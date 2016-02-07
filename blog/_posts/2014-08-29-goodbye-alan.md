@@ -1,5 +1,6 @@
 ---
 title: Goodbye Alan
+description: Afscheid van een Franse collega.
 ---
 [1]: http://www.tripadvisor.co.uk/ShowUserReviews-g186533-d2214248-r130217145-Balgove_Larder-St_Andrews_Fife_Scotland.html
 [2]: http://www.tripadvisor.co.uk/Restaurant_Review-g186533-d1952973-Reviews-The_Tailend_Restaurant_and_Fish_Bar-St_Andrews_Fife_Scotland.html

@@ -1,6 +1,7 @@
 ---
 title: Summer Holidays
 end_date: 2015-08-25
+description: Zomervakantie in Nederland.
 ---
 Eind augustus ben ik weer naar Uitgeest gegaan voor zomervakantie!
 

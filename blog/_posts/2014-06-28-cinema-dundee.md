@@ -1,5 +1,6 @@
 ---
 title: Cinema Dundee
+description: Een dubbel filmbezoek bij de bioscoop in Dundee.
 ---
 [1]: http://www.imdb.com/title/tt1646971/
 [2]: http://www.imdb.com/title/tt0892769/

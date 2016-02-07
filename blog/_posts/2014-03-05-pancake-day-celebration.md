@@ -1,5 +1,6 @@
 ---
-title: Pancake Day celebration
+title: Pancake Day Celebration
+description: Er is maar één diner mogelijk op de dag van de pannekoek.
 ---
 [1]: https://www.facebook.com/events/553355691438417
 [2]: {% post_baseurl 2013-11-23-internationals-trip %} "Internationals trip"

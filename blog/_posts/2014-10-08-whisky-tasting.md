@@ -1,5 +1,6 @@
 ---
 title: Whisky Tasting
+description: Sterke whisky uit een favoriete streek.
 ---
 [1]: http://www.maltmadness.com/whisky/map/Scotland/index.html
 [2]: http://www.maltmadness.com/whisky/glen-keith.html

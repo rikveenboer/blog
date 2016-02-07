@@ -1,5 +1,6 @@
 ---
 title: Goodbye Hubert
+description: Afscheid van een Franse collega.
 ---
 [1]: http://www.bluestane-standrews.co.uk/ "Blue Stane"
 

@@ -1,5 +1,6 @@
 ---
-title: Whisky tasting
+title: Whisky Tasting
+description: Goede whisky van Compass Box.
 ---
 [1]: http://www.compassboxwhisky.com/
 [2]: http://www.masterofmalt.com/whiskies/compass-box-hedonism-whisky/
@@ -12,12 +13,12 @@ title: Whisky tasting
 
 Deze merkwaardige tasting werd verzorgd door [Compass Box][1], compleet met opmerkelijke presentator. Allereerst de geproefde whiskies, allen voorzien van opvallende namen:
 
-  * [Hedonism][2]
-  * [Great King Street Artist's Blend][3]
-  * [Great King Street Glasglow Blend][4]
-  * [Spice Tree][5]
-  * [Peat Monster][6]
-  * [The Lost Blend][7]
+ - [Hedonism][2]
+ - [Great King Street Artist's Blend][3]
+ - [Great King Street Glasglow Blend][4]
+ - [Spice Tree][5]
+ - [Peat Monster][6]
+ - [The Lost Blend][7]
 
 Een unikum was dat we eerst een whisky cocktail kregen om de toon te zetten. Deze was gebaseerd op de "Great King Street Artist's Blend" en voorzien van een extra speciale cocktailkers, maar wat er behalve dit en vermouth nog meer in zat kan ik me niet precies herinneren. De liefhebber kan dit drankje vast terugvinden in de speciale [bijlage][8].
 

@@ -1,5 +1,6 @@
 ---
-title: Whisky tasting
+title: Whisky Tasting
+description: Een onafhankelijke botterlaar brengt heerlijke whisky.
 ---
 [1]: http://www.douglaslaing.com/full-range.php?DOC_INST=3
 [2]: {% post_baseurl 2014-02-06-whisky-tasting %} "Whisky tasting"
@@ -13,8 +14,6 @@ Twee weken geleden was de whisky tasting in St Andrews verruild voor een eveneme
 - *Director's Cut* Glen Ord (21yo, £122)
 - *Clan Denny* Invergordon (26yo, £84)
 - *Big Peat* (blend, £34)
-
-
 
 Voor deze keer heb ik extra metadata toegevoegd: de serie in cursief, tussen haakjes de leeftijd en prijs en zelfs afbeeldingen van de flessen:
 

@@ -1,5 +1,6 @@
 ---
-title: Netherlands &#8211; Spain
+title: Netherlands - Spain
+description: Een indrukwekkende wedstrijd stelt Spaanse collega's teleur.
 ---
 [1]: http://www.the-rule.co.uk/the-rule/home/the-rule-pub-diner.html
 [2]: http://www.bluestane-standrews.co.uk/

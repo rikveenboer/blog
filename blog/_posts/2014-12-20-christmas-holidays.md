@@ -1,8 +1,9 @@
 ---
 title: Christmas Holidays
 end_date: 2015-01-04
+description: Na omzwervingen, kerstvakantie in Nederland.
 ---
-[1]: http://csbnw.no-ip.org:38/?p=2103 "Genève"
+[1]: {% post_baseurl 2014-12-20-geneve %} "Genève"
 
 De kerst en oud en nieuw vakantie heb ik dit jaar in Nederland gevierd!
 

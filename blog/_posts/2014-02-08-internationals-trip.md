@@ -1,7 +1,8 @@
 ---
-title: Internationals trip
+title: Internationals Trip
+description: Een gevarieerde trip naar Pitlochery en omgeving.
 ---
-[1]: /?ai1ec_event=internationals-trip-2&instance_id= "Internationals trip"
+[1]: {% post_baseurl 2013-11-23-internationals-trip %} "Internationals trip"
 [2]: http://www.blairatholl.org.uk/
 [3]: http://www.heathergems.com/
 [4]: http://www.houseofbruar.com/

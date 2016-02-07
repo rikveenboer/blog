@@ -1,5 +1,6 @@
 ---
-title: FilmSoc &#8211; Deep Red
+title: FilmSoc - Deep Red
+description: De vertoning van een klassieke film.
 ---
 [1]: http://www.imdb.com/title/tt0073582/
 [2]: http://www.imdb.com/title/tt0081505

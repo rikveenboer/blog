@@ -1,5 +1,6 @@
 ---
-title: Christmas lunch
+title: Christmas Lunch
+description: Met de onderzoeksgroep genieten van een luxe kerstlunch.
 ---
 [1]: http://dollshousestandrews.co.uk/
 [2]: http://www.forgansstandrews.co.uk/

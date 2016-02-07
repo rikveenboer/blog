@@ -1,5 +1,6 @@
 ---
-title: Whisky tasting
+title: Whisky Tasting
+description: Een tasting van Benromach whisky.
 ---
 [1]: http://www.tripadvisor.co.uk/Restaurant_Review-g186533-d2637486-Reviews-Rascals_Bar_St_Andrews-St_Andrews_Fife_Scotland.html
 [2]: http://www.benromach.com/
@@ -9,12 +10,12 @@ Voor deze tasting hebben we een burger gegeten bij [Rascals Bar][1], een prima p
 
 De tasting werd verzorgd door Gordon & MacPhail. Deze onafhankelijke bottelaar is gehuisvest vlakbij Elgin in Speyside, de "whiskyhoofdstreek" van Schotland. Dit bedrijf runt ook de [Benromach][2] distilleerderij en daarvan kregen we zes whiskies te proeven:
 
-  * Organic
-  * 10 Year Old
-  * Cask Strength
-  * Origins Batch 4
-  * Origins Batch 5
-  * Peat Smoke
+- Organic
+- 10 Year Old
+- Cask Strength
+- Origins Batch 4
+- Origins Batch 5
+- Peat Smoke
 
 Deze verzameling laat opnieuw zien hoe divers de producten van een enkele distileerderij kunnen zijn. De Organic editie is net als in de [vorige tasting][3] een lokaal product met gerst van eigen veld. In deze fraaie whisky gerijpt in nieuwe vaten voert een amandelachtige smaak de plezierige boventoon. De 10 jaar oude editie is de meest gangbare whisky en smaakt direct vertrouwd. Met een beetje goede wil zijn de proefnotities te herkennen: tropisch fruit (afkomstig uit het cherry vat) en iets rokerig. Interessant is ook de uitleg over het branden van de binnenkant van de vaten. Dit geeft de whisky tijdens het rijpen een zwavelachtig smaakje en extra diepgang doordat de oliën uit het hout karamelliseren.
 

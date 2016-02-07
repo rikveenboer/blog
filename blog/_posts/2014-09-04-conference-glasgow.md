@@ -1,6 +1,7 @@
 ---
 title: Conference Glasgow
 end_date: 2014-09-06
+description: Een kleinschalig congres in Glasgow.
 ---
 [1]: http://www2.chem.gla.ac.uk/usic2014/index.php?page=information
 [2]: http://www.scottish-places.info/features/featurefirst1120.html

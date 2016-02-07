@@ -1,5 +1,6 @@
 ---
 title: Special Whisky Tasting
+description: Onze eerste zelfgeorganiseerde privé whisky tasting.
 ---
 [1]: https://www.masterofmalt.com/whiskies/scotch-whisky/single-malt-whisky/glenfiddich/rich-oak-whisky/
 [2]: https://www.masterofmalt.com/whiskies/compass-box/compass-box-great-king-street-glasgow-blend-whisky/

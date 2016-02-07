@@ -1,10 +1,11 @@
 ---
-title: Whisky tasting
+title: Whisky Tasting
+description: Een zeer uitgebreide tasting.
 ---
 [1]: http://www.morrisonbowmore.co.uk/
 [2]: {% post_baseurl 2014-02-06-whisky-tasting %} "Whisky tasting"
 
-De meest uitgebreide tasting dtot nu toe, met maar liefst zeven whiskies van drie verschillende distilleerderijen. Allen behorend tot de [Morrison Bowmore Distillers][1]:
+De meest uitgebreide tasting tot nu toe, met maar liefst zeven whiskies van drie verschillende distilleerderijen. Allen behorend tot de [Morrison Bowmore Distillers][1]:
 
 - Auchentoshan (12 year)
 - Auchentoshan: Three Wood

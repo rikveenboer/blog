@@ -1,5 +1,6 @@
 ---
 title: Muddy Explorations
+description: Al rennend op verkenning in de omgeving.
 ---
 [1]: {% post_baseurl 2015-02-22-half-marathon %}
 [2]: http://www.mapmyrun.com/routes/view/641755644
@@ -14,4 +15,4 @@ Het leek mij saai om via dezelfde weg te berg af te dalen en ik dacht via een om
 
 Op deze manier is zo'n ronde hardlopen gelijke delen rennen, exploreren en modderen, maar de hele tijd enjoyen. Toen ik weer op de goede weg uitkwam was het nog zo'n 6 kilometer terug naar huis. Om niet alleen maar langs de weg te hoeven lopen heb ik opnieuw een pad (dit keer droog) langs de vertakkende Cairnsmill Burn gekozen. Al met al was deze ronde toch minstens 16 kilometer!
 
-Het is duidelijk dat ik me verkennend niet snel verveel en ook langere afstanden met plezier loop. Ik was zo'n 1 uur en 40 minuten onderweg en heb daarnaast nog zo'n 10 minuten gestopt om van het uitzicht te genieten. Laat ik me binnenkort op wat serieuzere trainingen richten!
+Het is duidelijk dat ik me verkennend niet snel verveel en ook langere afstanden met plezier loop. Ik was zo'n 1 uur en 40 minuten onderweg en heb daarnaast nog zo'n 10 minuten gestopt om van het uitzicht te genieten. Laat ik me binnenkort op wat meer serieuze trainingen richten!

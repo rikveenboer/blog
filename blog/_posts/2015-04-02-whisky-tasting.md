@@ -1,6 +1,6 @@
 ---
 title: Whisky Tasting
-description: 
+description: Een selectie whiskies uit de Old Malt Cask serie.
 ---
 [1]: {% post_baseurl 2014-11-06-whisky-tasting %}
 [2]: http://www.hunterlaing.com/brands/old-malt-cask/

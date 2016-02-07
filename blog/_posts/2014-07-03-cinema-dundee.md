@@ -1,5 +1,6 @@
 ---
 title: Cinema Dundee
+description: In mijn eigen auto rijden om een film te bekijken over een voedselwagen.
 ---
 [1]: http://www.imdb.com/title/tt2883512/
 

@@ -1,8 +1,9 @@
 ---
 title: Lazy Friday
+description: Diverse zaken leiden af van het normale werk.
 ---
 [1]: http://www.dayofhappiness.net/
-[2]: https://www.facebook.com/uniofsta/photos/a.194383547354754.41809.194382270688215/668268446632926/?type=1
+[2]: https://www.facebook.com/uniofsta/photos/a.194383547354754.41809.194382270688215/668268446632926/
 [3]: http://theadamson.com/
 
 De astronomische lente begint eigenlijk pas laat op de vrijdagavond, maar omdat het deze vrijdag kennelijk ook de [internationale dag van de blijheid][1] is, zijn we daar op het werk vast op vooruitgelopen. Want van werken kwam vandaag weinig terecht! Gelukkig was de professor er vandaag niet...

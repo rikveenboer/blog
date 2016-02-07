@@ -1,5 +1,6 @@
 ---
 title: Ski Glenshee
+description: Wintersport in Schotland als dagtocht.
 ---
 [1]: /asset/Glenshee-Map-2011.pdf
 

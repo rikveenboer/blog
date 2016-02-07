@@ -1,5 +1,6 @@
 ---
 title: Cinema Dundee
+description: Twee films met twee collega's.
 ---
 [1]: http://www.imdb.com/title/tt2278388/
 [2]: http://www.imdb.com/title/tt0816442/

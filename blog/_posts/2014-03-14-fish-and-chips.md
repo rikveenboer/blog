@@ -1,5 +1,6 @@
 ---
-title: Fish and chips
+title: Fish and Chips
+description: Wie vis zegt, moet ook friet zeggen.
 ---
 [1]: http://www.standrewsfishandchips.com/
 

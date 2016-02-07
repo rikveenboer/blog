@@ -1,5 +1,6 @@
 ---
 title: Basketball
+description: Sportief met collega's basketballen.
 ---
 [1]: {% post_baseurl 2014-10-05-sports %} "Sports (2)"
 

@@ -10,11 +10,11 @@ Dit weekend stond in het teken van de [Braids hill race][1] in Edinburgh. Ik heb
 
 <a name="more"></a>
 
-  * de eerste twee 1700 meter bestaat uit een helling van zo'n 80 meter, zwaar!
-  * vanaf de top van de berg probeert een fantastisch uitzicht de concentratie te verstoren, wauw!
-  * vanaf de top daalt het 50 meter in slechts 500 meter, stijl!
-  * de rest van de route kronkelt glooiend over modderige paden, snel!
-  * het was zeer modderig, lekker door plassen stampen!
+ - de eerste twee 1700 meter bestaat uit een helling van zo'n 80 meter, zwaar!
+ - vanaf de top van de berg probeert een fantastisch uitzicht de concentratie te verstoren, wauw!
+ - vanaf de top daalt het 50 meter in slechts 500 meter, stijl!
+ - de rest van de route kronkelt glooiend over modderige paden, snel!
+ - het was zeer modderig, lekker door plassen stampen!
 
 Het was goed dat ik op de grip van mijn trail schoenen kon vertrouwen. Tijdens de eerste ronde probeerde ik mijn voeten droog te houden door zoveel mogelijk om de plassen en de diepste modder heen te rennen. De tweede ronde was ik dat zat en ben ik voor de hele ervaring als een ware baggeraar overal recht doorheen gestampt. Een sprong met aanloop in een diepe plas vlak voor de finish en een eindsprint tegen een mederenner uit Glasgow complementeerden de race. Bekijk mijn opname op [polar flow][2]. Daaruit blijkt dat het eigenlijk slechts 9.3 kilometer was, maar wat mij betreft nog steeds goed op snelheid.
 

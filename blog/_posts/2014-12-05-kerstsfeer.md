@@ -1,5 +1,6 @@
 ---
 title: Christmas Atmosphere
+description: De naderende kerst is bijna voelbaar.
 ---
 [1]: {% post_baseurl 2014-12-04-christmas-lunch %} "Christmas Lunch"
 [2]: {% post_baseurl 2014-12-04-whisky-tasting %} "Whisky Tasting"

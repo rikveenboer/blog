@@ -1,5 +1,6 @@
 ---
-title: International dinner
+title: International Dinner
+description: Met collega's smullen van elkaars kookkunsten.
 ---
 [1]: {% post_baseurl 2014-02-21-internationals-dinner %}
 
