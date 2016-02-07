@@ -8,50 +8,30 @@ photos:
   0eb2b01:
     date: 2014-12-21 11:37:37
     file: IMG_20141221_113736
-    sizes:
-      640w: { height: 475, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
   21fef3d:
     date: 2014-12-21 11:43:43
     file: IMG_20141221_114342
     location:
       latitude: 46.201374027778
       longitude: 6.1471810277778
-    sizes:
-      640w: { height: 475, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
   ac1d5cc:
     date: 2014-12-21 11:46:14
     file: IMG_20141221_114614
     location:
       latitude: 46.203796361111
       longitude: 6.1446041944444
-    sizes:
-      640w: { height: 475, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
   7e54fbf:
     date: 2014-12-21 11:47:57
     file: IMG_20141221_114756
     location:
       latitude: 46.203796361111
       longitude: 6.1446041944444
-    sizes:
-      640w: { height: 475, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
   1ff829a:
     date: 2014-12-21 11:49:13
     file: IMG_20141221_114912
     location:
       latitude: 46.198925
       longitude: 6.1434969722222
-    sizes:
-      640w: { height: 475, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
   be6e331:
     date: 2014-12-21 11:49:37
     file: IMG_20141221_114936
@@ -68,40 +48,24 @@ photos:
     location:
       latitude: 46.201541888889
       longitude: 6.1470851666667
-    sizes:
-      640w: { height: 475, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
   a421a44:
     date: 2014-12-21 11:53:31
     file: IMG_20141221_115330
     location:
       latitude: 46.201541888889
       longitude: 6.1470851666667
-    sizes:
-      640w: { height: 475, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
   733849f:
     date: 2014-12-21 11:53:47
     file: IMG_20141221_115347
     location:
       latitude: 46.201541888889
       longitude: 6.1470851666667
-    sizes:
-      640w: { height: 475, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
   c356e5e:
     date: 2014-12-21 11:53:57
     file: IMG_20141221_115356
     location:
       latitude: 46.201541888889
       longitude: 6.1470851666667
-    sizes:
-      640w: { height: 475, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
   7d4f4c7:
     date: 2014-12-21 11:55:09
     file: IMG_20141221_115509
@@ -128,10 +92,6 @@ photos:
     location:
       latitude: 46.201538083333
       longitude: 6.1467084722222
-    sizes:
-      640w: { height: 475, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
   de97857:
     date: 2014-12-21 11:59:10
     file: IMG_20141221_115909

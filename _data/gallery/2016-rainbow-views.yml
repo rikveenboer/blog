@@ -4,6 +4,7 @@ map:
   latitude: 56.340732092587
   longitude: -2.8113284907407
   zoom: 8
+ignore: true
 photos:
   0e7b849:
     altitude: 87

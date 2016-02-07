@@ -11,20 +11,12 @@ photos:
     location:
       latitude: 56.330341333333
       longitude: -2.8101536944444
-    sizes:
-      640w: { height: 475, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
   4e9ce9c:
     date: 2015-04-11 15:16:39
     file: IMG_20150411_151639
     location:
       latitude: 56.330341333333
       longitude: -2.8101510833333
-    sizes:
-      640w: { height: 475, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
   dbbd593:
     date: 2015-04-11 15:27:29
     file: IMG_20150411_152728

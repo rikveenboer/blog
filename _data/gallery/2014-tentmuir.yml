@@ -14,10 +14,6 @@ photos:
       latitude: 56.406906111111
       longitude: -2.8176874722222
     model: A0001
-    sizes:
-      640w: { height: 475, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
     make: ONEPLUS
   f646f54:
     aperture: f/2.0
@@ -38,10 +34,6 @@ photos:
     exposure: 1/4836
     file: 20141101_145721_HDR
     model: A0001
-    sizes:
-      640w: { height: 475, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
     make: ONEPLUS
   ef1167e:
     aperture: f/2.0
@@ -52,10 +44,6 @@ photos:
       latitude: 56.406894666667
       longitude: -2.8068923888889
     model: A0001
-    sizes:
-      640w: { height: 475, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
     make: ONEPLUS
   3ffd76b:
     date: 2014-11-01 15:02:01
@@ -78,10 +66,6 @@ photos:
       latitude: 56.406723
       longitude: -2.8170838611111
     model: A0001
-    sizes:
-      640w: { height: 475, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
     make: ONEPLUS
   797d6e1:
     date: 2014-11-01 15:16:58

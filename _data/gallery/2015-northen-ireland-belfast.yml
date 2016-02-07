@@ -93,10 +93,6 @@ photos:
     exposure: 1/1000
     file: IMG_20150815_121414
     model: One A0001
-    sizes:
-      640w: { height: 475, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
     make: OnePlus
   11e4bd1:
     aperture: f/2.0
@@ -166,10 +162,6 @@ photos:
     exposure: 1/17
     file: IMG_20150815_142651
     model: One A0001
-    sizes:
-      640w: { height: 475, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
     make: OnePlus
   9b828a3:
     aperture: f/2.0

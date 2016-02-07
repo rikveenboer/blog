@@ -1,6 +1,7 @@
 title: Christmas Holidays
 date: 2015-12-25
 end_date: 2016-01-01
+highlight: 0093145
 photos:
   9cc92e4:
     aperture: f/2.0
@@ -16,24 +17,12 @@ photos:
   378a0ec:
     date: 2014-12-23 18:52:06
     file: IMG_20141223_185205
-    sizes:
-      640w: { height: 475, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
   8a523c0:
     date: 2014-12-23 18:52:16
     file: IMG_20141223_185215
-    sizes:
-      640w: { height: 475, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
   b90b43c:
     date: 2014-12-23 19:16:33
     file: IMG_20141223_191633
-    sizes:
-      640w: { height: 475, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
   1c8232d:
     aperture: f/2.4
     date: 2014-12-25 19:11:53
