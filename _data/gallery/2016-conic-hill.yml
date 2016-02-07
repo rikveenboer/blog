@@ -1,0 +1,451 @@
+title: Conic Hill
+date: 2016-02-06
+map:
+  latitude: 56.093775095238
+  longitude: -4.5329514761905
+  zoom: 8
+photos:
+  d280e58:
+    altitude: 385
+    aperture: f/2.0
+    date: 2016-02-06 12:52:22
+    direction: 169
+    exposure: 1/150
+    file: IMG_20160206_125219
+    latitude: 56.097073333333
+    longitude: -4.5269983333333
+    make: OnePlus
+    model: One A0001
+    width: 1920
+  d1a75ca:
+    altitude: 375
+    aperture: f/2.0
+    date: 2016-02-06 12:52:33
+    direction: 224
+    exposure: 1/120
+    file: IMG_20160206_125231
+    latitude: 56.097053333333
+    longitude: -4.5270266666667
+    make: OnePlus
+    model: One A0001
+    width: 1920
+  31f90ad:
+    altitude: 372
+    aperture: f/2.0
+    date: 2016-02-06 12:52:42
+    direction: 328
+    exposure: 1/120
+    file: IMG_20160206_125239
+    latitude: 56.097026666667
+    longitude: -4.527035
+    make: OnePlus
+    model: One A0001
+    width: 1920
+  6045d08:
+    altitude: 373
+    aperture: f/2.0
+    date: 2016-02-06 12:52:49
+    direction: 279
+    exposure: 1/120
+    file: IMG_20160206_125247
+    latitude: 56.097008333333
+    longitude: -4.5270433333333
+    make: OnePlus
+    model: One A0001
+    width: 1920
+  3cd78a5:
+    altitude: 371
+    aperture: f/2.0
+    date: 2016-02-06 12:53:12
+    direction: 226
+    exposure: 1/120
+    file: IMG_20160206_125309
+    latitude: 56.09718
+    longitude: -4.52691
+    make: OnePlus
+    model: One A0001
+    width: 1920
+  bf88ec6:
+    altitude: 374
+    aperture: f/2.0
+    date: 2016-02-06 12:53:36
+    direction: 294
+    exposure: 1/120
+    file: IMG_20160206_125334
+    latitude: 56.097301666667
+    longitude: -4.526525
+    make: OnePlus
+    model: One A0001
+    width: 1920
+  c57134f:
+    altitude: 375
+    aperture: f/2.0
+    date: 2016-02-06 12:53:52
+    direction: 206
+    exposure: 1/120
+    file: IMG_20160206_125350
+    latitude: 56.097236666667
+    longitude: -4.5265366666667
+    make: OnePlus
+    model: One A0001
+    width: 1920
+  dd427df:
+    altitude: 373
+    aperture: f/2.0
+    date: 2016-02-06 12:54:17
+    direction: 147
+    exposure: 1/125
+    file: IMG_20160206_125414
+    latitude: 56.097053333333
+    longitude: -4.5269433333333
+    make: OnePlus
+    model: One A0001
+    width: 1920
+  8ac269a:
+    altitude: 395
+    aperture: f/2.0
+    date: 2016-02-06 13:09:41
+    direction: 92
+    exposure: 1/120
+    file: IMG_20160206_130939
+    latitude: 56.096881666667
+    longitude: -4.525275
+    make: OnePlus
+    model: One A0001
+    width: 1920
+  8b0745b:
+    aperture: f/2.0
+    date: 2016-02-06 13:12:34
+    exposure: 1/160
+    file: IMG_20160206_131232
+    make: OnePlus
+    model: One A0001
+    width: 1920
+  aacf784:
+    aperture: f/2.0
+    date: 2016-02-06 13:12:41
+    exposure: 1/125
+    file: IMG_20160206_131240
+    make: OnePlus
+    model: One A0001
+    width: 1920
+  d237230:
+    altitude: 408
+    aperture: f/2.0
+    date: 2016-02-06 13:12:58
+    direction: 210
+    exposure: 1/120
+    file: IMG_20160206_131256
+    latitude: 56.097076666667
+    longitude: -4.5249483333333
+    make: OnePlus
+    model: One A0001
+    width: 1920
+  9c53315:
+    altitude: 408
+    aperture: f/2.0
+    date: 2016-02-06 13:13:11
+    direction: 178
+    exposure: 1/120
+    file: IMG_20160206_131309
+    latitude: 56.097038333333
+    longitude: -4.52492
+    make: OnePlus
+    model: One A0001
+    width: 1920
+  d8604e0:
+    altitude: 414
+    aperture: f/2.0
+    date: 2016-02-06 13:16:47
+    direction: 347
+    exposure: 1/160
+    file: IMG_20160206_131645
+    latitude: 56.097068333333
+    longitude: -4.5249416666667
+    make: OnePlus
+    model: One A0001
+    width: 1920
+  035b889:
+    altitude: 401
+    aperture: f/2.0
+    date: 2016-02-06 13:16:57
+    direction: 338
+    exposure: 1/100
+    file: IMG_20160206_131655
+    latitude: 56.097008333333
+    longitude: -4.5247216666667
+    make: OnePlus
+    model: One A0001
+    width: 1920
+  56068c9:
+    altitude: 392
+    aperture: f/2.0
+    date: 2016-02-06 13:22:01
+    direction: 310
+    exposure: 1/100
+    file: IMG_20160206_132159
+    latitude: 56.096215
+    longitude: -4.5272316666667
+    make: OnePlus
+    model: One A0001
+    width: 1920
+  2805040:
+    altitude: 392
+    aperture: f/2.0
+    date: 2016-02-06 13:22:08
+    direction: 162
+    exposure: 1/100
+    file: IMG_20160206_132206
+    latitude: 56.096191666667
+    longitude: -4.52728
+    make: OnePlus
+    model: One A0001
+    width: 1920
+  c4f6c8e:
+    altitude: 392
+    aperture: f/2.0
+    date: 2016-02-06 13:22:17
+    direction: 30
+    exposure: 1/110
+    file: IMG_20160206_132215
+    latitude: 56.096191666667
+    longitude: -4.5272766666667
+    make: OnePlus
+    model: One A0001
+    width: 1920
+  599bc14:
+    altitude: 392
+    aperture: f/2.0
+    date: 2016-02-06 13:22:22
+    direction: 296
+    exposure: 1/100
+    file: IMG_20160206_132219
+    latitude: 56.096191666667
+    longitude: -4.5272833333333
+    make: OnePlus
+    model: One A0001
+    width: 1920
+  fd20366:
+    altitude: 398
+    aperture: f/2.0
+    date: 2016-02-06 13:22:40
+    direction: 284
+    exposure: 1/50
+    file: IMG_20160206_132238
+    latitude: 56.096295
+    longitude: -4.52733
+    make: OnePlus
+    model: One A0001
+    width: 1920
+  30971db:
+    altitude: 371
+    aperture: f/2.0
+    date: 2016-02-06 13:24:51
+    direction: 170
+    exposure: 1/110
+    file: IMG_20160206_132449
+    latitude: 56.096751666667
+    longitude: -4.527935
+    make: OnePlus
+    model: One A0001
+    width: 1920
+  738e82f:
+    altitude: 321
+    aperture: f/2.0
+    date: 2016-02-06 13:28:20
+    direction: 179
+    exposure: 1/100
+    file: IMG_20160206_132818
+    latitude: 56.095458333333
+    longitude: -4.5303233333333
+    make: OnePlus
+    model: One A0001
+    width: 1920
+  72dbe4a:
+    altitude: 252
+    aperture: f/2.0
+    date: 2016-02-06 13:32:55
+    direction: 203
+    exposure: 1/220
+    file: IMG_20160206_133252
+    latitude: 56.093795
+    longitude: -4.534595
+    make: OnePlus
+    model: One A0001
+    width: 1920
+  46d7722:
+    altitude: 251
+    aperture: f/2.0
+    date: 2016-02-06 13:33:00
+    direction: 179
+    exposure: 1/110
+    file: IMG_20160206_133258
+    latitude: 56.093815
+    longitude: -4.5346866666667
+    make: OnePlus
+    model: One A0001
+    width: 1920
+  fca2d8c:
+    altitude: 252
+    aperture: f/2.0
+    date: 2016-02-06 13:33:06
+    direction: 80
+    exposure: 1/100
+    file: IMG_20160206_133304
+    latitude: 56.09378
+    longitude: -4.534695
+    make: OnePlus
+    model: One A0001
+    width: 1920
+  1a1a468:
+    altitude: 250
+    aperture: f/2.0
+    date: 2016-02-06 13:33:29
+    direction: 308
+    exposure: 1/120
+    file: IMG_20160206_133327
+    latitude: 56.093776666667
+    longitude: -4.5345566666667
+    make: OnePlus
+    model: One A0001
+    width: 1920
+  8d4d1e7:
+    altitude: 207
+    aperture: f/2.0
+    date: 2016-02-06 13:36:00
+    direction: 113
+    exposure: 1/100
+    file: IMG_20160206_133558
+    latitude: 56.092358333333
+    longitude: -4.536475
+    make: OnePlus
+    model: One A0001
+    width: 1920
+  4bad3d7:
+    altitude: 209
+    aperture: f/2.0
+    date: 2016-02-06 13:37:09
+    direction: 289
+    exposure: 1/50
+    file: IMG_20160206_133708
+    latitude: 56.091998333333
+    longitude: -4.5352666666667
+    make: OnePlus
+    model: One A0001
+    width: 1920
+  e589a86:
+    aperture: f/2.0
+    date: 2016-02-06 13:45:12
+    exposure: 1/17
+    file: IMG_20160206_134510
+    make: OnePlus
+    model: One A0001
+    width: 1920
+  de5e11c:
+    altitude: 135
+    aperture: f/2.0
+    date: 2016-02-06 13:45:30
+    direction: 280
+    exposure: 1/40
+    file: IMG_20160206_134528
+    latitude: 56.090015
+    longitude: -4.533065
+    make: OnePlus
+    model: One A0001
+    width: 1920
+  1b8a3ae:
+    altitude: 87
+    aperture: f/2.0
+    date: 2016-02-06 14:12:06
+    direction: 352
+    exposure: 1/50
+    file: IMG_20160206_141204
+    latitude: 56.084285
+    longitude: -4.5404733333333
+    make: OnePlus
+    model: One A0001
+    width: 1920
+  e3b7316:
+    altitude: 47
+    aperture: f/2.0
+    date: 2016-02-06 14:22:24
+    direction: 286
+    exposure: 1/50
+    file: IMG_20160206_142222
+    latitude: 56.083598333333
+    longitude: -4.542085
+    make: OnePlus
+    model: One A0001
+    width: 1920
+  cd964b6:
+    altitude: 60
+    aperture: f/2.0
+    date: 2016-02-06 14:43:33
+    direction: 201
+    exposure: 1/100
+    file: IMG_20160206_144331
+    latitude: 56.087616666667
+    longitude: -4.5476116666667
+    make: OnePlus
+    model: One A0001
+    width: 1920
+  93550e4:
+    altitude: 71
+    aperture: f/2.0
+    date: 2016-02-06 14:44:09
+    direction: 326
+    exposure: 1/50
+    file: IMG_20160206_144407
+    latitude: 56.08768
+    longitude: -4.547695
+    make: OnePlus
+    model: One A0001
+    width: 1920
+  b01f392:
+    altitude: 77
+    aperture: f/2.0
+    date: 2016-02-06 14:46:08
+    direction: 119
+    exposure: 1/115
+    file: IMG_20160206_144606
+    latitude: 56.088875
+    longitude: -4.5483766666667
+    make: OnePlus
+    model: One A0001
+    width: 1920
+  226b3a8:
+    altitude: 52
+    aperture: f/2.0
+    date: 2016-02-06 15:12:46
+    direction: 62
+    exposure: 1/100
+    file: IMG_20160206_151244
+    latitude: 56.095265
+    longitude: -4.556085
+    make: OnePlus
+    model: One A0001
+    width: 1920
+  d15a489:
+    altitude: 83
+    aperture: f/2.0
+    date: 2016-02-06 15:45:26
+    direction: 227
+    exposure: 1/50
+    file: IMG_20160206_154524
+    latitude: 56.08511
+    longitude: -4.5465333333333
+    make: OnePlus
+    model: One A0001
+    width: 1920
+  9a4fd13:
+    altitude: 100
+    aperture: f/2.0
+    date: 2016-02-06 15:46:58
+    direction: 125
+    exposure: 1/100
+    file: IMG_20160206_154656
+    latitude: 56.084858333333
+    longitude: -4.5466166666667
+    make: OnePlus
+    model: One A0001
+    width: 1920
