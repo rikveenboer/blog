@@ -53,7 +53,7 @@ layout: default
     {% endfor %}
     </div>    
     </section>
-    {% if false != page.comments %}
+    {% if page.comments != false %}
         {% include disqus.html %}
     {% endif %}
 </section>

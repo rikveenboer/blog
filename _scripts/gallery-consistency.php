@@ -67,7 +67,8 @@ foreach (glob(sprintf('%s%s*.yml', $sDataDir, DIRECTORY_SEPARATOR)) as $sFile) {
                     printf("    <%s> no date!\n", $sPhoto);
                     continue;
                 } else {
-                    $aPhotoYaml['date'] = date('Y-m-d H:i:s', $aPhotoYaml['date']);
+                    $sDate = @date('Y-m-d H:i:s', $aPhotoYaml['date']);
+                    $aPhotoYaml['date'] = $sDate ? $sDate : '!';
                 }
                 if (isset($aPhotoYaml['location'])) {
                     $aPhotoYaml = array_merge($aPhotoYaml, $aPhotoYaml['location']);
@@ -75,8 +76,10 @@ foreach (glob(sprintf('%s%s*.yml', $sDataDir, DIRECTORY_SEPARATOR)) as $sFile) {
                 }
                 $aFix[$sPhoto] = $aPhotoYaml;
             }
-            $sFix = substr(yamlDump(array('' => $aFix)), 1);
-            file_put_contents($sFile, trim(sprintf("%s%s", file_get_contents($sFile), $sFix)));
+            if (count($aFix) > 0) {
+                $sFix = substr(yamlDump(array('' => $aFix)), 1);
+                file_put_contents($sFile, trim(sprintf("%s%s", file_get_contents($sFile), $sFix)));
+            }
         }
     }
     if ($bReferenceOnly) {
