@@ -1,9 +1,7 @@
 <?php
 require __DIR__ . '/utilities.php';
 
-use Symfony\Component\Yaml\Yaml;
-
-foreach (glob('_data/gallery/*.yml') as $sFile) {
+foreach (glob('C:\Users\Rik\Downloads\yy/*.yml') as $sFile) {
     yamlParse($sFile, $aYaml, $sContents);
     preg_match_all('~\s{2}(\w{7}):\n~', $sContents, $aMatches);
     $aPhotos = $aMatches[1];

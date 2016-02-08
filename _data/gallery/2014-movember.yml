@@ -1,5 +1,6 @@
 title: Movember
 date: 2014-11-29
+ignore: true
 map:
   latitude: 56.330320722222
   longitude: -2.8101396611111
@@ -14,3 +15,18 @@ photos:
     file: IMG_20141129_110020
     latitude: 56.330303166667
     longitude: -2.8099873055556
+  786a35e:
+    date: 2014-11-29 11:00:21
+    file: IMG_20141129_110020
+    latitude: 56.330303166667
+    longitude: -2.8099873055556
+  9cab68f:
+    date: 2014-11-29 10:57:58
+    file: IMG_20141129_105757
+    latitude: 56.330329888889
+    longitude: -2.8101723333333
+  a4ee560:
+    date: 2014-11-29 10:49:55
+    file: IMG_20141129_104954
+    latitude: 56.330326055556
+    longitude: -2.8101895
