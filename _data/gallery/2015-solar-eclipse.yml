@@ -3,50 +3,34 @@ date: 2015-03-20
 map:
   latitude: 56.339781611111
   longitude: -2.8074838571429
-  zoom: 8
 photos:
   59cce95:
     date: 2015-03-20 09:06:45
     file: IMG_20150320_090644
-    location:
-      latitude: 56.339851361111
-      longitude: -2.8076116944444
+    latitude: 56.339851361111
+    longitude: -2.8076116944444
   84aefe5:
     date: 2015-03-20 09:10:29
     file: IMG_20150320_091029
-    location:
-      latitude: 56.339824666667
-      longitude: -2.8074755277778
+    latitude: 56.339824666667
+    longitude: -2.8074755277778
   8576bbd:
-    date: 2015-03-20 09:25:45
-    file: IMG_20150320_092545
-    location:
-      latitude: 56.339778888889
-      longitude: -2.8074831388889  ed14c6b:
     date: 2015-03-20 09:30:10
     file: IMG_20150320_093008
-    location:
-      latitude: 56.339748361111
-      longitude: -2.8073870833333
-  a793eba:
+    latitude: 56.339748361111
+    longitude: -2.8073870833333
+  ed14c6b:
     date: 2015-03-20 09:30:25
     file: IMG_20150320_093023
-    location:
-      latitude: 56.339748361111
-      longitude: -2.8073883055556
-  1e22bf5:
+    latitude: 56.339748361111
+    longitude: -2.8073883055556
+  a793eba:
     date: 2015-03-20 09:43:44
     file: IMG_20150320_094342
-    location:
-      latitude: 56.339733111111
-      longitude: -2.8075528333333
-  95b98c7:
+    latitude: 56.339733111111
+    longitude: -2.8075528333333
+  1e22bf5:
     date: 2015-03-20 09:43:59
     file: IMG_20150320_094357
-    location:
-      latitude: 56.339786527778
-      longitude: -2.8074884166667
-    sizes:
-      640w: { height: 475, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    latitude: 56.339786527778
+    longitude: -2.8074884166667

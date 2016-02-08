@@ -15,6 +15,11 @@ function writeFile($sFile, $aYaml, $sContents = null) {
     file_put_contents($sFile, '---' . "\n" . yamlDump($aYaml) . '---' . "\n" . trim($sContents));
 }
 
+function yamlParse($sFile, &$aYaml, &$sContents) {
+    $sContents = file_get_contents($sFile);
+    $aYaml = Yaml::parse($sContents);
+}
+
 function yamlDump($aData) {
     return str_replace("'", null, Yaml::dump($aData, 4, 2));
 }

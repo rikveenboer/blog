@@ -9,10 +9,6 @@ photos:
     exposure: 10/320
     file: 2014-12-07 13.47.07
     model: D5803
-    sizes:
-      640w: { height: 1138, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
     make: Sony
   378a0ec:
     date: 2014-12-23 18:52:06
@@ -65,7 +61,7 @@ photos:
     file: DSCF0461
     model: XQ1
     width: 1920
-    make: FUJIFILM
+    make: Fujifilm
   f43c4ec:
     aperture: f/1.8
     date: 2015-12-25 09:15:08
@@ -73,7 +69,7 @@ photos:
     file: DSCF0463
     model: XQ1
     width: 1920
-    make: FUJIFILM
+    make: Fujifilm
   debaa56:
     aperture: f/2.0
     date: 2015-12-25 14:56:48
@@ -81,7 +77,7 @@ photos:
     file: DSCF0465
     model: XQ1
     width: 1920
-    make: FUJIFILM
+    make: Fujifilm
   886f250:
     aperture: f/3.8
     date: 2015-12-25 14:59:28
@@ -89,7 +85,7 @@ photos:
     file: DSCF0466
     model: XQ1
     width: 1920
-    make: FUJIFILM
+    make: Fujifilm
   fb24cf1:
     aperture: f/2.2
     date: 2015-12-25 14:59:47
@@ -97,7 +93,7 @@ photos:
     file: DSCF0467
     model: XQ1
     width: 1920
-    make: FUJIFILM
+    make: Fujifilm
   ebf3f19:
     aperture: f/4.9
     date: 2015-12-25 15:06:22
@@ -105,7 +101,7 @@ photos:
     file: DSCF0470
     model: XQ1
     width: 1920
-    make: FUJIFILM
+    make: Fujifilm
   b1f61e3:
     aperture: f/1.8
     date: 2015-12-25 15:36:44
@@ -113,7 +109,7 @@ photos:
     file: DSCF0473
     model: XQ1
     width: 1920
-    make: FUJIFILM
+    make: Fujifilm
   b924fdc:
     aperture: f/2.5
     date: 2015-12-25 15:51:51
@@ -121,7 +117,7 @@ photos:
     file: DSCF0479
     model: XQ1
     width: 1920
-    make: FUJIFILM
+    make: Fujifilm
   81e32d1:
     aperture: f/1.8
     date: 2015-12-25 16:10:59
@@ -129,7 +125,7 @@ photos:
     file: DSCF0480
     model: XQ1
     width: 1920
-    make: FUJIFILM
+    make: Fujifilm
   8bdfa44:
     aperture: f/3.6
     date: 2015-12-25 16:15:45
@@ -137,7 +133,7 @@ photos:
     file: DSCF0484
     model: XQ1
     width: 1920
-    make: FUJIFILM
+    make: Fujifilm
   b3f827b:
     aperture: f/1.8
     date: 2015-12-25 16:44:05
@@ -145,7 +141,7 @@ photos:
     file: DSCF0492
     model: XQ1
     width: 1920
-    make: FUJIFILM
+    make: Fujifilm
   4c38747:
     aperture: f/3.6
     date: 2015-12-25 16:57:15
@@ -153,7 +149,7 @@ photos:
     file: DSCF0498
     model: XQ1
     width: 1920
-    make: FUJIFILM
+    make: Fujifilm
   b26ad08:
     aperture: f/1.8
     date: 2015-12-25 17:07:20
@@ -161,7 +157,7 @@ photos:
     file: DSCF0503
     model: XQ1
     width: 1920
-    make: FUJIFILM
+    make: Fujifilm
   ff33227:
     aperture: f/3.4
     date: 2015-12-25 17:11:01
@@ -169,7 +165,7 @@ photos:
     file: DSCF0505
     model: XQ1
     width: 1920
-    make: FUJIFILM
+    make: Fujifilm
   41de2e7:
     aperture: f/1.8
     date: 2015-12-25 18:16:26
@@ -177,7 +173,7 @@ photos:
     file: DSCF0514
     model: XQ1
     width: 1920
-    make: FUJIFILM
+    make: Fujifilm
   5636d6c:
     aperture: f/1.8
     date: 2015-12-25 18:53:57
@@ -185,7 +181,7 @@ photos:
     file: DSCF0521
     model: XQ1
     width: 1920
-    make: FUJIFILM
+    make: Fujifilm
   698c477:
     aperture: f/1.8
     date: 2015-12-25 18:58:59
@@ -193,7 +189,7 @@ photos:
     file: DSCF0523
     model: XQ1
     width: 1920
-    make: FUJIFILM
+    make: Fujifilm
   a4d2bc2:
     aperture: f/1.8
     date: 2015-12-25 19:37:46
@@ -201,7 +197,7 @@ photos:
     file: DSCF0526
     model: XQ1
     width: 1920
-    make: FUJIFILM
+    make: Fujifilm
   d5a2cb9:
     aperture: f/1.8
     date: 2015-12-25 19:38:54
@@ -209,7 +205,7 @@ photos:
     file: DSCF0527
     model: XQ1
     width: 1920
-    make: FUJIFILM
+    make: Fujifilm
   4012f4f:
     aperture: f/1.8
     date: 2015-12-26 16:51:39
@@ -217,7 +213,7 @@ photos:
     file: DSCF0531
     model: XQ1
     width: 1920
-    make: FUJIFILM
+    make: Fujifilm
   0b7b3c0:
     aperture: f/1.8
     date: 2015-12-26 18:17:20
@@ -225,7 +221,7 @@ photos:
     file: DSCF0538
     model: XQ1
     width: 1920
-    make: FUJIFILM
+    make: Fujifilm
   88ba775:
     aperture: f/3.8
     date: 2015-12-26 20:26:26
@@ -233,7 +229,7 @@ photos:
     file: DSCF0540
     model: XQ1
     width: 1920
-    make: FUJIFILM
+    make: Fujifilm
   78d172f:
     aperture: f/2.1
     date: 2015-12-26 21:01:36
@@ -241,7 +237,7 @@ photos:
     file: DSCF0542
     model: XQ1
     width: 1920
-    make: FUJIFILM
+    make: Fujifilm
   03a3cf4:
     aperture: f/1.8
     date: 2015-12-26 21:14:10
@@ -249,15 +245,15 @@ photos:
     file: DSCF0549
     model: XQ1
     width: 1920
-    make: FUJIFILM
+    make: Fujifilm
   3e37348:
-    aperture: f/1.8
-    date: 2015-12-29 12:44:54
-    exposure: 1/70
-    file: DSCF0551
+    aperture: f/4.9
+    date: 2016-01-01 14:43:27
+    exposure: 1/180
+    file: DSCF0589
     model: XQ1
     width: 1920
-    make: FUJIFILM
+    make: Fujifilm
   449d094:
     aperture: f/1.8
     date: 2015-12-29 12:45:44
@@ -265,7 +261,7 @@ photos:
     file: DSCF0552
     model: XQ1
     width: 1920
-    make: FUJIFILM
+    make: Fujifilm
   cd4ef4a:
     aperture: f/4.5
     date: 2015-12-29 14:27:10
@@ -273,7 +269,7 @@ photos:
     file: DSCF0553
     model: XQ1
     width: 1920
-    make: FUJIFILM
+    make: Fujifilm
   db4e423:
     aperture: f/2.1
     date: 2015-12-29 18:27:36
@@ -281,7 +277,7 @@ photos:
     file: DSCF0558
     model: XQ1
     width: 1920
-    make: FUJIFILM
+    make: Fujifilm
   3435f20:
     aperture: f/1.8
     date: 2015-12-31 18:27:36
@@ -289,7 +285,7 @@ photos:
     file: DSCF0564
     model: XQ1
     width: 1920
-    make: FUJIFILM
+    make: Fujifilm
   a3a777c:
     aperture: f/1.8
     date: 2015-12-31 18:27:48
@@ -297,7 +293,7 @@ photos:
     file: DSCF0565
     model: XQ1
     width: 1920
-    make: FUJIFILM
+    make: Fujifilm
   84190a0:
     aperture: f/1.8
     date: 2015-12-31 18:40:14
@@ -305,7 +301,7 @@ photos:
     file: DSCF0570
     model: XQ1
     width: 1920
-    make: FUJIFILM
+    make: Fujifilm
   0ca40f2:
     aperture: f/1.8
     date: 2016-01-01 00:08:24
@@ -313,7 +309,7 @@ photos:
     file: DSCF0577
     model: XQ1
     width: 1920
-    make: FUJIFILM
+    make: Fujifilm
   91c9241:
     aperture: f/4.0
     date: 2016-01-01 14:36:06
@@ -321,7 +317,7 @@ photos:
     file: DSCF0587
     model: XQ1
     width: 1920
-    make: FUJIFILM
+    make: Fujifilm
   b088e59:
     aperture: f/6.4
     date: 2016-01-01 14:38:20
@@ -329,36 +325,28 @@ photos:
     file: DSCF0588
     model: XQ1
     width: 1920
-    make: FUJIFILM
+    make: Fujifilm
   5e66500:
-    aperture: f/4.9
-    date: 2016-01-01 14:43:27
-    exposure: 1/180
-    file: DSCF0589
-    model: XQ1
-    width: 1920
-    make: FUJIFILM
-  cdaa3b4:
     aperture: f/4.0
     date: 2016-01-01 14:45:06
     exposure: 1/640
     file: DSCF0593
     model: XQ1
     width: 1920
-    make: FUJIFILM
-  46504d6:
+    make: Fujifilm
+  cdaa3b4:
     aperture: f/4.9
     date: 2016-01-01 14:47:57
     exposure: 1/240
     file: DSCF0594
     model: XQ1
     width: 1920
-    make: FUJIFILM
-  76a9939:
+    make: Fujifilm
+  46504d6:
     aperture: f/4.0
     date: 2016-01-01 14:55:30
     exposure: 1/600
     file: DSCF0599
     model: XQ1
     width: 1920
-    make: FUJIFILM
+    make: Fujifilm

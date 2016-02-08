@@ -1,5 +1,6 @@
 title: Summer - Aberdeen Tolbooth
 date: 2015-07-18
+ignore: true
 photos:
   a581ec2:
     aperture: f/2.0
@@ -15,10 +16,6 @@ photos:
     exposure: 1/6
     file: IMG_20150718_114804
     model: One
-    sizes:
-      640w: { height: 1138, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
     make: OnePlus
   09562d1:
     aperture: f/2.0

@@ -4,7 +4,6 @@ end_date: 2015-07-02
 map:
   latitude: 41.236686666667
   longitude: 1.8236266666667
-  zoom: 8
 photos:
   4a34012:
     date: 2015-06-27 12:30:49
@@ -23,9 +22,8 @@ photos:
     date: 2015-07-02 00:08:59
     exposure: 1/20
     file: IMG_20150702_000857
-    location:
-      latitude: 41.236686666667
-      longitude: 1.8236266666667
     model: One
     width: 1920
     make: OnePlus
+    latitude: 41.236686666667
+    longitude: 1.8236266666667

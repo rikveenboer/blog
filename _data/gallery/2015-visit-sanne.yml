@@ -35,7 +35,3 @@ photos:
   23135f6:
     date: 2015-08-23 17:07:30
     file: IMG_20150823_170730
-    sizes:
-      640w: { height: 480, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }

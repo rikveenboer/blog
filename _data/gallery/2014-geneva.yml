@@ -3,7 +3,6 @@ date: 2014-12-20
 map:
   latitude: 46.211739271368
   longitude: 6.1438075064103
-  zoom: 8
 photos:
   207d988:
     date: 2014-12-20 14:54:41
@@ -11,93 +10,64 @@ photos:
   5d6f480:
     date: 2014-12-20 15:35:53
     file: IMG_20141220_153552
-    location:
-      latitude: 46.229019138889
-      longitude: 6.1086235
+    latitude: 46.229019138889
+    longitude: 6.1086235
   899fbb2:
     date: 2014-12-20 16:29:14
     file: IMG_20141220_162914
-    location:
-      latitude: 46.213809944444
-      longitude: 6.1524491111111
+    latitude: 46.213809944444
+    longitude: 6.1524491111111
   5e95b89:
     date: 2014-12-20 16:29:19
     file: PANO_20141220_162825
-    location:
-      latitude: 46.213810833333
-      longitude: 6.1524488888889
     model: One
-    sizes:
-      640w: { height: 330, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
     make: OnePlus
+    latitude: 46.213810833333
+    longitude: 6.1524488888889
   eb22ad6:
     date: 2014-12-20 17:40:28
     file: IMG_20141220_174027
-    location:
-      latitude: 46.204368583333
-      longitude: 6.1397805
+    latitude: 46.204368583333
+    longitude: 6.1397805
   633d339:
     date: 2014-12-20 17:52:41
     file: IMG_20141220_175239
-    location:
-      latitude: 46.208190916667
-      longitude: 6.1426291388889
+    latitude: 46.208190916667
+    longitude: 6.1426291388889
   7450027:
     date: 2014-12-20 18:14:43
     file: IMG_20141220_181442
-    location:
-      latitude: 46.212100972222
-      longitude: 6.1497988611111
+    latitude: 46.212100972222
+    longitude: 6.1497988611111
   759399b:
     date: 2014-12-20 18:56:33
     file: IMG_20141220_185632
-    location:
-      latitude: 46.222690555556
-      longitude: 6.138669
+    latitude: 46.222690555556
+    longitude: 6.138669
   d316aab:
     date: 2014-12-20 18:58:43
     file: IMG_20141220_185842
-    location:
-      latitude: 46.223041527778
-      longitude: 6.1391425
+    latitude: 46.223041527778
+    longitude: 6.1391425
   f11fbcf:
-    date: 2014-12-20 19:21:51
-    file: IMG_20141220_192151
-    location:
-      latitude: 46.207836138889
-      longitude: 6.1437406388889  02e7b3d:
     date: 2014-12-21 11:24:46
     file: PANO_20141221_112409
-    location:
-      latitude: 46.204582777778
-      longitude: 6.1532108333333
     model: One
-    sizes:
-      640w: { height: 135, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
     make: OnePlus
-  51441d6:
+    latitude: 46.204582777778
+    longitude: 6.1532108333333
+  02e7b3d:
     date: 2014-12-21 11:26:51
     file: IMG_20141221_112650
-    location:
-      latitude: 46.204582194444
-      longitude: 6.1532111111111
-  5e3adb8:
+    latitude: 46.204582194444
+    longitude: 6.1532111111111
+  51441d6:
     date: 2014-12-21 11:28:39
     file: IMG_20141221_112838
-    location:
-      latitude: 46.207038861111
-      longitude: 6.1490850277778
-  a1ac979:
+    latitude: 46.207038861111
+    longitude: 6.1490850277778
+  5e3adb8:
     date: 2014-12-21 12:02:28
     file: IMG_20141221_120228
-    location:
-      latitude: 46.201538083333
-      longitude: 6.1467084722222
-    sizes:
-      640w: { height: 475, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    latitude: 46.201538083333
+    longitude: 6.1467084722222

@@ -47,10 +47,6 @@ photos:
     exposure: 1/60
     file: IMG_20151206_125544
     model: One
-    sizes:
-      640w: { height: 1138, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
     make: OnePlus
   37e95ec:
     aperture: f/2.0

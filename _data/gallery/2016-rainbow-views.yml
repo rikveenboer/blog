@@ -3,7 +3,6 @@ date: 2016-01-29
 map:
   latitude: 56.340732092587
   longitude: -2.8113284907407
-  zoom: 8
 ignore: true
 photos:
   0e7b849:
@@ -35,7 +34,3 @@ photos:
     file: PANO_20160129_132319
     latitude: 56.340647222222
     longitude: -2.8113777777778
-    sizes:
-      640w: { height: 323, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }

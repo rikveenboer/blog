@@ -11,7 +11,3 @@ photos:
   9f338ab:
     date: 2014-12-23 13:20:45
     file: IMG_20141223_132045
-    sizes:
-      640w: { height: 475, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }

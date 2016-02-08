@@ -47,13 +47,18 @@ layout: default
                 {% assign sizes=sizes | push:size %}
             {% endif %}
         {% endfor %}
+        {% if photo.width == 200 %}
+            {% assign file='200x200' %}                                    
+        {% else %}
+            {% assign file='640w' %}
+        {% endif %}
         <p style="text-align:center;">
-            <a href="{{ photo_url }}~640w.jpg"><img alt="Photo: {{ photo.title }}" src="{{ photo_url }}~640w.jpg" style="max-width:630px;" /></a>
+            <a href="{{ photo_url }}~{{ file }}.jpg"><img alt="Photo: {{ photo.title }}" src="{{ photo_url }}~{{ file }}.jpg" style="max-width:630px;" /></a>
         </p>
 
-        {% if content %}
+        {% if photo.description %}
             <div itemprop="description">
-                {{ content }}
+                {{ photo.description }}
             </div>
         {% endif %}
     </section>
@@ -88,13 +93,17 @@ layout: default
                                 {% assign height=size[1] %}                                
                                 {% capture label %}{{ width }}x{{ height }}{% endcapture %}
                                 {% if width == 640 %}
-                                    {% assign file='640w' %}
-                                {% else %}    
+                                    {% assign label='640' %}
+                                    {% assign file='640w' %}                                    
+                                {% else %}
+                                    {% capture label %}{{ width }}x{{ height }}{% endcapture %}
                                     {% assign file=label %}
                                 {% endif %}
                                 <span itemprop="image" itemscope itemtype="http://schema.org/ImageObject">
                                     <meta itemprop="width" content="{{ width }}" />
+                                {% if height > 0 %}
                                     <meta itemprop="height" content="{{ height }}" />
+                                {% endif %}
                                     <a href="{{ photo_url }}~{{ file }}.jpg" itemprop="contentUrl">{{ label }}</a>
                                 </span>
                             {% endfor %}

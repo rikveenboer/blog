@@ -3,60 +3,54 @@ date: 2015-12-23
 map:
   latitude: 56.381818888889
   longitude: -2.8626119444444
-  zoom: 8
 photos:
   46ea247:
     aperture: f/2.0
     date: 2015-12-23 11:14:44
     exposure: 1/120
     file: IMG_20151223_111442
-    location:
-      latitude: 56.407543333333
-      longitude: -2.8889383333333
     model: One
     width: 1920
     make: OnePlus
+    latitude: 56.407543333333
+    longitude: -2.8889383333333
   3592b0b:
     aperture: f/2.0
     date: 2015-12-23 11:15:02
     exposure: 1/490
     file: IMG_20151223_111501
-    location:
-      latitude: 56.407508333333
-      longitude: -2.8890733333333
     model: One
     width: 1920
     make: OnePlus
+    latitude: 56.407508333333
+    longitude: -2.8890733333333
   11a3b22:
     aperture: f/2.0
     date: 2015-12-23 11:15:23
     exposure: 1/530
     file: IMG_20151223_111521
-    location:
-      latitude: 56.407513333333
-      longitude: -2.889055
     model: One
     width: 1920
     make: OnePlus
+    latitude: 56.407513333333
+    longitude: -2.889055
   4cee1b3:
     aperture: f/2.0
     date: 2015-12-23 11:17:02
     exposure: 1/120
     file: IMG_20151223_111700
-    location:
-      latitude: 56.407508333333
-      longitude: -2.8890166666667
     model: One
     width: 1920
     make: OnePlus
+    latitude: 56.407508333333
+    longitude: -2.8890166666667
   29bb256:
     aperture: f/2.0
     date: 2015-12-23 11:40:23
     exposure: 1/100
     file: IMG_20151223_114021
-    location:
-      latitude: 56.330448333333
-      longitude: -2.8097783333333
     model: One
     width: 1920
     make: OnePlus
+    latitude: 56.330448333333
+    longitude: -2.8097783333333

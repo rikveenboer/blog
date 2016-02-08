@@ -4,239 +4,217 @@ end_date: 2015-07-04
 map:
   latitude: 41.389509361111
   longitude: 2.1749411388889
-  zoom: 8
 photos:
   2447ff8:
     aperture: f/2.0
     date: 2015-07-03 11:44:38
     exposure: 1/1000
     file: IMG_20150703_114435
-    location:
-      latitude: 41.393448333333
-      longitude: 2.1686066666667
     model: One
     width: 1920
     make: OnePlus
+    latitude: 41.393448333333
+    longitude: 2.1686066666667
   d1c6b11:
     aperture: f/2.0
     date: 2015-07-03 12:05:56
     exposure: 1/1000
     file: IMG_20150703_120554
-    location:
-      latitude: 41.387111666667
-      longitude: 2.1709366666667
     model: One
     width: 1920
     make: OnePlus
+    latitude: 41.387111666667
+    longitude: 2.1709366666667
   e6dfaa0:
     aperture: f/2.0
     date: 2015-07-03 12:07:14
     exposure: 1/1500
     file: IMG_20150703_120712
-    location:
-      latitude: 41.387156666667
-      longitude: 2.1700833333333
     model: One
     width: 1920
     make: OnePlus
+    latitude: 41.387156666667
+    longitude: 2.1700833333333
   cbcef0b:
     aperture: f/2.0
     date: 2015-07-03 13:02:24
     exposure: 1/850
     file: IMG_20150703_130222
-    location:
-      latitude: 41.38435
-      longitude: 2.1779766666667
     model: One
     width: 1920
     make: OnePlus
+    latitude: 41.38435
+    longitude: 2.1779766666667
   ba9b8b1:
     aperture: f/2.0
     date: 2015-07-03 13:07:23
     exposure: 1/40
     file: IMG_20150703_130721
-    location:
-      latitude: 41.384491666667
-      longitude: 2.1761183333333
     model: One
     width: 1920
     make: OnePlus
+    latitude: 41.384491666667
+    longitude: 2.1761183333333
   73f0e2f:
     aperture: f/2.0
     date: 2015-07-03 13:08:14
     exposure: 1/300
     file: IMG_20150703_130812
-    location:
-      latitude: 41.384491666667
-      longitude: 2.1761183333333
     model: One
     width: 1920
     make: OnePlus
+    latitude: 41.384491666667
+    longitude: 2.1761183333333
   c9b37e9:
     aperture: f/2.0
     date: 2015-07-03 13:14:08
     exposure: 1/1000
     file: IMG_20150703_131406
-    location:
-      latitude: 41.383971666667
-      longitude: 2.1774466666667
     model: One
     width: 1920
     make: OnePlus
+    latitude: 41.383971666667
+    longitude: 2.1774466666667
   fa8a15e:
     aperture: f/2.0
     date: 2015-07-03 13:25:05
     exposure: 1/470
     file: IMG_20150703_132503
-    location:
-      latitude: 41.38398
-      longitude: 2.177475
     model: One
     width: 1920
     make: OnePlus
+    latitude: 41.38398
+    longitude: 2.177475
   74bae94:
     aperture: f/2.0
     date: 2015-07-03 14:10:30
     exposure: 1/1100
     file: IMG_20150703_141028
-    location:
-      latitude: 41.384231666667
-      longitude: 2.1773233333333
     model: One
     width: 1920
     make: OnePlus
+    latitude: 41.384231666667
+    longitude: 2.1773233333333
   6af62a9:
     aperture: f/2.0
     date: 2015-07-03 14:31:16
     exposure: 1/1300
     file: IMG_20150703_143114
-    location:
-      latitude: 41.38427
-      longitude: 2.175105
     model: One
     width: 1920
     make: OnePlus
+    latitude: 41.38427
+    longitude: 2.175105
   a83cc73:
     aperture: f/2.0
     date: 2015-07-03 14:31:48
     exposure: 1/1200
     file: IMG_20150703_143147
-    location:
-      latitude: 41.384243333333
-      longitude: 2.1752583333333
     model: One
     width: 1920
     make: OnePlus
+    latitude: 41.384243333333
+    longitude: 2.1752583333333
   ef5f142:
     aperture: f/2.0
     date: 2015-07-03 14:58:00
     exposure: 1/150
     file: IMG_20150703_145759
-    location:
-      latitude: 41.382396666667
-      longitude: 2.1763433333333
     model: One
     width: 1920
     make: OnePlus
+    latitude: 41.382396666667
+    longitude: 2.1763433333333
   0ff38fa:
     aperture: f/2.0
     date: 2015-07-03 15:57:09
     exposure: 1/750
     file: IMG_20150703_155707
-    location:
-      latitude: 41.380905
-      longitude: 2.1826833333333
     model: One
     width: 1920
     make: OnePlus
+    latitude: 41.380905
+    longitude: 2.1826833333333
   876a94a:
     aperture: f/2.0
     date: 2015-07-03 16:06:06
     exposure: 1/1200
     file: IMG_20150703_160604
-    location:
-      latitude: 41.383548333333
-      longitude: 2.1818316666667
     model: One
     width: 1920
     make: OnePlus
+    latitude: 41.383548333333
+    longitude: 2.1818316666667
   a0926a5:
     aperture: f/2.0
     date: 2015-07-03 16:40:48
     exposure: 1/1100
     file: IMG_20150703_164046
-    location:
-      latitude: 41.387393333333
-      longitude: 2.1832416666667
     model: One
     width: 1920
     make: OnePlus
+    latitude: 41.387393333333
+    longitude: 2.1832416666667
   93f0866:
     aperture: f/2.0
     date: 2015-07-03 16:51:43
     exposure: 1/800
     file: IMG_20150703_165141
-    location:
-      latitude: 41.388328333333
-      longitude: 2.1879833333333
     model: One
     width: 1920
     make: OnePlus
+    latitude: 41.388328333333
+    longitude: 2.1879833333333
   58363b4:
     aperture: f/2.0
     date: 2015-07-03 16:57:37
     exposure: 1/850
     file: IMG_20150703_165735
-    location:
-      latitude: 41.388023333333
-      longitude: 2.1838783333333
     model: One
     width: 1920
     make: OnePlus
+    latitude: 41.388023333333
+    longitude: 2.1838783333333
   fd07ffa:
     aperture: f/2.0
     date: 2015-07-03 17:05:45
     exposure: 1/120
     file: IMG_20150703_170543
-    location:
-      latitude: 41.386863333333
-      longitude: 2.1846316666667
     model: One
     width: 1920
     make: OnePlus
+    latitude: 41.386863333333
+    longitude: 2.1846316666667
   55072cf:
     aperture: f/2.0
     date: 2015-07-03 17:22:28
     exposure: 1/1050
     file: IMG_20150703_172226
-    location:
-      latitude: 41.38012
-      longitude: 2.1748933333333
     model: One
     width: 1920
     make: OnePlus
+    latitude: 41.38012
+    longitude: 2.1748933333333
   31ee6d5:
     aperture: f/2.0
     date: 2015-07-03 17:31:08
     exposure: 1/1800
     file: IMG_20150703_173106
-    location:
-      latitude: 41.375636666667
-      longitude: 2.1776183333333
     model: One
     width: 1920
     make: OnePlus
+    latitude: 41.375636666667
+    longitude: 2.1776183333333
   0cb02ca:
     aperture: f/2.0
     date: 2015-07-03 17:53:37
     exposure: 1/120
     file: IMG_20150703_175335
-    location:
-      latitude: 41.383705
-      longitude: 2.1761966666667
     model: One
     width: 1920
     make: OnePlus
+    latitude: 41.383705
+    longitude: 2.1761966666667
   dabb533:
     date: 2015-07-03 22:37:52
     file: IMG_20150703_223753
@@ -246,346 +224,310 @@ photos:
     date: 2015-07-04 07:24:05
     exposure: 1/240
     file: IMG_20150704_072403
-    location:
-      latitude: 41.390965
-      longitude: 2.1657783333333
     model: One
     width: 1920
     make: OnePlus
+    latitude: 41.390965
+    longitude: 2.1657783333333
   13cef07:
     aperture: f/2.0
     date: 2015-07-04 09:39:42
     exposure: 1/100
     file: IMG_20150704_093940
-    location:
-      latitude: 41.386668333333
-      longitude: 2.175125
     model: One
     width: 1920
     make: OnePlus
+    latitude: 41.386668333333
+    longitude: 2.175125
   a4ab746:
     aperture: f/2.0
     date: 2015-07-04 10:26:31
     exposure: 1/17
     file: IMG_20150704_102629
-    location:
-      latitude: 41.383465
-      longitude: 2.18208
     model: One
     width: 1920
     make: OnePlus
+    latitude: 41.383465
+    longitude: 2.18208
   b3745f7:
     aperture: f/2.0
     date: 2015-07-04 11:27:33
     exposure: 1/100
     file: IMG_20150704_112731
-    location:
-      latitude: 41.383725
-      longitude: 2.181225
     model: One
     width: 1920
     make: OnePlus
+    latitude: 41.383725
+    longitude: 2.181225
   899b168:
     aperture: f/2.0
     date: 2015-07-04 11:39:53
     exposure: 1/1500
     file: IMG_20150704_113951
-    location:
-      latitude: 41.387875
-      longitude: 2.1883033333333
     model: One
     width: 1920
     make: OnePlus
+    latitude: 41.387875
+    longitude: 2.1883033333333
   8a21440:
     aperture: f/2.0
     date: 2015-07-04 11:40:11
     exposure: 1/750
     file: IMG_20150704_114009
-    location:
-      latitude: 41.38786
-      longitude: 2.1883866666667
     model: One
     width: 1920
     make: OnePlus
+    latitude: 41.38786
+    longitude: 2.1883866666667
   92c630f:
     aperture: f/2.0
     date: 2015-07-04 11:44:04
     exposure: 1/1400
     file: IMG_20150704_114402
-    location:
-      latitude: 41.388138333333
-      longitude: 2.1874366666667
     model: One
     width: 1920
     make: OnePlus
+    latitude: 41.388138333333
+    longitude: 2.1874366666667
   59b913a:
     aperture: f/2.0
     date: 2015-07-04 11:48:31
     exposure: 1/120
     file: IMG_20150704_114829
-    location:
-      latitude: 41.38905
-      longitude: 2.1870116666667
     model: One
     width: 1920
     make: OnePlus
+    latitude: 41.38905
+    longitude: 2.1870116666667
   2946b2a:
     aperture: f/2.0
     date: 2015-07-04 11:49:50
     exposure: 1/1200
     file: IMG_20150704_114949
-    location:
-      latitude: 41.389316666667
-      longitude: 2.18666
     model: One
     width: 1920
     make: OnePlus
+    latitude: 41.389316666667
+    longitude: 2.18666
   9215619:
     aperture: f/2.0
     date: 2015-07-04 12:05:00
     exposure: 1/1500
     file: IMG_20150704_120458
-    location:
-      latitude: 41.388793333333
-      longitude: 2.1835933333333
     model: One
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 361, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
     make: OnePlus
+    latitude: 41.388793333333
+    longitude: 2.1835933333333
   2951a89:
     aperture: f/2.0
     date: 2015-07-04 12:07:38
     exposure: 1/1600
     file: IMG_20150704_120736
-    location:
-      latitude: 41.390743333333
-      longitude: 2.1813783333333
     model: One
     width: 1920
     make: OnePlus
+    latitude: 41.390743333333
+    longitude: 2.1813783333333
   b53973e:
     aperture: f/2.0
     date: 2015-07-04 12:10:46
     exposure: 1/1800
     file: IMG_20150704_121044
-    location:
-      latitude: 41.390681666667
-      longitude: 2.1813183333333
     model: One
     width: 1920
     make: OnePlus
+    latitude: 41.390681666667
+    longitude: 2.1813183333333
   3c8b14a:
     aperture: f/2.0
     date: 2015-07-04 12:20:50
     exposure: 1/1050
     file: IMG_20150704_122048
-    location:
-      latitude: 41.394756666667
-      longitude: 2.1757566666667
     model: One
     width: 1920
     make: OnePlus
+    latitude: 41.394756666667
+    longitude: 2.1757566666667
   ada4f8d:
     aperture: f/2.0
     date: 2015-07-04 12:47:18
     exposure: 1/1700
     file: IMG_20150704_124716
-    location:
-      latitude: 41.399075
-      longitude: 2.1809116666667
     model: One
     width: 1920
     make: OnePlus
+    latitude: 41.399075
+    longitude: 2.1809116666667
   6473afe:
     aperture: f/2.0
     date: 2015-07-04 13:03:40
     exposure: 1/1600
     file: IMG_20150704_130338
-    location:
-      latitude: 41.3862
-      longitude: 2.197875
     model: One
     width: 1920
     make: OnePlus
+    latitude: 41.3862
+    longitude: 2.197875
   fe81da4:
     aperture: f/2.0
     date: 2015-07-04 13:18:59
     exposure: 1/2700
     file: IMG_20150704_131857
-    location:
-      latitude: 41.376998333333
-      longitude: 2.1908966666667
     model: One
     width: 1920
     make: OnePlus
+    latitude: 41.376998333333
+    longitude: 2.1908966666667
   e4034d1:
     aperture: f/2.0
     date: 2015-07-04 13:19:09
     exposure: 1/2300
     file: IMG_20150704_131907
-    location:
-      latitude: 41.377013333333
-      longitude: 2.1909133333333
     model: One
     width: 1920
     make: OnePlus
+    latitude: 41.377013333333
+    longitude: 2.1909133333333
   0e77d58:
     aperture: f/2.0
     date: 2015-07-04 13:27:02
     exposure: 1/2000
     file: IMG_20150704_132700
-    location:
-      latitude: 41.368091666667
-      longitude: 2.1904033333333
     model: One
     width: 1920
     make: OnePlus
+    latitude: 41.368091666667
+    longitude: 2.1904033333333
   86ee230:
     aperture: f/2.0
     date: 2015-07-04 13:29:13
     exposure: 1/2400
     file: IMG_20150704_132911
-    location:
-      latitude: 41.368053333333
-      longitude: 2.1905716666667
     model: One
     width: 1920
     make: OnePlus
+    latitude: 41.368053333333
+    longitude: 2.1905716666667
   c703796:
     aperture: f/2.0
     date: 2015-07-04 13:32:32
     exposure: 1/2200
     file: IMG_20150704_133230
-    location:
-      latitude: 41.368565
-      longitude: 2.1907983333333
     model: One
     width: 1920
     make: OnePlus
+    latitude: 41.368565
+    longitude: 2.1907983333333
   2fae95d:
     aperture: f/2.0
     date: 2015-07-04 14:24:57
     exposure: 1/470
     file: IMG_20150704_142455
-    location:
-      latitude: 41.403968333333
-      longitude: 2.1742666666667
     model: One
     width: 1920
     make: OnePlus
+    latitude: 41.403968333333
+    longitude: 2.1742666666667
   c36ef02:
     aperture: f/2.0
     date: 2015-07-04 14:30:06
     exposure: 1/610
     file: IMG_20150704_143004
-    location:
-      latitude: 41.403171666667
-      longitude: 2.1737283333333
     model: One
     width: 1920
     make: OnePlus
+    latitude: 41.403171666667
+    longitude: 2.1737283333333
   aea3e37:
     aperture: f/2.0
     date: 2015-07-04 14:30:20
     exposure: 1/1050
     file: IMG_20150704_143018
-    location:
-      latitude: 41.403171666667
-      longitude: 2.1737283333333
     model: One
     width: 1920
     make: OnePlus
+    latitude: 41.403171666667
+    longitude: 2.1737283333333
   993fd11:
     aperture: f/2.0
     date: 2015-07-04 14:32:09
     exposure: 1/1000
     file: IMG_20150704_143207
-    location:
-      latitude: 41.402641666667
-      longitude: 2.1736566666667
     model: One
     width: 1920
     make: OnePlus
+    latitude: 41.402641666667
+    longitude: 2.1736566666667
   60e86d3:
     aperture: f/2.0
     date: 2015-07-04 14:45:40
     exposure: 1/750
     file: IMG_20150704_144538
-    location:
-      latitude: 41.404246666667
-      longitude: 2.1748383333333
     model: One
     width: 1920
     make: OnePlus
+    latitude: 41.404246666667
+    longitude: 2.1748383333333
   dbd4a70:
     aperture: f/2.0
     date: 2015-07-04 15:09:45
     exposure: 1/950
     file: IMG_20150704_150943
-    location:
-      latitude: 41.409656666667
-      longitude: 2.1742733333333
     model: One
     width: 1920
     make: OnePlus
+    latitude: 41.409656666667
+    longitude: 2.1742733333333
   27d585b:
     aperture: f/2.0
     date: 2015-07-04 15:30:26
     exposure: 1/2000
     file: IMG_20150704_153024
-    location:
-      latitude: 41.417186666667
-      longitude: 2.1640683333333
     model: One
     width: 1920
     make: OnePlus
+    latitude: 41.417186666667
+    longitude: 2.1640683333333
   beccb64:
     aperture: f/2.0
     date: 2015-07-04 15:32:20
     exposure: 1/1500
     file: IMG_20150704_153218
-    location:
-      latitude: 41.417221666667
-      longitude: 2.1637366666667
     model: One
     width: 1920
     make: OnePlus
+    latitude: 41.417221666667
+    longitude: 2.1637366666667
   8a91e5b:
     aperture: f/2.0
     date: 2015-07-04 16:21:39
     exposure: 1/150
     file: IMG_20150704_162137
-    location:
-      latitude: 41.41552
-      longitude: 2.154405
     model: One
     width: 1920
     make: OnePlus
+    latitude: 41.41552
+    longitude: 2.154405
   1005503:
     aperture: f/2.0
     date: 2015-07-04 16:22:16
     exposure: 1/1200
     file: IMG_20150704_162215
-    location:
-      latitude: 41.394061666667
-      longitude: 2.1538633333333
     model: One
     width: 1920
     make: OnePlus
+    latitude: 41.394061666667
+    longitude: 2.1538633333333
   7ec7b8e:
     aperture: f/2.0
     date: 2015-07-04 16:24:30
     exposure: 1/1600
     file: IMG_20150704_162428
-    location:
-      latitude: 41.414836666667
-      longitude: 2.1533883333333
     model: One
     width: 1920
     make: OnePlus
+    latitude: 41.414836666667
+    longitude: 2.1533883333333
   75b2f0f:
     aperture: f/2.0
     date: 2015-07-04 16:27:56
@@ -599,86 +541,78 @@ photos:
     date: 2015-07-04 16:31:14
     exposure: 1/110
     file: IMG_20150704_163112
-    location:
-      latitude: 41.414543333333
-      longitude: 2.1538183333333
     model: One
     width: 1920
     make: OnePlus
+    latitude: 41.414543333333
+    longitude: 2.1538183333333
   a379c9e:
     aperture: f/2.0
     date: 2015-07-04 16:34:19
     exposure: 1/500
     file: IMG_20150704_163417
-    location:
-      latitude: 41.41372
-      longitude: 2.153685
     model: One
     width: 1920
     make: OnePlus
+    latitude: 41.41372
+    longitude: 2.153685
   66e1ca2:
     aperture: f/2.0
     date: 2015-07-04 17:01:54
     exposure: 1/180
     file: IMG_20150704_170152
-    location:
-      latitude: 41.391956666667
-      longitude: 2.1651633333333
     model: One
     width: 1920
     make: OnePlus
+    latitude: 41.391956666667
+    longitude: 2.1651633333333
   031f6b0:
     aperture: f/2.0
     date: 2015-07-04 20:27:09
     exposure: 1/290
     file: IMG_20150704_202707
-    location:
-      latitude: 41.394763333333
-      longitude: 2.1618016666667
     model: One
     width: 1920
     make: OnePlus
+    latitude: 41.394763333333
+    longitude: 2.1618016666667
   0376a27:
     aperture: f/2.0
     date: 2015-07-04 21:22:03
     exposure: 1/60
     file: IMG_20150704_212201
-    location:
-      latitude: 41.376251666667
-      longitude: 2.1479033333333
     model: One
     width: 1920
     make: OnePlus
+    latitude: 41.376251666667
+    longitude: 2.1479033333333
   f2209d1:
     aperture: f/2.0
     date: 2015-07-04 21:24:53
     exposure: 1/50
     file: IMG_20150704_212451
-    location:
-      latitude: 41.375583333333
-      longitude: 2.149325
     model: One
     width: 1920
     make: OnePlus
+    latitude: 41.375583333333
+    longitude: 2.149325
   892eb34:
     aperture: f/2.0
     date: 2015-07-04 21:32:50
     exposure: 1/60
     file: IMG_20150704_213248
-    location:
-      latitude: 41.372486666667
-      longitude: 2.1510066666667
     model: One
     width: 1920
     make: OnePlus
+    latitude: 41.372486666667
+    longitude: 2.1510066666667
   1f6e81e:
     aperture: f/2.0
     date: 2015-07-04 21:40:05
     exposure: 1/35
     file: IMG_20150704_214004
-    location:
-      latitude: 41.370871666667
-      longitude: 2.1516383333333
     model: One
     width: 1920
     make: OnePlus
+    latitude: 41.370871666667
+    longitude: 2.1516383333333

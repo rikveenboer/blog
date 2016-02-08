@@ -16,7 +16,7 @@ layout: post
                 {
                     center : new google.maps.LatLng({{ page.map.latitude }}, {{ page.map.longitude }}),
                     mapTypeId : google.maps.MapTypeId.TERRAIN,
-                    zoom : {{ page.map.zoom }}
+                    zoom : {% if page.map.zoom %}{{ page.map.zoom }}{% else %}7{% endif %}
                 }
             );
 {% for photo in page.photos %}

@@ -4,98 +4,88 @@ end_date: 2013-12-07
 map:
   latitude: 55.951074887427
   longitude: -3.1927781827485
-  zoom: 8
 photos:
   482452e:
     aperture: f/2.0
     date: 2013-09-17 17:15:40
     exposure: 589/1000000
     file: IMAG0819
-    location:
-      latitude: 55.951339694444
-      longitude: -3.1880302222222
     model: One S
     make: HTC
+    latitude: 55.951339694444
+    longitude: -3.1880302222222
   b091e3f:
     aperture: f/2.0
     date: 2013-09-17 18:35:51
     exposure: 50003/1000000
     file: IMAG0821
-    location:
-      latitude: 55.953639972222
-      longitude: -3.1900281666667
     model: One S
     make: HTC
+    latitude: 55.953639972222
+    longitude: -3.1900281666667
   80db970:
     aperture: f/2.0
     date: 2013-09-17 18:40:04
     exposure: 5841/1000000
     file: IMAG0823
-    location:
-      latitude: 55.952419277778
-      longitude: -3.1926369444444
     model: One S
     make: HTC
+    latitude: 55.952419277778
+    longitude: -3.1926369444444
   725d113:
     aperture: f/2.0
     date: 2013-09-17 18:41:02
     exposure: 1997/1000000
     file: IMAG0824
-    location:
-      latitude: 55.95218275
-      longitude: -3.1937393888889
     model: One S
     make: HTC
+    latitude: 55.95218275
+    longitude: -3.1937393888889
   1197f83:
     aperture: f/2.0
     date: 2013-09-17 18:42:04
     exposure: 2321/1000000
     file: IMAG0825
-    location:
-      latitude: 55.951953861111
-      longitude: -3.1949460277778
     model: One S
     make: HTC
+    latitude: 55.951953861111
+    longitude: -3.1949460277778
   958772b:
     aperture: f/2.0
     date: 2013-09-17 18:43:02
     exposure: 1674/1000000
     file: IMAG0828
-    location:
-      latitude: 55.951671583333
-      longitude: -3.1955525833333
     model: One S
     make: HTC
+    latitude: 55.951671583333
+    longitude: -3.1955525833333
   6d39d8f:
     aperture: f/2.0
     date: 2013-09-17 18:49:37
     exposure: 3615/1000000
     file: IMAG0830
-    location:
-      latitude: 55.951099388889
-      longitude: -3.2023875555556
     model: One S
     make: HTC
+    latitude: 55.951099388889
+    longitude: -3.2023875555556
   f7a009b:
     aperture: f/2.0
     date: 2013-09-17 18:51:53
     exposure: 4604/1000000
     file: IMAG0832
-    location:
-      latitude: 55.952308638889
-      longitude: -3.2032973611111
     model: One S
     make: HTC
+    latitude: 55.952308638889
+    longitude: -3.2032973611111
   293521a:
     aperture: f/2.0
     date: 2013-09-17 18:56:33
     exposure: 10008/1000000
     file: IMAG0833
-    location:
-      latitude: 55.953102111111
-      longitude: -3.200469
     model: One S
     make: HTC
+    latitude: 55.953102111111
+    longitude: -3.200469
   e8d614b:
     aperture: f/2.0
     date: 2013-09-18 09:35:07
@@ -143,41 +133,37 @@ photos:
     date: 2013-09-18 09:44:48
     exposure: 837/1000000
     file: IMAG0842
-    location:
-      latitude: 55.954353305556
-      longitude: -3.1828176944444
     model: One S
     make: HTC
+    latitude: 55.954353305556
+    longitude: -3.1828176944444
   b282557:
     aperture: f/2.0
     date: 2013-09-18 09:57:13
     exposure: 3729/1000000
     file: IMAG0844
-    location:
-      latitude: 55.949768055556
-      longitude: -3.1895143888889
     model: One S
     make: HTC
+    latitude: 55.949768055556
+    longitude: -3.1895143888889
   ed9f15f:
     aperture: f/2.0
     date: 2013-09-18 10:05:27
     exposure: 570/1000000
     file: IMAG0845
-    location:
-      latitude: 55.949497222222
-      longitude: -3.1923289166667
     model: One S
     make: HTC
+    latitude: 55.949497222222
+    longitude: -3.1923289166667
   82fe1cd:
     aperture: f/2.0
     date: 2013-09-18 10:05:55
     exposure: 1369/1000000
     file: IMAG0846
-    location:
-      latitude: 55.949443805556
-      longitude: -3.1926545833333
     model: One S
     make: HTC
+    latitude: 55.949443805556
+    longitude: -3.1926545833333
   a041855:
     aperture: f/2.0
     date: 2013-09-18 10:14:31
@@ -232,11 +218,10 @@ photos:
     date: 2013-09-18 11:56:10
     exposure: 1446/1000000
     file: IMAG0858
-    location:
-      latitude: 55.947658527778
-      longitude: -3.1980821944444
     model: One S
     make: HTC
+    latitude: 55.947658527778
+    longitude: -3.1980821944444
   af8ee50:
     aperture: f/2.0
     date: 2013-09-18 12:20:25
@@ -263,11 +248,10 @@ photos:
     date: 2013-09-18 12:48:18
     exposure: 5841/1000000
     file: IMAG0869
-    location:
-      latitude: 55.947017666667
-      longitude: -3.1912467222222
     model: One S
     make: HTC
+    latitude: 55.947017666667
+    longitude: -3.1912467222222
   721d526:
     aperture: f/2.0
     date: 2013-09-18 13:16:44
@@ -280,41 +264,37 @@ photos:
     date: 2013-09-18 13:31:45
     exposure: 684/1000000
     file: IMAG0874
-    location:
-      latitude: 55.950668333333
-      longitude: -3.1953000833333
     model: One S
     make: HTC
+    latitude: 55.950668333333
+    longitude: -3.1953000833333
   ce33533:
     aperture: f/2.0
     date: 2013-09-18 13:57:00
     exposure: 8333/1000000
     file: IMAG0875
-    location:
-      latitude: 55.950550055556
-      longitude: -3.1909811388889
     model: One S
     make: HTC
+    latitude: 55.950550055556
+    longitude: -3.1909811388889
   0b27ad7:
     aperture: f/2.0
     date: 2013-09-18 14:15:38
     exposure: 418/1000000
     file: IMAG0876
-    location:
-      latitude: 55.950630166667
-      longitude: -3.1843032777778
     model: One S
     make: HTC
+    latitude: 55.950630166667
+    longitude: -3.1843032777778
   a8cd357:
     aperture: f/2.0
     date: 2013-09-18 14:16:45
     exposure: 418/1000000
     file: IMAG0877
-    location:
-      latitude: 55.951118444444
-      longitude: -3.1844692222222
     model: One S
     make: HTC
+    latitude: 55.951118444444
+    longitude: -3.1844692222222
   c6408ed:
     date: 2013-12-07 17:55:47
     file: IMAG0837

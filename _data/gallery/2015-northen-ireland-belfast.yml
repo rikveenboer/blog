@@ -55,10 +55,6 @@ photos:
     exposure: 1/1700
     file: IMG_20150815_112759
     model: One
-    sizes:
-      640w: { height: 864, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
     make: OnePlus
   b9bc2f0:
     aperture: f/2.0
@@ -82,10 +78,6 @@ photos:
     exposure: 1/1400
     file: IMG_20150815_120745
     model: One
-    sizes:
-      640w: { height: 864, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
     make: OnePlus
   f736fd8:
     aperture: f/2.0
@@ -100,10 +92,6 @@ photos:
     exposure: 1/2600
     file: IMG_20150815_122108
     model: One
-    sizes:
-      640w: { height: 864, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
     make: OnePlus
   bc2b5ca:
     aperture: f/2.0
@@ -151,10 +139,6 @@ photos:
     exposure: 1/17
     file: IMG_20150815_142512
     model: One
-    sizes:
-      640w: { height: 445, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
     make: OnePlus
   aafd952:
     aperture: f/2.0
@@ -169,10 +153,6 @@ photos:
     exposure: 1/35
     file: IMG_20150815_142923
     model: One
-    sizes:
-      640w: { height: 1030, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
     make: OnePlus
   af7d6d1:
     aperture: f/2.0
@@ -180,10 +160,6 @@ photos:
     exposure: 1/35
     file: IMG_20150815_142940
     model: One
-    sizes:
-      640w: { height: 966, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
     make: OnePlus
   0f3b551:
     aperture: f/2.0

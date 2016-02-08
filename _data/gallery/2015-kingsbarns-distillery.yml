@@ -1,45 +1,62 @@
 title: Kingsbarns Distillery
 date: 2015-10-11
 map:
-  latitude: 56.287241601852
-  longitude: -2.6429130740741
-  zoom: 8
+  latitude: 56.287332520833
+  longitude: -2.6429116527778
 photos:
-  76d76ed:
+  4260e54:
     aperture: f/2.0
     date: 2015-10-11 12:09:10
     exposure: 1/430
     file: IMG_20151011_120908
+    make: OnePlus
     model: One
     width: 1920
-    make: OnePlus
-  6d78d25:
+  515834b:
     date: 2015-10-11 12:33:42
-    file: IMG_20151011_123341  754c91a:
+    file: IMG_20151011_123341
+    width: 1920
+  821ab6b:
     date: 2015-10-11 12:43:35
-    file: IMG_20151011_124334  83b96af:
+    file: IMG_20151011_124334
+    width: 1920
+  57e5fd8:
     date: 2015-10-11 12:43:48
-    file: IMG_20151011_124347  c09afdb:
-    date: 2015-10-11 12:45:58
-    file: IMG_20151011_124557  908f32b:
+    file: IMG_20151011_124347
+    width: 1920
+  6f8820e:
+    altitude: 78
     date: 2015-10-11 13:10:56
+    direction: 81
     file: IMG_20151011_131055
-    location:
-      latitude: 56.287509916667
-      longitude: -2.6425761944444  a0808fe:
+    latitude: 56.287509916667
+    longitude: -2.6425761944444
+    width: 1920
+  b5217a5:
+    altitude: 47
     date: 2015-10-11 13:11:09
+    direction: 187
     file: IMG_20151011_131108
-    location:
-      latitude: 56.287113166667
-      longitude: -2.6430730555556  6dbb83c:
+    latitude: 56.287113166667
+    longitude: -2.6430730555556
+    width: 1920
+  a828815:
+    altitude: 138
+    date: 2015-10-11 13:11:19
+    direction: 278
+    file: IMG_20151011_131118
+    latitude: 56.287605277778
+    longitude: -2.6429073888889
+    width: 1920
+  7af8069:
+    altitude: 87
     date: 2015-10-11 13:11:28
+    direction: 36
     file: IMG_20151011_131127
-    location:
-      latitude: 56.287101722222
-      longitude: -2.6430899722222  98c799a:
+    latitude: 56.287101722222
+    longitude: -2.6430899722222
+    width: 1920
+  0963ddf:
     date: 2015-10-11 13:46:51
     file: IMG_20151011_134651
-    sizes:
-      640w: { height: 480, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 1920

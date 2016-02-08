@@ -3,25 +3,22 @@ date: 2014-02-21
 map:
   latitude: 56.33151625
   longitude: -2.8101793472222
-  zoom: 8
 photos:
   480761a:
     aperture: f/2.0
     date: 2014-02-21 19:49:17
     exposure: 50001/1000000
     file: IMG_20140221_194916
-    location:
-      latitude: 56.330379472222
-      longitude: -2.8101548888889
     model: One S
     make: HTC
+    latitude: 56.330379472222
+    longitude: -2.8101548888889
   2f25d67:
     aperture: f/2.0
     date: 2014-02-21 20:47:38
     exposure: 50001/1000000
     file: IMG_20140221_204737
-    location:
-      latitude: 56.332653027778
-      longitude: -2.8102038055556
     model: One S
     make: HTC
+    latitude: 56.332653027778
+    longitude: -2.8102038055556

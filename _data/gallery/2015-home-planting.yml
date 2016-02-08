@@ -3,27 +3,19 @@ date: 2015-04-11
 map:
   latitude: 56.330340055556
   longitude: -2.8101274814815
-  zoom: 8
 photos:
   f3abec0:
     date: 2015-04-11 15:12:02
     file: IMG_20150411_151201
-    location:
-      latitude: 56.330341333333
-      longitude: -2.8101536944444
+    latitude: 56.330341333333
+    longitude: -2.8101536944444
   4e9ce9c:
     date: 2015-04-11 15:16:39
     file: IMG_20150411_151639
-    location:
-      latitude: 56.330341333333
-      longitude: -2.8101510833333
+    latitude: 56.330341333333
+    longitude: -2.8101510833333
   dbbd593:
     date: 2015-04-11 15:27:29
     file: IMG_20150411_152728
-    location:
-      latitude: 56.3303375
-      longitude: -2.8100776666667
-    sizes:
-      640w: { height: 475, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    latitude: 56.3303375
+    longitude: -2.8100776666667

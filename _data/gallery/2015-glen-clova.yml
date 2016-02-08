@@ -4,7 +4,6 @@ end_date: 2015-10-12
 map:
   latitude: 56.848537444301
   longitude: -3.2079794166989
-  zoom: 8
 photos:
   49e5772:
     aperture: f/2.0
@@ -177,13 +176,8 @@ photos:
   9458403:
     date: 2015-10-10 13:45:29
     file: IMG_20151010_134528 - IMG_20151010_134551
-    location:
-      latitude: 56.848537444301
-      longitude: -3.2079794166989
-    sizes:
-      640w: { height: 214, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    latitude: 56.848537444301
+    longitude: -3.2079794166989
   e6651b4:
     aperture: f/2.0
     date: 2015-10-10 13:49:30
@@ -291,7 +285,3 @@ photos:
   bd673ad:
     date: 2015-10-12 14:21:02
     file: PANO_20151010_131920
-    sizes:
-      640w: { height: 163, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }

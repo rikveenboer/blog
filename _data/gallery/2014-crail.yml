@@ -3,7 +3,6 @@ date: 2014-03-23
 map:
   latitude: 56.259661486111
   longitude: -2.6248157400794
-  zoom: 8
 photos:
   78ac925:
     aperture: f/2.0
@@ -17,51 +16,46 @@ photos:
     date: 2014-03-23 13:42:32
     exposure: 875/1000000
     file: IMG_20140323_134232
-    location:
-      latitude: 56.262405388889
-      longitude: -2.6253082777778
     model: One S
     make: HTC
+    latitude: 56.262405388889
+    longitude: -2.6253082777778
   39f52a8:
     aperture: f/2.0
     date: 2014-03-23 13:44:56
     exposure: 761/1000000
     file: IMG_20140323_134456
-    location:
-      latitude: 56.261478416667
-      longitude: -2.6220915277778
     model: One S
     make: HTC
+    latitude: 56.261478416667
+    longitude: -2.6220915277778
   ee4ad28:
     aperture: f/2.0
     date: 2014-03-23 13:46:45
     exposure: 723/1000000
     file: IMG_20140323_134644
-    location:
-      latitude: 56.261833166667
-      longitude: -2.62193175
     model: One S
     make: HTC
+    latitude: 56.261833166667
+    longitude: -2.62193175
   d7f1b3c:
     aperture: f/2.0
     date: 2014-03-23 13:53:40
     exposure: 570/1000000
     file: IMG_20140323_135340
-    location:
-      latitude: 56.260486583333
-      longitude: -2.6214575277778
     model: One S
     make: HTC
+    latitude: 56.260486583333
+    longitude: -2.6214575277778
   a9e319d:
     aperture: f/2.0
     date: 2014-03-23 14:04:20
     exposure: 1103/1000000
     file: IMG_20140323_140420
-    location:
-      latitude: 56.260429361111
-      longitude: -2.6212463333333
     model: One S
     make: HTC
+    latitude: 56.260429361111
+    longitude: -2.6212463333333
   de85af4:
     aperture: f/2.0
     date: 2014-03-23 14:06:19
@@ -74,81 +68,73 @@ photos:
     date: 2014-03-23 14:07:43
     exposure: 8333/1000000
     file: IMG_20140323_140742
-    location:
-      latitude: 56.259178138889
-      longitude: -2.6229040555556
     model: One S
     make: HTC
+    latitude: 56.259178138889
+    longitude: -2.6229040555556
   a81aa3d:
     aperture: f/2.0
     date: 2014-03-23 14:12:25
     exposure: 5650/1000000
     file: IMG_20140323_141224
-    location:
-      latitude: 56.258728027778
-      longitude: -2.6257386388889
     model: One S
     make: HTC
+    latitude: 56.258728027778
+    longitude: -2.6257386388889
   6de6bff:
     aperture: f/2.0
     date: 2014-03-23 14:14:23
     exposure: 266/1000000
     file: IMG_20140323_141422
-    location:
-      latitude: 56.258201583333
-      longitude: -2.6262288333333
     model: One S
     make: HTC
+    latitude: 56.258201583333
+    longitude: -2.6262288333333
   481c334:
     aperture: f/2.0
     date: 2014-03-23 14:14:31
     exposure: 608/1000000
     file: IMG_20140323_141430
-    location:
-      latitude: 56.258205388889
-      longitude: -2.6262314444444
     model: One S
     make: HTC
+    latitude: 56.258205388889
+    longitude: -2.6262314444444
   bf454c6:
     aperture: f/2.0
     date: 2014-03-23 14:15:47
     exposure: 532/1000000
     file: IMG_20140323_141547
-    location:
-      latitude: 56.258239722222
-      longitude: -2.6262602222222
     model: One S
     make: HTC
+    latitude: 56.258239722222
+    longitude: -2.6262602222222
   bca9078:
     aperture: f/2.0
     date: 2014-03-23 14:25:28
     exposure: 1103/1000000
     file: IMG_20140323_142527
-    location:
-      latitude: 56.258529638889
-      longitude: -2.6288544722222
     model: One S
     make: HTC
+    latitude: 56.258529638889
+    longitude: -2.6288544722222
   e494f68:
     aperture: f/2.0
     date: 2014-03-23 14:31:22
     exposure: 970/1000000
     file: IMG_20140323_143121
-    location:
-      latitude: 56.258529638889
-      longitude: -2.6288544722222
     model: One S
     make: HTC
+    latitude: 56.258529638889
+    longitude: -2.6288544722222
   de6b563:
     aperture: f/2.0
     date: 2014-03-23 14:31:36
     exposure: 551/1000000
     file: IMG_20140323_143136
-    location:
-      latitude: 56.258529638889
-      longitude: -2.6288544722222
     model: One S
     make: HTC
+    latitude: 56.258529638889
+    longitude: -2.6288544722222
   8f0ef0f:
     aperture: f/2.0
     date: 2014-03-23 14:44:39
@@ -159,6 +145,5 @@ photos:
   252aac5:
     date: 2014-03-23 19:32:45
     file: PANO_20140323_134738
-    location:
-      latitude: 56.260486111111
-      longitude: -2.6214583333333
+    latitude: 56.260486111111
+    longitude: -2.6214583333333

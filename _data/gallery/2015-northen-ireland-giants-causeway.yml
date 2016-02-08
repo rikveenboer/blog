@@ -1,4 +1,4 @@
-title: Northern Ireland - Giant's Causeway
+title: Northern Ireland - Giants Causeway
 date: 2015-08-16
 photos:
   1b3c5a9:
@@ -71,10 +71,6 @@ photos:
     exposure: 1/750
     file: IMG_20150816_161211
     model: One
-    sizes:
-      640w: { height: 864, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
     make: OnePlus
   960c76e:
     aperture: f/2.0

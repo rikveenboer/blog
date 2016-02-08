@@ -222,8 +222,7 @@ $oConsole
             if (count($aLongitude) > 0) {
                 $aGallery['map'] = [
                     'latitude' => array_sum($aLatitude) / count($aLatitude),
-                    'longitude' => array_sum($aLongitude) / count($aLongitude),
-                    'zoom' => 8
+                    'longitude' => array_sum($aLongitude) / count($aLongitude)
                 ];
             }
             $aGallery['photos'] = $aPhotos;

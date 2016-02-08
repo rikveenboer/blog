@@ -3,24 +3,20 @@ date: 2014-01-22
 map:
   latitude: 56.330416986111
   longitude: -2.8102936990741
-  zoom: 8
 photos:
   4a822c0:
     aperture: f/2.8
     date: 2010-06-01 19:44:20
     exposure: 1/60
     file: Garden
-    model: Digital IXUS 60    make: Canon
+    model: Digital IXUS 60
+    make: Canon
   aab3b8a:
     aperture: f/2.8
     date: 2013-06-19 09:16:12
     exposure: 1/15
     file: Kitchen 1
     model: iPhone 4
-    sizes:
-      640w: { height: 857, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
     make: Apple
   6ee5ba1:
     aperture: f/2.8
@@ -28,10 +24,6 @@ photos:
     exposure: 1/30
     file: Kitchen 2
     model: iPhone 4
-    sizes:
-      640w: { height: 857, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
     make: Apple
   5dc49ba:
     aperture: f/2.8
@@ -39,10 +31,6 @@ photos:
     exposure: 1/20
     file: Bathroom
     model: iPhone 4
-    sizes:
-      640w: { height: 857, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
     make: Apple
   9cd655f:
     aperture: f/2.8
@@ -50,10 +38,6 @@ photos:
     exposure: 1/15
     file: Living room 2
     model: iPhone 4
-    sizes:
-      640w: { height: 479, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
     make: Apple
   f5e41f3:
     aperture: f/2.8
@@ -61,68 +45,58 @@ photos:
     exposure: 1/15
     file: Living room 1
     model: iPhone 4
-    sizes:
-      640w: { height: 479, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
     make: Apple
   3752cd9:
     aperture: f/2.0
     date: 2013-10-26 16:34:50
     exposure: 10008/1000000
     file: IMAG0040
-    location:
-      latitude: 56.330444333333
-      longitude: -2.8103780555556
     model: One S
     make: HTC
+    latitude: 56.330444333333
+    longitude: -2.8103780555556
   a852e5d:
     aperture: f/2.0
     date: 2013-10-26 16:35:07
     exposure: 6355/1000000
     file: IMAG0041
-    location:
-      latitude: 56.330451944444
-      longitude: -2.8104240833333
     model: One S
     make: HTC
+    latitude: 56.330451944444
+    longitude: -2.8104240833333
   b69ebfc:
     aperture: f/2.0
     date: 2013-11-07 07:46:45
     exposure: 94375/1000000
     file: IMAG0080
-    location:
-      latitude: 56.330413805556
-      longitude: -2.8102748055556
     model: One S
     make: HTC
+    latitude: 56.330413805556
+    longitude: -2.8102748055556
   187e4cf:
     aperture: f/2.0
     date: 2013-11-09 17:17:48
     exposure: 47187/1000000
     file: IMAG0092
-    location:
-      latitude: 56.330398555556
-      longitude: -2.810256
     model: One S
     make: HTC
+    latitude: 56.330398555556
+    longitude: -2.810256
   fd2f9d0:
     aperture: f/2.0
     date: 2013-11-24 18:34:50
     exposure: 94375/1000000
     file: IMAG0185
-    location:
-      latitude: 56.330413805556
-      longitude: -2.8102721944444
     model: One S
     make: HTC
+    latitude: 56.330413805556
+    longitude: -2.8102721944444
   bf7758f:
     aperture: f/2.0
     date: 2014-01-22 19:15:20
     exposure: 94370/1000000
     file: IMG_20140122_191519
-    location:
-      latitude: 56.330379472222
-      longitude: -2.8101570555556
     model: One S
     make: HTC
+    latitude: 56.330379472222
+    longitude: -2.8101570555556

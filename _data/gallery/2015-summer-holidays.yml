@@ -36,10 +36,6 @@ photos:
     exposure: 1/25
     file: Panorama-klein
     model: D3100
-    sizes:
-      640w: { height: 141, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
     make: Nikon
   87055e2:
     aperture: f/5.0

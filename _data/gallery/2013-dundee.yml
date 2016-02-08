@@ -3,25 +3,22 @@ date: 2013-11-24
 map:
   latitude: 56.461420041667
   longitude: -2.9712500416667
-  zoom: 8
 photos:
   236a633:
     aperture: f/2.0
     date: 2013-11-24 13:30:10
     exposure: 3215/1000000
     file: IMAG0183
-    location:
-      latitude: 56.460559833333
-      longitude: -2.9703473888889
     model: One S
     make: HTC
+    latitude: 56.460559833333
+    longitude: -2.9703473888889
   ad2b297:
     aperture: f/2.0
     date: 2013-11-24 14:20:39
     exposure: 2245/1000000
     file: IMAG0184
-    location:
-      latitude: 56.46228025
-      longitude: -2.9721526944444
     model: One S
     make: HTC
+    latitude: 56.46228025
+    longitude: -2.9721526944444

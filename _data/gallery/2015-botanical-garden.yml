@@ -3,113 +3,89 @@ date: 2015-04-11
 map:
   latitude: 56.335407694444
   longitude: -2.8056363039216
-  zoom: 8
 photos:
   c8f389f:
     date: 2015-04-11 11:53:02
     file: IMG_20150411_115302
-    location:
-      latitude: 56.335708611111
-      longitude: -2.8092899166667
+    latitude: 56.335708611111
+    longitude: -2.8092899166667
   b579925:
     date: 2015-04-11 11:54:31
     file: IMG_20150411_115430
-    location:
-      latitude: 56.335708611111
-      longitude: -2.8092899166667
+    latitude: 56.335708611111
+    longitude: -2.8092899166667
   32cd62d:
     date: 2015-04-11 11:54:45
     file: IMG_20150411_115444
-    location:
-      latitude: 56.335708611111
-      longitude: -2.8092899166667
+    latitude: 56.335708611111
+    longitude: -2.8092899166667
   156e2b6:
     date: 2015-04-11 11:55:27
     file: IMG_20150411_115526
-    location:
-      latitude: 56.335708611111
-      longitude: -2.8092899166667
+    latitude: 56.335708611111
+    longitude: -2.8092899166667
   e295956:
     date: 2015-04-11 11:57:14
     file: IMG_20150411_115714
-    location:
-      latitude: 56.335708611111
-      longitude: -2.8092899166667
+    latitude: 56.335708611111
+    longitude: -2.8092899166667
   029ed5f:
     date: 2015-04-11 12:00:47
     file: IMG_20150411_120046
-    location:
-      latitude: 56.335571277778
-      longitude: -2.8036031666667
+    latitude: 56.335571277778
+    longitude: -2.8036031666667
   b256162:
     date: 2015-04-11 12:02:07
     file: IMG_20150411_120206
-    location:
-      latitude: 56.335571277778
-      longitude: -2.8036031666667
+    latitude: 56.335571277778
+    longitude: -2.8036031666667
   8789c16:
     date: 2015-04-11 12:02:40
     file: IMG_20150411_120239
-    location:
-      latitude: 56.335571277778
-      longitude: -2.8036031666667
+    latitude: 56.335571277778
+    longitude: -2.8036031666667
   a60f94d:
     date: 2015-04-11 12:05:10
     file: IMG_20150411_120509
-    location:
-      latitude: 56.335571277778
-      longitude: -2.8036031666667
-    sizes:
+    latitude: 56.335571277778
+    longitude: -2.8036031666667
   7e47922:
     date: 2015-04-11 12:07:02
     file: IMG_20150411_120701
-    location:
-      latitude: 56.335571277778
-      longitude: -2.8036031666667
+    latitude: 56.335571277778
+    longitude: -2.8036031666667
   2c67c85:
     date: 2015-04-11 12:08:16
     file: IMG_20150411_120815
-    location:
-      latitude: 56.335571277778
-      longitude: -2.8036031666667
+    latitude: 56.335571277778
+    longitude: -2.8036031666667
   1ef28a5:
     date: 2015-04-11 12:09:23
     file: IMG_20150411_120922
-    location:
-      latitude: 56.335571277778
-      longitude: -2.8036031666667
+    latitude: 56.335571277778
+    longitude: -2.8036031666667
   4561d65:
     date: 2015-04-11 12:10:43
     file: IMG_20150411_121042
-    location:
-      latitude: 56.335571277778
-      longitude: -2.8036031666667
+    latitude: 56.335571277778
+    longitude: -2.8036031666667
   9733a5b:
     date: 2015-04-11 12:11:25
     file: IMG_20150411_121125
-    location:
-      latitude: 56.335571277778
-      longitude: -2.8036031666667
-    sizes:
-      640w: { height: 864, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    latitude: 56.335571277778
+    longitude: -2.8036031666667
   a61a2ee:
     date: 2015-04-11 12:19:02
     file: IMG_20150411_121902
-    location:
-      latitude: 56.334415416667
-      longitude: -2.8056463611111
-    sizes:
+    latitude: 56.334415416667
+    longitude: -2.8056463611111
   ca7e7a5:
     date: 2015-04-11 12:20:18
     file: IMG_20150411_122018
-    location:
-      latitude: 56.334415416667
-      longitude: -2.8056463611111
+    latitude: 56.334415416667
+    longitude: -2.8056463611111
   9560dd0:
     date: 2015-04-11 12:22:52
     file: IMG_20150411_122252
-    location:
-      latitude: 56.334415416667
-      longitude: -2.8056463611111
+    latitude: 56.334415416667
+    longitude: -2.8056463611111
