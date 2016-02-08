@@ -8,6 +8,8 @@ description: Een serieuze training voor de geplande wedstrijd.
 
 Met diverse collega's hebben we ons al doel gesteld om op 12 juli de [Dundee Half Marathon][1] te lopen. Diverse trainingsschema's raden me aan om zo'n vier maanden van tevoren te beginnen met trainen, maar om niet al te lui te worden probeer ik continu sportief bezig te blijven.
 
+<a name="more"></a>
+
 Na een drukke week en een vullend [international dinner][2] was het deze zondag tijd om erop uit te gaan. Helaas was het behoorlijk grauw weer, in tegenstelling tot de zon van zaterdag. In plaats van met de cross country club mee te lopen, besloot ik zelf een route uit te stippelen. Ik had op de kaart een iets langere ronde gezien die me langs diverse plekken zou voeren waar ik nog niet eerder was geweest.
 
 Eenmaal op de weg ziet het er allemaal wat anders uit, en uiteindelijk is het (letterlijk) een beetje anders gelopen. Ik heb diverse verkeerde afslagen genomen. Door de eerste afwijking kwam ik te vroeg op een grotere weg uit, helaas! Toch was het kortere stukje over een heuvel met fraai uitzicht het zeker waard. Vervolgens dacht ik een doorgaand pad gevonden te hebben, maar kwam ik bij een vers ingezaaid weiland uit, baggeren maar!

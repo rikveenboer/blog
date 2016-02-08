@@ -10,6 +10,8 @@ description: Een erg snelle 5 kilometer hardloopwedstrijd op een wat saai parcou
 
 Sinds ik afgelopen september [lid ben geworden van het universitair sportcentrum][1] ben ik aanzienlijk meer gaan sporten:  sportschool, atletiek (sprint) en hardlopen. Dat laatste gaat prima op eigen houtje, maar ook de rondes met de Cross Country Club zijn leuk en uitdagend.
 
+<a name="more"></a>
+
 Vandaag heb ik met deze club meegedaan aan een groots georganiseerde 10 kilometer: Round the Houses in het dorpje Grangemouth (gelegen tussen Stirling en Edinburgh). Ik had Italiaanse collega Danila ook overgehaald om mee te doen, dit alles in het kader van de halve marathon die we in Juli zullen lopen. Deze officiële wedstrijd liepen we met een tijdsregistratie-chip, dus nu zou onomstotelijk vast komen te liggen of ik al op voldoende niveau was.
 
 Omdat het de afgelopen week mooi weer was had ik al twee keer zo'n tien kilometer hardgelopen (zie ronde [1][2] en [2][3]), maar eigenlijk zijn die routes niet te vergelijken met [het parcours][4] van de wedstrijd. Deze laatste lijkt zo een behoorlijk saai vierkant over grote wegen en langs woonwijken, terwijl de routes door St Andrews langs diverse stranden (meervoud!) en over behoorlijk steile heuvels voerden. Samen met de motivatie om er tijdens een wedstrijd een schepje bovenop te doen lag een tijd onder mijn trainingstijden van rond de 50minuten zeker in de lijn der verwachting.

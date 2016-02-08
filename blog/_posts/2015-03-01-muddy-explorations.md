@@ -7,6 +7,8 @@ description: Al rennend op verkenning in de omgeving.
 
 Na mijn avontuurlijke hardloopavontuur van [vorige week][1], had ik ook vandaag zin om al hardlopend op verkenning te gaan. Terwijl het weer vorige week behoorlijk slecht was, was het nu overwegend zonnig met harde wind. Ik had dan ook niet verwacht onderweg zoveel modder tegen te komen!
 
+<a name="more"></a>
+
 Mijn bedoeling was om nu de gemiste afslag van vorige week in te slaan, maar ook nu liep het anders. In plaats van met exact hetzelfde stuk te beginnen, besloot ik een pad langs de Cairnsmill Burn te volgen. Het is me een raadsel waarom, maar het was flink aanmodderen. Gelukkig was het laatste stuk richting Mount Melville beter begaanbaar en het was opnieuw een leuk stuk door het bos de heuvel op.
 
 De rest van de weg vervolgde ik zonder grootste problemen en ik volgde de juiste afslag. Daarna werd ik afgeleid door een hoge berg vlak langs mijn pad. Het leek me zeker de moeite waard om daarheen te rennen en het uitzicht vanaf de top te bekijken. Als een ware pantokrator heb ik een ronde om de top heen gemaakt, zie daarvoor het stuk tussen de 8 en 9 kilometer op de [route][2]. Ook hier was een soort pad dat aan de sporen te zien zowel door paarden als mountainbikers werd gebruikt. Hoe beide groepen dat doen is mij onduidelijk, want hier een daar was het opnieuw behoorlijk moerassig.

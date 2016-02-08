@@ -14,6 +14,8 @@ description: Een lange hike naar de top van een munro.
 
 Hoewel zondag veelal als rustdag word gebruikt, is het beter om er dan op uit te trekken. Vandaag ben ik met de [Postgrad & Staff Hiking Club][1] gaan hiken in de buurt van Blair Atholl.
 
+<a name="more"></a>
+
 De keuze was tussen een 4 uur durende hike rond de rivieren [Glen Banvie and Bruar][2] en de 7 uur durende hike naar [Carn a'Chlamain][3]. Op een eerdere [internationals trip][4] hadden we al een uurtje gelopen langs de rivier Bruar en de eerste tocht beloofde meer van hetzelfde spektakel. De tweede tocht is een retour naar een [Munro][5], één van de bergtoppen in Schotland hoger dan 3000 voet (ongeveer 900 meter).
 
 Net als ik kozen de meesten kozen voor deze uitdagende laatste optie. Ongeveer de helft van de route is redelijk vlak en volgt de kronkelige rivier Tilt. We moesten oppassen om aan de goede kant van de rivier te lopen, want er werd geschoten op de [nabijgelegen schietbaan][6]. Met flinke knallen op de achtergrond liepen we in een rap tempo naar de voet van de daadwerkelijke berg. Aldaar werd het al snel erg steil en was het een hele inspanning om hogerop te komen. Hierna konden we een tijdje een grindpad volgen om vlakbij de top nog eens extra uitgedaagd te worden. In plaats van een pad kozen we een snellere route dwars door lage struikjes en mos. Het is erg comfortabel om op deze zachte ondergrond te lopen. De allerlaatste meters naar de top voeren over scherp grind. Een geoloog zou me misschien verbeteren, maar ik vermoed dat erosie op deze hoogte het gesteente transformeert tot deze gedegradeerde toestand.

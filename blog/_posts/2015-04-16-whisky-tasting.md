@@ -30,6 +30,8 @@ Vanavond was de laatste whisky tasting van het seizoen en het mag gerust een fan
  - [Evolution (57%, £57)][6]
  - [Torfa (50%, £40)][7]
 
+<a name="more"></a>
+
 Het is erg leuk om BenRiach op een tasting tegen te komen, want deze distilleerderij is nogal memorabel. Op mijn allereerste avond in St Andrews liet mijn toenmalige huisbaas me  proeven. Dat was m'n eerste single malt en hoewel ik toen nog amper ervaring met whisky had, was het een zeer aangename introductie. Meer recent heeft Bram de  aangeschaft en omdat we die bij een van m'n bezoeken in Nederland hebben gedronken is dat ook zeker het vermelden waard.
 
 Nu dan over de whiskies van deze tasting: het was helemaal niet erg dat geen van allen extreem duur is, want kwaliteit kent geen prijs. De rijke verscheidenheid gaf vanzelfsprekend uitgebreide mogelijkheid om onderling te vergelijken. Daartoe heb ik de whiskies dan ook tussen de volgorde van de tasting door (zoals hierboven genoemd) diverse malen herproefd.

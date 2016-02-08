@@ -11,6 +11,8 @@ description: Het is tijd om bioscoopbezoek te stroomlijnen.
 
 De laatste tijd hebben we vele films gekeken bij de bioscoop in Dundee. Nu ik ook [een eigen auto][1]") heb aangeschaft, kan ik daar zelfs nog vaker heen. Film kijken op een groot scherm met levenecht geluid is namelijk veel beter dan op een laptop. Bovendien is het een prima manier om een beetje tot rust te komen na een dag werken of in het weekend. Net als twee collega's heb ik daarom de [Cineworld Unlimited card][2] aangeschaft!
 
+<a name="more"></a>
+
 Natuurlijk hebben we gelijk een tweetal films bekeken:
 
 {% include caption.html

@@ -11,6 +11,8 @@ Een samenwerking tussen de Fine Chocolate Society en de Whisky Society heeft van
 - Arran (10 year) + Chai Tea
 - Talisker Storm (10 year) + Raspberry & Black pepper
 
+<a name="more"></a>
+
 De chocolade was afkomstig van het luxe merk Iain Burnett, dat zich aanprijst als "The Highland Chocolatier".
 
 Tijdens de tasting werd er behoorlijk vakkundige uitleg over de whiskies gegeven door een Amerikaan uit het bestuur van de Whisky Society. De uitgebreide uitleg over de chocolade werd verzorgd door een snerpende mevrouw van de chocolatier. Het was grappig dat ze elkaar leken te willen overtreffen met hun informatieve betogen over de diverse producten.

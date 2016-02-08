@@ -17,6 +17,8 @@ Vanavond werd de whisky tasting gepresenteerd door Glenmorangie. We werden getra
 - [Signet][4] (no age statement, 46%, £125)
 - [Duthac][5] (no age statement, 43%)
 
+<a name="more"></a>
+
 De originele 10 jaars editie hadden we al eens eerder geproefd bij Bep en Bob tijdens vorig jaars kerstvakantie. Bob vertelde toen dat hij deze whisky van een collega had gehad. De presentatrice van de tasting vertelde ons dat dit de Schotlands meest verkochte single malt is. En niet zonder reden, want ook wat mij betreft is dit de beste 10 jaars, 40% whisky die ik tot nu toe heb geproefd. Het licht geturfde mout waarvan deze whisky is gemaakt geeft duidelijk een aangename complexe drinkbeleving. 
 
 De presentatie was erg uitgebreid en naast de whiskies kregen we diverse zaken te bekijken, ruiken en proeven. Allereerst twee verschillende soorten gemoute gerst om duidelijk te maken wat diverse methoden van drogen voor invloed hebben.  

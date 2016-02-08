@@ -20,6 +20,8 @@ Deze merkwaardige tasting werd verzorgd door [Compass Box][1], compleet met opme
  - [Peat Monster][6]
  - [The Lost Blend][7]
 
+<a name="more"></a>
+ 
 Een unikum was dat we eerst een whisky cocktail kregen om de toon te zetten. Deze was gebaseerd op de "Great King Street Artist's Blend" en voorzien van een extra speciale cocktailkers, maar wat er behalve dit en vermouth nog meer in zat kan ik me niet precies herinneren. De liefhebber kan dit drankje vast terugvinden in de speciale [bijlage][8].
 
 Dit gaf gelijk te denken, is een whisky cocktail niet vreemd? Het mixen van een eenvoudige blend met frisdrank of ijs lijkt redelijk gangbaar onder de niet-ingewijden, maar iets dergelijks was nieuw voor de meeste aanwezigen. Zeker als de gebruikte whisky een prijskaartje heeft waar een zuinige student een week boodschappen van kan doen? Later werd ons verteld dat het voor de fortuinlijke medemens helemaal modern is om relatief dure whisky te vercocktailen.

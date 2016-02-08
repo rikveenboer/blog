@@ -17,9 +17,9 @@ end_date: 2015-08-24
 [12]: http://www.kingsbarnsdistillery.com/
 [13]: http://www.st-andrews-botanic.org/
 
-Sanne is deze augustus bij mij op bezoek geweest in St Andrews voor een joyful lang weekend!
-
 Sanne heeft deze zomer een prachtig lang weekend (donderdag tot en met maandag) uitgezocht om mij in Schotland te bezoeken. Het was erg gezellig om samen op pad te gaan. We hebben eigenlijk zo veel leuke dingen gedaan en bezocht dat ik mezelf ook op vakantie waande! Lees het verslag van dag tot dag:
+
+<a name="more"></a>
 
 **Donderdag** Nadat ze woensdagavond in Edinburgh aan kwam is Sanne het grootste deel van donderdag op verkenning in deze Schotse hoofdstad geweest. Aan het einde van de middag vertrok ze met de trein richting Leuchars, het station nabij St Andrews. Door onze perfecte timing kon ik haar precies na het werk afhalen om thuis aangekomen een simpel doch vertrouwd lekker maal pannekoeken te koken. We hadden nog wat daglicht over, dus we hebben een rondje door het dorp gereden om Sanne vast wat aanknopingspunten voor de volgende dag te geven. Geloof het of niet, maar we durfden het zelfs aan om Sanne een stukje te laten rijden! Eenmaal terug onthulde Sanne haar koffer vol gulle gaven uit Nederland. De topstukken zijn onbetwist het verduisterende gordijn voor mijn kamer en een heerlijke zelfgebakken gevulde boterkoek.
 

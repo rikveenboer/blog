@@ -15,6 +15,8 @@ De meest uitgebreide tasting tot nu toe, met maar liefst zeven whiskies van drie
 - Bowmore: Darkest (15 year)
 - Bowmore: Tempest Batch 4
 
+<a name="more"></a>
+
 De presentatie werd verzorgt door een echte liefhebber die verhalen over de achtergronden bij de whiskies afwisselde met video's over de distileerderijen. Op deze manier wist hij een prima sfeer te creëren om ons echt te verplaatsten in het Schotse vocht.
 
 {% include gallery.html gallery='2014-whisky-tasting-1' %}

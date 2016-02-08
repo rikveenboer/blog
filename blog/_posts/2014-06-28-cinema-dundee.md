@@ -8,6 +8,8 @@ description: Een dubbel filmbezoek bij de bioscoop in Dundee.
 
 Het was al een tijdje geleden, maar zijn weer naar de bioscoop geweest voor een tweetal films.
 
+<a name="more"></a>
+
 {% include caption.html
     width='300'
     image='/asset/images/How-to-Train-Your-Dragon-2.jpg' 

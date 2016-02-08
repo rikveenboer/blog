@@ -8,6 +8,8 @@ description: Een tasting van Benromach whisky.
 
 Voor deze tasting hebben we een burger gegeten bij [Rascals Bar][1], een prima plaats om een bodem te leggen!
 
+<a name="more"></a>
+
 De tasting werd verzorgd door Gordon & MacPhail. Deze onafhankelijke bottelaar is gehuisvest vlakbij Elgin in Speyside, de "whiskyhoofdstreek" van Schotland. Dit bedrijf runt ook de [Benromach][2] distilleerderij en daarvan kregen we zes whiskies te proeven:
 
 - Organic

@@ -5,7 +5,11 @@ description: Een dubbel divers bioscoop bezoek.
 [1]: http://www.imdb.com/title/tt1976000/
 [2]: http://www.imdb.com/title/tt0831387/
 
-Hoewel het de afgelopen week behoorlijk goed weer was, is het toch leuk om lekker binnen in de bioscoop te zitten en nieuwe films te bekijken. Vanavond was ik met de Schotse collega en drie Italianen op pad. Als eerste hebben we een "thriller" gezien:
+Hoewel het de afgelopen week behoorlijk goed weer was, is het toch leuk om lekker binnen in de bioscoop te zitten en nieuwe films te bekijken. Vanavond was ik met de Schotse collega en drie Italianen op pad.
+
+<a name="more"></a>
+
+Als eerste hebben we een "thriller" gezien:
 
 {% include caption.html
     width='300'

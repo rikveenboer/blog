@@ -13,6 +13,8 @@ description: Op bezoek bij een chemicus uit Noord-Ierland.
 
 Congressen zoals die [afgelopen juli in Spanje][1] zijn niet alleen van wetenschappelijke waarde, het zijn ook uitmuntende gelegenheden om nieuwe contacten op te doen. Hoewel het leuk is om mensen van ver weg te ontmoeten, is het wellicht nuttiger om dichter bij werkenden te leren kennen. Een goed voorbeeld waren de Ieren en Engelsen, die zijn dichtbij genoeg gelokaliseerd om even op bezoek te gaan. Zodoende ben ik een weekend in Belfast (Noord Ierland) en omstreken rondgeleid!
 
+<a name="more"></a>
+
 Omdat ik geen vakantiedagen wilde opnemen had ik een strakke planning gemaakt: op zaterdagochtend heen vliegen om 7 uur en op maandagochtend terug vliegen om 8 uur. Op die manier zou ik zaterdag voor 10 uur in Belfast zijn en maandag om 11 uur weer op mijn werk, een knap staaltje tijd optimalisatie? Het nadeel was natuurlijk erg vroeg opstaan!
 
 Belfast is een redelijk compacte en moderne stad die ook een behoorlijk aantal meer klassieke gebouwen huisvest. Gedurende de dag hebben we vrijwel alle toeristische attracties bezocht, te beginnen met de gezellige St George's Market. Daarna zijn we voor het overzicht naar het centraal gelegen panorama uitzicht platform bij Victoria Square gegaan. Vanaf hier waren vele andere bestemmingen zichtbaar.

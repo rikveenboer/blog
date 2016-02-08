@@ -15,6 +15,8 @@ Twee weken geleden was de whisky tasting in St Andrews verruild voor een eveneme
 - *Clan Denny* Invergordon (26yo, £84)
 - *Big Peat* (blend, £34)
 
+<a name="more"></a>
+
 Voor deze keer heb ik extra metadata toegevoegd: de serie in cursief, tussen haakjes de leeftijd en prijs en zelfs afbeeldingen van de flessen:
 
 {% include gallery.html gallery='2014-whisky-tasting-2' %}

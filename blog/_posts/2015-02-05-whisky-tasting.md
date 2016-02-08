@@ -2,7 +2,7 @@
 title: Whisky Tasting
 description: Een uitzonderlijke collectie whiskies van diverse distilleerderijen. 
 ---
-[1]: {% post_baseurl 2015-01-26-bezoek-angela %}
+[1]: {% post_baseurl 2015-01-26-visit-angela %}
 [2]: https://www.lastgreatmalts.com/
 [3]: https://www.masterofmalt.com/whiskies/aberfeldy-12-year-old-whisky/
 [4]: https://www.masterofmalt.com/whiskies/aberfeldy-21-year-old-whisky/
@@ -16,6 +16,8 @@ description: Een uitzonderlijke collectie whiskies van diverse distilleerderijen
 [12]: https://www.masterofmalt.com/whiskies/dewars-blended-scotch-whisky/
 
 Nu het tweede semester van het collegejaar 2014/2015 op de universiteit is begonnen, gaan de normale dingen weer van start. Zo ook de langverwachte tweewekelijkse whisky tastings.
+
+<a name="more"></a>
 
 Zeer toepasselijk na ons bezoek van vorige week aan de [Aberfeldy distilleerderij][1] werd deze tasting gepresenteerd door de overkoepelende Dewar's group. Als ik het goed heb begrepen zwaait deze organisatie de scepter over diverse distilleerderijen, maar is deze op zijn beurt in handen van Bacardi. Dit maakt het geheel op het oog een verwarrende constructie. Zeker als er ook nog een soort consortium van vijf distilleerderijen is: [last great malts][2]. Het loont zeker de moeite om de video op de website te bekijken.
 

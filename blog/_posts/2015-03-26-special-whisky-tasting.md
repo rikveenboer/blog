@@ -19,6 +19,8 @@ description: Onze eerste zelfgeorganiseerde privé whisky tasting.
 
 De oplettende lezer zal weten dat het nu voorjaarsvakantie bij de University of St Andrews is. Omdat veel studenten dan huiswaarts keren, organiseren de verschillende verenigingen gedurende deze twee weken (!) geen activiteiten. Zo kon het ook gebeuren dat wij als hardwerkende promovendi extra lang op de volgende whisky tasting (volgende week) moesten wachten.
 
+<a name="more"></a>
+
 Daar hebben wij ons niet bij neergelegd en samen met Nederlandse collega Frank (Kamer groep) besloten we dan zelf maar een tasting te organiseren. Die planden we op de gebruikelijke donderdagavond, alleen dan op kleinere schaal in Franks huis. Uiteindelijke hebben we met z'n vieren de glazen geheven: Alberto (Spaans, Cazin groep) en Michiel (Nederlands, voorheen Kamer groep) deden ook mee.
 
 Voor dit verslag zal ik alleen de belangrijkste zaken vermelden, met alle details en proefnotities zou het al snel een opstel worden. We begonnen met de drie whiskies die Michiel, Alberto en ik hadden meegenomen, op die volgorde:

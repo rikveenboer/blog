@@ -9,6 +9,8 @@ description: Hardlopen maakt van een pad een spoor.
 
 Nu het weer steeds beter is, is het telkens aantrekkelijker om er hardlopend op uit te gaan. Om gerichter te kunnen trainen heb ik mijzelf een [Polar M400][1] GPS/hartslag sporthorloge cadeau gedaan. Natuurlijk is het daarnaast ook nog eens erg leuk speelgoed.
 
+<a name="more"></a>
+
 Het is duidelijk dan ik me al bijna jarig voel, want ik heb ook nieuwe hardloopschoenen aangeschaft. Geen normale schoenen voor op de verharde weg, maar speciale stevige trail schoenen, met extra grip: [Saucony Excursion TR8][2]. Let op dat Saucony word gespeld als whisky, zonder ey, top!
 
 Trouwe lezers van mijn blog herinneren zich wellicht dat ik vorige jaar een mini-hike heb gemaakt over het [coastal path][3] om mijn toen nieuw aangeschafte bergschoenen in te lopen. Om mijn nieuwe trail schoenen uit te proberen heb ik dezelfde route (en verder) nu hardlopend afgelegd. Hoe toepasselijk is het dan om dit verslag dan als "coastal trail" te betitelen?

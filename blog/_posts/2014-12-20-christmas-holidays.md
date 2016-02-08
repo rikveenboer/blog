@@ -7,6 +7,8 @@ description: Na omzwervingen, kerstvakantie in Nederland.
 
 De kerst en oud en nieuw vakantie heb ik dit jaar in Nederland gevierd!
 
+<a name="more"></a>
+
 Na een onverwacht maar toch aangenaam bezoek aan [Genève][1] kwam ik weer terug in Nederland voor kerst, oud/nieuw jaar en Nederlandse gezelligheid. Dat begon gelijk al toen ik werd opgehaald vanuit Rotterdam en direct werd getrakteerd op een diner bij een bekend restaurant langs de weg.
 
 Gedurende de vakantie hebben we talloze activiteiten ondernomen waarvan ik er een aantal zal uitlichten.
@@ -18,8 +20,9 @@ Dit jaar stond het glazen huis van 3FM voor Serious Request in Haarlem, dus ook 
 
 Ook hebben we met de andere VU chemici afgesproken in Zaandam. Het was een nostalgische aangelegenheid om weer met de trein te gaan en onderweg iedereen op te pikken. Hoewel, iedereen... helaas kon niet iedereen erbij zijn. Uiteindelijk hebben we met z'n drieën bijgepraat, al vertoevend in een Zaans groen restaurant.
 
-Wat zeker niet ongenoemd mag blijven zijn de diners gedurende de vakantie. Eigenlijk was er telkens sprake van een feestelijk maal, maar kerst hebben we zeker heerlijk gegeten:
-{% include gallery.html gallery='2015-christmas-holidays' %}
+Wat zeker niet ongenoemd mag blijven zijn de diners gedurende de vakantie. Eigenlijk was er telkens sprake van een feestelijk maal, maar met kerst hebben we zeker heerlijk gegeten:
+
+{% include gallery.html gallery='2014-christmas-holidays' %}
 
 De dagen voor de jaarwisseling zijn we naar Hoogeveen afgereisd om in Brams woning te bivakkeren. Er was geen woord teveel gezegd, het is een erg fraai en gezellig ingericht pand. Ook daar hebben we ons goed vermaakt. Het voornaamste nadeel van Hoogeveen ten opzichte van Lhee is dat het recreatieve Dwingelderveld nu wat verder weg is. Echt erg is dat niet, want wie de snelweg mijd kan het fraaie landschap aanschouwen dat zich langs een toeristische route ontvouwt. Nadat we ons even hadden vergaapt aan lokaal vertier zoals carbidschieten en autocrossen, hebben we een mooie winterse wandeling door het Dwingelderveld gemaakt:
 {% include gallery.html gallery='2014-christmas-holidays-dwingelderveld' %}

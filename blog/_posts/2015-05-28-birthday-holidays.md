@@ -7,6 +7,8 @@ description: Verjaren in Nederland!
 
 Net als [Glasgow][1] ben ik eind mei weer naar Nederland geweest om daar mijn (en Brams) verjaardag te vieren. Op de valreep besloten we dat ik niet van donderdagavond to zondagavond zou blijven, maar zelfs tot woensdagavond: zes hele dagen joy!
 
+<a name="more"></a>
+
 Donderdagavond op Schiphol aangekomen werd ik door Bram opgehaald voor de gezinsreunie in Uitgeest. We hebben natuurlijk wel steeds contact gehouden, maar het was toch al bijna een half jaar dat ik daar niet meer was geweest! Uiteraard stond dit garant voor een vreugdevol welkomst-tafereel met heerlijk gebak.
 
 Omdat ik er met moederdag niet was en er ook niet zal zijn met vaderdag, hadden Bram, Sanne en ik besloten om deze vakantie gezamelijk een cadeau te overhandigen. Het betreft een Nespresso machine, compleet met koffie capsules en fraaie dubbelwandige kopjes. Het spreekt voorzich dat we deze de komende dagen uitgebreid hebben uitgeprobeerd en zodoende hebben we veelvuldig kunnen genieten van een reeks diverse espresso's. Ook Sanne had nog een verjaardagscadeau tegoed en het was leuk haar blij te verassen. Daarmee hield het niet op, want zoals ik graag doe had ik ook nog een aantal Schotse gezinscadeau's meegebracht.

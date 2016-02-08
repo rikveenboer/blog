@@ -21,6 +21,8 @@ De tasting vanavond werd georganiseerd door onafhankelijke bottelaar Hunter Lain
 * [Highland Park (18 yo, £99)][7]
 * [Laphroaig (14 yo, £79)][8]
 
+<a name="more"></a>
+
 Al deze whiskies zijn gebotteld met 50% alcohol zonder koud te filteren. De verschillende leeftijden zijn gekozen om een product te garanderen dat exact de juiste tijd in het vat heeft doorgebracht. Het resultaat wordt aangeprezen als whisky voor liefhebbers op aangename drinksterkte.
 
 De Auchentoshan is een prima whisky. Meestal lijkt de eerste whisky in een tasting ondergeschikt aan de anderen, maar dit is hier niet het geval. Ook na het proeven van de zeer diverse andere whiskies is het aangenaam om deze opnieuw te proberen. De Linkwood lijkt erg bijzonder vanwege zijn leeftijd, maar valt in de praktijk lichtelijk tegen. We concludeerden dat de unieke afdronk van deze whisky wellicht beter tot zijn recht komt in een blend dan op zichzelf. Van de Clynelish distilleerderij hebben we [eerder][9] al eens de "Apple Basket" variant gedronken. Ook dit 16 jaar oude exemplaar is erg lekker. Hetzelfde geldt voor de Highland Park en de Blair Athol, dat zijn beide whiskies waarvan ik inmiddels al diverse varianten van heb geproefd, maar deze bottelingen doen er alsnog een schepje bovenop. De Laphroigh tenslotte, deze heeft gerijpt in een sherry-vat, wat een uitstekend idee! Het extreem rokerigere van de "standaard 12 jarige" variant wodt nu gedeeltelijk vervangen voor een tongstrelende fruitigheid. Ik blijf bij mijn overtuiging dat er een favoriete whisky voor elke gelegenheid is, maar rokerige whisky gerijpt in sherry-vaten is wellicht mijn "standaard favoriet".

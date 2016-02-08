@@ -4,7 +4,11 @@ description: Beter weer inpsireert diverse activiteiten.
 ---
 [1]: https://www.facebook.com/standrewsbotanicgarden
 
-Het voorjaar is al behoorlijk op dreef in mijn Schotse verblijfplaats. Met het recente verzetten van de klok is er gedurende de hele dag volop daglicht en ook het weer gedraagt zich toepasselijk. Niet alle bloemen en planten zijn er even vroeg bij, maar het is duidelijk dat deze boom er zin in heeft:
+Het voorjaar is al behoorlijk op dreef in mijn Schotse verblijfplaats. Met het recente verzetten van de klok is er gedurende de hele dag volop daglicht en ook het weer gedraagt zich toepasselijk.
+
+<a name="more"></a>
+
+Niet alle bloemen en planten zijn er even vroeg bij, maar het is duidelijk dat deze boom er zin in heeft:
 
 {% include caption.html
     image='/wp-content/gallery/St%20Andrews/IMG_20150411_142931.jpg'

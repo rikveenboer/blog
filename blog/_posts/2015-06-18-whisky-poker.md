@@ -11,7 +11,11 @@ description: Whisky drinken en poker spelen.
 [7]: https://www.masterofmalt.com/whiskies/glendronach-21-year-old-parliament-whisky/
 [8]: https://www.masterofmalt.com/whiskies/springbank/springbank-12-year-old-calvados-wood-finish-whisky/
 
-Nu het semester is afgelopen, zijn ook de georganiseerde whisky tastings afgelopen. Omdat ik en enkele anderen whisky nog steeds erg lekker vinden, vonden we het tijd om zelf weer een tasting te organiseren. We waren deze keer met z'n vieren bij mij thuis, met Nederlanders Frank en Michiel en Engelsman Stefan. Net als [vorige keer][1] verzorgden we allen een (of meerdere) whiskies. Het resultaat was een fraaie diversiteit, waaronder een aantal oude bekenden zoals de gesherriede Blair Athol en de GlenDronach:
+Nu het semester is afgelopen, zijn ook de georganiseerde whisky tastings afgelopen. Omdat ik en enkele anderen whisky nog steeds erg lekker vinden, vonden we het tijd om zelf weer een tasting te organiseren. We waren deze keer met z'n vieren bij mij thuis, met Nederlanders Frank en Michiel en Engelsman Stefan. Net als [vorige keer][1] verzorgden we allen een (of meerdere) whiskies.
+
+<a name="more"></a>
+
+Het resultaat was een fraaie diversiteit, waaronder een aantal oude bekenden zoals de gesherriede Blair Athol en de GlenDronach:
 
 - [Balvenie (12 year, 40%)](2)
 - [Glenburgie (18 year, 43%)](3)

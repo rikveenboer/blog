@@ -14,6 +14,8 @@ Deze whisky tasting werden we getrakteerd op diverse "cask strength" whiskies ui
 - Tormore (15 year, £ 31.64)
 - The Glenlivet (17 year, £ 46.00)
 
+<a name="more"></a>
+
 Online is een [fraaie kaart][1] met alle distilleerderijen in Schotland te vinden.
 
 Het bijzondere van de whiskies deze avond is dat allen op "cask strength" gebotteld zijn: direct uit het vat tegen de 60% alcohol. Meestal wordt whisky verdund tot een gangbare 40% procent. Het hogere alcoholgehalte bied de drinker een keuze: verdunnen of niet? Bij het nippen aan een "cask strength" word je tong eigenlijk een beetje verdoofd door de alcohol en dat is zonde van het fijne palet dat hierdoor verloren gaat. Met een beetje water (het liefst gedemineraliseerd, om de smaak niet te beïnvloeden) kan het echte proeven beginnen. De presentator bediende zich ook van wat chemische feitjes: het toevoegen van water aan whisky geeft een exotherme reactie waardoor het aroma beter vrijkomt. Dat klinkt leuk, maar in werkelijkheid zal dit effect nauwelijks meetbaar zijn.

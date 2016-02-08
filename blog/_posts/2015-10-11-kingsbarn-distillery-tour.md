@@ -4,12 +4,14 @@ description: Een rondleiding bij de dichtstbijzijnde distillerderij.
 ---
 [1]: http://www.kingsbarnsdistillery.com/distillery/
 [2]: {% post_baseurl 2015-08-19-visit-sanne %} "Visit Sanne"
-[3]: ?p=2131 "Bezoek Angela"
+[3]: {% post_baseurl 2015-01-26-visit-angela %} "Visit Angela"
 [4]: https://en.wikipedia.org/wiki/Dovecote
 [5]: {% post_baseurl 2014-05-10-whisky-tasting %}
 [6]: http://www.kingsbarnsdistillery.com/shop/product/waves-of-pepper-70cl
 
-Na een aantal zelfgeorganiseerde whisky proeverijen beschouw ik mijzelf en een aantal collega's als een redelijk serieus whisky-genootschap. We hadden het er al vaker over gehad, maar vandaag zijn we daadwerkelijk bij de nieuwe[ Kingsbarns distilleerderij][1] nabij St Andrews langsgegaan voor een tour.
+Na een aantal zelfgeorganiseerde whisky proeverijen beschouw ik mijzelf en een aantal collega's als een redelijk serieus whisky-genootschap. We hadden het er al vaker over gehad, maar vandaag zijn we daadwerkelijk bij de nieuwe [Kingsbarns distilleerderij][1] nabij St Andrews langsgegaan voor een tour.
+
+<a name="more"></a>
 
 De oplettende lezer zal zich herinneren dat we stiekem al een kijkje hadden genomen toen [Sanne kortgeleden op bezoek was][2].
 

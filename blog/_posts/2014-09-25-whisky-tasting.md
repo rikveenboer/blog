@@ -13,6 +13,8 @@ Deze eerste tasting van het seizoen was bedoeld als een introductie tot whisky e
 - Gordon & MacPhail Glenlossie 1995
 - Kilchoman Machir Bay
 
+<a name="more"></a>
+
 De Kilchoman Machir Bay zal de trouwe lezer herkennen, want deze rokerige whisky hadden we al eerder [geproefd][2]. Het blijft een fantastische *dram*, maar het is jammer dat we deze pas als laatste proefden. Alhoewel, als we onze smaakpapillen gelijk hadden gevuld met rook waren de andere whiskies misschien minder tot hun recht gekomen.
 
 De Aberfeldy zou ik omschrijven als een allround whisky, erg lekker, maar niet bijzonder uitgesproken. De Nikka Coffey Grain is een Japanse whisky, gestookt in ketels uit Schotland, dat wel. Het is interessant om eens zo'n exoot te proeven, maar echt lekker was hij niet. Ik denk dat de uitgesproken scherpe smaak van mais whisky niet aan mij is besteed.

@@ -15,6 +15,8 @@ Deze whisky tasting werd gepresenteerd door de overkoepelende "Inver House Disti
 - [Flaughter][2]
 - [Cutter][3]
 
+<a name="more"></a>
+
 Als onderdeel van de achtergrondinformatie kregen we te horen dat de distilleerderij vroeger Knockdhu heette, maar beide namen verwijzen naar de berg waarop deze staat. Schotland is opgedeeld in diverse karakteristieke whisky regio's en deze distilleerderij behoort officiëel tot de highland regio. In de praktijk ligt deze echter praktisch in de Speyside regio en de unieke eigenschappen van deze regio kwamen tijdens de tasting duidelijk naar voren.
 
 De eerst geproefde whisky is de zogenaamde "entry level" whisky. In tegenstelling tot de meer standaard 46% alcohol, bevat dit exemplaar slechts 40%. Hoewel het een klein verschil lijkt, heeft het toch belangrijke consequenties. De whisky is bovenal zeer drinkbaar en erg geschikt als eerste kennismaking tot whisky. Daarnaast is de oplosbaarheid van bepaalde smaak bepalende componenten lager. Om toch een helder product te hebben, is deze whisky dan ook koud gefilterd.

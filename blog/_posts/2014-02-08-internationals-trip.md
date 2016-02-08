@@ -10,6 +10,8 @@ description: Een gevarieerde trip naar Pitlochery en omgeving.
 
 Wat ben ik blij dat ik op na de vorige zeer geslaagde [Internationals trip][1] naar Stirling ook werd uitgenodigd voor een nieuwe trip naar Pitlochry: "gateway to the Highlands". Hoewel het vorige keer leuk was om met allerlei (vooral Aziatische) onbekenden op pad te gaan, leek het me een goed idee om de nieuwe Franse student in de groep te vragen mee te gaan, en zo geschiedde.
 
+<a name="more"></a>
+
 Er was een gevarieerd programma samengesteld, te beginnen met een bezoek aan de [Blair Athol distillery][2]. Hoewel het productieproces mij al redelijk bekend was, was het zeker leuk om de details nogmaals te horen tijdens een rondleiding door een echte Schot. De schaal waarop er geproduceert wordt is indrukwekkend! Ook heb ik geleerd dat slechts een fractie van de whisky als malt wordt verkocht, het gros verdwijnt in blends, in dit geval vooral Bell's en in mindere mate in Ballantine's. Erg slim was het om ons een glaasje malt te laten proeven, het idee was natuurlijk om ons daarmee over te halen om een souvenier aan te schaffen in de uitgebreide "bottle shop". Ik heb mezelf getrakteerd op een fles Bell's en een bijpassende tumbler, smullen!
 
 {% include gallery.html gallery='2014-blair-atholl-distillery' %}

@@ -4,7 +4,9 @@ description: Op sollicitatie in St Andrews.
 ---
 [1]: http://www.newedinburghtours.com/daily-tours/new-edinburgh-free-tour.html "Free Tour of Edinburgh"
 
-Toen ik werd uitgenoedigd om de School of Chemistry te bezoeken, was het hoofddoel natuurlijk het ontmoeten van verschillende professoren en hun onderzoeksgroepen en het bekijken van de beschikbare faciliteiten. Maar dit serieuze doel weerhield mij er niet van om er een heuse trip van te maken.
+Toen ik werd uitgenodigd om de School of Chemistry te bezoeken, was het hoofddoel natuurlijk het ontmoeten van verschillende professoren en hun onderzoeksgroepen en het bekijken van de beschikbare faciliteiten. Maar dit serieuze doel weerhield mij er niet van om er een heuse trip van te maken.
+
+<a name="more"></a>
 
 De reis per trein van Edinburgh Airport naar St Andrews maakte onmiddelijk duidelijk hoe mooi het Schotse landschap is:
 

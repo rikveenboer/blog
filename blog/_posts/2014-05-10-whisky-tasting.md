@@ -2,7 +2,11 @@
 title: Whisky Tasting
 description: Een tasting door de oprichter van Schotlands nieuwste distilleerderij.
 ---
-Deze avond werd gepresenteerd door een fanatiek lid van de Quaich Society (zoals de whisky club officieel heet). Gehuld in kilt vertelde hij over zijn werk aan het opzetten van een nieuwe distilleerderij in het nabijgelegen Kingsbarns. Deze distilleerderij opent pas aan het einde van het jaar en de whisky die dan geproduceerd wordt moet nog jaren rijpen. Er stonden dus vijf whiskies van andere distileerderijen en een speciale gin op het drank menu:
+Deze avond werd gepresenteerd door een fanatiek lid van de Quaich Society (zoals de whisky club officieel heet). Gehuld in kilt vertelde hij over zijn werk aan het opzetten van een nieuwe distilleerderij in het nabijgelegen Kingsbarns. Deze distilleerderij opent pas aan het einde van het jaar en de whisky die dan geproduceerd wordt moet nog jaren rijpen.
+
+<a name="more"></a>
+
+Er stonden dus vijf whiskies van andere distileerderijen en een speciale gin op het drank menu:
 
 - Morlach Vanilla Oak
 - Peat Chimney (12 year)
