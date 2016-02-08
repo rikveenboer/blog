@@ -5,11 +5,11 @@ layout: default
     <header>
         <div class="timeline">
             {% if page.date %}
-                <time datetime="{{ page.date|date_to_xmlschema }}" title="{{ page.date|date_to_xmlschema }}"><strong>{{ page.date|date:"%b %d"|upcase }}</strong><br />{{ page.date|date:"%Y" }}</time>
+                <time datetime="{{ page.date | date_to_xmlschema }}" title="{{ page.date | date_to_xmlschema }}"><strong>{{ page.date|date:"%b %d"|upcase }}</strong><br />{{ page.date|date:"%Y" }}</time>
             {% endif %}
         </div>        
         <h1>
-            <span itemprop="name">{{ page.title }}</span>
+            <a href="/{{ site.baseurl }}{{ page.url }}"><span itemprop="name">{{ page.title }}</span></a>
             <small class="print-only" itemprop="datePublished" content="{{ page.date|date:'%F') }}">{{ page.date|date:'%A, %B %d, %Y' }}</small>
         </h1>
         {% if page.end_date %}

@@ -9,7 +9,7 @@ layout: default
     </p>
 </section>
 {% for post in paginator.posts %}
-    {% include post-detail.html %}
+    {% include post.html %}
 {% endfor %}
 {% if paginator.total_pages > 1 %}
 <section>

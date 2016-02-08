@@ -26,7 +26,7 @@
             {% endif %}
         </ul>
         <h1>
-            <span itemprop="name">{{ page.title }}</span>
+            <a href="/{{ site.baseurl }}{{ page.url }}"><span itemprop="name">{{ page.title }}</span></a>
             <small class="print-only" itemprop="datePublished" content="{{ page.date|date:'%F') }}">{{ page.date|date:'%A, %B %d, %Y' }}</small>
         </h1>
         {% if page.end_date %}
