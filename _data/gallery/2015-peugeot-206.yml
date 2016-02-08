@@ -1,4 +1,4 @@
-title: null
+title: Peugeot 206
 date: 2015-12-23
 map:
   latitude: 56.381818888889
@@ -13,7 +13,7 @@ photos:
     location:
       latitude: 56.407543333333
       longitude: -2.8889383333333
-    model: One A0001
+    model: One
     width: 1920
     make: OnePlus
   3592b0b:
@@ -24,7 +24,7 @@ photos:
     location:
       latitude: 56.407508333333
       longitude: -2.8890733333333
-    model: One A0001
+    model: One
     width: 1920
     make: OnePlus
   11a3b22:
@@ -35,7 +35,7 @@ photos:
     location:
       latitude: 56.407513333333
       longitude: -2.889055
-    model: One A0001
+    model: One
     width: 1920
     make: OnePlus
   4cee1b3:
@@ -46,7 +46,7 @@ photos:
     location:
       latitude: 56.407508333333
       longitude: -2.8890166666667
-    model: One A0001
+    model: One
     width: 1920
     make: OnePlus
   29bb256:
@@ -57,6 +57,6 @@ photos:
     location:
       latitude: 56.330448333333
       longitude: -2.8097783333333
-    model: One A0001
+    model: One
     width: 1920
     make: OnePlus

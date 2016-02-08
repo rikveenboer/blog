@@ -13,7 +13,7 @@ photos:
     location:
       latitude: 56.33441925
       longitude: -2.7800938888889
-    model: HTC One S
+    model: One S
     make: HTC
   b316a8f:
     aperture: f/2.0
@@ -23,5 +23,5 @@ photos:
     location:
       latitude: 56.519115444444
       longitude: -2.7098050277778
-    model: HTC One S
+    model: One S
     make: HTC

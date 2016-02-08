@@ -1,4 +1,4 @@
-title: seat-ibiza-heat-shield
+title: Seat Ibiza - Heat Shield
 date: 2015-08-23
 end_date: 2015-08-26
 map:
@@ -9,31 +9,17 @@ photos:
   64751cd:
     date: 2015-08-23 18:09:17
     file: IMG_20150823_180916
-    sizes:
-      640w: { height: 854, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
   3cb29a9:
     date: 2015-08-26 08:16:05
     file: IMG_20150826_081604
     location:
       latitude: 56.330387111111
-      longitude: -2.8098017777778
-    sizes:
-      640w: { height: 480, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
-  64e4ca4:
+      longitude: -2.8098017777778  64e4ca4:
     date: 2015-08-26 08:23:37
     file: IMG_20150826_082336
     location:
       latitude: 56.330368027778
-      longitude: -2.8097918055556
-    sizes:
-      640w: { height: 480, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
-  b607f9c:
+      longitude: -2.8097918055556  b607f9c:
     date: 2015-08-26 08:23:50
     file: IMG_20150826_082349
     location:

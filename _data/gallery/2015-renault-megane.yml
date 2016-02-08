@@ -1,5 +1,6 @@
-title: null
+title: Renault Megane
 date: 2015-12-11
+ignore: true
 map:
   latitude: 56.329675666667
   longitude: -2.8011930972222
@@ -11,19 +12,9 @@ photos:
     location:
       latitude: 56.329715722222
       longitude: -2.8011831666667
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 480, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
   9f0f9a2:
     date: 2015-12-11 15:23:50
     file: IMG_20151211_152349
     location:
       latitude: 56.329635611111
       longitude: -2.8012030277778
-    sizes:
-      1920x1080: { height: 1080, width: 1920 }
-      640w: { height: 480, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }

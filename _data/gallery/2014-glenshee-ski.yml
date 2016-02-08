@@ -10,24 +10,16 @@ photos:
     aperture: f/11.0
     date: 2014-03-09 10:37:16
     exposure: 1/80
-    file: DSC00326.JPG
+    file: DSC00326
     model: NEX-3N
-    sizes:
-      640w: { height: 426, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
-    make: SONY
+    make: Sony
   2493030:
     aperture: f/4.5
     date: 2014-03-09 10:37:35
     exposure: 1/500
-    file: DSC00328.JPG
+    file: DSC00328
     model: NEX-3N
-    sizes:
-      640w: { height: 426, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
-    make: SONY
+    make: Sony
   691102c:
     aperture: f/2.0
     date: 2014-03-09 11:03:03
@@ -37,10 +29,6 @@ photos:
       latitude: 56.885940527778
       longitude: -3.3776604722222
     model: One S
-    sizes:
-      640w: { height: 362, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
     make: HTC
   ec79d73:
     aperture: f/2.0
@@ -48,10 +36,6 @@ photos:
     exposure: 456/1000000
     file: IMG_20140309_110525
     model: One S
-    sizes:
-      640w: { height: 362, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
     make: HTC
   1b0f8a7:
     aperture: f/2.0
@@ -59,10 +43,6 @@ photos:
     exposure: 437/1000000
     file: IMG_20140309_110636
     model: One S
-    sizes:
-      640w: { height: 362, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
     make: HTC
   8a7f91c:
     aperture: f/2.0
@@ -70,10 +50,6 @@ photos:
     exposure: 837/1000000
     file: IMG_20140309_115627
     model: One S
-    sizes:
-      640w: { height: 362, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
     make: HTC
   d75944a:
     aperture: f/2.0
@@ -81,10 +57,6 @@ photos:
     exposure: 513/1000000
     file: IMG_20140309_115648
     model: One S
-    sizes:
-      640w: { height: 362, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
     make: HTC
   e0bfe6d:
     aperture: f/2.0
@@ -92,10 +64,6 @@ photos:
     exposure: 323/1000000
     file: IMG_20140309_133452
     model: One S
-    sizes:
-      640w: { height: 362, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
     make: HTC
   bf58531:
     aperture: f/2.0
@@ -103,15 +71,7 @@ photos:
     exposure: 342/1000000
     file: IMG_20140309_134558
     model: One S
-    sizes:
-      640w: { height: 362, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
     make: HTC
   35969f0:
     date: 2014-03-12 20:19:54
     file: PANO_20140309_133459
-    sizes:
-      640w: { height: 199, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }

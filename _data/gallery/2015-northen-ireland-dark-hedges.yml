@@ -1,12 +1,13 @@
-title: northen-ireland-2015-dark-hedges
+title: Northern Ireland - Dark Hedges
 date: 2015-08-16
+ignore: true
 photos:
   496d2a0:
     aperture: f/2.0
     date: 2015-08-16 17:37:26
     exposure: 1/160
     file: IMG_20150816_173724
-    model: One A0001
+    model: One
     width: 1920
     make: OnePlus
   f71d0d4:
@@ -14,6 +15,6 @@ photos:
     date: 2015-08-16 17:37:56
     exposure: 1/240
     file: IMG_20150816_173754
-    model: One A0001
+    model: One
     width: 1920
     make: OnePlus

@@ -1,4 +1,4 @@
-title: kingsbarns-distillery
+title: Kingsbarns Distillery
 date: 2015-10-11
 map:
   latitude: 56.287241601852
@@ -10,68 +10,33 @@ photos:
     date: 2015-10-11 12:09:10
     exposure: 1/430
     file: IMG_20151011_120908
-    model: One A0001
+    model: One
     width: 1920
     make: OnePlus
   6d78d25:
     date: 2015-10-11 12:33:42
-    file: IMG_20151011_123341
-    sizes:
-      640w: { height: 480, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
-  754c91a:
+    file: IMG_20151011_123341  754c91a:
     date: 2015-10-11 12:43:35
-    file: IMG_20151011_124334
-    sizes:
-      640w: { height: 480, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
-  83b96af:
+    file: IMG_20151011_124334  83b96af:
     date: 2015-10-11 12:43:48
-    file: IMG_20151011_124347
-    sizes:
-      640w: { height: 480, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
-  c09afdb:
+    file: IMG_20151011_124347  c09afdb:
     date: 2015-10-11 12:45:58
-    file: IMG_20151011_124557
-    sizes:
-      640w: { height: 480, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
-  908f32b:
+    file: IMG_20151011_124557  908f32b:
     date: 2015-10-11 13:10:56
     file: IMG_20151011_131055
     location:
       latitude: 56.287509916667
-      longitude: -2.6425761944444
-    sizes:
-      640w: { height: 480, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
-  a0808fe:
+      longitude: -2.6425761944444  a0808fe:
     date: 2015-10-11 13:11:09
     file: IMG_20151011_131108
     location:
       latitude: 56.287113166667
-      longitude: -2.6430730555556
-    sizes:
-      640w: { height: 480, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
-  6dbb83c:
+      longitude: -2.6430730555556  6dbb83c:
     date: 2015-10-11 13:11:28
     file: IMG_20151011_131127
     location:
       latitude: 56.287101722222
-      longitude: -2.6430899722222
-    sizes:
-      640w: { height: 480, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
-  98c799a:
+      longitude: -2.6430899722222  98c799a:
     date: 2015-10-11 13:46:51
     file: IMG_20151011_134651
     sizes:

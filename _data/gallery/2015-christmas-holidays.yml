@@ -29,55 +29,35 @@ photos:
     exposure: 1/40
     file: 2014-12-25 19.11.53
     model: Nexus 5
-    sizes:
-      640w: { height: 480, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
-    make: LGE
+    make: LG
   75afdba:
     aperture: f/2.4
     date: 2014-12-25 19:16:12
     exposure: 1/121
     file: 2014-12-25 19.16.12
     model: Nexus 5
-    sizes:
-      640w: { height: 480, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
-    make: LGE
+    make: LG
   25959d9:
     aperture: f/2.4
     date: 2014-12-25 20:00:12
     exposure: 1/211
     file: 2014-12-25 20.00.12
     model: Nexus 5
-    sizes:
-      640w: { height: 480, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
-    make: LGE
+    make: LG
   69c75ad:
     aperture: f/2.4
     date: 2014-12-26 17:18:07
     exposure: 1/24
     file: 2014-12-26 17.18.07
     model: Nexus 5
-    sizes:
-      640w: { height: 480, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
-    make: LGE
+    make: LG
   4bc0aa0:
     aperture: f/2.4
     date: 2014-12-26 19:24:48
     exposure: 1/199
     file: 2014-12-26 19.24.48
     model: Nexus 5
-    sizes:
-      640w: { height: 854, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
-    make: LGE
+    make: LG
   0093145:
     aperture: f/3.6
     date: 2015-12-25 09:14:03

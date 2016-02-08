@@ -10,41 +10,22 @@ photos:
     file: IMG_20141129_104857
     location:
       latitude: 56.330326055556
-      longitude: -2.8101809166667
-    sizes:
-      640w: { height: 480, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
-  c02ded3:
+      longitude: -2.8101809166667  c02ded3:
     date: 2014-11-29 10:49:37
     file: IMG_20141129_104936
     location:
       latitude: 56.330318444444
-      longitude: -2.81016825
-    sizes:
-      640w: { height: 480, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
-  a4ee560:
+      longitude: -2.81016825  a4ee560:
     date: 2014-11-29 10:49:55
     file: IMG_20141129_104954
     location:
       latitude: 56.330326055556
-      longitude: -2.8101895
-    sizes:
-      640w: { height: 480, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
-  9cab68f:
+      longitude: -2.8101895  9cab68f:
     date: 2014-11-29 10:57:58
     file: IMG_20141129_105757
     location:
       latitude: 56.330329888889
       longitude: -2.8101723333333
-    sizes:
-      640w: { height: 854, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
   786a35e:
     date: 2014-11-29 11:00:21
     file: IMG_20141129_110020

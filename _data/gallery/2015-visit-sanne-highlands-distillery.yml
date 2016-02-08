@@ -10,7 +10,7 @@ photos:
     date: 2015-08-22 17:09:03
     exposure: 1/430
     file: IMG_20150822_170901
-    model: One A0001
+    model: One
     width: 1920
     make: OnePlus
   2283a5c:
@@ -18,17 +18,13 @@ photos:
     date: 2015-08-22 17:09:13
     exposure: 1/550
     file: IMG_20150822_170911
-    model: One A0001
+    model: One
     width: 1920
     make: OnePlus
   1bdf71a:
     aperture: f/4.0
     date: 2015-08-22 18:09:40
     exposure: 1/250
-    file: SAM_0725.JPG
-    model: SAMSUNG PL210, PL211 / VLUU PL210, PL211
-    sizes:
-      640w: { height: 480, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
-    make: SAMSUNG
+    file: SAM_0725
+    model: PL211
+    make: Samsung

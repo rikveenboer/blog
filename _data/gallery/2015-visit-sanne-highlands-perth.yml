@@ -1,4 +1,4 @@
-title: visit-sanne-2015-highlands-perth
+title: Visit Sanne - Highlands & Perth
 date: 2015-08-22
 photos:
   b4aeee4:
@@ -6,7 +6,7 @@ photos:
     date: 2015-08-22 18:24:14
     exposure: 1/50
     file: IMG_20150822_182412
-    model: One A0001
+    model: One
     width: 1920
     make: OnePlus
   febc436:
@@ -14,7 +14,7 @@ photos:
     date: 2015-08-22 18:44:28
     exposure: 1/120
     file: IMG_20150822_184426
-    model: One A0001
+    model: One
     width: 1920
     make: OnePlus
   38a287f:
@@ -22,7 +22,7 @@ photos:
     date: 2015-08-22 18:46:38
     exposure: 1/125
     file: IMG_20150822_184636
-    model: One A0001
+    model: One
     width: 1920
     make: OnePlus
   770159b:
@@ -30,17 +30,13 @@ photos:
     date: 2015-08-22 18:47:29
     exposure: 1/60
     file: IMG_20150822_184727
-    model: One A0001
+    model: One
     width: 1920
     make: OnePlus
   3851fc2:
     aperture: f/3.7
     date: 2015-08-22 19:49:17
     exposure: 1/60
-    file: SAM_0730.JPG
-    model: SAMSUNG PL210, PL211 / VLUU PL210, PL211
-    sizes:
-      640w: { height: 480, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
-    make: SAMSUNG
+    file: SAM_0730
+    model: PL211
+    make: Samsung

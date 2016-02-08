@@ -1,4 +1,4 @@
-title: null
+title: Peugeot 206 - Fuel
 date: 2015-12-23
 map:
   latitude: 56.330431666667
@@ -13,7 +13,7 @@ photos:
     location:
       latitude: 56.330471666667
       longitude: -2.8097683333333
-    model: One A0001
+    model: One
     width: 1920
     make: OnePlus
   390d4f5:
@@ -24,6 +24,6 @@ photos:
     location:
       latitude: 56.330391666667
       longitude: -2.80981
-    model: One A0001
+    model: One
     width: 1920
     make: OnePlus

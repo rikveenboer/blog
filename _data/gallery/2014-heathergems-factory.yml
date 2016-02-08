@@ -14,10 +14,6 @@ photos:
       latitude: 56.707992527778
       longitude: -3.7423253333333
     model: One S
-    sizes:
-      640w: { height: 362, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
     make: HTC
   ecaf22c:
     aperture: f/2.0
@@ -28,10 +24,6 @@ photos:
       latitude: 56.707992527778
       longitude: -3.7423253333333
     model: One S
-    sizes:
-      640w: { height: 1132, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
     make: HTC
   4490829:
     aperture: f/2.0
@@ -42,8 +34,4 @@ photos:
       latitude: 56.707992527778
       longitude: -3.7423253333333
     model: One S
-    sizes:
-      640w: { height: 362, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
     make: HTC

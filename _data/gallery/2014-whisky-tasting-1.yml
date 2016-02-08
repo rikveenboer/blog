@@ -1,5 +1,6 @@
-title: whisky-tasting-1
+title: Whisky Tasting
 date: 2014-04-03
+ignore: true
 map:
   latitude: 56.3428955
   longitude: -2.8014662222222
@@ -14,8 +15,4 @@ photos:
       latitude: 56.3428955
       longitude: -2.8014662222222
     model: One S
-    sizes:
-      640w: { height: 362, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
     make: HTC

@@ -1,10 +1,12 @@
-title: autumn-runs
+title: Autumn Runs
 date: 2015-10-05
+ignore: true
 photos:
+  ca6526c:
+    date: 2015-10-04 16:20:00
+    width: 200
+  41289fc:
+    date: 2015-10-05 11:30:00
   fb7e1d4:
     date: 2015-10-05 09:29:21
-    file: IMG_9452.JPG
-    sizes:
-      640w: { height: 919, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    file: IMG_9452

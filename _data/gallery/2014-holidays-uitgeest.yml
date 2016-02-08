@@ -6,98 +6,62 @@ photos:
     aperture: f/6.0
     date: 2014-08-15 09:58:51
     exposure: 1/250
-    file: SAM_6562.JPG
-    model: SAMSUNG WB600 / VLUU WB600 / SAMSUNG WB610
-    sizes:
-      640w: { height: 480, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
-    make: SAMSUNG
+    file: SAM_6562
+    model: WB600
+    make: Samsung
   81514aa:
     aperture: f/5.2
     date: 2014-08-15 11:32:57
     exposure: 1/350
-    file: SAM_6566.JPG
-    model: SAMSUNG WB600 / VLUU WB600 / SAMSUNG WB610
-    sizes:
-      640w: { height: 480, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
-    make: SAMSUNG
+    file: SAM_6566
+    model: WB600
+    make: Samsung
   f3a299c:
     aperture: f/6.2
     date: 2014-08-15 17:07:33
     exposure: 1/500
-    file: SAM_6571.JPG
-    model: SAMSUNG WB600 / VLUU WB600 / SAMSUNG WB610
-    sizes:
-      640w: { height: 480, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
-    make: SAMSUNG
+    file: SAM_6571
+    model: WB600
+    make: Samsung
   65992f3:
     aperture: f/4.8
     date: 2014-08-15 18:48:51
     exposure: 1/750
-    file: SAM_6578.JPG
-    model: SAMSUNG WB600 / VLUU WB600 / SAMSUNG WB610
-    sizes:
-      640w: { height: 480, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
-    make: SAMSUNG
+    file: SAM_6578
+    model: WB600
+    make: Samsung
   93d1337:
     aperture: f/6.2
     date: 2014-08-23 18:46:43
     exposure: 1/350
-    file: SAM_6598.JPG
-    model: SAMSUNG WB600 / VLUU WB600 / SAMSUNG WB610
-    sizes:
-      640w: { height: 480, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
-    make: SAMSUNG
+    file: SAM_6598
+    model: WB600
+    make: Samsung
   f672d0b:
     aperture: f/4.6
     date: 2014-08-24 15:18:38
     exposure: 1/180
-    file: SAM_6609.JPG
-    model: SAMSUNG WB600 / VLUU WB600 / SAMSUNG WB610
-    sizes:
-      640w: { height: 480, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
-    make: SAMSUNG
+    file: SAM_6609
+    model: WB600
+    make: Samsung
   510e9f2:
     aperture: f/5.6
     date: 2014-08-24 15:53:26
     exposure: 1/350
-    file: SAM_6613.JPG
-    model: SAMSUNG WB600 / VLUU WB600 / SAMSUNG WB610
-    sizes:
-      640w: { height: 480, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
-    make: SAMSUNG
+    file: SAM_6613
+    model: WB600
+    make: Samsung
   7a3902a:
     aperture: f/5.2
     date: 2014-08-24 16:48:34
     exposure: 1/500
-    file: SAM_6621.JPG
-    model: SAMSUNG WB600 / VLUU WB600 / SAMSUNG WB610
-    sizes:
-      640w: { height: 480, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
-    make: SAMSUNG
+    file: SAM_6621
+    model: WB600
+    make: Samsung
   868e3ca:
     aperture: f/3.4
     date: 2014-08-24 20:15:50
     exposure: 1/30
-    file: SAM_6640.JPG
-    model: SAMSUNG WB600 / VLUU WB600 / SAMSUNG WB610
-    sizes:
-      640w: { height: 480, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
-    make: SAMSUNG
+    file: SAM_6640
+    model: WB600
+    make: Samsung

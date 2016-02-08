@@ -1,40 +1,27 @@
-title: whisky-tasting-2
+title: Whisky Tasting
 date: 2014-11-07
+ignore: true
 photos:
   1551ea0:
     date: 2014-11-07 08:42:02
     file: timorous-beastie-whisky
-    sizes:
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 200
   7e902cd:
     date: 2014-11-07 08:43:33
     file: dailuaine-12-year-old-1999-sherry-provenance-douglas-laing-whisky
-    sizes:
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 200
   cd53c7b:
     date: 2014-11-07 08:43:47
     file: blair-athol-15-year-old-1998-cask-10342-old-particular-douglas-laing-whisky
-    sizes:
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 200
   0a050ed:
     date: 2014-11-07 08:45:48
     file: glen-ord-21-year-old-1992-cask-9478-directors-cut-douglas-laing-whisky
-    sizes:
-      640w: { height: 961, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
   ec3e367:
     date: 2014-11-07 08:46:48
     file: invergordon-26-year-old-1988-cask-10250-the-clan-denny-douglas-laing-whisky
-    sizes:
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 200
   f22d317:
     date: 2014-11-07 08:47:31
     file: big-peat-whisky
-    sizes:
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    width: 200

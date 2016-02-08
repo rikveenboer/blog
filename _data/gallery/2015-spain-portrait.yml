@@ -1,4 +1,4 @@
-title: Spain - portret
+title: Spain - Portrait
 date: 2015-06-27
 end_date: 2015-07-02
 map:
@@ -15,7 +15,7 @@ photos:
     date: 2015-06-30 15:00:17
     exposure: 1/3200
     file: IMG_20150630_150015
-    model: One A0001
+    model: One
     width: 1920
     make: OnePlus
   6904318:
@@ -26,6 +26,6 @@ photos:
     location:
       latitude: 41.236686666667
       longitude: 1.8236266666667
-    model: One A0001
+    model: One
     width: 1920
     make: OnePlus

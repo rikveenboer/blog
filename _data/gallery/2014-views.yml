@@ -14,14 +14,14 @@ photos:
     location:
       latitude: 56.345817555556
       longitude: -2.8226756944444
-    model: HTC One S
+    model: One S
     make: HTC
   2df93aa:
     aperture: f/2.0
     date: 2013-11-06 10:35:00
     exposure: 913/1000000
     file: IMAG0079
-    model: HTC One S
+    model: One S
     make: HTC
   318c64f:
     aperture: f/2.0
@@ -31,7 +31,7 @@ photos:
     location:
       latitude: 56.339805583333
       longitude: -2.8108503888889
-    model: HTC One S
+    model: One S
     make: HTC
   906cc7f:
     date: 2013-12-05 20:45:00
@@ -39,11 +39,7 @@ photos:
     location:
       latitude: 56.339851361111
       longitude: -2.8108281944444
-    model: HTC One S
-    sizes:
-      640w: { height: 162, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
+    model: One S
     make: HTC
   7915f62:
     aperture: f/2.0
@@ -51,8 +47,4 @@ photos:
     exposure: 2777/1000000
     file: IMG_20140126_143407
     model: One S
-    sizes:
-      640w: { height: 362, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
     make: HTC

@@ -13,7 +13,7 @@ photos:
     location:
       latitude: 41.117123333333
       longitude: 1.25617
-    model: One A0001
+    model: One
     width: 1920
     make: OnePlus
   1422b9b:
@@ -24,7 +24,7 @@ photos:
     location:
       latitude: 41.113583333333
       longitude: 1.25641
-    model: One A0001
+    model: One
     width: 1920
     make: OnePlus
   5a4c1c4:
@@ -35,7 +35,7 @@ photos:
     location:
       latitude: 41.118206666667
       longitude: 1.2472083333333
-    model: One A0001
+    model: One
     sizes:
       1920x1080: { height: 1080, width: 1920 }
       640w: { height: 1138, width: 640 }
@@ -50,6 +50,6 @@ photos:
     location:
       latitude: 41.11692
       longitude: 1.2556716666667
-    model: One A0001
+    model: One
     width: 1920
     make: OnePlus

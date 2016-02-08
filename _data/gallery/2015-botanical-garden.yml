@@ -1,4 +1,4 @@
-title: botanical-garden
+title: Botanical Garden
 date: 2015-04-11
 map:
   latitude: 56.335407694444
@@ -53,10 +53,6 @@ photos:
     location:
       latitude: 56.335571277778
       longitude: -2.8036031666667
-    sizes:
-      640w: { height: 864, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
   a60f94d:
     date: 2015-04-11 12:05:10
     file: IMG_20150411_120509
@@ -64,9 +60,6 @@ photos:
       latitude: 56.335571277778
       longitude: -2.8036031666667
     sizes:
-      640w: { height: 864, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
   7e47922:
     date: 2015-04-11 12:07:02
     file: IMG_20150411_120701
@@ -108,26 +101,15 @@ photos:
       latitude: 56.334415416667
       longitude: -2.8056463611111
     sizes:
-      640w: { height: 864, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
   ca7e7a5:
     date: 2015-04-11 12:20:18
     file: IMG_20150411_122018
     location:
       latitude: 56.334415416667
       longitude: -2.8056463611111
-    sizes:
-      640w: { height: 480, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
   9560dd0:
     date: 2015-04-11 12:22:52
     file: IMG_20150411_122252
     location:
       latitude: 56.334415416667
       longitude: -2.8056463611111
-    sizes:
-      640w: { height: 475, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }

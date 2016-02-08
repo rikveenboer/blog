@@ -1,4 +1,4 @@
-title: northen-ireland-2015-belfast
+title: Northern Ireland - Belfast
 date: 2015-08-15
 photos:
   989e196:
@@ -6,7 +6,7 @@ photos:
     date: 2015-08-15 10:31:27
     exposure: 1/60
     file: IMG_20150815_103125
-    model: One A0001
+    model: One
     width: 1920
     make: OnePlus
   e05d52c:
@@ -14,7 +14,7 @@ photos:
     date: 2015-08-15 10:47:01
     exposure: 1/640
     file: IMG_20150815_104659
-    model: One A0001
+    model: One
     width: 1920
     make: OnePlus
   24d65ef:
@@ -22,7 +22,7 @@ photos:
     date: 2015-08-15 10:58:56
     exposure: 1/900
     file: IMG_20150815_105854
-    model: One A0001
+    model: One
     width: 1920
     make: OnePlus
   0854894:
@@ -30,7 +30,7 @@ photos:
     date: 2015-08-15 11:14:16
     exposure: 1/1700
     file: IMG_20150815_111414
-    model: One A0001
+    model: One
     width: 1920
     make: OnePlus
   a2ea4b9:
@@ -38,7 +38,7 @@ photos:
     date: 2015-08-15 11:19:00
     exposure: 1/1900
     file: IMG_20150815_111858
-    model: One A0001
+    model: One
     width: 1920
     make: OnePlus
   f7e9499:
@@ -46,7 +46,7 @@ photos:
     date: 2015-08-15 11:25:15
     exposure: 1/2000
     file: IMG_20150815_112513
-    model: One A0001
+    model: One
     width: 1920
     make: OnePlus
   9ac173f:
@@ -54,7 +54,7 @@ photos:
     date: 2015-08-15 11:28:01
     exposure: 1/1700
     file: IMG_20150815_112759
-    model: One A0001
+    model: One
     sizes:
       640w: { height: 864, width: 640 }
       200x200: { height: 200, width: 200 }
@@ -65,7 +65,7 @@ photos:
     date: 2015-08-15 11:31:33
     exposure: 1/2200
     file: IMG_20150815_113131
-    model: One A0001
+    model: One
     width: 1920
     make: OnePlus
   80505ce:
@@ -73,7 +73,7 @@ photos:
     date: 2015-08-15 11:43:25
     exposure: 1/1200
     file: IMG_20150815_114323
-    model: One A0001
+    model: One
     width: 1920
     make: OnePlus
   8f5eeac:
@@ -81,7 +81,7 @@ photos:
     date: 2015-08-15 12:07:47
     exposure: 1/1400
     file: IMG_20150815_120745
-    model: One A0001
+    model: One
     sizes:
       640w: { height: 864, width: 640 }
       200x200: { height: 200, width: 200 }
@@ -92,14 +92,14 @@ photos:
     date: 2015-08-15 12:14:16
     exposure: 1/1000
     file: IMG_20150815_121414
-    model: One A0001
+    model: One
     make: OnePlus
   11e4bd1:
     aperture: f/2.0
     date: 2015-08-15 12:21:10
     exposure: 1/2600
     file: IMG_20150815_122108
-    model: One A0001
+    model: One
     sizes:
       640w: { height: 864, width: 640 }
       200x200: { height: 200, width: 200 }
@@ -110,7 +110,7 @@ photos:
     date: 2015-08-15 12:26:27
     exposure: 1/1300
     file: IMG_20150815_122625
-    model: One A0001
+    model: One
     width: 1920
     make: OnePlus
   877eb19:
@@ -118,7 +118,7 @@ photos:
     date: 2015-08-15 12:46:14
     exposure: 1/6
     file: IMG_20150815_124612
-    model: One A0001
+    model: One
     width: 1920
     make: OnePlus
   e3c212b:
@@ -126,7 +126,7 @@ photos:
     date: 2015-08-15 13:33:15
     exposure: 1/950
     file: IMG_20150815_133312
-    model: One A0001
+    model: One
     width: 1920
     make: OnePlus
   d45abe8:
@@ -134,7 +134,7 @@ photos:
     date: 2015-08-15 14:04:47
     exposure: 1/1250
     file: IMG_20150815_140445
-    model: One A0001
+    model: One
     width: 1920
     make: OnePlus
   e465aa1:
@@ -142,7 +142,7 @@ photos:
     date: 2015-08-15 14:19:31
     exposure: 1/35
     file: IMG_20150815_141929
-    model: One A0001
+    model: One
     width: 1920
     make: OnePlus
   f57c1c6:
@@ -150,7 +150,7 @@ photos:
     date: 2015-08-15 14:25:14
     exposure: 1/17
     file: IMG_20150815_142512
-    model: One A0001
+    model: One
     sizes:
       640w: { height: 445, width: 640 }
       200x200: { height: 200, width: 200 }
@@ -161,14 +161,14 @@ photos:
     date: 2015-08-15 14:26:53
     exposure: 1/17
     file: IMG_20150815_142651
-    model: One A0001
+    model: One
     make: OnePlus
   9b828a3:
     aperture: f/2.0
     date: 2015-08-15 14:29:25
     exposure: 1/35
     file: IMG_20150815_142923
-    model: One A0001
+    model: One
     sizes:
       640w: { height: 1030, width: 640 }
       200x200: { height: 200, width: 200 }
@@ -179,7 +179,7 @@ photos:
     date: 2015-08-15 14:29:42
     exposure: 1/35
     file: IMG_20150815_142940
-    model: One A0001
+    model: One
     sizes:
       640w: { height: 966, width: 640 }
       200x200: { height: 200, width: 200 }
@@ -190,7 +190,7 @@ photos:
     date: 2015-08-15 14:33:25
     exposure: 1/170
     file: IMG_20150815_143323
-    model: One A0001
+    model: One
     width: 1920
     make: OnePlus
   c9b2717:
@@ -198,7 +198,7 @@ photos:
     date: 2015-08-15 14:38:13
     exposure: 1/210
     file: IMG_20150815_143811
-    model: One A0001
+    model: One
     width: 1920
     make: OnePlus
   523b477:
@@ -206,7 +206,7 @@ photos:
     date: 2015-08-15 14:43:03
     exposure: 1/320
     file: IMG_20150815_144301
-    model: One A0001
+    model: One
     width: 1920
     make: OnePlus
   7a9e956:
@@ -214,7 +214,7 @@ photos:
     date: 2015-08-15 15:01:01
     exposure: 1/1500
     file: IMG_20150815_150059
-    model: One A0001
+    model: One
     width: 1920
     make: OnePlus
   ad3a529:
@@ -222,7 +222,7 @@ photos:
     date: 2015-08-15 15:05:40
     exposure: 1/60
     file: IMG_20150815_150538
-    model: One A0001
+    model: One
     width: 1920
     make: OnePlus
   d38c3b3:
@@ -230,7 +230,7 @@ photos:
     date: 2015-08-15 15:08:43
     exposure: 1/750
     file: IMG_20150815_150841
-    model: One A0001
+    model: One
     width: 1920
     make: OnePlus
   85c9cb9:
@@ -238,7 +238,7 @@ photos:
     date: 2015-08-15 15:12:37
     exposure: 1/130
     file: IMG_20150815_151235
-    model: One A0001
+    model: One
     width: 1920
     make: OnePlus
   9029196:
@@ -246,7 +246,7 @@ photos:
     date: 2015-08-15 15:14:22
     exposure: 1/1000
     file: IMG_20150815_151421
-    model: One A0001
+    model: One
     width: 1920
     make: OnePlus
   2bc7bd6:
@@ -254,7 +254,7 @@ photos:
     date: 2015-08-15 16:08:01
     exposure: 1/17
     file: IMG_20150815_160759
-    model: One A0001
+    model: One
     width: 1920
     make: OnePlus
   f9a4730:
@@ -262,7 +262,7 @@ photos:
     date: 2015-08-15 16:28:43
     exposure: 1/25
     file: IMG_20150815_162842
-    model: One A0001
+    model: One
     width: 1920
     make: OnePlus
   e36f253:
@@ -270,7 +270,7 @@ photos:
     date: 2015-08-15 16:30:53
     exposure: 1/17
     file: IMG_20150815_163051
-    model: One A0001
+    model: One
     width: 1920
     make: OnePlus
   2640fdb:
@@ -278,7 +278,7 @@ photos:
     date: 2015-08-15 16:34:56
     exposure: 1/100
     file: IMG_20150815_163454
-    model: One A0001
+    model: One
     width: 1920
     make: OnePlus
   7a7b560:
@@ -286,7 +286,7 @@ photos:
     date: 2015-08-15 16:35:01
     exposure: 1/50
     file: IMG_20150815_163500
-    model: One A0001
+    model: One
     width: 1920
     make: OnePlus
   379c813:
@@ -294,7 +294,7 @@ photos:
     date: 2015-08-15 16:37:52
     exposure: 1/50
     file: IMG_20150815_163750
-    model: One A0001
+    model: One
     width: 1920
     make: OnePlus
   9746153:
@@ -302,6 +302,6 @@ photos:
     date: 2015-08-15 16:42:52
     exposure: 1/6
     file: IMG_20150815_164250
-    model: One A0001
+    model: One
     width: 1920
     make: OnePlus

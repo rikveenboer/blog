@@ -10,7 +10,7 @@ photos:
     date: 2015-07-18 12:05:04
     exposure: 1/560
     file: IMG_20150718_120502
-    model: One A0001
+    model: One
     width: 1920
     make: OnePlus
   6fd482a:
@@ -18,7 +18,7 @@ photos:
     date: 2015-07-18 12:14:26
     exposure: 1/1500
     file: IMG_20150718_121424
-    model: One A0001
+    model: One
     width: 1920
     make: OnePlus
   28f9814:
@@ -30,7 +30,7 @@ photos:
     date: 2015-07-18 13:13:40
     exposure: 1/20
     file: IMG_20150718_131337
-    model: One A0001
+    model: One
     width: 1920
     make: OnePlus
   f5435e7:
@@ -42,6 +42,6 @@ photos:
     date: 2015-07-18 14:02:58
     exposure: 1/1800
     file: IMG_20150718_140256
-    model: One A0001
+    model: One
     width: 1920
     make: OnePlus

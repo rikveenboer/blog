@@ -15,7 +15,7 @@ photos:
     latitude: 56.33037566678
     longitude: -2.8100201666667
     make: OnePlus
-    model: One A0001
+    model: One
     width: 1920
   d7aec3f:
     altitude: 77
@@ -27,7 +27,7 @@ photos:
     latitude: 56.330451944444
     longitude: -2.8096883055216
     make: OnePlus
-    model: One A0001
+    model: One
     width: 1920
   0f7f25a:
     altitude: 112
@@ -39,7 +39,7 @@ photos:
     latitude: 56.326015472243
     longitude: -2.8037125833269
     make: OnePlus
-    model: One A0001
+    model: One
     width: 1920
   1055ae9:
     altitude: 109
@@ -51,7 +51,7 @@ photos:
     latitude: 56.325984944421
     longitude: -2.8036386944687
     make: OnePlus
-    model: One A0001
+    model: One
     width: 1920
   958c6e2:
     altitude: 133
@@ -63,7 +63,7 @@ photos:
     latitude: 56.322174055581
     longitude: -2.8001851944444
     make: OnePlus
-    model: One A0001
+    model: One
     width: 1920
   56854c4:
     altitude: 138
@@ -75,7 +75,7 @@ photos:
     latitude: 56.322254166667
     longitude: -2.8002026111111
     make: OnePlus
-    model: One A0001
+    model: One
     width: 1920
   91b9ca9:
     altitude: 127
@@ -87,7 +87,7 @@ photos:
     latitude: 56.322231277733
     longitude: -2.8001985277778
     make: OnePlus
-    model: One A0001
+    model: One
     width: 1920
   5d08129:
     altitude: 136
@@ -99,7 +99,7 @@ photos:
     latitude: 56.321250888889
     longitude: -2.8004636666667
     make: OnePlus
-    model: One A0001
+    model: One
     width: 1920
   61b6456:
     altitude: 94
@@ -111,5 +111,5 @@ photos:
     latitude: 56.33055875
     longitude: -2.8100535555556
     make: OnePlus
-    model: One A0001
+    model: One
     width: 1920

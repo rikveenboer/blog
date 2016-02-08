@@ -7,8 +7,4 @@ photos:
     exposure: 1/30
     file: 2014-09-05 12.12.33
     model: Nexus 5
-    sizes:
-      640w: { height: 854, width: 640 }
-      200x200: { height: 200, width: 200 }
-      96x96: { height: 96, width: 96 }
-    make: LGE
+    make: LG
