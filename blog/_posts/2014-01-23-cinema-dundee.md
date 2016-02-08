@@ -2,9 +2,6 @@
 title: Cinema Dundee
 description: Een eerste bezoek aan de grote bioscoop in Dundee.
 ---
-[1]: http://www.imdb.com/title/tt0993846
-[2]: http://www.imdb.com/title/tt0993846/
-
 Het is heel handig om een collega te hebben die voldoet aan drie critera:
 
 1. Schots
@@ -18,5 +15,5 @@ Dat betekent namelijk dat hij maar wat graag collega's uitnodigd om samen een fi
 {% include caption.html
     width='230'
     image='/asset/images/The-Wolf-of-Wall-Street.jpg' 
-    text='[The Wolf of Wall Street][1]'
+    text='[The Wolf of Wall Street](http://www.imdb.com/title/tt0993846/)'
 %}

@@ -19,7 +19,10 @@ De meest uitgebreide tasting tot nu toe, met maar liefst zeven whiskies van drie
 
 De presentatie werd verzorgt door een echte liefhebber die verhalen over de achtergronden bij de whiskies afwisselde met video's over de distileerderijen. Op deze manier wist hij een prima sfeer te creëren om ons echt te verplaatsten in het Schotse vocht.
 
-{% include gallery.html gallery='2014-whisky-tasting-1' %}
+{% include photo.html
+    gallery='2014-whisky-tasting-1'
+    photo='41e61bc'
+%}
 
 Het is nog maar een maand geleden dat we in [de vorige whisky tasting][2] Auchentoshan Virgin Oak te proeven kregen. Door nu ook de "standaard" versie te proberen konden we goed vergelijken. Deze whisky was niet erg bijzonder, maar zeer drinkbaar. Meer de moeite waard is de Three Wood, die ik zeker als dessertwhisky zou aanprijzen. De Valinch is een variant gerijpt in nieuwe vaten zodat zich een intense smaak opbouwt. Dit type whisky is niet helemaal aan mij besteed en het was bijna een verademing om over te stappen op de producten van Glen Garioch. Hoewel niet heel erg opvallend zijn dit toch zeer aangename whiskies.
 

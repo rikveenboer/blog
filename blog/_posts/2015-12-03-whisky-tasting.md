@@ -29,7 +29,7 @@ Geloof het of niet, maar tijdens de loterij heb ik de hoofdprijs gewonnen, een v
 
 {% include caption.html
     image='/asset/images/Compass-Box-Flaming-Heart.jpg'
-    text='Een fraaie fles voor een bijzondere whisky.'
+    text='Een fraaie fles voor een bijzondere whisky'
 %}
 
 Ik had slechts £3 aan lootjes gekocht (voor het goede doel), dus dat is een fijn rendement. Zeker bedenkende dat ik al eerder flessen van £50 en £70 heb gewonnen. Ook anderen aan onze tafel (totaal 10 personen) vielen in de prijzen en merkwaardig genoeg kwamen zodoende alle drie de te winnen flessen aan onze tafel ten goede.

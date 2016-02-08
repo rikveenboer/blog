@@ -26,7 +26,7 @@ Het resultaat was een fraaie diversiteit, waaronder een aantal oude bekenden zoa
 - [Springbank Calvados Wood Finish (12 year, 53%)](8)
 
 {% include photo.html
-    album='2015-whisky-poker'
+    gallery='2015-whisky-poker'
     photo='ca11f73'
     text='De whisky line-up'
 %}
@@ -38,7 +38,7 @@ Eigenlijk is er over elke whisky wel iets bijzonders te vertellen. Zo is bijvoor
 Onder het genot van deze whiskies hebben we poker gespeeld. Het was daarbij leuk om echt kleingeld te gebruiken. Gelukkig bleef de inzet met blinds van 1 en 2 cent beperkt. De hoogste inzet van de avond liep tegen de 20 cent, maar op deze manier bleef het leuk. Al met al schat ik dat ik op een inleg van 2 pond zo'n 60 cent winst heb gemaakt.
 
 {% include photo.html
-    album='2015-whisky-poker'
+    gallery='2015-whisky-poker'
     photo='12f6e38'
     text='Poker met echte munten'
 %}

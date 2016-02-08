@@ -8,14 +8,15 @@ Een Italiaanse collega had het plan opgevat om een internationaal diner te organ
 
 In de supermarkt moest ik uit een ruim assortiment appels kiezen, best lastig. Gelukkig herinnerde ik me dat zure groene appels het beste geschikt zijn, dus ik heb besloten Bramley apples te nemen! Deze enorme appels maakten het schilwerk lekker makkelijk, dus dat was ook nog mooi meegenomen. Een meevaller was het dat mijn huisbaas eerder een huurder heeft gehad die graag kokkerelde, want alle keukengerei was reeds aanwezig. Oordeel zelf of het resultaat er rauw of gebakken beter uit ziet:
 
-{% include caption.html
-    width='300'
-    image='wp-content/gallery/Cooking/IMG_20140221_194916.jpg'
+{% include photo.html
+    gallery='2014-cooking'
+    photo='480761a'
     text='Voor...'
 %}
-{% include caption.html
-    width='300'
-    image='wp-content/gallery/Cooking/IMG_20140221_204737.jpg'
+
+{% include photo.html
+    gallery='2014-cooking'
+    photo='2f25d67'
     text='... en na!'
 %}
 

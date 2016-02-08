@@ -12,7 +12,7 @@ Hoewel St Andrews helemaal niet zo heel groot is, blijkt het een aanzienlijke kl
 Na verschillende pogingen is het gelukt om een oude fiets van mijn huisbaas te repareren. Op de fiets ben ik niet alleen twee keer zo snel op m'n werk, het betekent ook een extra mogelijkheid om op verkenning te gaan. In tegenstelling tot het vernieuwende van verkennen, kan ik nog steeds het vertrouwde waarderen. Ik was dan ook zeer verheugd om een fantastisch pakket met allerlei waren uit Nederland te krijgen. Heel toepasselijk zijn zeker de fietslampen die er in zaten.
 
 {% include photo.html
-    gallery='2014-strathkinness'
+    gallery='2014-lade-braes'
     photo='49d78d7'
     text='De Lade zwelt aan tot een kolkende rivier.'
 %}

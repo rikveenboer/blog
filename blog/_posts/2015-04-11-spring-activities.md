@@ -10,8 +10,9 @@ Het voorjaar is al behoorlijk op dreef in mijn Schotse verblijfplaats. Met het r
 
 Niet alle bloemen en planten zijn er even vroeg bij, maar het is duidelijk dat deze boom er zin in heeft:
 
-{% include caption.html
-    image='/wp-content/gallery/St%20Andrews/IMG_20150411_142931.jpg'
+{% include photo.html
+    gallery='2014-st-andrews'
+    photo='60ed2f6'
     text='Bomen in de knop'
 %}
 

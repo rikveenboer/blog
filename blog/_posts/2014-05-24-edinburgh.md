@@ -2,7 +2,7 @@
 title: Edinburgh
 description: Een bezoek aan de hoofdstad met Franse collega's.
 ---
-[1]: {% post_baseurl 2013-12-08-visit-school-of-chemistry %} "Visit School of Chemistry"
+[1]: {% post_baseurl 2013-10-17-visit-school-of-chemistry %} "Visit School of Chemistry"
 [2]: http://www.scotchwhiskyexperience.co.uk/
 [3]: http://www.whiskyintelligence.com/2012/09/why-is-a-dram-of-whisky-called-a-dram-scotch-whisky-conundrum/
 [4]: http://www.amber-restaurant.co.uk/amber_whisky_bar.php
