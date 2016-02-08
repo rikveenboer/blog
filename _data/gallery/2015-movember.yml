@@ -1,0 +1,63 @@
+title: Movember
+date: 2015-11-01
+end_date: 2015-12-01
+map:
+  latitude: 56.338911321429
+  longitude: -2.8111195674603
+photos:
+  e6959e0:
+    altitude: 76
+    date: 2015-11-01 13:42:04
+    direction: 34
+    file: IMG_20151101_134204
+    latitude: 56.33042525
+    longitude: -2.8101660833333
+    width: 1920
+  4802cd5:
+    altitude: 0
+    date: 2015-11-30 08:32:35
+    direction: 50
+    file: IMG_20151130_083235
+    latitude: 56.340332027778
+    longitude: -2.8112878611111
+    width: 1920
+  97354df:
+    altitude: 0
+    date: 2015-11-30 08:33:13
+    direction: 48
+    file: IMG_20151130_083313
+    latitude: 56.340320583333
+    longitude: -2.8112296944444
+    width: 1920
+  f3423c0:
+    altitude: 0
+    date: 2015-11-30 08:33:59
+    direction: 41
+    file: IMG_20151130_083358
+    latitude: 56.340305305556
+    longitude: -2.8111190555556
+    width: 1920
+  6d86781:
+    altitude: 0
+    date: 2015-12-01 09:32:02
+    direction: 199
+    file: IMG_20151201_093202
+    latitude: 56.340320583333
+    longitude: -2.8113317222222
+    width: 1920
+  199e379:
+    altitude: 0
+    date: 2015-12-01 09:32:13
+    direction: 147
+    file: IMG_20151201_093213
+    latitude: 56.340320583333
+    longitude: -2.8113317222222
+    width: 1920
+  101b3cb:
+    altitude: 0
+    date: 2015-12-01 11:08:58
+    direction: 3
+    file: IMG_20151201_110857
+    latitude: 56.340354916667
+    longitude: -2.8113708333333
+    width: 1920
