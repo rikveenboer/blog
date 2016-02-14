@@ -1,0 +1,43 @@
+title: Peugeot Washing
+date: 2016-02-14
+ignore: true
+map:
+  latitude: 56.330171111111
+  longitude: -2.8084288888889
+photos:
+  98a3ce9:
+    altitude: 82
+    aperture: f/2.0
+    date: 2016-02-14 11:16:17
+    direction: 257
+    exposure: 1/950
+    file: IMG_20160214_111615
+    latitude: 56.329853333333
+    longitude: -2.805585
+    make: OnePlus
+    model: One
+    width: 1920
+  0782195:
+    altitude: 69
+    aperture: f/2.0
+    date: 2016-02-14 13:22:52
+    direction: 274
+    exposure: 1/580
+    file: IMG_20160214_132250
+    latitude: 56.3303
+    longitude: -2.8098083333333
+    make: OnePlus
+    model: One
+    width: 1920
+  6be7775:
+    altitude: 73
+    aperture: f/2.0
+    date: 2016-02-14 13:23:08
+    direction: 2
+    exposure: 1/560
+    file: IMG_20160214_132306
+    latitude: 56.33036
+    longitude: -2.8098933333333
+    make: OnePlus
+    model: One
+    width: 1920
