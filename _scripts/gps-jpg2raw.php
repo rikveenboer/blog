@@ -7,8 +7,6 @@ use PHPExiftool\Writer;
 use PHPExiftool\Driver\Metadata\Metadata;
 use PHPExiftool\Driver\Metadata\MetadataBag;
 
-define('PHP_WINDOWS_VERSION_BUILD');
-
 if (!isset($argv[1])) {
     die('No directory given!');
 }
