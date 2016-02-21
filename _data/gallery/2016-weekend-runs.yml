@@ -1,0 +1,27 @@
+title: Weekend Runs
+date: 2016-02-20
+end_date: 2016-02-21
+ignore: true
+map:
+  latitude: 56.289925
+  longitude: -2.6198866666667
+photos:
+  f6882c7:
+    aperture: f/3.2
+    date: 2016-02-20 10:29:26
+    exposure: 1/500
+    file: 24523279003_4a6d4b541c_o
+    make: Canon
+    model: EOS 5D Mark III
+  eb16626:
+    altitude: 56
+    aperture: f/2.0
+    date: 2016-02-21 14:46:55
+    direction: 12
+    exposure: 1/290
+    file: IMG_20160221_144653
+    latitude: 56.289925
+    longitude: -2.6198866666667
+    make: OnePlus
+    model: One
+    width: 1920
