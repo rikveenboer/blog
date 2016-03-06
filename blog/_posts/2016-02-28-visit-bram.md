@@ -18,7 +18,8 @@ description: Bram vliegt mee terug naar Schotland voor extra vakantie.
 [13]: https://www.masterofmalt.com/whiskies/glenturret-10-year-old-whisky/
 [14]: https://www.masterofmalt.com/whiskies/famous-grouse-blended-scotch-whisky/
 [15]: http://www.lochlomond-trossachs.org/
-[16]: http://www.tripadvisor.com/Restaurant_Review-g186533-d1748584-Reviews-Northpoint-St_Andrews_Fife_Scotland.html
+[16]: https://www.strava.com/activities/510147897
+[17]: http://www.tripadvisor.com/Restaurant_Review-g186533-d1748584-Reviews-Northpoint-St_Andrews_Fife_Scotland.html
 
 Hoewel ik al velen heb mogen verwelkomen in Schotland, was dit de eerste keer daar ik samen met iemand naar Edinburgh vloog voor het bezoek. Na de geslaagde trip met Bram en Sanne [naar Dublin][1], kwam Bram nog een paar dagen met mij mee naar St Andrews voor aanvullend vermaak. Dit was hoog tijd, want sinds zijn [vorige bezoek][2] zo'n twee jaar geleden ben ik [verhuisd][3], heb ik een ([nieuwe) auto][4] en weet ik beter wat er in de buurt te doen is.
 
@@ -44,12 +45,12 @@ Een eerste stop maakten we bij het vervallen doch immer imposante [Balvaird Cast
 
 Door het kleine beetje whisky zagen we ze heus niet vliegen, maar het mag bijna geen toeval worden genoemd dat we met het vervolgen van onze weg heel wat fazanten/hoenen (pheasant/grouse volgens het woordenboek) tegenkwamen. We hadden niet echt een vaste bestemming voor onze volgende programma onderdeel, de hike. Uiteindelijk zijn we gestopt bij een dorpje genaamd St Fillans, aan de uiterst oostelijke kant van het grote nationale park [Loch Lomond & The Trossachs][15].
 
-We volgende eerst een redelijk vlak pad maar besloten al snel daarvan af te wijken en onze tocht bergopwaarts te vervolgen. Op deze manier hebben we door drassig gebied zo'n 300 meter geklommen met fantastisch uitzicht als beloning. Ook nu vorderde de dag al rap en was het zaak weet terug te gaan voor het te donker zou worden. Dit bleek een zeer avontuurlijke tocht te worden die lastig in woorden valt te vatten.
+We volgende eerst een redelijk vlak pad maar besloten al snel daarvan af te wijken en onze tocht bergopwaarts te vervolgen. Op deze manier hebben we door drassig gebied zo'n 170 meter [geklommen][16] met fantastisch uitzicht als beloning. Ook nu vorderde de dag al rap en was het zaak weet terug te gaan voor het te donker zou worden. Dit bleek een zeer avontuurlijke tocht te worden die lastig in woorden valt te vatten.
 
 Gelukkig kwamen we nog met licht terug bij de auto, net voor het stevig begon te regenen. Met inzettende duisternis reden we terug naar St Andrews met een korte stop bij Newburgh om nog even over de rivier Tay (die uitmondt bij Dundee) uit te kijken. De avond hebben we opnieuw tevreden en behoorlijk moe thuis doorgebracht.
 
 ** Woensdag **
 
-Dit was alweer de laatste dag van Brams bezoek! Ik had vandaag geen vrij meer, dus we zijn redelijk vroeg opgestaan om op een redelijke tijd op mijn werk aan te komen. Daar hebben we een beetje rondgekeken en diverse collega's verrast met onze aanblik. Bram is op eigen houtje richt het "centrum" gelopen om daar zelf nog wat te verkennen. Rond het middaguur trof ik hem weer om een lekkere lunch pancakes naar binnen te werken bij [Northpoint][16]. Hierna was het helaas alweer tijd voor afscheid bij het busstation.
+Dit was alweer de laatste dag van Brams bezoek! Ik had vandaag geen vrij meer, dus we zijn redelijk vroeg opgestaan om op een redelijke tijd op mijn werk aan te komen. Daar hebben we een beetje rondgekeken en diverse collega's verrast met onze aanblik. Bram is op eigen houtje richt het "centrum" gelopen om daar zelf nog wat te verkennen. Rond het middaguur trof ik hem weer om een lekkere lunch pancakes naar binnen te werken bij [Northpoint][17]. Hierna was het helaas alweer tijd voor afscheid bij het busstation.
 
-We hadden er een leuke vakantie op zitten!
+We hadden er een leuke vakantie op zitten! Foto's van onze avonturen houden we nog tegoed.
