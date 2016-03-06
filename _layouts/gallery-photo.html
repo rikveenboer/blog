@@ -10,8 +10,8 @@ layout: default
             {% if photo.date %}
                 <time datetime="{{ photo.date | date_to_xmlschema }}" title="{{ photo.date | date_to_xmlschema }}"><strong>{{ photo.date | date:"%b %d" | upcase }}</strong><br />{{ photo.date | date:"%Y" }}</time>
             {% endif %}
-            {% if photo.location %}
-                <a href="https://maps.google.com/maps?hl=en&amp;ll={{ photo.location.latitude }},{{ photo.location.longitude }}&amp;t=w&amp;z=12"><img alt="map" height="49" src="https://maps.googleapis.com/maps/api/staticmap?center={{ photo.location.latitude }},{{ photo.location.longitude }}&amp;zoom=9&amp;size=98x98&amp;sensor=false" title="{{ photo.location.title }}" width="49" /></a>
+            {% if photo.latitude %}
+                <a href="https://maps.google.com/maps?hl=en&amp;ll={{ photo.latitude }},{{ photo.longitude }}&amp;t=w&amp;z=12"><img alt="map" height="49" src="https://maps.googleapis.com/maps/api/staticmap?center={{ photo.latitude }},{{ photo.longitude }}&amp;zoom=9&amp;size=98x98&amp;sensor=false" title="{{ photo.title }}" width="49" /></a>
             {% endif %}
         </div>
         <section class="post-content">
@@ -52,7 +52,7 @@ layout: default
         {% else %}
             {% assign file='640w' %}
         {% endif %}
-        <p style="text-align:center;">
+        <p style="text-align: center;">
             <a href="{{ photo_url }}~{{ file }}.jpg"><img alt="Photo: {{ photo.title }}" src="{{ photo_url }}~{{ file }}.jpg" style="max-width:630px;" /></a>
         </p>
 
@@ -112,13 +112,13 @@ layout: default
                 </dl>
             </div>
 
-            {% if photo.location %}
-                <div style="float:left;line-height:0;margin-left:7px;width:280px;" itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+            {% if photo %}
+                <div class="map" itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
                     <span itemprop="geo" itemscope itemtype="http://schema.org/GeoCoordinates">
-                        <meta itemprop="latitude" content="{{ photo.location.latitude }}" />
-                        <meta itemprop="longitude" content="{{ photo.location.longitude }}" />
+                        <meta itemprop="latitude" content="{{ photo.latitude }}" />
+                        <meta itemprop="longitude" content="{{ photo.longitude }}" />
                     </span>
-                    <a href="https://maps.google.com/maps?hl=en&amp;ll={{ photo.location.latitude }},{{ photo.location.longitude }}&amp;t=w&amp;z=12"><img alt="map" height="173" src="https://maps.googleapis.com/maps/api/staticmap?center={{ photo.location.latitude }},{{ photo.location.longitude }}&amp;zoom=13&amp;size=280x173&amp;markers=size:mid%7Ccolor:orange%7C{{ photo.location.latitude }},{{ photo.location.longitude }}&amp;sensor=false" title="{{ photo.location.title }}" width="280" /></a>
+                    <a href="https://maps.google.com/maps?hl=en&amp;ll={{ photo.latitude }},{{ photo.longitude }}&amp;t=w&amp;z=12"><img alt="map" height="173" src="https://maps.googleapis.com/maps/api/staticmap?center={{ photo.latitude }},{{ photo.longitude }}&amp;zoom=13&amp;size=280x173&amp;markers=size:mid%7Ccolor:orange%7C{{ photo.latitude }},{{ photo.longitude }}&amp;sensor=false" title="{{ photo.title }}" width="280" /></a>
                 </div>
             {% endif %}
 

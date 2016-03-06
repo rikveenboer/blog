@@ -418,6 +418,13 @@ blockquote {
     margin: 0 0 8px;
 }
 
+.map {
+    border: 1px solid #ddd;
+    padding: 4px;
+    margin: 0 auto;
+    width :280px;
+}
+
 .aligncenter {
     display: block;
     margin-left: auto;
