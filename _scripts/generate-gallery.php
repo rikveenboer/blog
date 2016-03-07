@@ -123,7 +123,7 @@ $oConsole
 
                         if (strpos($sExport, 'x') !== false) {
                             list($iX, $iY) = explode('x', $sExport);
-                            if ($iX > $oSourceSize->getWidth() || $iY > $oSourceSize->getHeight()) {
+                            if ($iX > $oSourceSize->getWidth()) {
                                 $oOutput->writeln('    <comment>[skipping]</comment>');
                                 continue;
                             }
@@ -162,7 +162,7 @@ $oConsole
                         } else {
                             $aExportsize = $sExportImage->getSize();
                             if ($iX != $aExportsize->getWidth() || $iY != $aExportsize->getHeight()) {
-                                $oOutput->writeln(sprintf(' [%dx%d] vs [%dx%d]', $iX, $iY, $aExportsize->getWidth(), $aExportsize->getHeight()));
+                                $oOutput->writeln(sprintf(' [%dx%d]', $aExportsize->getWidth(), $aExportsize->getHeight()));
                             } else {
                                 $oOutput->writeln(sprintf(' [%dx%d]', $iX, $iY));
                             }
