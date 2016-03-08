@@ -51,6 +51,8 @@ Gelukkig kwamen we nog met licht terug bij de auto, net voor het stevig begon te
 
 ** Woensdag **
 
-Dit was alweer de laatste dag van Brams bezoek! Ik had vandaag geen vrij meer, dus we zijn redelijk vroeg opgestaan om op een redelijke tijd op mijn werk aan te komen. Daar hebben we een beetje rondgekeken en diverse collega's verrast met onze aanblik. Bram is op eigen houtje richt het "centrum" gelopen om daar zelf nog wat te verkennen. Rond het middaguur trof ik hem weer om een lekkere lunch pancakes naar binnen te werken bij [Northpoint][17]. Hierna was het helaas alweer tijd voor afscheid bij het busstation.
+Dit was alweer de laatste dag van Brams bezoek! Ik had vandaag geen vrij meer, dus we zijn redelijk vroeg opgestaan om op een redelijke tijd op mijn werk aan te komen. Daar hebben we een beetje rondgekeken en diverse collega's verrast met onze aanblik. Bram is op eigen houtje richt het "centrum" gelopen om daar zelf nog wat te verkennen. Rond het middaguur trof ik hem weer om een lekkere lunch pancakes naar binnen te werken bij [Northpoint][17]. Hierna was het helaas alweer tijd voor afscheid bij het busstation, maar wat hadden we er een leuke vakantie op zitten! 
 
-We hadden er een leuke vakantie op zitten! Foto's van onze avonturen houden we nog tegoed.
+Een keur aan foto's:
+
+{% include gallery.html gallery='2016-visit-bram' %}
