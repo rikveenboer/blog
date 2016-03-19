@@ -36,6 +36,24 @@
     <section class="post-content" itemprop="articleBody">
         {{ content | hyphenate }}
     </section>
+    <section>
+    {% assign items = ''|split:'' %}
+    {% assign filename = page.url | remove: '/blog/' | replace: '/', '-'  | remove: '.html' %}
+    {% for p in site.posts %}
+        {% if p.content contains filename %} 
+            {% assign items = items | push:p %}
+        {% endif %}
+    {% endfor %}
+    {% assign size=items | size %}
+    {% if size > 0 %}
+    <p>{{ site.mentioned_in }}</p>
+    <ul>
+        {% for item in items %}
+        <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+        {% endfor %}
+    </ul>
+    {% endif %}
+    </section>
     {% if false != page.comments %}
         {% include disqus.html %}
     {% endif %}
