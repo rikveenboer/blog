@@ -1,6 +1,6 @@
 ---
 title: Strathkinness to Blebocraigs Race
-description: 
+description: Een heuvelachtige wedstrijd langs twee lokale dorpjes.
 ---
 [1]: http://www.fifeac.org/events/fife-ac-events/midweek-series/1158-midweek-series-2016.html
 [2]: http://www.fifeac.org/events/fife-ac-events/strathkinness-blebocraigs.html
