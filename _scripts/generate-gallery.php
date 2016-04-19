@@ -55,7 +55,7 @@ $oConsole
             // Loop over files
             $aGallery['title'] = ucwords(str_replace('-', ' ', substr($sGallery, 5)));
             $aPhotos = $aLongitude = $aLatitude = [];
-            foreach (glob($sDir . '/*.jpg') as $i => $sFile) {
+            foreach (glob($sDir . '/*.[jJ][pP][gG]') as $i => $sFile) {
                 // Generate id from file contents
                 $sId = substr(sha1_file($sFile), 0, 7);
                 $oOutput->write('<info>' . $sId . '</info>');
@@ -215,9 +215,11 @@ $oConsole
             }
 
             // Write datafile
-            $aGallery['date'] = $oDate->format('Y-m-d');
-            if ($oDate->diff($oEndDate)->d > 0) {
-                $aGallery['end_date'] = $oEndDate->format('Y-m-d');
+            if (isset($oDate)) {
+                $aGallery['date'] = $oDate->format('Y-m-d');
+                if ($oDate->diff($oEndDate)->d > 0) {
+                    $aGallery['end_date'] = $oEndDate->format('Y-m-d');
+                }
             }
             if (count($aLongitude) > 0) {
                 $aGallery['map'] = [
