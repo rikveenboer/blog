@@ -23,4 +23,6 @@ Toch hield ik het hier niet bij, want in plaats van de normale weg terug te volg
 
 Na een paar uur rust stond het namiddag programma in het teken van de de beruchte "Tequila 10K". De bedoeling was om tien rondes van één kilometer over het sportveld te rennen, met daarvoor steeds een tequila, compleet met zout en limoen. Mijn benen waren duidelijk niet blij met mij, maar verder had ik weinig last van de borrels. We zullen daarom in het midden houden welk van de twee het meeste invloed gehad hebben op mijn eindtijd van [46:58][4] (inclusief stops).
 
+{% include gallery.html gallery='2016-tequila-10k' %}
+
 Ik ben blij om nu na perioden van (milde) blessures nu zonder grootse problemen zoveel te kunnen hardlopen. De gevarieerde omstandigheden van de verschillende sessies houden het interessant en ik ben zeker van plan dit vol te houden.
