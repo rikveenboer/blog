@@ -1,5 +1,5 @@
 # location
-absolute: http://csbnw.no-ip.org:3838
+absolute: https://csbnw.no-ip.org:3838
 baseurl: .
 asset_prefix: /asset
 static_prefix: /static
