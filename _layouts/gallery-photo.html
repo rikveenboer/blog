@@ -15,7 +15,6 @@ layout: default
             {% endif %}
         </div>
         <section class="post-content">
-            <p>{{ content }}</p>
             <a href="{{ gallery_url }}/">[ gallery ]</a>
         </section>
         <ul style="margin-top: 0;">
@@ -112,7 +111,7 @@ layout: default
                 </dl>
             </div>
 
-            {% if photo %}
+            {% if photo.latitude %}
                 <div class="map" itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
                     <span itemprop="geo" itemscope itemtype="http://schema.org/GeoCoordinates">
                         <meta itemprop="latitude" content="{{ photo.latitude }}" />
