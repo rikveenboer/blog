@@ -22,3 +22,7 @@ Op maandag wilden we eerst wat inkopen doen, maar helaas bleken de winkels dicht
 Maar niet al te lang, want op dinsdagochtend moesten we allemaal vroeg op voor ons werk. Letterlijk, want ik had deze dag geen vrijgenomen! Voor zeven uur 's ochtends vertrokken we gezellig met de trein richting Amsterdam, zodat ik ruim op tijd zou zijn voor mijn vlucht tegen tien uur.
 
 Met een uurtje tijdswinst kwam ik voorspoedig aan in Edinburgh, alwaar ik mijn auto op een nabijgelegen parkeerplaats had gezet. Na al met al toch een lange reis kwam ik voor het middaguur op mijn werk aan. Best vreemd hoe snel een fijne vakantie dan weer veranderd in een redelijk normale werkweek!
+
+Het werk aan de schutting is op de gevoelige plaat vastgelegd:
+
+{% include gallery.html gallery='2016-schutting' %}
