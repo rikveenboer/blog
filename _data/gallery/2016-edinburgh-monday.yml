@@ -1,0 +1,502 @@
+title: Edinburgh - Monday
+date: 2016-05-30
+highlight: e25b785
+map:
+  latitude: 55.950589259259
+  longitude: -3.1958455555556
+photos:
+  6ad732b:
+    altitude: 58.4304
+    aperture: f/2.8
+    date: 2016-05-30 08:24:54
+    exposure: 1/7
+    file: DSCF1509
+    latitude: 55.943833333333
+    longitude: -3.2878783333333
+    make: Fujifilm
+    model: XQ1
+    width: 1920
+  fbd0338:
+    altitude: 58.4304
+    aperture: f/1.8
+    date: 2016-05-30 08:30:24
+    exposure: 1/35
+    file: DSCF1511
+    latitude: 55.943833333333
+    longitude: -3.2878783333333
+    make: Fujifilm
+    model: XQ1
+    width: 1920
+  977a41a:
+    altitude: 58.4304
+    aperture: f/1.8
+    date: 2016-05-30 10:20:05
+    exposure: 1/50
+    file: DSCF1516
+    latitude: 55.943833333333
+    longitude: -3.2878783333333
+    make: Fujifilm
+    model: XQ1
+    width: 1920
+  0938b89:
+    altitude: 137
+    aperture: f/4.2
+    date: 2016-05-30 12:08:21
+    exposure: 1/480
+    file: DSCF1520
+    latitude: 55.954098333333
+    longitude: -3.1918716666667
+    make: Fujifilm
+    model: XQ1
+    width: 1920
+  74fce12:
+    altitude: 142.5
+    aperture: f/4.5
+    date: 2016-05-30 12:12:25
+    exposure: 1/800
+    file: DSCF1521
+    latitude: 55.953413333333
+    longitude: -3.1894833333333
+    make: Fujifilm
+    model: XQ1
+    width: 1920
+  ff1cbe4:
+    altitude: 81.5
+    aperture: f/1.8
+    date: 2016-05-30 12:19:53
+    exposure: 1/50
+    file: DSCF1524
+    latitude: 55.950656666667
+    longitude: -3.1875716666667
+    make: Fujifilm
+    model: XQ1
+    width: 1920
+  f376553:
+    altitude: 81.5
+    aperture: f/1.8
+    date: 2016-05-30 12:21:22
+    exposure: 1/100
+    file: DSCF1525
+    latitude: 55.950141666667
+    longitude: -3.187535
+    make: Fujifilm
+    model: XQ1
+    width: 1920
+  47c7cea:
+    altitude: 142
+    aperture: f/5.6
+    date: 2016-05-30 12:25:09
+    exposure: 1/900
+    file: DSCF1527
+    latitude: 55.950025
+    longitude: -3.1877116666667
+    make: Fujifilm
+    model: XQ1
+    width: 1920
+  3a79d3c:
+    altitude: 130
+    aperture: f/1.8
+    date: 2016-05-30 12:26:45
+    exposure: 1/80
+    file: DSCF1528
+    latitude: 55.95003
+    longitude: -3.1872316666667
+    make: Fujifilm
+    model: XQ1
+    width: 1920
+  7ab52c4:
+    altitude: 140.5
+    aperture: f/1.8
+    date: 2016-05-30 12:44:14
+    exposure: 1/25
+    file: DSCF1531
+    latitude: 55.950418333333
+    longitude: -3.1884483333333
+    make: Fujifilm
+    model: XQ1
+    width: 1920
+  c47053a:
+    altitude: 155
+    aperture: f/4.0
+    date: 2016-05-30 13:19:02
+    exposure: 1/500
+    file: DSCF1533
+    latitude: 55.949766666667
+    longitude: -3.190505
+    make: Fujifilm
+    model: XQ1
+    width: 1920
+  73393e9:
+    altitude: 155
+    aperture: f/2.1
+    date: 2016-05-30 13:21:09
+    exposure: 1/4
+    file: DSCF1535
+    latitude: 55.949538333333
+    longitude: -3.1906983333333
+    make: Fujifilm
+    model: XQ1
+    width: 1920
+  9fc600b:
+    altitude: 145.5
+    aperture: f/4.5
+    date: 2016-05-30 13:27:47
+    exposure: 1/100
+    file: DSCF1538
+    latitude: 55.949626666667
+    longitude: -3.191745
+    make: Fujifilm
+    model: XQ1
+    width: 1920
+  afd57d0:
+    altitude: 150.5
+    aperture: f/4.0
+    date: 2016-05-30 13:29:28
+    exposure: 1/320
+    file: DSCF1539
+    latitude: 55.949481666667
+    longitude: -3.1924266666667
+    make: Fujifilm
+    model: XQ1
+    width: 1920
+  ac9466f:
+    altitude: 146.5
+    aperture: f/2.8
+    date: 2016-05-30 13:31:50
+    exposure: 1/320
+    file: DSCF1540
+    latitude: 55.949401666667
+    longitude: -3.19278
+    make: Fujifilm
+    model: XQ1
+    width: 1920
+  baff3aa:
+    altitude: 148
+    aperture: f/3.6
+    date: 2016-05-30 13:32:39
+    exposure: 1/100
+    file: DSCF1543
+    latitude: 55.949491666667
+    longitude: -3.1937
+    make: Fujifilm
+    model: XQ1
+    width: 1920
+  4e8076c:
+    altitude: 138
+    aperture: f/3.6
+    date: 2016-05-30 13:38:16
+    exposure: 1/280
+    file: DSCF1544
+    latitude: 55.94974
+    longitude: -3.1937266666667
+    make: Fujifilm
+    model: XQ1
+    width: 1920
+  4903fda:
+    altitude: 124
+    aperture: f/2.8
+    date: 2016-05-30 13:46:58
+    exposure: 1/250
+    file: DSCF1549
+    latitude: 55.94958
+    longitude: -3.1928733333333
+    make: Fujifilm
+    model: XQ1
+    width: 1920
+  27b2d1b:
+    altitude: 85.5
+    aperture: f/2.8
+    date: 2016-05-30 13:59:57
+    exposure: 1/280
+    file: DSCF1551
+    latitude: 55.949815
+    longitude: -3.1892433333333
+    make: Fujifilm
+    model: XQ1
+    width: 1920
+  f7ceaf6:
+    altitude: 116.5
+    aperture: f/1.8
+    date: 2016-05-30 14:08:31
+    exposure: 1/13
+    file: DSCF1554
+    latitude: 55.950458333333
+    longitude: -3.1856333333333
+    make: Fujifilm
+    model: XQ1
+    width: 1920
+  ba268d6:
+    altitude: 116.5
+    aperture: f/3.4
+    date: 2016-05-30 14:10:38
+    exposure: 1/6
+    file: DSCF1556
+    latitude: 55.950495
+    longitude: -3.185635
+    make: Fujifilm
+    model: XQ1
+    width: 1920
+  3fefcee:
+    altitude: 116.5
+    aperture: f/1.8
+    date: 2016-05-30 14:11:42
+    exposure: 1/25
+    file: DSCF1559
+    latitude: 55.950513333333
+    longitude: -3.185635
+    make: Fujifilm
+    model: XQ1
+    width: 1920
+  ad8df96:
+    altitude: 116.5
+    aperture: f/1.8
+    date: 2016-05-30 14:15:02
+    exposure: 1/25
+    file: DSCF1561
+    latitude: 55.950573333333
+    longitude: -3.1856383333333
+    make: Fujifilm
+    model: XQ1
+    width: 1920
+  23c831d:
+    altitude: 119
+    aperture: f/4.0
+    date: 2016-05-30 14:24:15
+    exposure: 1/480
+    file: DSCF1562
+    latitude: 55.951448333333
+    longitude: -3.1802516666667
+    make: Fujifilm
+    model: XQ1
+    width: 1920
+  df59c2e:
+    altitude: 108.5
+    aperture: f/1.8
+    date: 2016-05-30 14:27:29
+    exposure: 1/55
+    file: DSCF1564
+    latitude: 55.951515
+    longitude: -3.17981
+    make: Fujifilm
+    model: XQ1
+    width: 1920
+  526b8fe:
+    altitude: 108.5
+    aperture: f/1.8
+    date: 2016-05-30 14:33:02
+    exposure: 1/100
+    file: DSCF1567
+    latitude: 55.951535
+    longitude: -3.1796766666667
+    make: Fujifilm
+    model: XQ1
+    width: 1920
+  a3751c1:
+    altitude: 112
+    aperture: f/4.0
+    date: 2016-05-30 14:35:26
+    exposure: 1/450
+    file: DSCF1568
+    latitude: 55.951531666667
+    longitude: -3.1796133333333
+    make: Fujifilm
+    model: XQ1
+    width: 1920
+  098b378:
+    altitude: 112
+    aperture: f/1.8
+    date: 2016-05-30 14:39:12
+    exposure: 1/25
+    file: DSCF1569
+    latitude: 55.951496666667
+    longitude: -3.1795033333333
+    make: Fujifilm
+    model: XQ1
+    width: 1920
+  fd30ce3:
+    altitude: 116
+    aperture: f/1.8
+    date: 2016-05-30 14:42:26
+    exposure: 1/35
+    file: DSCF1571
+    latitude: 55.951551666667
+    longitude: -3.1794633333333
+    make: Fujifilm
+    model: XQ1
+    width: 1920
+  c158f4b:
+    altitude: 139
+    aperture: f/2.8
+    date: 2016-05-30 14:47:34
+    exposure: 1/75
+    file: DSCF1573
+    latitude: 55.951616666667
+    longitude: -3.1797266666667
+    make: Fujifilm
+    model: XQ1
+    width: 1920
+  264872f:
+    altitude: 115
+    aperture: f/4.2
+    date: 2016-05-30 14:59:12
+    exposure: 1/160
+    file: DSCF1578
+    latitude: 55.95089
+    longitude: -3.1798716666667
+    make: Fujifilm
+    model: XQ1
+    width: 1920
+  2cfa022:
+    altitude: 115
+    aperture: f/3.4
+    date: 2016-05-30 14:59:57
+    exposure: 1/300
+    file: DSCF1579
+    latitude: 55.950873333333
+    longitude: -3.179855
+    make: Fujifilm
+    model: XQ1
+    width: 1920
+  17cf8da:
+    altitude: 92.5
+    aperture: f/2.8
+    date: 2016-05-30 15:12:29
+    exposure: 1/280
+    file: DSCF1581
+    latitude: 55.951526666667
+    longitude: -3.17868
+    make: Fujifilm
+    model: XQ1
+    width: 1920
+  f118d78:
+    altitude: 98.5
+    aperture: f/1.8
+    date: 2016-05-30 16:12:54
+    exposure: 1/60
+    file: DSCF1587
+    latitude: 55.952941666667
+    longitude: -3.190815
+    make: Fujifilm
+    model: XQ1
+    width: 1920
+  55ab25d:
+    altitude: 107.5
+    aperture: f/4.2
+    date: 2016-05-30 17:34:49
+    exposure: 1/500
+    file: DSCF1591
+    latitude: 55.953968333333
+    longitude: -3.1925816666667
+    make: Fujifilm
+    model: XQ1
+    width: 1920
+  5bf5d92:
+    altitude: 107.5
+    aperture: f/4.0
+    date: 2016-05-30 17:35:28
+    exposure: 1/500
+    file: DSCF1592
+    latitude: 55.95397
+    longitude: -3.19258
+    make: Fujifilm
+    model: XQ1
+    width: 1920
+  4a4f9fd:
+    altitude: 151
+    aperture: f/3.8
+    date: 2016-05-30 18:13:21
+    exposure: 1/800
+    file: DSCF1596
+    latitude: 55.955543333333
+    longitude: -3.19442
+    make: Fujifilm
+    model: XQ1
+    width: 1920
+  a50f3c6:
+    altitude: 130
+    aperture: f/4.0
+    date: 2016-05-30 18:29:31
+    exposure: 1/500
+    file: DSCF1602
+    latitude: 55.952645
+    longitude: -3.1977333333333
+    make: Fujifilm
+    model: XQ1
+    width: 1920
+  e25b785:
+    altitude: 134.5
+    aperture: f/1.8
+    date: 2016-05-30 19:03:17
+    exposure: 1/20
+    file: DSCF1607
+    latitude: 55.952508333333
+    longitude: -3.19942
+    make: Fujifilm
+    model: XQ1
+    width: 1920
+  fe98714:
+    altitude: 134.5
+    aperture: f/1.8
+    date: 2016-05-30 19:03:41
+    exposure: 1/35
+    file: DSCF1608
+    latitude: 55.952508333333
+    longitude: -3.19942
+    make: Fujifilm
+    model: XQ1
+    width: 1920
+  7fc69e7:
+    altitude: 123
+    aperture: f/4.0
+    date: 2016-05-30 19:57:59
+    exposure: 1/280
+    file: DSCF1611
+    latitude: 55.951483333333
+    longitude: -3.1993366666667
+    make: Fujifilm
+    model: XQ1
+    width: 1920
+  78e1b58:
+    altitude: 115.5
+    aperture: f/4.0
+    date: 2016-05-30 20:03:07
+    exposure: 1/100
+    file: DSCF1615
+    latitude: 55.950185
+    longitude: -3.1998683333333
+    make: Fujifilm
+    model: XQ1
+    width: 1920
+  38c864b:
+    altitude: 161.5
+    aperture: f/2.5
+    date: 2016-05-30 20:05:59
+    exposure: 1/320
+    file: DSCF1616
+    latitude: 55.949528333333
+    longitude: -3.19982
+    make: Fujifilm
+    model: XQ1
+    width: 1920
+  22d2d54:
+    altitude: 161
+    aperture: f/2.5
+    date: 2016-05-30 20:10:48
+    exposure: 1/240
+    file: DSCF1619
+    latitude: 55.949226666667
+    longitude: -3.1986533333333
+    make: Fujifilm
+    model: XQ1
+    width: 1920
+  7253f4c:
+    altitude: 148.5
+    aperture: f/4.0
+    date: 2016-05-30 20:15:13
+    exposure: 1/500
+    file: DSCF1637
+    latitude: 55.949258333333
+    longitude: -3.1982216666667
+    make: Fujifilm
+    model: XQ1
+    width: 1920
