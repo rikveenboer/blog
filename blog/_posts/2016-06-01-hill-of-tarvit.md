@@ -15,7 +15,7 @@ De route is met 8.5 kilometer slechts iets langer, maar wel met minder hoogtever
 
 Het was schitterend weer en het het fraaie parcours baadde in een gouden avondlicht. Toch had ik het met [moeie benen van afgelopen weekend][3] nog best zwaar tegen de heuvel op. Ik heb het net onder de 40 minuten [gedaan][4] met een prima tempo waarbij ik ook nog wat om me heen kon kijken.
 
- et leuke is dat er foto's zijn gemaakt!
+Het leuke is dat er foto's zijn gemaakt!
  
 {% include gallery.html gallery='2016-hill-of-tarvit' %}
 
