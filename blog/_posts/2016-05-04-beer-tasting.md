@@ -3,7 +3,6 @@ title: Beer Tasting
 description: Tijd voor wat anders, een bier tasting!
 ---
 [1]: {% post_baseurl 2016-04-28-whisky-tasting %}
-
 [2]: https://www.facebook.com/events/1582235045438632/
 [3]: http://www.luvians.com/
 [4]: {% post_baseurl 2016-03-03-whisky-tasting %}
