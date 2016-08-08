@@ -36,15 +36,13 @@ defaults:
 
 # other
 gems: [jekyll-paginate]
-markdown: rdiscount
+markdown: kramdown
 excerpt_separator: <a name="more"></a>
 photo_sizes:
   - [1920, 1080]
   - [640, 0]
   - [200, 200]
   - [96, 96]
-rdiscount:
-    extensions: [smart]
 exclude:
 - LICENSE
 - README
