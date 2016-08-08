@@ -10,7 +10,7 @@ layout: default
         </div>        
         <h1>
             <a href="/{{ site.baseurl }}{{ page.url }}"><span itemprop="name">{{ page.title }}</span></a>
-            <small class="print-only" itemprop="datePublished" content="{{ page.date|date:'%F') }}">{{ page.date|date:'%A, %B %d, %Y' }}</small>
+            <small class="print-only" itemprop="datePublished" content="{{ page.date|date:'%F' }}">{{ page.date|date:'%A, %B %d, %Y' }}</small>
         </h1>
         {% if page.end_date %}
             <span class="date-range">&#x1f557; {{ page.date | date:"%d/%m/%Y" }} - {{ page.end_date | date:"%d/%m/%Y" }}</span>
