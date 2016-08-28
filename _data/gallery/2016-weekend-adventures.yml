@@ -1,0 +1,22 @@
+title: Weekend Adventures
+date: 2016-08-26
+end_date: 2016-08-28
+map:
+  latitude: 56.302724833333
+  longitude: -2.9619735138889
+photos:
+  d5c210e:
+    date: 2016-08-26 19:35:38
+    direction: 229
+    file: IMG_20160826_193537
+    latitude: 56.336818694444
+    longitude: -2.8780798333333
+    width: 1920
+  9307d51:
+    altitude: 189
+    date: 2016-08-28 11:33:29
+    direction: 78
+    file: IMG_20160828_113328
+    latitude: 56.268630972222
+    longitude: -3.0458671944444
+    width: 1920
