@@ -1,0 +1,206 @@
+title: Bristol
+date: 2016-09-17
+map:
+  latitude: 51.454676372549
+  longitude: -2.6139545098039
+photos:
+  c961898:
+    altitude: 113
+    aperture: f/2.0
+    date: 2016-09-17 11:46:08
+    direction: 5
+    exposure: 1/2300
+    file: IMG_20160917_114607
+    latitude: 51.456111666667
+    longitude: -2.6018066666667
+    make: OnePlus
+    model: One
+    width: 1920
+  ebb9ba1:
+    altitude: 121
+    date: 2016-09-17 11:47:00
+    direction: 325
+    file: IMG_20160917_114700
+    latitude: 51.456126666667
+    longitude: -2.6017516666667
+    width: 1920
+  0d9b55f:
+    altitude: 0
+    aperture: f/2.0
+    date: 2016-09-17 11:49:53
+    direction: 243
+    exposure: 1/50
+    file: IMG_20160917_114951
+    latitude: 51.455975
+    longitude: -2.600855
+    make: OnePlus
+    model: One
+    width: 1920
+  efc4e34:
+    altitude: 114
+    aperture: f/2.0
+    date: 2016-09-17 12:24:10
+    direction: 143
+    exposure: 1/200
+    file: IMG_20160917_122408
+    latitude: 51.454643333333
+    longitude: -2.6221916666667
+    make: OnePlus
+    model: One
+    width: 1920
+  ffbc478:
+    altitude: 121
+    aperture: f/2.0
+    date: 2016-09-17 12:29:08
+    direction: 225
+    exposure: 1/1150
+    file: IMG_20160917_122904
+    latitude: 51.454326666667
+    longitude: -2.625545
+    make: OnePlus
+    model: One
+    width: 1920
+  1c73a8e:
+    altitude: 120
+    aperture: f/2.0
+    date: 2016-09-17 12:29:41
+    direction: 236
+    exposure: 1/1200
+    file: IMG_20160917_122939
+    latitude: 51.454308333333
+    longitude: -2.6256333333333
+    make: OnePlus
+    model: One
+    width: 1920
+  fc29c3b:
+    altitude: 138
+    aperture: f/2.0
+    date: 2016-09-17 12:35:20
+    direction: 309
+    exposure: 1/1400
+    file: IMG_20160917_123518
+    latitude: 51.45536
+    longitude: -2.6269033333333
+    make: OnePlus
+    model: One
+    width: 1920
+  f5876ef:
+    altitude: 133
+    aperture: f/2.0
+    date: 2016-09-17 12:35:39
+    direction: 341
+    exposure: 1/750
+    file: IMG_20160917_123537
+    latitude: 51.455436666667
+    longitude: -2.6266916666667
+    make: OnePlus
+    model: One
+    width: 1920
+  fbee7f1:
+    altitude: 128
+    aperture: f/2.0
+    date: 2016-09-17 12:36:58
+    direction: 174
+    exposure: 1/1700
+    file: IMG_20160917_123656
+    latitude: 51.455356666667
+    longitude: -2.6265166666667
+    make: OnePlus
+    model: One
+    width: 1920
+  69fa61f:
+    altitude: 136
+    aperture: f/2.0
+    date: 2016-09-17 12:38:45
+    direction: 223
+    exposure: 1/1050
+    file: IMG_20160917_123843
+    latitude: 51.455665
+    longitude: -2.6262833333333
+    make: OnePlus
+    model: One
+    width: 1920
+  97e345a:
+    altitude: 98
+    aperture: f/2.0
+    date: 2016-09-17 13:17:01
+    direction: 127
+    exposure: 1/500
+    file: IMG_20160917_131659
+    latitude: 51.453196666667
+    longitude: -2.6254633333333
+    make: OnePlus
+    model: One
+    width: 1920
+  845c033:
+    altitude: 101
+    aperture: f/2.0
+    date: 2016-09-17 13:33:41
+    direction: 12
+    exposure: 1/640
+    file: IMG_20160917_133339
+    latitude: 51.454925
+    longitude: -2.6100466666667
+    make: OnePlus
+    model: One
+    width: 1920
+  9340541:
+    altitude: 149
+    aperture: f/2.0
+    date: 2016-09-17 13:43:49
+    direction: 216
+    exposure: 1/1000
+    file: IMG_20160917_134348
+    latitude: 51.45409
+    longitude: -2.606765
+    make: OnePlus
+    model: One
+    width: 1920
+  f6a39bb:
+    altitude: 127
+    aperture: f/2.0
+    date: 2016-09-17 13:56:44
+    direction: 225
+    exposure: 1/750
+    file: IMG_20160917_135641
+    latitude: 51.453288333333
+    longitude: -2.6064016666667
+    make: OnePlus
+    model: One
+    width: 1920
+  52457f0:
+    altitude: 58
+    aperture: f/2.0
+    date: 2016-09-17 14:05:59
+    direction: 9
+    exposure: 1/1050
+    file: IMG_20160917_140558
+    latitude: 51.452
+    longitude: -2.6016866666667
+    make: OnePlus
+    model: One
+    width: 1920
+  5d43827:
+    altitude: 58
+    aperture: f/2.0
+    date: 2016-09-17 14:06:13
+    direction: 262
+    exposure: 1/710
+    file: IMG_20160917_140611
+    latitude: 51.451985
+    longitude: -2.6017116666667
+    make: OnePlus
+    model: One
+    width: 1920
+  2742357:
+    altitude: 149
+    aperture: f/2.0
+    date: 2016-09-17 14:17:43
+    direction: 311
+    exposure: 1/640
+    file: IMG_20160917_141741
+    latitude: 51.456703333333
+    longitude: -2.6009733333333
+    make: OnePlus
+    model: One
+    width: 1920
