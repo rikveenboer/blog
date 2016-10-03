@@ -1,0 +1,78 @@
+title: Falkirk
+date: 2016-10-02
+map:
+  latitude: 56.012555277778
+  longitude: -3.7842044444444
+photos:
+  72d0533:
+    altitude: 120
+    aperture: f/2.0
+    date: 2016-10-02 15:17:35
+    direction: 259
+    exposure: 1/1200
+    file: IMG_20161002_151733
+    latitude: 55.999215
+    longitude: -3.8414833333333
+    make: OnePlus
+    model: One
+    width: 1920
+  0954b02:
+    altitude: 99
+    aperture: f/2.0
+    date: 2016-10-02 15:21:36
+    direction: 202
+    exposure: 1/1500
+    file: IMG_20161002_152134
+    latitude: 55.999556666667
+    longitude: -3.8421316666667
+    make: OnePlus
+    model: One
+    width: 1920
+  95cc422:
+    altitude: 55
+    aperture: f/2.0
+    date: 2016-10-02 15:59:21
+    direction: 221
+    exposure: 1/1700
+    file: IMG_20161002_155919
+    latitude: 56.018931666667
+    longitude: -3.7547933333333
+    make: OnePlus
+    model: One
+    width: 1920
+  8c82d83:
+    altitude: 57
+    aperture: f/2.0
+    date: 2016-10-02 16:00:11
+    direction: 133
+    exposure: 1/4400
+    file: IMG_20161002_160010
+    latitude: 56.019306666667
+    longitude: -3.7550033333333
+    make: OnePlus
+    model: One
+    width: 1920
+  691e27c:
+    altitude: 53
+    aperture: f/2.0
+    date: 2016-10-02 16:01:38
+    direction: 72
+    exposure: 1/580
+    file: IMG_20161002_160136
+    latitude: 56.019431666667
+    longitude: -3.7558716666667
+    make: OnePlus
+    model: One
+    width: 1920
+  61ad289:
+    altitude: 57
+    aperture: f/2.0
+    date: 2016-10-02 16:04:59
+    direction: 302
+    exposure: 1/2700
+    file: IMG_20161002_160457
+    latitude: 56.01889
+    longitude: -3.7559433333333
+    make: OnePlus
+    model: One
+    width: 1920

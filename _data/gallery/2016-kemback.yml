@@ -1,0 +1,30 @@
+title: Kemback
+date: 2016-10-02
+map:
+  latitude: 56.336745833333
+  longitude: -2.9238858333333
+photos:
+  b69323b:
+    altitude: 75
+    aperture: f/2.0
+    date: 2016-10-02 17:21:01
+    direction: 81
+    exposure: 1/640
+    file: IMG_20161002_172059
+    latitude: 56.335311666667
+    longitude: -2.9338883333333
+    make: OnePlus
+    model: One
+    width: 1920
+  2bbd58e:
+    altitude: 147
+    aperture: f/2.0
+    date: 2016-10-02 17:24:19
+    direction: 8
+    exposure: 1/350
+    file: IMG_20161002_172417
+    latitude: 56.33818
+    longitude: -2.9138833333333
+    make: OnePlus
+    model: One
+    width: 1920
