@@ -78,4 +78,6 @@ Het feit dat dit al de laatste dag van onze reis was weerhield ons er niet van o
 
 Toen we hierna op de snelweg terechtkwamen lieten we definitief het fijne landschap achter ons. Het duurde niet lang voor we in het drukke verkeer van Wolverhampton en Birmingham terecht kwamen. In deze laatste stad hebben we nog een ronde gemaakt door het centrum, wat een wereld van verschil met de rest van de week! Onvermijdelijk was de laatste stop het vliegveld op weg naar huis. Al tijdens het wachten op onze vliegtuigen begon het nagenieten van opnieuw een fantastische vakantie in een prachtig deel van het Verenigd Koninkrijk.
 
-Wie mijn avonturen bijhoudt weet dat ik dit jaar zeer diverse trips heb gemaakt naar steden, natuurgebieden en "gewoon" naar huis in Nederland. Die reizen verschillen behoorlijk van elkaar en omdat ze allen hun eigen doel hebben is het erg lastig om een favoriet aan te wijzen. Als één ding wel duidelijk is, is dat vakanties zoals deze in Wales het meest spectaculaire beeldmaterial opleveren, maar dat volgt nog!
+Wie mijn avonturen bijhoudt weet dat ik dit jaar zeer diverse trips heb gemaakt naar steden, natuurgebieden en "gewoon" naar huis in Nederland. Die reizen verschillen behoorlijk van elkaar en omdat ze allen hun eigen doel hebben is het erg lastig om een favoriet aan te wijzen. Als één ding wel duidelijk is, is dat vakanties zoals deze in Wales het meest spectaculaire beeldmaterial opleveren:
+
+{% include gallery.html gallery='2016-autumn-holidays' %}
