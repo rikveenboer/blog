@@ -58,6 +58,7 @@ $oConsole
             foreach (glob($sDir . '/*.[jJ][pP][gG]') as $i => $sFile) {
                 // Generate id from file contents
                 $sId = substr(sha1_file($sFile), 0, 7);
+                $sId[0] = $sId[0] == '0' ? '1' : $sId[0];
                 $oOutput->write('<info>' . $sId . '</info>');
 
                 // Parse selected EXIF data
