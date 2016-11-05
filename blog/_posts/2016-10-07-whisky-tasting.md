@@ -32,4 +32,4 @@ Ik zou aanraden om het uitgebreide verhaal van King Alexander III (die de Schots
 
 Tijdens de loterij had niemand aan onze tafel geluk en de twee volle flessen whisky gingen aan ons voorbij. De volgende drie prijzen waren zeer bijzonder, het betrof een glas van de [Dalmore Quintessence](https://www.masterofmalt.com/whiskies/dalmore/dalmore-quintessence-whisky/). Deze whisky (45%) kost maar liefst £995 per fles! Als je redelijke glazen schenkt komt dat neer op zo'n £35 per glas! Ik was eerlijk gezegd opgelucht deze prijs aan mij voorbij te laten gaan want ik zou het zonde vinden om met reeds aangetaste smaakpapillen van deze drank te nippen.
 
-Al met al was dit ook een van de langste tastings, deze duurde maar liefst drie uur!
+Al met al was dit ook een van de langste tastings, deze duurde maar liefst drie uur. Een andere aanwezige heeft ook over deze tasting [gerapporteerd](http://www.thetribeonline.com/2016/10/food-review-whisky-soc-tasting/), leuk leesvoer!
