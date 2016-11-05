@@ -1,0 +1,20 @@
+{% if include.width %}
+    {% assign width=include.width %}
+{% else %}
+    {% assign width=420 %}
+{% endif %}
+<div style="width: {{ width }}px;" class="caption">
+    <link href="http://vjs.zencdn.net/5.11.9/video-js.css" rel="stylesheet">
+    <script src="http://vjs.zencdn.net/ie8/1.1.2/videojs-ie8.min.js"></script>
+    <video id="my-video" class="video-js" controls preload="auto" data-setup="{}">
+    <source src="{{ include.video }}" type="{{ include.type }}">
+        <p class="vjs-no-js">
+        To view this video please enable JavaScript, and consider upgrading to a web browser that
+        <a href="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a>
+    </p>
+    </video>
+    <script src="http://vjs.zencdn.net/5.11.9/video.js"></script>
+    {% if include.text %}
+    {{ include.text | markdownify | hyphenate }}
+    {% endif %}
+</div>
