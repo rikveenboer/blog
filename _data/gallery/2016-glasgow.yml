@@ -1,0 +1,111 @@
+title: Glasgow
+date: 2016-11-27
+highlight: 96ee945
+map:
+  latitude: 55.869016666667
+  longitude: -4.2724788888889
+photos:
+  8c0e839:
+    altitude: 0
+    aperture: f/2.0
+    date: 2016-11-27 12:56:54
+    direction: 59
+    exposure: 1/6
+    file: IMG_20161127_125651
+    latitude: 55.872791666667
+    longitude: -4.2818216666667
+    make: OnePlus
+    model: One
+    width: 1920
+  fc08b5f:
+    altitude: 0
+    aperture: f/2.0
+    date: 2016-11-27 13:01:45
+    direction: 41
+    exposure: 1/6
+    file: IMG_20161127_130142
+    latitude: 55.872791666667
+    longitude: -4.2818216666667
+    make: OnePlus
+    model: One
+    width: 1920
+  da85b5f:
+    altitude: 0
+    aperture: f/2.0
+    date: 2016-11-27 13:02:40
+    direction: 339
+    exposure: 1/6
+    file: IMG_20161127_130238
+    latitude: 55.872791666667
+    longitude: -4.2818216666667
+    make: OnePlus
+    model: One
+    width: 1920
+  3b5873a:
+    altitude: 0
+    date: 2016-11-27 17:38:39
+    direction: 260
+    file: IMG_20161127_173839-2
+    latitude: 55.864081666667
+    longitude: -4.2591416666667
+    width: 1920
+  db03d40:
+    altitude: 0
+    date: 2016-11-27 18:45:07
+    direction: 12
+    file: IMG_20161127_184507-2
+    latitude: 55.865791666667
+    longitude: -4.2651966666667
+    width: 1920
+  821e558:
+    altitude: 94
+    aperture: f/2.0
+    date: 2016-11-27 18:45:45
+    direction: 113
+    exposure: 1/6
+    file: IMG_20161127_184542
+    latitude: 55.865851666667
+    longitude: -4.26507
+    make: OnePlus
+    model: One
+    width: 1920
+  96ee945:
+    aperture: f/2.0
+    date: 2016-11-27 19:25:13
+    exposure: 1/6
+    file: IMG_20161127_192511
+    make: OnePlus
+    model: One
+    width: 1920
+  10bb223:
+    aperture: f/2.0
+    date: 2016-11-27 21:42:01
+    exposure: 1/25
+    file: IMG_20161127_214159
+    make: OnePlus
+    model: One
+    width: 1920
+  430fedb:
+    aperture: f/2.0
+    date: 2016-11-27 21:42:42
+    exposure: 1/20
+    file: IMG_20161127_214240
+    make: OnePlus
+    model: One
+    width: 1920
+  a99fae3:
+    aperture: f/2.0
+    date: 2016-11-27 21:51:24
+    exposure: 1/20
+    file: IMG_20161127_215123
+    make: OnePlus
+    model: One
+    width: 1920
+  8c161a9:
+    aperture: f/2.0
+    date: 2016-11-27 22:09:13
+    exposure: 1/6
+    file: IMG_20161127_220911
+    make: OnePlus
+    model: One
+    width: 1920

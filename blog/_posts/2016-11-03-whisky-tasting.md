@@ -1,6 +1,6 @@
 ---
 title: Whisky Tasting
-description: Heerlijke whisky 
+description: Heerlijke whisky .
 ---
 [1]: {% post_baseurl 2016-11-02-smoke-tasting %}
 [2]: https://www.thewhiskyexchange.com/d/594/flora-and-fauna-whiskies

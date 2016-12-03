@@ -6,7 +6,7 @@
 <div style="width: {{ width }}px;" class="caption">
     <link href="http://vjs.zencdn.net/5.11.9/video-js.css" rel="stylesheet">
     <script src="http://vjs.zencdn.net/ie8/1.1.2/videojs-ie8.min.js"></script>
-    <video id="my-video" class="video-js" controls preload="auto" data-setup="{}">
+    <video id="my-video" class="video-js" controls preload="auto" data-setup="{}" width="{{ width }}">
     <source src="{{ include.video }}" type="{{ include.type }}">
         <p class="vjs-no-js">
         To view this video please enable JavaScript, and consider upgrading to a web browser that
