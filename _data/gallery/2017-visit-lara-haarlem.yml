@@ -1,0 +1,87 @@
+title: Visit Lara - Haarlem
+date: 2017-01-08
+highlight: f9e9240
+map:
+  latitude: 52.380929285714
+  longitude: 4.6377178571429
+photos:
+  4d34932:
+    altitude: 36
+    aperture: f/2.0
+    date: 2017-01-08 13:45:33
+    direction: 350
+    exposure: 1/60
+    file: IMG_20170108_134531
+    latitude: 52.381195
+    longitude: 4.6363533333333
+    make: OnePlus
+    model: One
+    width: 1920
+  2a210eb:
+    altitude: 0
+    aperture: f/2.0
+    date: 2017-01-08 13:48:27
+    direction: 328
+    exposure: 1/40
+    file: IMG_20170108_134825
+    latitude: 52.381316666667
+    longitude: 4.63626
+    make: OnePlus
+    model: One
+    width: 1920
+  687da58:
+    altitude: 0
+    aperture: f/2.0
+    date: 2017-01-08 13:51:48
+    direction: 37
+    exposure: 1/50
+    file: IMG_20170108_135147
+    latitude: 52.381385
+    longitude: 4.636685
+    make: OnePlus
+    model: One
+    width: 1920
+  de92570:
+    altitude: 0
+    aperture: f/2.0
+    date: 2017-01-08 14:26:36
+    direction: 143
+    exposure: 1/13
+    file: IMG_20170108_142633
+    latitude: 52.380665
+    longitude: 4.63801
+    make: OnePlus
+    model: One
+    width: 1920
+  f9e9240:
+    altitude: 35
+    aperture: f/2.0
+    date: 2017-01-08 15:35:41
+    direction: 285
+    exposure: 1/120
+    file: IMG_20170108_153537
+    latitude: 52.384261666667
+    longitude: 4.6416133333333
+    make: OnePlus
+    model: One
+    width: 1920
+  d50a687:
+    altitude: 49
+    aperture: f/2.0
+    date: 2017-01-08 16:05:28
+    direction: 233
+    exposure: 1/60
+    file: IMG_20170108_160525
+    latitude: 52.380446666667
+    longitude: 4.6435033333333
+    make: OnePlus
+    model: One
+    width: 1920
+  2526aa3:
+    altitude: 69
+    date: 2017-01-08 16:44:19
+    direction: 0
+    file: IMG_20170108_164419
+    latitude: 52.377235
+    longitude: 4.6316
+    width: 1920
