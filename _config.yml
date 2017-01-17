@@ -46,3 +46,4 @@ photo_sizes:
 exclude:
 - LICENSE
 - README
+array: []

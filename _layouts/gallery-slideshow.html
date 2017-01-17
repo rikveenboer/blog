@@ -43,8 +43,10 @@
   <body>
     <section>
       <h1>{{ page.title }}</h1>
+{% assign photo_names = site.array %}
 {% for photo in page.photos %}
       <div class="photo" style="border-radius:2px;display:inline-block;margin:4px;overflow:hidden;">
+    {% assign photo_names = photo_names | push:photo.name %}
     {% capture photo_url %}{{ site.asset_prefix }}/gallery/{{ page.gallery }}/{{ photo.name }}{% endcapture %}
     {% if photo.width %}
         {% assign width=photo.width %}
@@ -52,17 +54,18 @@
         {% assign width=640 %}
     {% endif %}
     {% assign sizes=''|split:'' %}
+    {% assign height=width %}
+    {% assign file='640w' %}
+    {% assign label='640x360' %}
     {% for size in site.photo_sizes %}
         {% if size[0] == width %}
             {% assign height=size[1] %}
+            {% if width != 640 %}
+                {% capture label %}{{ width }}x{{ height }}{% endcapture %}
+                {% assign file=label %}
+            {% endif %}
         {% endif %}
-    {% endfor %}                         
-    {% capture label %}{{ width }}x{{ height }}{% endcapture %}
-    {% if width == 640 %}
-        {% assign file='640w' %}
-    {% else %}    
-        {% assign file=label %}
-    {% endif %}
+    {% endfor %}
         <a href="{{ photo_url }}~{{ file }}.jpg" data-size="{{ label }}">
             <img src="{{ photo_url }}~200x200.jpg" height="100" alt="{{ photo.title }}" width="100" data-size="200x200" />
         </a>
@@ -178,7 +181,6 @@
 
             dom.addEvent('click', function (e) {
               openPhotoSwipe(i);
-              
               e.preventDefault();
             });
             
@@ -190,8 +192,14 @@
               mdom : imgdom
             });
           });
-
-          openPhotoSwipe(0);
+          
+          index = 0
+          var photos = ['{{ photo_names | join:"', '" }}'];
+          if (window.location.hash) {
+            var hash = window.location.hash.substring(1)
+            index = Math.max(photos.indexOf(hash), 0)
+          }
+          openPhotoSwipe(index)
         });
       </script>
   </body>

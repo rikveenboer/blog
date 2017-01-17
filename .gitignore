@@ -1,5 +1,7 @@
 /private
 /.jekyll-metadata
+/_asset
+/_site
 /_python
 /_php
 /Gemfile.lock

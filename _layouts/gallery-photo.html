@@ -51,10 +51,14 @@ layout: default
         {% else %}
             {% assign file='640w' %}
         {% endif %}
+        {% if false != page.slideshow %}
+            {% capture url %}slideshow.html#{{ photo.name }}{% endcapture %}
+        {% else %}
+            {% capture url %}{{ photo_url }}~{{ file }}.jpg{% endcapture %}
+        {% endif %}
         <p style="text-align: center;">
-            <a href="{{ photo_url }}~{{ file }}.jpg"><img alt="Photo: {{ photo.title }}" src="{{ photo_url }}~{{ file }}.jpg" style="max-width:630px;" /></a>
+            <a href="{{ url }}"><img alt="Photo: {{ photo.title }}" src="{{ photo_url }}~{{ file }}.jpg" style="max-width:630px;" /></a>
         </p>
-
         {% if photo.description %}
             <div itemprop="description">
                 {{ photo.description }}

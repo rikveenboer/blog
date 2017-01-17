@@ -45,7 +45,12 @@ layout: default
     <div class="list-gallery">
     {% for photo in page.photos %}
         <span itemprop="image" itemscope itemtype="http://schema.org/Photograph">
-            <a href="/{{ site.baseurl }}/{{ photo.url }}" itemprop="url">
+        {% if false != page.slideshow %}
+            {% capture url %}slideshow.html#{{ photo.name }}{% endcapture %}
+        {% else %}
+            {% capture url %}/{{ site.baseurl }}/{{ photo.url }}{% endcapture %}
+        {% endif %}
+            <a href="{{ url }}" itemprop="url">
                 <img alt="Photo: {{ photo.title }}" height="200" src="{{ site.asset_prefix }}/gallery/{{ page.gallery }}/{{ photo.name }}~200x200.jpg" title="{{ photo.title }}" width="200" />
             </a>
         </span>
