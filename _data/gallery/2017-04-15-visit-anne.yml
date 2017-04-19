@@ -1,0 +1,123 @@
+title: Visit Anne
+date: 2017-04-15
+end_date: 2017-04-17
+map:
+  latitude: 56.508420555556
+  longitude: -2.8603436111111
+photos:
+  69fa456:
+    date: 2017-04-15 13:44:00
+    file: IMG_20170415_134400
+    width: 1920
+  24d6c3b:
+    aperture: f/2.0
+    date: 2017-04-16 13:54:16
+    exposure: 1/400
+    file: IMG_20170416_135414
+    make: OnePlus
+    model: One
+    width: 1920
+  ee56937:
+    aperture: f/2.0
+    date: 2017-04-16 14:06:45
+    exposure: 1/340
+    file: IMG_20170416_140643
+    make: OnePlus
+    model: One
+    width: 1920
+  17b1c6c:
+    aperture: f/2.0
+    date: 2017-04-16 14:22:03
+    exposure: 1/380
+    file: IMG_20170416_142201
+    make: OnePlus
+    model: One
+    width: 1920
+  acdc835:
+    aperture: f/2.0
+    date: 2017-04-16 14:44:42
+    exposure: 1/350
+    file: IMG_20170416_144440
+    make: OnePlus
+    model: One
+    width: 1920
+  6cca5f4:
+    aperture: f/2.0
+    date: 2017-04-16 14:44:49
+    exposure: 1/290
+    file: IMG_20170416_144447
+    make: OnePlus
+    model: One
+    width: 1920
+  1d0cbfb:
+    altitude: 374
+    aperture: f/2.0
+    date: 2017-04-16 17:06:04
+    direction: 217
+    exposure: 1/350
+    file: IMG_20170416_170603
+    latitude: 57.029903333333
+    longitude: -3.2087283333333
+    make: OnePlus
+    model: One
+    width: 1920
+  abdaec8:
+    altitude: 372
+    aperture: f/2.0
+    date: 2017-04-16 17:34:41
+    direction: 142
+    exposure: 1/300
+    file: IMG_20170416_173439
+    latitude: 57.01429
+    longitude: -3.3902616666667
+    make: OnePlus
+    model: One
+    width: 1920
+  bde73be:
+    altitude: 81
+    aperture: f/2.0
+    date: 2017-04-17 12:20:59
+    direction: 196
+    exposure: 1/640
+    file: IMG_20170417_122057
+    latitude: 56.262436666667
+    longitude: -2.6250833333333
+    make: OnePlus
+    model: One
+    width: 1920
+  877cd83:
+    altitude: 74
+    aperture: f/2.0
+    date: 2017-04-17 12:24:21
+    direction: 85
+    exposure: 1/1500
+    file: IMG_20170417_122418
+    latitude: 56.262955
+    longitude: -2.6230983333333
+    make: OnePlus
+    model: One
+    width: 1920
+  20ef4f7:
+    altitude: 48
+    aperture: f/2.0
+    date: 2017-04-17 12:30:19
+    direction: 141
+    exposure: 1/2000
+    file: IMG_20170417_123018
+    latitude: 56.261558333333
+    longitude: -2.6192533333333
+    make: OnePlus
+    model: One
+    width: 1920
+  13da641:
+    altitude: 56
+    aperture: f/2.0
+    date: 2017-04-17 13:18:42
+    direction: 212
+    exposure: 1/640
+    file: IMG_20170417_131840
+    latitude: 56.21938
+    longitude: -2.6956366666667
+    make: OnePlus
+    model: One
+    width: 1920

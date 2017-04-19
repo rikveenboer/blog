@@ -1,0 +1,50 @@
+title: Arbroath
+date: 2017-04-08
+map:
+  latitude: 56.556763333333
+  longitude: -2.5789
+photos:
+  5626dd1:
+    altitude: 68
+    aperture: f/2.0
+    date: 2017-04-08 18:58:08
+    direction: 114
+    exposure: 1/50
+    file: IMG_20170408_185807
+    latitude: 56.556763333333
+    longitude: -2.5789
+    make: OnePlus
+    model: One
+    width: 1920
+  c9fb465:
+    aperture: f/2.0
+    date: 2017-04-08 19:32:17
+    exposure: 1/17
+    file: IMG_20170408_193215
+    make: OnePlus
+    model: One
+    width: 1920
+  b46f1da:
+    aperture: f/2.0
+    date: 2017-04-08 19:32:27
+    exposure: 1/13
+    file: IMG_20170408_193226
+    make: OnePlus
+    model: One
+    width: 1920
+  af85169:
+    aperture: f/2.0
+    date: 2017-04-08 20:27:10
+    exposure: 1/13
+    file: IMG_20170408_202708
+    make: OnePlus
+    model: One
+    width: 1920
+  71a63f0:
+    aperture: f/2.0
+    date: 2017-04-08 20:34:30
+    exposure: 1/6
+    file: IMG_20170408_203428
+    make: OnePlus
+    model: One
+    width: 1920

@@ -1,0 +1,62 @@
+title: Pittenweem
+date: 2017-02-25
+map:
+  latitude: 56.213841666667
+  longitude: -2.7272344444444
+photos:
+  2781bb1:
+    aperture: f/2.0
+    date: 2017-02-25 16:42:00
+    exposure: 1/13
+    file: IMG_20170225_164158
+    make: OnePlus
+    model: One
+    width: 1920
+  52cd461:
+    date: 2017-02-25 16:42:16
+    file: IMG_20170225_164216
+    width: 1920
+  a4a1bc3:
+    aperture: f/2.0
+    date: 2017-02-25 17:17:47
+    exposure: 1/11
+    file: IMG_20170225_171745
+    make: OnePlus
+    model: One
+    width: 1920
+  e18c958:
+    altitude: 63
+    aperture: f/2.0
+    date: 2017-02-25 17:21:56
+    direction: 271
+    exposure: 1/20
+    file: IMG_20170225_172154
+    latitude: 56.213191666667
+    longitude: -2.727435
+    make: OnePlus
+    model: One
+    width: 1920
+  13e1513:
+    altitude: 58
+    aperture: f/2.0
+    date: 2017-02-25 17:23:26
+    direction: 321
+    exposure: 1/20
+    file: IMG_20170225_172325
+    latitude: 56.213191666667
+    longitude: -2.7275083333333
+    make: OnePlus
+    model: One
+    width: 1920
+  fd74030:
+    altitude: 73
+    aperture: f/2.0
+    date: 2017-02-25 17:47:33
+    direction: 62
+    exposure: 1/17
+    file: IMG_20170225_174732
+    latitude: 56.215141666667
+    longitude: -2.72676
+    make: OnePlus
+    model: One
+    width: 1920
