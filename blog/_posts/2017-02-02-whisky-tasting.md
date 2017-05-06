@@ -1,6 +1,6 @@
 ---
 title: Whisky Tasting
-description: Een waardige afsluiter van dit whiskyjaar.
+description: Een proeferij van minder bekende whiskies.
 ---
 [1]: {% post_baseurl 2016-12-01-whisky-tasting %}
 [2]: https://www.masterofmalt.com/whiskies/girvan/the-girvan-patent-still-no4-apps-whisky/
