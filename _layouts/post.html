@@ -38,9 +38,10 @@
     </section>
     <section>
     {% assign items = ''|split:'' %}
-    {% assign filename = page.url | remove: '/blog/' | replace: '/', '-'  | remove: '.html' %}
+    {% assign filename = page.id | remove: '/blog/' | replace: '/', '-' %}
+    {% capture search %}url {{ filename }}{% endcapture %}
     {% for p in site.posts %}
-        {% if p.content contains filename %} 
+        {% if p.content contains search %} 
             {% assign items = items | push:p %}
         {% endif %}
     {% endfor %}
