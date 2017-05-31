@@ -17,7 +17,7 @@ Na een fijne [kerstvakantie]({% post_baseurl 2016-12-23-christmas-holidays %}) i
 
 Een drukke eerst week van de maand met zowel tastings van [whisky]({% post_baseurl 2017-02-02-whisky-tasting %}) als [bier]({% post_baseurl 2017-02-08-beer-tasting %}). Aan het einde van de maand ben ik [eropuit geweest]({% post_baseurl 2017-02-25-fife-adventures %}) in de lokale omgeving.
 
-**Mei**
+**Maart**
 
 Na een onverwachts bezoek terug in [Nederland]({% post_baseurl 2017-03-09-netherlands %}) ben ik opnieuw op avontuur geweest in St Andrews [en omstreken]({% post_baseurl 2017-03-19-fife-adventures %}). De langverwachte trip naar [Londen]({% post_baseurl 2017-03-24-london %}) ter ere van Sanne's verjaardag was zeker een hoogtepunt!
 
